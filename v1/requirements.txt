@@ -1,0 +1,8 @@
+keybert==0.8.3
+keyphrase-vectorizers==0.0.11
+nltk==3.8.1
+sentence-transformers==2.2.2
+spacy==3.7.2
+tokenizers==0.14.1
+torch==1.13.1
+tqdm==4.66.1
