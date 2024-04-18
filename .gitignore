@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+*.DS_Store
+*__pycache__*
+*.ipynb_checkpoints*
+*003_Deployment/model_to_api/container/model_artifacts/model/*
+*api_key.json*
+*003_Deployment/model_to_api/local_test/test_dir/model/*
+
 # Distribution / packaging
 .Python
 build/
@@ -51,6 +58,12 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+# Large files
+*.parquet
+*.json
+*tar.gz
+*.csv
 
 # Translations
 *.mo
