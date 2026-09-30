@@ -1,0 +1,500 @@
+{"i": 0, "a": "doppler-reflectometry", "b": "doppler-backscattering", "an": "Doppler reflectometry", "bn": "Doppler backscattering", "d": "B", "by": "jason"}
+{"i": 1, "a": "sex-differences", "b": "gender-differences", "an": "sex differences", "bn": "gender differences", "d": "X", "by": "claude"}
+{"i": 2, "a": "covid-19-pandemic", "b": "covid-19", "an": "COVID-19 pandemic", "bn": "COVID-19", "d": "B", "by": "jason"}
+{"i": 3, "a": "teacher-education", "b": "teacher-professional-development", "an": "teacher education", "bn": "teacher professional development", "d": "A", "by": "jason"}
+{"i": 4, "a": "prognostic-biomarker", "b": "prognostic-factors", "an": "prognostic biomarker", "bn": "prognostic factors", "d": "B", "by": "jason"}
+{"i": 5, "a": "rice", "b": "oryza-sativa", "an": "rice", "bn": "Oryza sativa", "d": "A", "by": "jason"}
+{"i": 6, "a": "high-school-students", "b": "secondary-school-students", "an": "high school students", "bn": "secondary school students", "d": "B", "by": "jason"}
+{"i": 7, "a": "online-learning", "b": "e-learning", "an": "online learning", "bn": "e-learning", "d": "B", "by": "jason"}
+{"i": 8, "a": "early-diagnosis", "b": "early-detection", "an": "early diagnosis", "bn": "early detection", "d": "X", "by": "jason"}
+{"i": 9, "a": "high-school-students", "b": "senior-high-school-students", "an": "high school students", "bn": "senior high school students", "d": "A", "by": "jason"}
+{"i": 10, "a": "cooperative-learning", "b": "collaborative-learning", "an": "cooperative learning", "bn": "collaborative learning", "d": "B", "by": "jason"}
+{"i": 11, "a": "physical-activity", "b": "exercise", "an": "physical activity", "bn": "exercise", "d": "B", "by": "jason"}
+{"i": 12, "a": "educational-level", "b": "educational-attainment", "an": "educational level", "bn": "educational attainment", "d": "B", "by": "jason"}
+{"i": 13, "a": "additive-manufacturing", "b": "3d-printing", "an": "additive manufacturing", "bn": "3D printing", "d": "X", "by": "jason"}
+{"i": 14, "a": "tnf-alpha", "b": "tumor-necrosis-factor-alpha", "an": "TNF-α", "bn": "tumor necrosis factor-alpha", "d": "A", "by": "claude"}
+{"i": 15, "a": "curriculum-development", "b": "curriculum-design", "an": "curriculum development", "bn": "curriculum design", "d": "A", "by": "jason"}
+{"i": 16, "a": "community-participation", "b": "community-engagement", "an": "community participation", "bn": "community engagement", "d": "B", "by": "jason"}
+{"i": 17, "a": "wheat", "b": "triticum-aestivum-subsp-aestivum", "an": "wheat", "bn": "Triticum aestivum subsp. aestivum", "d": "A", "by": "jason"}
+{"i": 18, "a": "vocational-education", "b": "vocational-training", "an": "vocational education", "bn": "vocational training", "d": "A", "by": "jason"}
+{"i": 19, "a": "treatment-adherence", "b": "medication-adherence", "an": "treatment adherence", "bn": "medication adherence", "d": "A", "by": "jason"}
+{"i": 20, "a": "student-motivation", "b": "learning-motivation", "an": "student motivation", "bn": "learning motivation", "d": "A", "by": "jason"}
+{"i": 21, "a": "healthcare-workers", "b": "health-professionals", "an": "healthcare workers", "bn": "health professionals", "d": "A", "by": "jason"}
+{"i": 22, "a": "infection-control", "b": "infection-prevention", "an": "infection control", "bn": "infection prevention", "d": "A", "by": "jason"}
+{"i": 23, "a": "negative-ion-based-neutral-beam-injection", "b": "negative-ion-based-neutral-beam", "an": "negative ion-based neutral beam injection", "bn": "negative ion-based neutral beam", "d": "A", "by": "claude"}
+{"i": 24, "a": "bryophytes", "b": "mosses", "an": "bryophytes", "bn": "mosses", "d": "B", "by": "jason"}
+{"i": 25, "a": "mathematics-education", "b": "mathematics-teaching", "an": "mathematics education", "bn": "mathematics teaching", "d": "A", "by": "jason"}
+{"i": 26, "a": "course-program", "b": "curriculum", "an": "course program", "bn": "curriculum", "d": "B", "by": "jason"}
+{"i": 27, "a": "biblical-exegesis", "b": "biblical-interpretation", "an": "biblical exegesis", "bn": "biblical interpretation", "d": "A", "by": "jason"}
+{"i": 28, "a": "game-based-learning", "b": "educational-games", "an": "game-based learning", "bn": "educational games", "d": "B", "by": "jason"}
+{"i": 29, "a": "neutral-gas-pressure", "b": "neutral-particle-pressure", "an": "neutral gas pressure", "bn": "neutral particle pressure", "d": "X", "by": "jason"}
+{"i": 30, "a": "teaching-methods", "b": "teaching-strategies", "an": "teaching methods", "bn": "teaching strategies", "d": "A", "by": "jason"}
+{"i": 31, "a": "finite-element-analysis", "b": "finite-element-simulation", "an": "finite element analysis", "bn": "finite element simulation", "d": "A", "by": "claude"}
+{"i": 32, "a": "library-resources", "b": "library-collections", "an": "library resources", "bn": "library collections", "d": "A", "by": "jason"}
+{"i": 33, "a": "elementary-school-students", "b": "schoolchildren", "an": "elementary school students", "bn": "schoolchildren", "d": "A", "by": "jason"}
+{"i": 34, "a": "species-identification", "b": "species-diagnosis", "an": "species identification", "bn": "species diagnosis", "d": "X", "by": "jason"}
+{"i": 35, "a": "collaboration", "b": "cooperation", "an": "collaboration", "bn": "cooperation", "d": "X", "by": "jason"}
+{"i": 36, "a": "employee-performance", "b": "job-performance", "an": "employee performance", "bn": "job performance", "d": "B", "by": "jason"}
+{"i": 37, "a": "hba1c", "b": "glycated-hemoglobin", "an": "HbA1c", "bn": "glycated hemoglobin", "d": "A", "by": "claude"}
+{"i": 38, "a": "childbirth", "b": "labor", "an": "childbirth", "bn": "labor", "d": "X", "by": "jason"}
+{"i": 39, "a": "sleep-disturbance", "b": "sleep-disorders", "an": "sleep disturbance", "bn": "sleep disorders", "d": "A", "by": "jason"}
+{"i": 40, "a": "nanomaterials", "b": "nanoparticles", "an": "nanomaterials", "bn": "nanoparticles", "d": "X", "by": "jason"}
+{"i": 41, "a": "finite-element-simulation", "b": "finite-element-modeling", "an": "finite element simulation", "bn": "finite element modeling", "d": "A", "by": "claude"}
+{"i": 42, "a": "teacher-student-relationship", "b": "teacher-student-interaction", "an": "teacher-student relationship", "bn": "teacher-student interaction", "d": "A", "by": "jason"}
+{"i": 43, "a": "finite-element-analysis", "b": "finite-element-method", "an": "finite element analysis", "bn": "finite element method", "d": "A", "by": "claude"}
+{"i": 44, "a": "business-strategy", "b": "corporate-strategy", "an": "business strategy", "bn": "corporate strategy", "d": "A", "by": "jason"}
+{"i": 45, "a": "interleukin-1beta", "b": "il-1beta", "an": "interleukin-1β", "bn": "IL-1β", "d": "A", "by": "jason"}
+{"i": 46, "a": "clustering", "b": "cluster-analysis", "an": "clustering", "bn": "cluster analysis", "d": "A", "by": "jason"}
+{"i": 47, "a": "exercise", "b": "physical-exercise", "an": "exercise", "bn": "physical exercise", "d": "A", "by": "jason"}
+{"i": 48, "a": "environmental-protection", "b": "nature-conservation", "an": "environmental protection", "bn": "nature conservation", "d": "X", "by": "jason"}
+{"i": 49, "a": "teaching-practice", "b": "pedagogical-practices", "an": "teaching practice", "bn": "pedagogical practices", "d": "A", "by": "jason"}
+{"i": 50, "a": "surgical-treatment", "b": "surgical-management", "an": "surgical treatment", "bn": "surgical management", "d": "X", "by": "jason"}
+{"i": 51, "a": "mobile-devices", "b": "mobile-phones", "an": "mobile devices", "bn": "mobile phones", "d": "A", "by": "jason"}
+{"i": 52, "a": "labor-productivity", "b": "employee-productivity", "an": "labor productivity", "bn": "employee productivity", "d": "A", "by": "jason"}
+{"i": 53, "a": "student-self-regulation", "b": "self-regulated-learning", "an": "student self-regulation", "bn": "self-regulated learning", "d": "A", "by": "jason"}
+{"i": 54, "a": "banking-sector", "b": "banking", "an": "banking sector", "bn": "banking", "d": "B", "by": "jason"}
+{"i": 55, "a": "hospitalization", "b": "hospital-admissions", "an": "hospitalization", "bn": "hospital admissions", "d": "A", "by": "jason"}
+{"i": 56, "a": "identity-development", "b": "identity-construction", "an": "identity formation", "bn": "identity construction", "d": "A", "by": "jason"}
+{"i": 57, "a": "performance-evaluation", "b": "performance-appraisal", "an": "performance evaluation", "bn": "performance appraisal", "d": "A", "by": "jason"}
+{"i": 58, "a": "fast-ion-loss-detector", "b": "lost-fast-ion-probe", "an": "fast ion loss detector", "bn": "lost fast ion probe", "d": "A", "by": "claude"}
+{"i": 59, "a": "treatment-strategy", "b": "treatment-strategies", "an": "treatment strategy", "bn": "treatment options", "d": "A", "by": "jason"}
+{"i": 60, "a": "threatened-species", "b": "endangered-species", "an": "threatened species", "bn": "endangered species", "d": "A", "by": "jason"}
+{"i": 61, "a": "explainable-ai", "b": "model-interpretability", "an": "explainable AI", "bn": "model interpretability", "d": "X", "by": "jason"}
+{"i": 62, "a": "startups", "b": "business-start-up", "an": "startups", "bn": "business creation", "d": "B", "by": "jason"}
+{"i": 63, "a": "regional-variation", "b": "geographic-variation", "an": "regional variation", "bn": "geographic variation", "d": "A", "by": "jason"}
+{"i": 64, "a": "islamic-education", "b": "islamic-religious-education", "an": "Islamic education", "bn": "Islamic religious education", "d": "A", "by": "jason"}
+{"i": 65, "a": "schoolchildren", "b": "school-age-children", "an": "schoolchildren", "bn": "school-age children", "d": "B", "by": "jason"}
+{"i": 66, "a": "wheat", "b": "bread-wheat", "an": "wheat", "bn": "bread wheat", "d": "A", "by": "jason"}
+{"i": 67, "a": "triticum-aestivum-subsp-aestivum", "b": "bread-wheat", "an": "Triticum aestivum subsp. aestivum", "bn": "bread wheat", "d": "A", "by": "claude"}
+{"i": 68, "a": "coagulation", "b": "blood-coagulation", "an": "coagulation", "bn": "blood coagulation", "d": "B", "by": "jason"}
+{"i": 69, "a": "citizen-participation", "b": "civic-engagement", "an": "citizen participation", "bn": "civic engagement", "d": "A", "by": "jason"}
+{"i": 70, "a": "language-teaching", "b": "language-education", "an": "language teaching", "bn": "language education", "d": "A", "by": "jason"}
+{"i": 71, "a": "tumor-suppressor-genes", "b": "tumor-suppressor", "an": "tumor suppressor genes", "bn": "tumor suppressor", "d": "A", "by": "claude"}
+{"i": 72, "a": "women-s-employment", "b": "women-s-work", "an": "women's employment", "bn": "women's work", "d": "A", "by": "jason"}
+{"i": 73, "a": "public-sector-employees", "b": "civil-servants", "an": "public sector employees", "bn": "civil servants", "d": "A", "by": "jason"}
+{"i": 74, "a": "interpersonal-relationships", "b": "social-relations", "an": "interpersonal relationships", "bn": "social relations", "d": "A", "by": "jason"}
+{"i": 75, "a": "social-relationships", "b": "social-relations", "an": "social relationships", "bn": "social relations", "d": "A", "by": "jason"}
+{"i": 76, "a": "general-practitioners", "b": "gps", "an": "general practitioners", "bn": "GPS", "d": "X", "by": "jason"}
+{"i": 77, "a": "tuberculosis", "b": "consumption", "an": "tuberculosis", "bn": "consumption", "d": "A", "by": "jason"}
+{"i": 78, "a": "cost-reduction", "b": "cost-savings", "an": "cost reduction", "bn": "cost savings", "d": "A", "by": "jason"}
+{"i": 79, "a": "molecular-dynamics-simulation", "b": "molecular-dynamics", "an": "molecular dynamics simulation", "bn": "molecular dynamics", "d": "X", "by": "jason"}
+{"i": 80, "a": "legal-reform", "b": "legislative-reform", "an": "legal reform", "bn": "legislative reform", "d": "A", "by": "jason"}
+{"i": 81, "a": "psychotherapy", "b": "psychological-intervention", "an": "psychotherapy", "bn": "psychological intervention", "d": "X", "by": "jason"}
+{"i": 82, "a": "event-related-potentials", "b": "enterprise-resource-planning", "an": "event-related potentials", "bn": "enterprise resource planning", "d": "X", "by": "jason"}
+{"i": 83, "a": "food-consumption", "b": "food-intake", "an": "dietary intake", "bn": "food intake", "d": "A", "by": "jason"}
+{"i": 84, "a": "grapevine", "b": "vitis-vinifera", "an": "grapevine", "bn": "Vitis vinifera", "d": "A", "by": "jason"}
+{"i": 85, "a": "disaster-preparedness", "b": "emergency-preparedness", "an": "disaster preparedness", "bn": "emergency preparedness", "d": "B", "by": "jason"}
+{"i": 86, "a": "heart-failure", "b": "chronic-heart-failure", "an": "heart failure", "bn": "chronic heart failure", "d": "X", "by": "jason"}
+{"i": 87, "a": "legal-theory", "b": "philosophy-of-law", "an": "legal theory", "bn": "philosophy of law", "d": "X", "by": "jason"}
+{"i": 88, "a": "infrared-thermography", "b": "thermography", "an": "infrared thermography", "bn": "thermal imaging", "d": "A", "by": "claude"}
+{"i": 89, "a": "virtual-learning-environments", "b": "learning-management-systems", "an": "virtual learning environments", "bn": "learning management systems", "d": "A", "by": "jason"}
+{"i": 90, "a": "archaeological-find", "b": "archaeological-artifacts", "an": "archaeological finds", "bn": "archaeological artifacts", "d": "A", "by": "jason"}
+{"i": 91, "a": "urban-regeneration", "b": "urban-renewal", "an": "urban regeneration", "bn": "urban renewal", "d": "A", "by": "jason"}
+{"i": 92, "a": "educational-reform", "b": "school-reform", "an": "educational reform", "bn": "school reform", "d": "A", "by": "jason"}
+{"i": 93, "a": "immunomodulation", "b": "immune-regulation", "an": "immunomodulation", "bn": "immune regulation", "d": "X", "by": "claude"}
+{"i": 94, "a": "military-personnel", "b": "soldiers", "an": "military personnel", "bn": "soldiers", "d": "A", "by": "jason"}
+{"i": 95, "a": "leisure", "b": "leisure-activities", "an": "leisure", "bn": "leisure activities", "d": "A", "by": "jason"}
+{"i": 96, "a": "consumerism", "b": "consumer-culture", "an": "consumerism", "bn": "consumer culture", "d": "A", "by": "jason"}
+{"i": 97, "a": "drug-safety", "b": "medication-safety", "an": "drug safety", "bn": "medication safety", "d": "A", "by": "jason"}
+{"i": 98, "a": "career-development", "b": "career-advancement", "an": "career development", "bn": "career advancement", "d": "A", "by": "jason"}
+{"i": 99, "a": "public-sector-employees", "b": "public-sector-employment", "an": "public sector employees", "bn": "public sector employment", "d": "B", "by": "jason"}
+{"i": 100, "a": "military-education", "b": "military-training", "an": "military education", "bn": "military training", "d": "A", "by": "jason"}
+{"i": 101, "a": "carcinogenesis", "b": "tumorigenesis", "an": "carcinogenesis", "bn": "tumorigenesis", "d": "A", "by": "claude"}
+{"i": 102, "a": "eating-habits", "b": "eating-behavior", "an": "dietary habits", "bn": "eating behavior", "d": "A", "by": "jason"}
+{"i": 103, "a": "canon-law", "b": "ecclesiastical-law", "an": "canon law", "bn": "ecclesiastical law", "d": "X", "by": "claude"}
+{"i": 104, "a": "urban-renewal", "b": "urban-redevelopment", "an": "urban renewal", "bn": "urban redevelopment", "d": "A", "by": "jason"}
+{"i": 105, "a": "parenting", "b": "child-rearing", "an": "parenting", "bn": "child rearing", "d": "A", "by": "jason"}
+{"i": 106, "a": "ccd-detector", "b": "ccd-camera", "an": "CCD detector", "bn": "CCD camera", "d": "A", "by": "claude"}
+{"i": 107, "a": "online-learning", "b": "online-teaching", "an": "online learning", "bn": "online teaching", "d": "A", "by": "jason"}
+{"i": 108, "a": "livestock-production", "b": "animal-husbandry", "an": "livestock production", "bn": "animal husbandry", "d": "A", "by": "jason"}
+{"i": 109, "a": "research-methodology", "b": "research-methods", "an": "research methodology", "bn": "research methods", "d": "A", "by": "jason"}
+{"i": 110, "a": "fifth-grade-students", "b": "fifth-grade", "an": "fifth grade students", "bn": "fifth grade", "d": "A", "by": "jason"}
+{"i": 111, "a": "chronic-kidney-disease", "b": "chronic-renal-failure", "an": "chronic kidney disease", "bn": "chronic renal failure", "d": "A", "by": "jason"}
+{"i": 112, "a": "fourth-grade-students", "b": "fourth-grade", "an": "fourth grade students", "bn": "fourth grade", "d": "A", "by": "jason"}
+{"i": 113, "a": "soldiers", "b": "armed-forces", "an": "soldiers", "bn": "armed forces", "d": "B", "by": "jason"}
+{"i": 114, "a": "weight-loss", "b": "weight-reduction", "an": "weight loss", "bn": "weight reduction", "d": "A", "by": "jason"}
+{"i": 115, "a": "technological-progress", "b": "technology-development", "an": "technological progress", "bn": "technology development", "d": "A", "by": "jason"}
+{"i": 116, "a": "political-transition", "b": "political-change", "an": "political transition", "bn": "political change", "d": "B", "by": "jason"}
+{"i": 117, "a": "academic-integrity", "b": "research-integrity", "an": "academic integrity", "bn": "research integrity", "d": "X", "by": "jason"}
+{"i": 118, "a": "remote-patient-monitoring", "b": "remote-monitoring", "an": "remote patient monitoring", "bn": "remote monitoring", "d": "X", "by": "jason"}
+{"i": 119, "a": "election-campaigns", "b": "political-campaigns", "an": "election campaigns", "bn": "political campaigns", "d": "B", "by": "jason"}
+{"i": 120, "a": "inflammation", "b": "inflammatory-response", "an": "inflammation", "bn": "inflammatory response", "d": "A", "by": "jason"}
+{"i": 121, "a": "combination-therapy", "b": "multimodal-treatment", "an": "combination therapy", "bn": "multimodal therapy", "d": "X", "by": "claude"}
+{"i": 122, "a": "children-s-literature", "b": "children-s-books", "an": "children's literature", "bn": "children's books", "d": "A", "by": "jason"}
+{"i": 123, "a": "tnf-alpha", "b": "tumor-necrosis-factor", "an": "TNF-α", "bn": "tumor necrosis factor", "d": "A", "by": "claude"}
+{"i": 124, "a": "adverse-drug-reactions", "b": "adverse-drug-events", "an": "adverse drug reactions", "bn": "adverse drug events", "d": "A", "by": "jason"}
+{"i": 125, "a": "science-education", "b": "science-teaching", "an": "science education", "bn": "science teaching", "d": "A", "by": "jason"}
+{"i": 126, "a": "electronic-band-structure", "b": "band-structure", "an": "electronic band structure", "bn": "band structure", "d": "B", "by": "claude"}
+{"i": 127, "a": "steel-industry", "b": "steelmaking", "an": "steel industry", "bn": "steelmaking", "d": "B", "by": "jason"}
+{"i": 128, "a": "local-government", "b": "local-government-administration", "an": "local government", "bn": "local government administration", "d": "A", "by": "jason"}
+{"i": 129, "a": "treatment-strategies", "b": "alternative-medicine", "an": "treatment options", "bn": "alternative medicine", "d": "X", "by": "jason"}
+{"i": 130, "a": "annealing", "b": "thermal-annealing", "an": "annealing", "bn": "thermal annealing", "d": "A", "by": "claude"}
+{"i": 131, "a": "municipal-government", "b": "municipal-administration", "an": "municipal government", "bn": "municipal administration", "d": "A", "by": "jason"}
+{"i": 132, "a": "language-teaching", "b": "language-teaching-methods", "an": "language teaching", "bn": "language didactics", "d": "A", "by": "jason"}
+{"i": 133, "a": "porous-media", "b": "porous-materials", "an": "porous media", "bn": "porous materials", "d": "A", "by": "jason"}
+{"i": 134, "a": "environmental-protection", "b": "environmental-conservation", "an": "environmental protection", "bn": "environmental conservation", "d": "A", "by": "claude"}
+{"i": 135, "a": "expert-systems", "b": "knowledge-based-systems", "an": "expert systems", "bn": "knowledge-based systems", "d": "A", "by": "claude"}
+{"i": 136, "a": "computational-complexity-reduction", "b": "computational-cost-reduction", "an": "computational complexity reduction", "bn": "computational cost reduction", "d": "B", "by": "claude"}
+{"i": 137, "a": "preoperative-assessment", "b": "preoperative-diagnosis", "an": "preoperative assessment", "bn": "preoperative diagnosis", "d": "X", "by": "claude"}
+{"i": 138, "a": "household-income", "b": "family-income", "an": "household income", "bn": "family income", "d": "A", "by": "jason"}
+{"i": 139, "a": "ultrasonography", "b": "ultrasound", "an": "ultrasonography", "bn": "ultrasound", "d": "A", "by": "jason"}
+{"i": 140, "a": "tumor-markers", "b": "cancer-biomarkers", "an": "tumor markers", "bn": "cancer biomarkers", "d": "A", "by": "claude"}
+{"i": 141, "a": "analytical-solution", "b": "closed-form-solution", "an": "analytical solution", "bn": "closed-form solution", "d": "A", "by": "claude"}
+{"i": 142, "a": "technology-acceptance-model", "b": "tumor-associated-macrophages", "an": "technology acceptance model", "bn": "tumor-associated macrophages", "d": "X", "by": "jason"}
+{"i": 143, "a": "lactate", "b": "lactic-acid", "an": "lactate", "bn": "lactic acid", "d": "X", "by": "claude"}
+{"i": 144, "a": "seasonal-variation", "b": "seasonality", "an": "seasonal variation", "bn": "seasonality", "d": "A", "by": "jason"}
+{"i": 145, "a": "mobile-application", "b": "smartphone-apps", "an": "mobile application", "bn": "smartphone application", "d": "A", "by": "jason"}
+{"i": 146, "a": "schoolchildren", "b": "school-students", "an": "schoolchildren", "bn": "school students", "d": "A", "by": "jason"}
+{"i": 147, "a": "alternative-medicine", "b": "complementary-and-alternative-medicine", "an": "alternative medicine", "bn": "complementary and alternative medicine", "d": "A", "by": "jason"}
+{"i": 148, "a": "local-government", "b": "local-authorities", "an": "local government", "bn": "local authorities", "d": "A", "by": "jason"}
+{"i": 149, "a": "total-hip-arthroplasty", "b": "hip-arthroplasty", "an": "total hip arthroplasty", "bn": "hip arthroplasty", "d": "B", "by": "jason"}
+{"i": 150, "a": "e-commerce", "b": "e-business", "an": "e-commerce", "bn": "e-business", "d": "A", "by": "jason"}
+{"i": 151, "a": "post-war-reconstruction", "b": "post-conflict-reconstruction", "an": "post-war reconstruction", "bn": "post-conflict reconstruction", "d": "B", "by": "jason"}
+{"i": 152, "a": "treatment-adherence", "b": "patient-compliance", "an": "treatment adherence", "bn": "patient compliance", "d": "A", "by": "jason"}
+{"i": 153, "a": "schoolchildren", "b": "school-children", "an": "schoolchildren", "bn": "school children", "d": "A", "by": "jason"}
+{"i": 154, "a": "school-students", "b": "school-children", "an": "school students", "bn": "school children", "d": "B", "by": "jason"}
+{"i": 155, "a": "school-age-children", "b": "school-children", "an": "school-age children", "bn": "school children", "d": "A", "by": "jason"}
+{"i": 156, "a": "pedagogical-practices", "b": "educational-practice", "an": "pedagogical practices", "bn": "educational practice", "d": "B", "by": "jason"}
+{"i": 157, "a": "women-s-employment", "b": "women-workers", "an": "women's employment", "bn": "women workers", "d": "A", "by": "jason"}
+{"i": 158, "a": "traumatic-brain-injury", "b": "brain-injury", "an": "traumatic brain injury", "bn": "brain injury", "d": "A", "by": "jason"}
+{"i": 159, "a": "science-policy", "b": "research-policy", "an": "science policy", "bn": "research policy", "d": "A", "by": "jason"}
+{"i": 160, "a": "human-machine-interface", "b": "human-machine-interaction", "an": "human-machine interface", "bn": "human-machine interaction", "d": "B", "by": "jason"}
+{"i": 161, "a": "gene-expression-profiling", "b": "transcriptional-profiling", "an": "gene expression profiling", "bn": "transcriptome profiling", "d": "A", "by": "claude"}
+{"i": 162, "a": "citizen-participation", "b": "public-engagement", "an": "citizen participation", "bn": "public engagement", "d": "A", "by": "jason"}
+{"i": 163, "a": "microfluidics", "b": "microfluidic-devices", "an": "microfluidics", "bn": "microfluidic devices", "d": "A", "by": "claude"}
+{"i": 164, "a": "domestic-violence", "b": "family-violence", "an": "domestic violence", "bn": "family violence", "d": "A", "by": "jason"}
+{"i": 165, "a": "experimental-design", "b": "design-of-experiments", "an": "experimental design", "bn": "design of experiments", "d": "A", "by": "jason"}
+{"i": 166, "a": "coming-of-age", "b": "transition-to-adulthood", "an": "coming of age", "bn": "transition to adulthood", "d": "A", "by": "jason"}
+{"i": 167, "a": "ict-in-education", "b": "information-and-communication-technologies-in-education", "an": "ICT in education", "bn": "information and communication technologies in education", "d": "A", "by": "jason"}
+{"i": 168, "a": "criminal-liability", "b": "criminal-responsibility", "an": "criminal liability", "bn": "criminal responsibility", "d": "A", "by": "jason"}
+{"i": 169, "a": "virtual-worlds", "b": "virtual-environments", "an": "virtual worlds", "bn": "virtual environments", "d": "A", "by": "jason"}
+{"i": 170, "a": "pregnancy-complications", "b": "obstetric-complications", "an": "pregnancy complications", "bn": "obstetric complications", "d": "A", "by": "jason"}
+{"i": 171, "a": "asymptotic-behavior", "b": "asymptotic-analysis", "an": "asymptotic behavior", "bn": "asymptotic analysis", "d": "X", "by": "claude"}
+{"i": 172, "a": "cost-accounting", "b": "cost-estimation", "an": "cost accounting", "bn": "cost estimation", "d": "X", "by": "claude"}
+{"i": 173, "a": "public-procurement", "b": "public-contracts", "an": "public procurement", "bn": "public contracts", "d": "A", "by": "jason"}
+{"i": 174, "a": "executive-function", "b": "cognitive-control", "an": "executive function", "bn": "cognitive control", "d": "X", "by": "claude"}
+{"i": 175, "a": "eating-habits", "b": "dietary-patterns", "an": "dietary habits", "bn": "dietary patterns", "d": "A", "by": "jason"}
+{"i": 176, "a": "manufacturing-industry", "b": "industry", "an": "manufacturing industry", "bn": "industry", "d": "A", "by": "jason"}
+{"i": 177, "a": "school-dropout", "b": "student-dropout", "an": "school dropout", "bn": "student dropout", "d": "A", "by": "jason"}
+{"i": 178, "a": "academic-achievement", "b": "school-performance", "an": "academic achievement", "bn": "school performance", "d": "A", "by": "jason"}
+{"i": 179, "a": "personnel-selection", "b": "employee-recruitment", "an": "personnel selection", "bn": "hiring", "d": "A", "by": "jason"}
+{"i": 180, "a": "purchase-decision", "b": "consumer-decision-making", "an": "purchase decision", "bn": "consumer decision-making", "d": "A", "by": "claude"}
+{"i": 181, "a": "vehicle-emissions", "b": "exhaust-emissions", "an": "vehicle emissions", "bn": "exhaust emissions", "d": "A", "by": "claude"}
+{"i": 182, "a": "antioxidant-activity", "b": "antioxidant-effects", "an": "antioxidant activity", "bn": "antioxidant effects", "d": "A", "by": "claude"}
+{"i": 183, "a": "community-life", "b": "social-life", "an": "community life", "bn": "social life", "d": "X", "by": "claude"}
+{"i": 184, "a": "parental-perceptions", "b": "parental-attitudes", "an": "parental perceptions", "bn": "parental attitudes", "d": "A", "by": "claude"}
+{"i": 185, "a": "nitrogen-fertilization", "b": "nitrogen-fertilizer", "an": "nitrogen fertilization", "bn": "nitrogen fertilizer", "d": "A", "by": "claude"}
+{"i": 186, "a": "mathematics-education", "b": "mathematics-instruction", "an": "mathematics education", "bn": "mathematics instruction", "d": "A", "by": "claude"}
+{"i": 187, "a": "mathematics-teaching", "b": "mathematics-instruction", "an": "mathematics teaching", "bn": "mathematics instruction", "d": "A", "by": "claude"}
+{"i": 188, "a": "covid-19", "b": "sars-cov-2-infection", "an": "COVID-19", "bn": "SARS-CoV-2 infection", "d": "A", "by": "claude"}
+{"i": 189, "a": "personality-development", "b": "character-development", "an": "personality development", "bn": "character development", "d": "X", "by": "claude"}
+{"i": 190, "a": "digital-competence", "b": "digital-skills", "an": "digital competence", "bn": "digital skills", "d": "B", "by": "claude"}
+{"i": 191, "a": "sacred-music", "b": "church-music", "an": "sacred music", "bn": "church music", "d": "A", "by": "claude"}
+{"i": 192, "a": "music-education", "b": "music-pedagogy", "an": "music education", "bn": "music pedagogy", "d": "A", "by": "claude"}
+{"i": 193, "a": "air-transport", "b": "airline-industry", "an": "air transport", "bn": "airline industry", "d": "A", "by": "claude"}
+{"i": 194, "a": "teaching-practice", "b": "classroom-practice", "an": "teaching practice", "bn": "classroom practice", "d": "A", "by": "claude"}
+{"i": 195, "a": "medication-abortion", "b": "abortion-pills", "an": "medication abortion", "bn": "abortion pills", "d": "A", "by": "claude"}
+{"i": 196, "a": "educational-innovation", "b": "teaching-innovation", "an": "educational innovation", "bn": "teaching innovation", "d": "A", "by": "claude"}
+{"i": 197, "a": "computational-fluid-dynamics", "b": "cfd-simulation", "an": "computational fluid dynamics", "bn": "CFD simulation", "d": "A", "by": "claude"}
+{"i": 198, "a": "noise-reduction", "b": "noise-removal", "an": "noise reduction", "bn": "noise removal", "d": "A", "by": "claude"}
+{"i": 199, "a": "mental-disorders", "b": "mental-health-problems", "an": "mental illness", "bn": "mental health problems", "d": "A", "by": "claude"}
+{"i": 200, "a": "apple", "b": "malus-domestica", "an": "apple", "bn": "Malus domestica", "d": "A", "by": "claude"}
+{"i": 201, "a": "bibliometric-analysis", "b": "bibliometrics", "an": "bibliometric analysis", "bn": "bibliometrics", "d": "B", "by": "claude"}
+{"i": 202, "a": "smart-home", "b": "home-automation", "an": "smart home", "bn": "home automation", "d": "A", "by": "claude"}
+{"i": 203, "a": "art-education", "b": "arts-education", "an": "art education", "bn": "arts education", "d": "A", "by": "claude"}
+{"i": 204, "a": "academic-achievement", "b": "academic-success", "an": "academic achievement", "bn": "academic success", "d": "A", "by": "claude"}
+{"i": 205, "a": "class-imbalance", "b": "imbalanced-data", "an": "class imbalance", "bn": "imbalanced data", "d": "A", "by": "claude"}
+{"i": 206, "a": "distributed-generation", "b": "distributed-energy-resources", "an": "distributed generation", "bn": "distributed energy resources", "d": "X", "by": "claude"}
+{"i": 207, "a": "disease-surveillance", "b": "public-health-surveillance", "an": "disease surveillance", "bn": "public health surveillance", "d": "A", "by": "claude"}
+{"i": 208, "a": "sustained-drug-release", "b": "sustained-release", "an": "sustained drug release", "bn": "sustained release", "d": "B", "by": "claude"}
+{"i": 209, "a": "information-society", "b": "knowledge-society", "an": "information society", "bn": "knowledge society", "d": "X", "by": "claude"}
+{"i": 210, "a": "drought-stress", "b": "water-deficit", "an": "drought stress", "bn": "water deficit", "d": "A", "by": "claude"}
+{"i": 211, "a": "decision-support-system", "b": "decision-support-tool", "an": "decision support system", "bn": "decision support tool", "d": "A", "by": "claude"}
+{"i": 212, "a": "cognitive-impairment", "b": "cognitive-deficits", "an": "cognitive impairment", "bn": "cognitive deficits", "d": "A", "by": "claude"}
+{"i": 213, "a": "critical-success-factors", "b": "success-factors", "an": "critical success factors", "bn": "success factors", "d": "A", "by": "claude"}
+{"i": 214, "a": "russia-ukraine-war", "b": "russian-invasion-of-ukraine", "an": "Russia-Ukraine war", "bn": "Russian invasion of Ukraine", "d": "A", "by": "claude"}
+{"i": 215, "a": "sin", "b": "silicon-nitride", "an": "sin", "bn": "silicon nitride", "d": "X", "by": "claude"}
+{"i": 216, "a": "pm2-5", "b": "fine-particulate-matter", "an": "PM2.5", "bn": "fine particulate matter", "d": "A", "by": "claude"}
+{"i": 217, "a": "genome-annotation", "b": "gene-annotation", "an": "genome annotation", "bn": "gene annotation", "d": "A", "by": "claude"}
+{"i": 218, "a": "road-construction", "b": "highway-construction", "an": "road construction", "bn": "highway construction", "d": "A", "by": "claude"}
+{"i": 219, "a": "reoperation", "b": "revision-surgery", "an": "reoperation", "bn": "revision surgery", "d": "A", "by": "claude"}
+{"i": 220, "a": "hands-on-learning", "b": "learning-by-doing", "an": "hands-on learning", "bn": "learning by doing", "d": "A", "by": "claude"}
+{"i": 221, "a": "locomotor-activity", "b": "locomotion", "an": "locomotor activity", "bn": "locomotion", "d": "X", "by": "claude"}
+{"i": 222, "a": "osteogenic-differentiation", "b": "osteoblast-differentiation", "an": "osteogenic differentiation", "bn": "osteoblast differentiation", "d": "A", "by": "claude"}
+{"i": 223, "a": "meteorological-observations", "b": "weather-data", "an": "meteorological observations", "bn": "meteorological data", "d": "A", "by": "claude"}
+{"i": 224, "a": "literature-search", "b": "finding-articles", "an": "literature searching", "bn": "finding articles", "d": "A", "by": "claude"}
+{"i": 225, "a": "environmental-factors", "b": "environmental-conditions", "an": "environmental factors", "bn": "environmental conditions", "d": "A", "by": "claude"}
+{"i": 226, "a": "self-control", "b": "self-discipline", "an": "self-control", "bn": "self-discipline", "d": "A", "by": "claude"}
+{"i": 227, "a": "financial-services", "b": "financial-sector", "an": "financial services", "bn": "financial sector", "d": "A", "by": "claude"}
+{"i": 228, "a": "educational-assessment", "b": "teaching-evaluation", "an": "educational assessment", "bn": "teaching evaluation", "d": "X", "by": "claude"}
+{"i": 229, "a": "labor-movement", "b": "trade-unionism", "an": "labor movement", "bn": "trade unionism", "d": "A", "by": "claude"}
+{"i": 230, "a": "simulation-based-training", "b": "simulation-based-learning", "an": "simulation-based training", "bn": "simulation-based learning", "d": "A", "by": "claude"}
+{"i": 231, "a": "demographic-change", "b": "population-change", "an": "demographic change", "bn": "population change", "d": "A", "by": "claude"}
+{"i": 232, "a": "market-analysis", "b": "market-research", "an": "market analysis", "bn": "market research", "d": "B", "by": "claude"}
+{"i": 233, "a": "religious-controversy", "b": "religious-conflict", "an": "religious controversy", "bn": "religious conflict", "d": "X", "by": "claude"}
+{"i": 234, "a": "student-learning-interest", "b": "learning-interest", "an": "student learning interest", "bn": "learning interest", "d": "B", "by": "claude"}
+{"i": 235, "a": "implementation-barriers", "b": "implementation-challenges", "an": "implementation barriers", "bn": "implementation challenges", "d": "A", "by": "claude"}
+{"i": 236, "a": "embodiment", "b": "corporeality", "an": "embodiment", "bn": "corporeality", "d": "A", "by": "claude"}
+{"i": 237, "a": "georeferenced-records", "b": "georeferenced-occurrence-records", "an": "georeferenced records", "bn": "georeferenced occurrence records", "d": "A", "by": "claude"}
+{"i": 238, "a": "health-disparities", "b": "health-inequities", "an": "health disparities", "bn": "health inequities", "d": "A", "by": "claude"}
+{"i": 239, "a": "commercial-companies", "b": "enterprises", "an": "business entities", "bn": "enterprises", "d": "B", "by": "claude"}
+{"i": 240, "a": "cultural-heritage-preservation", "b": "heritage-preservation", "an": "cultural heritage preservation", "bn": "heritage preservation", "d": "A", "by": "claude"}
+{"i": 241, "a": "historic-preservation", "b": "heritage-preservation", "an": "historic preservation", "bn": "heritage preservation", "d": "X", "by": "claude"}
+{"i": 242, "a": "water-use", "b": "water-consumption", "an": "water use", "bn": "water consumption", "d": "A", "by": "claude"}
+{"i": 243, "a": "behavioral-interventions", "b": "behavioral-therapy", "an": "behavioral interventions", "bn": "behavior therapy", "d": "X", "by": "claude"}
+{"i": 244, "a": "power-consumption", "b": "electricity-consumption", "an": "power consumption", "bn": "electricity consumption", "d": "X", "by": "claude"}
+{"i": 245, "a": "social-assistance", "b": "welfare", "an": "social assistance", "bn": "welfare", "d": "X", "by": "claude"}
+{"i": 246, "a": "curriculum-evaluation", "b": "curriculum-analysis", "an": "curriculum evaluation", "bn": "curriculum analysis", "d": "A", "by": "claude"}
+{"i": 247, "a": "vertical-transmission", "b": "mother-to-child-transmission", "an": "vertical transmission", "bn": "mother-to-child transmission", "d": "X", "by": "claude"}
+{"i": 248, "a": "cytokine-production", "b": "cytokine-release", "an": "cytokine production", "bn": "cytokine secretion", "d": "A", "by": "claude"}
+{"i": 249, "a": "farm-income", "b": "farmer-income", "an": "farm income", "bn": "farmer income", "d": "A", "by": "claude"}
+{"i": 250, "a": "malnutrition", "b": "undernutrition", "an": "malnutrition", "bn": "undernutrition", "d": "A", "by": "claude"}
+{"i": 251, "a": "extreme-precipitation", "b": "heavy-rainfall", "an": "extreme precipitation", "bn": "heavy rainfall", "d": "A", "by": "claude"}
+{"i": 252, "a": "drug-quantification", "b": "pharmaceutical-analysis", "an": "drug quantification", "bn": "pharmaceutical analysis", "d": "A", "by": "claude"}
+{"i": 253, "a": "historiography", "b": "history-of-historiography", "an": "historiography", "bn": "history of historiography", "d": "A", "by": "claude"}
+{"i": 254, "a": "textile-industry", "b": "textile-production", "an": "textile industry", "bn": "textile production", "d": "A", "by": "claude"}
+{"i": 255, "a": "fantasy", "b": "fantasy-literature", "an": "fantasy", "bn": "fantasy fiction", "d": "X", "by": "claude"}
+{"i": 256, "a": "structural-change", "b": "structural-transformation", "an": "structural change", "bn": "structural transformation", "d": "A", "by": "claude"}
+{"i": 257, "a": "resource-constraints", "b": "resource-scarcity", "an": "resource constraints", "bn": "resource scarcity", "d": "A", "by": "claude"}
+{"i": 258, "a": "curriculum-development", "b": "curriculum-planning", "an": "curriculum development", "bn": "curriculum planning", "d": "A", "by": "claude"}
+{"i": 259, "a": "non-pharmacological-treatment", "b": "non-pharmacological-interventions", "an": "non-pharmacological treatment", "bn": "non-pharmacological interventions", "d": "A", "by": "claude"}
+{"i": 260, "a": "surgical-planning", "b": "preoperative-planning", "an": "surgical planning", "bn": "preoperative planning", "d": "A", "by": "claude"}
+{"i": 261, "a": "finite-element-modeling", "b": "finite-element-modelling", "an": "finite element modeling", "bn": "finite element modelling", "d": "A", "by": "claude"}
+{"i": 262, "a": "social-skills", "b": "interpersonal-skills", "an": "social skills", "bn": "interpersonal skills", "d": "A", "by": "claude"}
+{"i": 263, "a": "tgf-beta1", "b": "transforming-growth-factor-beta-1", "an": "TGF-β1", "bn": "transforming growth factor-beta1", "d": "A", "by": "claude"}
+{"i": 264, "a": "thermal-tolerance", "b": "heat-tolerance", "an": "thermal tolerance", "bn": "heat tolerance", "d": "A", "by": "claude"}
+{"i": 265, "a": "tobacco-control", "b": "tobacco-control-policy", "an": "tobacco control", "bn": "tobacco control policy", "d": "A", "by": "claude"}
+{"i": 266, "a": "tumor-invasion", "b": "tumor-cell-invasion", "an": "tumor invasion", "bn": "tumor cell invasion", "d": "A", "by": "claude"}
+{"i": 267, "a": "e-learning", "b": "digital-learning", "an": "e-learning", "bn": "digital learning", "d": "A", "by": "claude"}
+{"i": 268, "a": "electricity-sector", "b": "electric-utilities", "an": "electric power industry", "bn": "electric utilities", "d": "A", "by": "claude"}
+{"i": 269, "a": "igg", "b": "igg-antibodies", "an": "IgG", "bn": "IgG antibodies", "d": "A", "by": "claude"}
+{"i": 270, "a": "abortion", "b": "induced-abortion", "an": "abortion", "bn": "induced abortion", "d": "A", "by": "claude"}
+{"i": 271, "a": "public-transport", "b": "mass-transport", "an": "public transport", "bn": "mass transport", "d": "X", "by": "claude"}
+{"i": 272, "a": "mass-transfer", "b": "mass-transport", "an": "mass transfer", "bn": "mass transport", "d": "A", "by": "claude"}
+{"i": 273, "a": "municipal-finance", "b": "town-finances", "an": "local government finance", "bn": "town finances", "d": "A", "by": "claude"}
+{"i": 274, "a": "environmental-risk-assessment", "b": "ecological-risk-assessment", "an": "environmental risk assessment", "bn": "ecological risk assessment", "d": "A", "by": "claude"}
+{"i": 275, "a": "online-social-networks", "b": "social-networking-sites", "an": "online social networks", "bn": "social networking sites", "d": "A", "by": "claude"}
+{"i": 276, "a": "pathological-complete-response", "b": "pcr", "an": "pathological complete response", "bn": "PCR", "d": "X", "by": "claude"}
+{"i": 277, "a": "fat-mass", "b": "body-fat", "an": "fat mass", "bn": "body fat", "d": "B", "by": "claude"}
+{"i": 278, "a": "chironomidae", "b": "non-biting-midges", "an": "Chironomidae", "bn": "non-biting midges", "d": "A", "by": "claude"}
+{"i": 279, "a": "rural-life", "b": "village-life", "an": "rural life", "bn": "village life", "d": "A", "by": "claude"}
+{"i": 280, "a": "systemic-sclerosis", "b": "scleroderma", "an": "systemic sclerosis", "bn": "scleroderma", "d": "A", "by": "claude"}
+{"i": 281, "a": "dryland-agriculture", "b": "rainfed-agriculture", "an": "dryland agriculture", "bn": "rainfed agriculture", "d": "A", "by": "claude"}
+{"i": 282, "a": "women-s-education", "b": "girls-education", "an": "women's education", "bn": "girls' education", "d": "A", "by": "claude"}
+{"i": 283, "a": "anthropometry", "b": "body-measurements", "an": "anthropometry", "bn": "body measurements", "d": "A", "by": "claude"}
+{"i": 284, "a": "diagnosis", "b": "medical-diagnosis", "an": "diagnosis", "bn": "medical diagnosis", "d": "A", "by": "claude"}
+{"i": 285, "a": "clinical-diagnosis", "b": "medical-diagnosis", "an": "clinical diagnosis", "bn": "medical diagnosis", "d": "A", "by": "claude"}
+{"i": 286, "a": "holstein-cattle", "b": "holstein-cows", "an": "Holstein cattle", "bn": "Holstein cows", "d": "A", "by": "claude"}
+{"i": 287, "a": "preterm-birth", "b": "prematurity", "an": "preterm birth", "bn": "prematurity", "d": "A", "by": "claude"}
+{"i": 288, "a": "wettability", "b": "wetting", "an": "wettability", "bn": "wetting", "d": "A", "by": "claude"}
+{"i": 289, "a": "invasive-species", "b": "invasive-alien-species", "an": "invasive species", "bn": "invasive alien species", "d": "A", "by": "claude"}
+{"i": 290, "a": "knowledge-sharing", "b": "knowledge-exchange", "an": "knowledge sharing", "bn": "knowledge exchange", "d": "A", "by": "claude"}
+{"i": 291, "a": "risk-taking", "b": "risk-behavior", "an": "risk-taking", "bn": "risk behavior", "d": "A", "by": "claude"}
+{"i": 292, "a": "genetic-differentiation", "b": "population-differentiation", "an": "genetic differentiation", "bn": "population differentiation", "d": "A", "by": "claude"}
+{"i": 293, "a": "rainfall-variability", "b": "precipitation-variability", "an": "rainfall variability", "bn": "precipitation variability", "d": "A", "by": "claude"}
+{"i": 294, "a": "portraiture", "b": "portrait-painting", "an": "portraiture", "bn": "portrait painting", "d": "A", "by": "claude"}
+{"i": 295, "a": "teaching-methods", "b": "instructional-strategies", "an": "teaching methods", "bn": "instructional strategies", "d": "A", "by": "claude"}
+{"i": 296, "a": "teaching-strategies", "b": "instructional-strategies", "an": "teaching strategies", "bn": "instructional strategies", "d": "A", "by": "claude"}
+{"i": 297, "a": "mind-body-relationship", "b": "mind-body-problem", "an": "mind-body relationship", "bn": "mind-body problem", "d": "A", "by": "claude"}
+{"i": 298, "a": "agricultural-products", "b": "agricultural-commodities", "an": "agricultural products", "bn": "agricultural commodities", "d": "A", "by": "claude"}
+{"i": 299, "a": "urban-environment", "b": "urban-areas", "an": "urban environment", "bn": "urban areas", "d": "A", "by": "claude"}
+{"i": 300, "a": "market-research", "b": "marketing-research", "an": "market research", "bn": "marketing research", "d": "A", "by": "claude"}
+{"i": 301, "a": "teaching-innovation", "b": "pedagogical-innovation", "an": "teaching innovation", "bn": "pedagogical innovation", "d": "A", "by": "claude"}
+{"i": 302, "a": "agricultural-labor", "b": "agricultural-workers", "an": "agricultural labor", "bn": "agricultural workers", "d": "A", "by": "claude"}
+{"i": 303, "a": "clinical-course", "b": "disease-course", "an": "clinical course", "bn": "disease course", "d": "A", "by": "claude"}
+{"i": 304, "a": "strain-rate-effects", "b": "strain-rate-sensitivity", "an": "strain rate effects", "bn": "strain rate sensitivity", "d": "A", "by": "claude"}
+{"i": 305, "a": "solidification", "b": "melting", "an": "solidification", "bn": "melting", "d": "X", "by": "claude"}
+{"i": 306, "a": "developing-countries", "b": "third-world", "an": "developing countries", "bn": "Third World", "d": "A", "by": "claude"}
+{"i": 307, "a": "treatment", "b": "therapeutics", "an": "treatment", "bn": "therapeutics", "d": "X", "by": "claude"}
+{"i": 308, "a": "water-reuse", "b": "wastewater-reuse", "an": "water reuse", "bn": "wastewater reuse", "d": "A", "by": "claude"}
+{"i": 309, "a": "building-exteriors", "b": "building-facades", "an": "building exteriors", "bn": "building facades", "d": "B", "by": "claude"}
+{"i": 310, "a": "public-debt", "b": "sovereign-debt", "an": "public debt", "bn": "sovereign debt", "d": "A", "by": "claude"}
+{"i": 311, "a": "community-based-care", "b": "community-health-services", "an": "community-based care", "bn": "community health services", "d": "A", "by": "claude"}
+{"i": 312, "a": "energy-dissipation", "b": "dissipation", "an": "energy dissipation", "bn": "dissipation", "d": "A", "by": "claude"}
+{"i": 313, "a": "lung-cancer", "b": "lung-tumors", "an": "lung cancer", "bn": "lung tumors", "d": "A", "by": "claude"}
+{"i": 314, "a": "international-experience", "b": "foreign-experience", "an": "international experience", "bn": "foreign experience", "d": "A", "by": "claude"}
+{"i": 315, "a": "ict-in-education", "b": "information-technology-in-education", "an": "ICT in education", "bn": "information technology in education", "d": "A", "by": "claude"}
+{"i": 316, "a": "information-and-communication-technologies-in-education", "b": "information-technology-in-education", "an": "information and communication technologies in education", "bn": "information technology in education", "d": "A", "by": "claude"}
+{"i": 317, "a": "sustainable-construction", "b": "green-building", "an": "sustainable construction", "bn": "green building", "d": "A", "by": "claude"}
+{"i": 318, "a": "cooking", "b": "food-preparation", "an": "cooking", "bn": "food preparation", "d": "A", "by": "claude"}
+{"i": 319, "a": "physician-patient-communication", "b": "doctor-patient-communication", "an": "physician-patient communication", "bn": "doctor-patient communication", "d": "B", "by": "claude"}
+{"i": 320, "a": "miscarriage", "b": "pregnancy-loss", "an": "miscarriage", "bn": "pregnancy loss", "d": "A", "by": "claude"}
+{"i": 321, "a": "teaching-strategies", "b": "didactic-strategies", "an": "teaching strategies", "bn": "didactic strategies", "d": "A", "by": "claude"}
+{"i": 322, "a": "teaching-methods", "b": "didactic-strategies", "an": "teaching methods", "bn": "didactic strategies", "d": "A", "by": "claude"}
+{"i": 323, "a": "persistence", "b": "perseverance", "an": "persistence", "bn": "perseverance", "d": "X", "by": "claude"}
+{"i": 324, "a": "atopic-dermatitis", "b": "eczema", "an": "atopic dermatitis", "bn": "eczema", "d": "A", "by": "claude"}
+{"i": 325, "a": "self-directed-learning", "b": "self-study", "an": "self-directed learning", "bn": "self-study", "d": "A", "by": "claude"}
+{"i": 326, "a": "educational-challenges", "b": "teaching-problems", "an": "educational challenges", "bn": "teaching difficulties", "d": "A", "by": "claude"}
+{"i": 327, "a": "student-enrollment", "b": "school-enrollment", "an": "student enrollment", "bn": "school enrollment", "d": "A", "by": "claude"}
+{"i": 328, "a": "palliative-care", "b": "palliative-treatment", "an": "palliative care", "bn": "palliative treatment", "d": "A", "by": "claude"}
+{"i": 329, "a": "treatment-guidelines", "b": "treatment-recommendations", "an": "treatment guidelines", "bn": "treatment recommendations", "d": "A", "by": "claude"}
+{"i": 330, "a": "lesson-planning", "b": "lesson-plans", "an": "lesson planning", "bn": "lesson plans", "d": "A", "by": "claude"}
+{"i": 331, "a": "social-environment", "b": "social-context", "an": "social environment", "bn": "social context", "d": "A", "by": "claude"}
+{"i": 332, "a": "traditional-crafts", "b": "handicrafts", "an": "traditional crafts", "bn": "handicrafts", "d": "A", "by": "claude"}
+{"i": 333, "a": "testimony", "b": "witness-testimony", "an": "testimony", "bn": "witness testimony", "d": "A", "by": "claude"}
+{"i": 334, "a": "poetry-collection", "b": "poetry-anthology", "an": "poetry collection", "bn": "poetry anthology", "d": "A", "by": "claude"}
+{"i": 335, "a": "workplace-harassment", "b": "workplace-bullying", "an": "workplace harassment", "bn": "workplace bullying", "d": "B", "by": "claude"}
+{"i": 336, "a": "computed-tomography", "b": "x-ray-computed-tomography", "an": "computed tomography", "bn": "X-ray computed tomography", "d": "A", "by": "claude"}
+{"i": 337, "a": "high-school-mathematics", "b": "secondary-school-mathematics", "an": "high school mathematics", "bn": "secondary school mathematics", "d": "B", "by": "claude"}
+{"i": 338, "a": "industrial-workers", "b": "factory-workers", "an": "industrial workers", "bn": "factory workers", "d": "A", "by": "claude"}
+{"i": 339, "a": "reference-values", "b": "normative-data", "an": "reference values", "bn": "normative data", "d": "A", "by": "claude"}
+{"i": 340, "a": "teacher-training-programs", "b": "teacher-education-curriculum", "an": "teacher training programs", "bn": "teacher education curriculum", "d": "A", "by": "claude"}
+{"i": 341, "a": "multidisciplinary-care", "b": "interdisciplinary-care", "an": "multidisciplinary care", "bn": "interdisciplinary care", "d": "A", "by": "claude"}
+{"i": 342, "a": "business-management", "b": "business-administration", "an": "business management", "bn": "business administration", "d": "A", "by": "claude"}
+{"i": 343, "a": "gene-environment-interaction", "b": "genotype-by-environment-interaction", "an": "gene-environment interaction", "bn": "genotype by environment interaction", "d": "A", "by": "claude"}
+{"i": 344, "a": "human-dignity", "b": "dignity", "an": "human dignity", "bn": "dignity", "d": "A", "by": "claude"}
+{"i": 345, "a": "mineral-deposits", "b": "ore-deposits", "an": "mineral deposits", "bn": "ore deposits", "d": "A", "by": "claude"}
+{"i": 346, "a": "micropropagation", "b": "in-vitro-propagation", "an": "micropropagation", "bn": "in vitro propagation", "d": "A", "by": "claude"}
+{"i": 347, "a": "local-elections", "b": "municipal-elections", "an": "local elections", "bn": "municipal elections", "d": "A", "by": "claude"}
+{"i": 348, "a": "prediction", "b": "forecasting", "an": "prediction", "bn": "forecasting", "d": "X", "by": "claude"}
+{"i": 349, "a": "employee-training", "b": "employee-training-and-development", "an": "employee training", "bn": "training and development", "d": "A", "by": "claude"}
+{"i": 350, "a": "clinical-symptoms", "b": "symptoms", "an": "clinical symptoms", "bn": "symptoms", "d": "B", "by": "claude"}
+{"i": 351, "a": "student-centered-learning", "b": "student-centered-teaching", "an": "student-centered learning", "bn": "student-centered teaching", "d": "A", "by": "claude"}
+{"i": 352, "a": "government-regulation", "b": "state-regulation", "an": "government regulation", "bn": "state regulation", "d": "A", "by": "claude"}
+{"i": 353, "a": "human-mobility", "b": "human-movement", "an": "human mobility", "bn": "human movement", "d": "X", "by": "claude"}
+{"i": 354, "a": "lean-manufacturing", "b": "lean-management", "an": "lean manufacturing", "bn": "lean management", "d": "A", "by": "claude"}
+{"i": 355, "a": "pancreatic-ductal-adenocarcinoma", "b": "pancreatic-adenocarcinoma", "an": "pancreatic ductal adenocarcinoma", "bn": "pancreatic adenocarcinoma", "d": "A", "by": "claude"}
+{"i": 356, "a": "combination-therapy", "b": "drug-combination", "an": "combination therapy", "bn": "drug combination", "d": "A", "by": "claude"}
+{"i": 357, "a": "co2-emission-reduction", "b": "co2-reduction", "an": "CO2 emission reduction", "bn": "CO2 reduction", "d": "X", "by": "claude"}
+{"i": 358, "a": "loneliness", "b": "solitude", "an": "loneliness", "bn": "solitude", "d": "X", "by": "claude"}
+{"i": 359, "a": "sickle-cell-disease", "b": "sickle-cell-anemia", "an": "sickle cell disease", "bn": "sickle cell anemia", "d": "A", "by": "claude"}
+{"i": 360, "a": "nitrogen-fixation", "b": "biological-nitrogen-fixation", "an": "nitrogen fixation", "bn": "biological nitrogen fixation", "d": "A", "by": "claude"}
+{"i": 361, "a": "state-sovereignty", "b": "national-sovereignty", "an": "state sovereignty", "bn": "national sovereignty", "d": "A", "by": "claude"}
+{"i": 362, "a": "human-anatomy", "b": "anatomy", "an": "human anatomy", "bn": "anatomy", "d": "A", "by": "claude"}
+{"i": 363, "a": "conflict-of-interest", "b": "coi", "an": "conflicts of interest", "bn": "COI", "d": "A", "by": "claude"}
+{"i": 364, "a": "event-management", "b": "event-planning", "an": "event management", "bn": "event planning", "d": "A", "by": "claude"}
+{"i": 365, "a": "preterm-birth", "b": "preterm-labor", "an": "preterm birth", "bn": "preterm labor", "d": "X", "by": "claude"}
+{"i": 366, "a": "environmental-degradation", "b": "environmental-damage", "an": "environmental degradation", "bn": "environmental damage", "d": "A", "by": "claude"}
+{"i": 367, "a": "surgical-treatment", "b": "surgery", "an": "surgical treatment", "bn": "surgery", "d": "X", "by": "claude"}
+{"i": 368, "a": "tourism-promotion", "b": "destination-marketing", "an": "tourism promotion", "bn": "destination marketing", "d": "A", "by": "claude"}
+{"i": 369, "a": "pension-systems", "b": "pensions", "an": "pension systems", "bn": "pensions", "d": "B", "by": "claude"}
+{"i": 370, "a": "alfalfa", "b": "lucerne", "an": "alfalfa", "bn": "lucerne", "d": "A", "by": "claude"}
+{"i": 371, "a": "preventive-care", "b": "preventive-medicine", "an": "preventive care", "bn": "preventive medicine", "d": "A", "by": "claude"}
+{"i": 372, "a": "pulp-and-paper-industry", "b": "paper-industry", "an": "pulp and paper industry", "bn": "paper industry", "d": "A", "by": "claude"}
+{"i": 373, "a": "emissions-trading", "b": "carbon-trading", "an": "emissions trading", "bn": "carbon trading", "d": "A", "by": "claude"}
+{"i": 374, "a": "maximal-oxygen-uptake", "b": "vo2max", "an": "maximal oxygen uptake", "bn": "VO2max", "d": "B", "by": "claude"}
+{"i": 375, "a": "load-forecasting", "b": "energy-consumption-forecasting", "an": "load forecasting", "bn": "energy demand forecasting", "d": "A", "by": "claude"}
+{"i": 376, "a": "madrasah-tsanawiyah", "b": "islamic-junior-high-school", "an": "madrasah tsanawiyah", "bn": "Islamic junior high school", "d": "A", "by": "claude"}
+{"i": 377, "a": "generalizability", "b": "model-generalization", "an": "generalizability", "bn": "model generalization", "d": "X", "by": "claude"}
+{"i": 378, "a": "third-grade-students", "b": "third-grade", "an": "third grade students", "bn": "third grade", "d": "A", "by": "claude"}
+{"i": 379, "a": "therapeutic-relationship", "b": "therapeutic-alliance", "an": "therapeutic relationship", "bn": "therapeutic alliance", "d": "A", "by": "claude"}
+{"i": 380, "a": "lime", "b": "calcium-oxide", "an": "lime", "bn": "calcium oxide", "d": "X", "by": "claude"}
+{"i": 381, "a": "physical-education", "b": "school-physical-education", "an": "physical education", "bn": "school physical education", "d": "A", "by": "claude"}
+{"i": 382, "a": "lithic-artifacts", "b": "stone-tools", "an": "lithic artifacts", "bn": "stone tools", "d": "A", "by": "claude"}
+{"i": 383, "a": "parental-support", "b": "parenting-support", "an": "parental support", "bn": "parenting support", "d": "X", "by": "claude"}
+{"i": 384, "a": "psychological-well-being", "b": "mental-well-being", "an": "psychological well-being", "bn": "mental well-being", "d": "A", "by": "claude"}
+{"i": 385, "a": "personalized-learning", "b": "individualized-instruction", "an": "personalized learning", "bn": "individualized instruction", "d": "A", "by": "claude"}
+{"i": 386, "a": "discipline", "b": "academic-disciplines", "an": "discipline", "bn": "academic disciplines", "d": "X", "by": "claude"}
+{"i": 387, "a": "genotype-by-environment-interaction", "b": "genotype-environment-interaction", "an": "genotype by environment interaction", "bn": "genotype-environment interaction", "d": "A", "by": "claude"}
+{"i": 388, "a": "handedness", "b": "chirality", "an": "handedness", "bn": "chirality", "d": "X", "by": "claude"}
+{"i": 389, "a": "social-studies-education", "b": "social-science-education", "an": "social studies education", "bn": "social sciences education", "d": "A", "by": "claude"}
+{"i": 390, "a": "biological-specimen", "b": "biological-samples", "an": "biological specimen", "bn": "biological samples", "d": "A", "by": "claude"}
+{"i": 391, "a": "classroom-climate", "b": "classroom-environment", "an": "classroom climate", "bn": "classroom environment", "d": "A", "by": "claude"}
+{"i": 392, "a": "organizational-change", "b": "organizational-transformation", "an": "organizational change", "bn": "organizational transformation", "d": "A", "by": "claude"}
+{"i": 393, "a": "german-sign-language", "b": "dgs", "an": "German Sign Language", "bn": "DGS", "d": "A", "by": "claude"}
+{"i": 394, "a": "prognosis-prediction", "b": "outcome-prediction", "an": "prognosis prediction", "bn": "outcome prediction", "d": "A", "by": "claude"}
+{"i": 395, "a": "historic-preservation", "b": "historic-building-conservation", "an": "historic preservation", "bn": "historic building conservation", "d": "A", "by": "claude"}
+{"i": 396, "a": "psychosis", "b": "psychotic-disorders", "an": "psychosis", "bn": "psychotic disorders", "d": "A", "by": "claude"}
+{"i": 397, "a": "mesenchymal-stem-cells", "b": "bone-marrow-mesenchymal-stem-cells", "an": "mesenchymal stem cells", "bn": "bone marrow mesenchymal stem cells", "d": "X", "by": "claude"}
+{"i": 398, "a": "error-propagation", "b": "uncertainty-propagation", "an": "error propagation", "bn": "uncertainty propagation", "d": "A", "by": "claude"}
+{"i": 399, "a": "size-effect", "b": "scale-effects", "an": "size effect", "bn": "scale effects", "d": "X", "by": "claude"}
+{"i": 400, "a": "psychotherapy", "b": "psychiatric-treatment", "an": "psychotherapy", "bn": "psychiatric treatment", "d": "X", "by": "claude"}
+{"i": 401, "a": "psychiatric-nursing", "b": "psychiatric-treatment", "an": "psychiatric nursing", "bn": "psychiatric treatment", "d": "X", "by": "claude"}
+{"i": 402, "a": "family-environment", "b": "home-environment", "an": "family environment", "bn": "home environment", "d": "A", "by": "claude"}
+{"i": 403, "a": "pi-pi-stacking", "b": "pi-pi-interactions", "an": "π-π stacking", "bn": "π-π interactions", "d": "A", "by": "claude"}
+{"i": 404, "a": "spatiotemporal-variation", "b": "spatiotemporal-distribution", "an": "spatiotemporal variation", "bn": "spatiotemporal distribution", "d": "A", "by": "claude"}
+{"i": 405, "a": "children-s-literature", "b": "children-s-fiction", "an": "children's literature", "bn": "children's fiction", "d": "A", "by": "claude"}
+{"i": 406, "a": "traffic-management", "b": "traffic-control", "an": "traffic management", "bn": "traffic control", "d": "A", "by": "claude"}
+{"i": 407, "a": "literacy-education", "b": "literacy-instruction", "an": "literacy education", "bn": "literacy instruction", "d": "A", "by": "claude"}
+{"i": 408, "a": "mesenchymal-stem-cells", "b": "mesenchymal-stromal-cells", "an": "mesenchymal stem cells", "bn": "mesenchymal stromal cells", "d": "A", "by": "claude"}
+{"i": 409, "a": "political-participation", "b": "political-engagement", "an": "political participation", "bn": "political engagement", "d": "A", "by": "claude"}
+{"i": 410, "a": "textual-transmission", "b": "textual-tradition", "an": "textual transmission", "bn": "manuscript tradition", "d": "A", "by": "claude"}
+{"i": 411, "a": "quality-oriented-education", "b": "quality-education", "an": "quality-oriented education", "bn": "quality education", "d": "X", "by": "claude"}
+{"i": 412, "a": "healthcare-management", "b": "health-management", "an": "health care management", "bn": "health management", "d": "A", "by": "claude"}
+{"i": 413, "a": "mimo", "b": "mimo-systems", "an": "MIMO", "bn": "MIMO systems", "d": "A", "by": "claude"}
+{"i": 414, "a": "teacher-perceptions", "b": "faculty-perceptions", "an": "teacher perceptions", "bn": "faculty perceptions", "d": "A", "by": "claude"}
+{"i": 415, "a": "corticosteroid-therapy", "b": "steroid-therapy", "an": "corticosteroid therapy", "bn": "steroid therapy", "d": "A", "by": "claude"}
+{"i": 416, "a": "leverage", "b": "financial-leverage", "an": "leverage", "bn": "financial leverage", "d": "B", "by": "claude"}
+{"i": 417, "a": "drug-use", "b": "drug-utilization", "an": "drug use", "bn": "drug utilization", "d": "X", "by": "claude"}
+{"i": 418, "a": "medication-use", "b": "drug-utilization", "an": "medication use", "bn": "drug utilization", "d": "A", "by": "claude"}
+{"i": 419, "a": "heritage-management", "b": "cultural-heritage-management", "an": "heritage management", "bn": "cultural heritage management", "d": "A", "by": "claude"}
+{"i": 420, "a": "human-skeletal-remains", "b": "skeletal-remains", "an": "human skeletal remains", "bn": "skeletal remains", "d": "A", "by": "claude"}
+{"i": 421, "a": "evaluation-indicators", "b": "evaluation-metrics", "an": "evaluation indicators", "bn": "evaluation metrics", "d": "A", "by": "claude"}
+{"i": 422, "a": "citizen-participation", "b": "citizen-engagement", "an": "citizen participation", "bn": "citizen engagement", "d": "A", "by": "claude"}
+{"i": 423, "a": "civic-engagement", "b": "citizen-engagement", "an": "civic engagement", "bn": "citizen engagement", "d": "A", "by": "claude"}
+{"i": 424, "a": "legal-liability", "b": "liability", "an": "legal liability", "bn": "liability", "d": "A", "by": "claude"}
+{"i": 425, "a": "cancer-biomarkers", "b": "tumor-biomarkers", "an": "cancer biomarkers", "bn": "tumor biomarkers", "d": "A", "by": "claude"}
+{"i": 426, "a": "harbors", "b": "ports", "an": "harbors", "bn": "ports", "d": "B", "by": "claude"}
+{"i": 427, "a": "coronary-artery-disease", "b": "coronary-atherosclerosis", "an": "coronary artery disease", "bn": "coronary atherosclerosis", "d": "A", "by": "claude"}
+{"i": 428, "a": "american-revolution", "b": "american-revolutionary-war", "an": "American Revolution", "bn": "American Revolutionary War", "d": "A", "by": "claude"}
+{"i": 429, "a": "spatial-data", "b": "geospatial-data", "an": "spatial data", "bn": "geospatial data", "d": "A", "by": "claude"}
+{"i": 430, "a": "labor-relations", "b": "labor-management-relations", "an": "labor relations", "bn": "labor-management relations", "d": "A", "by": "claude"}
+{"i": 431, "a": "echinococcosis", "b": "hydatid-cyst", "an": "echinococcosis", "bn": "hydatid cyst", "d": "A", "by": "claude"}
+{"i": 432, "a": "animal-models", "b": "laboratory-animal-models", "an": "animal models", "bn": "experimental animal model", "d": "A", "by": "claude"}
+{"i": 433, "a": "archaeological-find", "b": "archaeological-artefact", "an": "archaeological finds", "bn": "archaeological artefact", "d": "A", "by": "claude"}
+{"i": 434, "a": "archaeological-artifacts", "b": "archaeological-artefact", "an": "archaeological artifacts", "bn": "archaeological artefact", "d": "A", "by": "claude"}
+{"i": 435, "a": "radiation-hardness", "b": "radioresistance", "an": "radiation resistance", "bn": "radioresistance", "d": "A", "by": "claude"}
+{"i": 436, "a": "european-union-foreign-policy", "b": "eu-external-relations", "an": "EU foreign policy", "bn": "EU external relations", "d": "A", "by": "claude"}
+{"i": 437, "a": "antipsychotic-drugs", "b": "antipsychotic-treatment", "an": "antipsychotic drugs", "bn": "antipsychotic treatment", "d": "A", "by": "claude"}
+{"i": 438, "a": "integration-of-theory-and-practice", "b": "theory-practice-relationship", "an": "theory-practice integration", "bn": "theory-practice relationship", "d": "A", "by": "claude"}
+{"i": 439, "a": "folic-acid", "b": "folate", "an": "folic acid", "bn": "folate", "d": "A", "by": "claude"}
+{"i": 440, "a": "scale-development", "b": "assessment-instrument-development", "an": "scale development", "bn": "assessment instrument development", "d": "A", "by": "claude"}
+{"i": 441, "a": "audiovisual-media", "b": "audiovisual-materials", "an": "audiovisual media", "bn": "audiovisual materials", "d": "A", "by": "claude"}
+{"i": 442, "a": "reformed-theology", "b": "calvinism", "an": "Reformed theology", "bn": "Calvinism", "d": "A", "by": "claude"}
+{"i": 443, "a": "tunnel-construction", "b": "tunneling", "an": "tunnel construction", "bn": "tunneling", "d": "X", "by": "claude"}
+{"i": 444, "a": "internet-access", "b": "internet-connectivity", "an": "internet access", "bn": "internet connectivity", "d": "A", "by": "claude"}
+{"i": 445, "a": "career-choice", "b": "career-decision-making", "an": "career choice", "bn": "career decision-making", "d": "A", "by": "claude"}
+{"i": 446, "a": "solid-state-synthesis", "b": "solid-state-reaction", "an": "solid-state synthesis", "bn": "solid-state reaction", "d": "A", "by": "claude"}
+{"i": 447, "a": "co-design", "b": "collaborative-design", "an": "co-design", "bn": "collaborative design", "d": "A", "by": "claude"}
+{"i": 448, "a": "biomass-burning", "b": "biomass-combustion", "an": "biomass burning", "bn": "biomass combustion", "d": "X", "by": "claude"}
+{"i": 449, "a": "burns", "b": "thermal-injury", "an": "burns", "bn": "thermal injury", "d": "A", "by": "claude"}
+{"i": 450, "a": "radiative-transfer", "b": "radiative-heat-transfer", "an": "radiative transfer", "bn": "radiative heat transfer", "d": "A", "by": "claude"}
+{"i": 451, "a": "exercise-testing", "b": "stress-testing", "an": "exercise testing", "bn": "stress testing", "d": "X", "by": "claude"}
+{"i": 452, "a": "impaired-glucose-tolerance", "b": "glucose-intolerance", "an": "impaired glucose tolerance", "bn": "glucose intolerance", "d": "A", "by": "claude"}
+{"i": 453, "a": "animal-locomotion", "b": "animal-movement", "an": "Animal locomotion", "bn": "animal movement", "d": "X", "by": "claude"}
+{"i": 454, "a": "translation-strategies", "b": "translation-techniques", "an": "translation strategies", "bn": "translation techniques", "d": "A", "by": "claude"}
+{"i": 455, "a": "legislative-proposal", "b": "draft-legislation", "an": "legislative proposal", "bn": "draft legislation", "d": "A", "by": "claude"}
+{"i": 456, "a": "crime", "b": "criminal-offenses", "an": "crime", "bn": "criminal offenses", "d": "A", "by": "claude"}
+{"i": 457, "a": "archaeological-find", "b": "archaeological-remains", "an": "archaeological finds", "bn": "archaeological remains", "d": "A", "by": "claude"}
+{"i": 458, "a": "soil-improvement", "b": "ground-improvement", "an": "soil improvement", "bn": "ground improvement", "d": "A", "by": "claude"}
+{"i": 459, "a": "maternity-care", "b": "maternal-health-services", "an": "obstetric care", "bn": "maternal health services", "d": "A", "by": "claude"}
+{"i": 460, "a": "oxygen-concentration", "b": "oxygen-content", "an": "oxygen concentration", "bn": "oxygen content", "d": "A", "by": "claude"}
+{"i": 461, "a": "ethics-education", "b": "teacher-professional-ethics", "an": "ethics education", "bn": "teacher ethics", "d": "X", "by": "claude"}
+{"i": 462, "a": "igm", "b": "igm-antibodies", "an": "IgM", "bn": "IgM antibodies", "d": "A", "by": "claude"}
+{"i": 463, "a": "information-dissemination", "b": "information-diffusion", "an": "information dissemination", "bn": "information diffusion", "d": "A", "by": "claude"}
+{"i": 464, "a": "international-research-collaboration", "b": "international-scientific-cooperation", "an": "international research collaboration", "bn": "international scientific cooperation", "d": "A", "by": "claude"}
+{"i": 465, "a": "thyroid-disease", "b": "thyroid-dysfunction", "an": "thyroid disease", "bn": "thyroid dysfunction", "d": "A", "by": "claude"}
+{"i": 466, "a": "radiographic-diagnosis", "b": "radiological-diagnosis", "an": "radiographic diagnosis", "bn": "radiological diagnosis", "d": "A", "by": "claude"}
+{"i": 467, "a": "hierarchical-structure", "b": "hierarchy", "an": "hierarchical structure", "bn": "hierarchy", "d": "B", "by": "claude"}
+{"i": 468, "a": "mortgage-lending", "b": "mortgage", "an": "mortgage lending", "bn": "mortgage", "d": "B", "by": "claude"}
+{"i": 469, "a": "women-workers", "b": "working-women", "an": "women workers", "bn": "working women", "d": "A", "by": "claude"}
+{"i": 470, "a": "women-s-employment", "b": "working-women", "an": "women's employment", "bn": "working women", "d": "A", "by": "claude"}
+{"i": 471, "a": "influenza-vaccination", "b": "influenza-vaccine", "an": "influenza vaccination", "bn": "influenza vaccine", "d": "A", "by": "claude"}
+{"i": 472, "a": "liver-histopathology", "b": "liver-histology", "an": "liver histopathology", "bn": "liver histology", "d": "A", "by": "claude"}
+{"i": 473, "a": "deviant-behavior", "b": "deviance", "an": "deviant behavior", "bn": "deviance", "d": "A", "by": "claude"}
+{"i": 474, "a": "entrepreneurship-education", "b": "entrepreneurship-training", "an": "entrepreneurship education", "bn": "entrepreneurship training", "d": "A", "by": "claude"}
+{"i": 475, "a": "managerial-decision-making", "b": "business-decision-making", "an": "management decision-making", "bn": "business decision-making", "d": "A", "by": "claude"}
+{"i": 476, "a": "competency-based-education", "b": "competency-based-approach", "an": "competency-based education", "bn": "competency-based approach", "d": "A", "by": "claude"}
+{"i": 477, "a": "gene-mutations", "b": "mutation", "an": "genetic mutations", "bn": "mutation", "d": "B", "by": "claude"}
+{"i": 478, "a": "anodic-oxidation", "b": "anodization", "an": "anodic oxidation", "bn": "anodization", "d": "B", "by": "claude"}
+{"i": 479, "a": "proverbs", "b": "aphorisms", "an": "proverbs", "bn": "aphorisms", "d": "X", "by": "claude"}
+{"i": 480, "a": "collective-memory", "b": "social-memory", "an": "collective memory", "bn": "social memory", "d": "A", "by": "claude"}
+{"i": 481, "a": "research-methods", "b": "study-skills", "an": "research methods", "bn": "study skills", "d": "X", "by": "claude"}
+{"i": 482, "a": "cross-cultural-comparison", "b": "cross-cultural-differences", "an": "cross-cultural comparison", "bn": "cross-cultural differences", "d": "A", "by": "claude"}
+{"i": 483, "a": "gamma-radiation", "b": "gamma-ray-emission", "an": "gamma radiation", "bn": "gamma-ray emission", "d": "X", "by": "claude"}
+{"i": 484, "a": "value-theory", "b": "axiology", "an": "value theory", "bn": "axiology", "d": "A", "by": "claude"}
+{"i": 485, "a": "wireless-lan", "b": "wlan", "an": "wireless LAN", "bn": "WLAN", "d": "A", "by": "claude"}
+{"i": 486, "a": "child-language-acquisition", "b": "child-language-development", "an": "child language acquisition", "bn": "child language development", "d": "A", "by": "claude"}
+{"i": 487, "a": "regional-disparities", "b": "spatial-inequality", "an": "regional disparities", "bn": "spatial inequality", "d": "A", "by": "claude"}
+{"i": 488, "a": "relative-density", "b": "specific-gravity", "an": "relative density", "bn": "specific gravity", "d": "A", "by": "claude"}
+{"i": 489, "a": "erythrocyte-sedimentation-rate", "b": "sedimentation-rate", "an": "erythrocyte sedimentation rate", "bn": "sedimentation rate", "d": "A", "by": "claude"}
+{"i": 490, "a": "species-occurrences", "b": "occurrence-records", "an": "species occurrence records", "bn": "species occurrence record", "d": "A", "by": "claude"}
+{"i": 491, "a": "traffic-flow", "b": "traffic-volume", "an": "traffic flow", "bn": "traffic volume", "d": "A", "by": "claude"}
+{"i": 492, "a": "creditors-rights", "b": "creditor-protection", "an": "creditor rights", "bn": "creditor protection", "d": "A", "by": "claude"}
+{"i": 493, "a": "self-reflection", "b": "introspection", "an": "self-reflection", "bn": "introspection", "d": "A", "by": "claude"}
+{"i": 494, "a": "informal-economy", "b": "shadow-economy", "an": "informal economy", "bn": "shadow economy", "d": "X", "by": "claude"}
+{"i": 495, "a": "rock-core", "b": "drill-core", "an": "rock core", "bn": "drill core", "d": "A", "by": "claude"}
+{"i": 496, "a": "thermogenesis", "b": "heat-generation", "an": "thermogenesis", "bn": "heat generation", "d": "X", "by": "claude"}
+{"i": 497, "a": "francoism", "b": "francoist-spain", "an": "Francoism", "bn": "Francoist Spain", "d": "A", "by": "claude"}
+{"i": 498, "a": "distribution-networks", "b": "power-distribution-networks", "an": "distribution networks", "bn": "power distribution networks", "d": "X", "by": "claude"}
+{"i": 499, "a": "treatment-discontinuation", "b": "treatment-dropout", "an": "treatment discontinuation", "bn": "treatment dropout", "d": "A", "by": "claude"}

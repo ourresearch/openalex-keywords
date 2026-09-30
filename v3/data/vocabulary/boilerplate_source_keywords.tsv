@@ -1,0 +1,42 @@
+source_id	source_name	kid	works	src_works
+https://openalex.org/S7407052672	NIFS	large-helical-device	41203541	41203541
+https://openalex.org/S4398183272	Global Biodiversity Information Facility	species-occurrences	4492574	4682468
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	fungal-taxonomy	3571561	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	its-sequences	3571542	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	species-hypothesis	3571537	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	dna-barcoding	3569284	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	fungi	3478023	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	sequence-clustering	3478017	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	reference-sequences	3477944	3571818
+https://openalex.org/S7407051207	Plutof.  Data Management and Publishing Platform	unite-database	3475311	3571818
+https://openalex.org/S7407051306	International Treaty on Plant Genetic Resources for Food and Agriculture	plant-genetic-resources	1924284	1975411
+https://openalex.org/S7407053504	BacDive	molecular-biology	1249591	1310420
+https://openalex.org/S7407053504	BacDive	bacterial-morphology	1187488	1310420
+https://openalex.org/S7407053504	BacDive	bacterial-physiology	1187488	1310420
+https://openalex.org/S7407053504	BacDive	bacterial-taxonomy	1186468	1310420
+https://openalex.org/S7407053564	Straininfo	culture-collection	443286	461256
+https://openalex.org/S7407053564	Straininfo	strain-identifiers	441259	461256
+https://openalex.org/S14436165	Reactions Weekly	adverse-drug-reactions	285727	297796
+https://openalex.org/S7407052865	Leibniz-Institut für Astrophysik Potsdam (AIP)	astronomical-plates	260497	279262
+https://openalex.org/S4363604055	IUCN Red List of Threatened Species	extinction-risk-assessment	253002	255061
+https://openalex.org/S4363604055	IUCN Red List of Threatened Species	conservation-status	248256	255061
+https://openalex.org/S7407051834	Genebank Information System of the IPK Gatersleben	plant-genetic-resources-for-food-and-agriculture	209524	210191
+https://openalex.org/S7407051834	Genebank Information System of the IPK Gatersleben	germplasm-accession	200318	210191
+https://openalex.org/S7407060685	LPSN	prokaryotic-names	131378	131378
+https://openalex.org/S7407060685	LPSN	prokaryotic-nomenclature	131378	131378
+https://openalex.org/S7407060685	LPSN	bacterial-taxonomy	131378	131378
+https://openalex.org/S7407052380	Pitt Quantum Repository	molecular-structure	101468	106099
+https://openalex.org/S7407051775	INRAE	germplasm-accession	67456	70782
+https://openalex.org/S146636433	Acta Crystallographica Section E Structure Reports Online	crystal-structure	37997	40632
+https://openalex.org/S4363604076	Lexicon Gregorianum Online	gregory-of-nyssa	27095	27972
+https://openalex.org/S149116045	Acta Crystallographica Section C Crystal Structure Communications	crystal-structure	20332	22424
+https://openalex.org/S7407050851	SXS Collaboration	numerical-relativity	19367	19367
+https://openalex.org/S7407050851	SXS Collaboration	gravitational-waves	19367	19367
+https://openalex.org/S7407050851	SXS Collaboration	black-hole-mergers	19301	19367
+https://openalex.org/S7407050851	SXS Collaboration	binary-black-holes	19301	19367
+https://openalex.org/S7407050851	SXS Collaboration	gravitational-waveforms	19280	19367
+https://openalex.org/S147774598	Journal of Cystic Fibrosis	cystic-fibrosis	18153	19275
+https://openalex.org/S7407052690	Small Bodies Node SBN of NASA's Planetary Data System (PDS)- Archives	minor-planet	15635	16433
+https://openalex.org/S7407052690	Small Bodies Node SBN of NASA's Planetary Data System (PDS)- Archives	orbit-determination	15426	16433
+https://openalex.org/S4306504457	Birds of the World	bird-species-account	13687	14764
+https://openalex.org/S97897396	Zeitschrift für Kristallographie - New Crystal Structures	crystal-structure	10878	11308

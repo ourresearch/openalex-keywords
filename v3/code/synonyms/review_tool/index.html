@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>Synonym review</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font:16px/1.4 -apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;background:#f6f6f4;color:#121212}
+.top{position:sticky;top:0;background:#fff;border-bottom:1px solid #e3e2dd;padding:10px 16px;display:flex;gap:14px;align-items:center;z-index:2}
+.bar{flex:1;height:6px;background:#eceae4;border-radius:3px;overflow:hidden}.bar i{display:block;height:100%;background:#2a78d6;width:0}
+.stat{font-size:13px;color:#52514e;white-space:nowrap}.saved{font-size:12px;color:#1b7a3c}.saved.err{color:#b54a00}
+main{max-width:980px;margin:0 auto;padding:18px 16px 140px}
+.q{font-size:13px;color:#8a8984;margin:0 0 10px}.votes{font-size:12px;color:#8a8984}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.kw{background:#fff;border:1px solid #e3e2dd;border-radius:12px;padding:16px}
+.kw h2{margin:0 0 4px;font-size:24px;line-height:1.2;word-break:break-word}.kw .n{font-size:13px;color:#52514e;margin-bottom:10px}
+.kw ul{margin:0;padding-left:18px;font-size:13.5px;color:#3a3a3c}.kw li{margin:0 0 6px}
+.tag{display:inline-block;font:600 11px/1 -apple-system,sans-serif;color:#fff;background:#8a8984;border-radius:4px;padding:3px 6px;margin-right:6px;vertical-align:3px}
+.acts{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid #e3e2dd;padding:10px 12px;display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+button{font:600 15px/1.2 -apple-system,sans-serif;border:0;border-radius:10px;padding:14px 6px;cursor:pointer;color:#fff}
+.mA{background:#2a78d6}.mB{background:#2a78d6}.x{background:#d9480f}.s{background:#9a9993}.u{background:#fff;color:#121212;border:1px solid #cfcdc6}
+kbd{font:600 11px ui-monospace,monospace;background:rgba(255,255,255,.25);border-radius:3px;padding:1px 4px;margin-left:4px}.u kbd{background:#eee}
+.done{text-align:center;padding:60px 10px;font-size:20px}
+@media(max-width:640px){.pair{grid-template-columns:1fr}.kw h2{font-size:20px}.acts{grid-template-columns:1fr 1fr 1fr}.acts .u{grid-column:span 1}}
+</style></head><body>
+<div class="top"><div class="stat" id="stat">loading…</div><div class="bar"><i id="bar"></i></div><div class="saved" id="saved"></div></div>
+<main id="main"></main>
+<div class="acts">
+  <button class="mA" id="bA">Merge → left<kbd>A</kbd></button>
+  <button class="mB" id="bB">Merge → right<kbd>B</kbd></button>
+  <button class="x" id="bX">Keep apart<kbd>X</kbd></button>
+  <button class="s" id="bS">Skip<kbd>Space</kbd></button>
+  <button class="u" id="bU">Undo<kbd>Z</kbd></button>
+</div>
+<script>
+const base=location.pathname.replace(/\/$/,'');let items=[],dec={},cur=0,hist=[],t0=Date.now(),n0=0;
+const $=id=>document.getElementById(id),esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt=n=>n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?Math.round(n/1e3)+'K':n;
+function next(from){for(let k=from;k<items.length;k++)if(!(String(items[k].i) in dec)||dec[items[k].i].d==='U')return k;return items.length}
+function render(){const done=Object.values(dec).filter(r=>r.d!=='U').length;$('bar').style.width=(100*done/items.length)+'%';
+ const rate=(done-n0)/Math.max(1,(Date.now()-t0)/60000);$('stat').textContent=`${done} / ${items.length} decided`+(done>n0?` · ${rate.toFixed(0)}/min`:'');
+ if(cur>=items.length){$('main').innerHTML=`<div class="done">All ${items.length} pairs reviewed. Thank you. Decisions are saved on desk; tell the #1322 session "done".</div>`;return}
+ const it=items[cur];const card=(side,name,w,ex,big)=>`<div class="kw"><div><span class="tag">${side}</span>${big?'<span class="votes">more works</span>':''}</div><h2>${esc(name)}</h2><div class="n">${w.toLocaleString()} works</div><ul>${ex.map(t=>`<li>${esc(t)}</li>`).join('')}</ul></div>`;
+ $('main').innerHTML=`<p class="q">Same concept? Merge into the heading to keep, or keep apart. · pair ${cur+1} of ${items.length} · <span class="votes">model judges: ${esc(it.votes)}</span></p><div class="pair">${card('LEFT',it.an,it.aw,it.ax,true)}${card('RIGHT',it.bn,it.bw,it.bx,false)}</div>`}
+let pending=JSON.parse(localStorage.getItem('pending')||'[]');
+async function flush(){while(pending.length){try{const r=await fetch(base+'/decide',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(pending[0])});if(!r.ok)throw 0;pending.shift();localStorage.setItem('pending',JSON.stringify(pending));$('saved').textContent='saved';$('saved').className='saved'}catch(e){$('saved').textContent='offline, will retry';$('saved').className='saved err';setTimeout(flush,3000);return}}}
+function decide(d){if(cur>=items.length&&d!=='U')return;
+ if(d==='U'){const k=hist.pop();if(k===undefined)return;const r={i:items[k].i,d:'U'};dec[items[k].i]=r;pending.push(r);cur=k}
+ else{const it=items[cur];const r={i:it.i,d,a:it.a,b:it.b};dec[it.i]=r;pending.push(r);hist.push(cur);cur=next(cur+1)}
+ localStorage.setItem('pending',JSON.stringify(pending));flush();render()}
+$('bA').onclick=()=>decide('A');$('bB').onclick=()=>decide('B');$('bX').onclick=()=>decide('X');$('bS').onclick=()=>decide('S');$('bU').onclick=()=>decide('U');
+addEventListener('keydown',e=>{const k=e.key.toLowerCase();if(k==='a'||k==='arrowleft')decide('A');else if(k==='b'||k==='arrowright')decide('B');else if(k==='x'||k==='arrowdown')decide('X');else if(k===' '){e.preventDefault();decide('S')}else if(k==='z')decide('U')});
+(async()=>{items=await (await fetch(base+'/items')).json();dec=await (await fetch(base+'/decisions')).json();n0=Object.values(dec).filter(r=>r.d!=='U').length;cur=next(0);render();flush()})();
+</script></body></html>

@@ -1,0 +1,18 @@
+# Files too large for git (or held back pending a decision)
+
+Nothing below is uploaded anywhere yet. Hosting any of it needs Jason's approval first. Proposed homes: **Hugging Face** for the model (it is where people look for weights and it works with `transformers` / vLLM directly) and **Hugging Face Datasets or Zenodo** for the data (Zenodo gives a DOI and a permanent citation).
+
+| artifact | size | where it is now | proposed home | why it matters |
+|---|---|---|---|---|
+| **Student weights** `student_qwen4b_v3fix` (Qwen3-4B full fine-tune, bf16 safetensors + tokenizer) | 7.5 GiB | Modal Volume `oxjob1322`, `/models/student_qwen4b_v3fix` | Hugging Face model repo, e.g. `OpenAlex/keywords-v3-qwen3-4b` | Lets anyone tag new text exactly as OpenAlex does, without retraining. Base model license Apache-2.0. |
+| Teacher labels, all 944,707 requests (`god_v3.jsonl`: id, model, effort, keywords, usage) | 307 MB (77 MB gzipped) | job scratch (`god/results/god_v3.jsonl`) | HF Datasets / Zenodo | Retrains the student without Opus calls (level C). Only the 13,677 held-out rows are in this repo. |
+| Student training / eval files (`student_train_v3.jsonl`, `student_eval_v3.jsonl`: id, prompt text, target) | 815 MB + 12 MB | Modal Volume and job scratch | not needed if the labels are published: rebuild from labels + OpenAlex text with `student_gen_data.py` | Contains titles and abstracts. |
+| Corpus tagger output (`keywords_student_v3fix`: id, keywords, per-keyword log-prob, 474.3M works) | ≈ 45 GB gzipped JSONL (4,000 files) | Databricks Volume + table `openalex.transient.keywords_student_v3fix` | Zenodo / HF Datasets, or leave to the OpenAlex snapshot | Raw model output before the vocabulary rules; lets others build their own vocabulary. |
+| Served work keywords (`openalex.works.work_keywords_v2`) | 420.9M works, 2.37B rows | Databricks | already public through the OpenAlex API and snapshot | Nothing to add. |
+| Synonym round-4 "twins" verdicts (`judged_twins.jsonl`, 1,553,192 pairs) | 192 MB (36.6 MB gzipped) | job scratch | HF Datasets / Zenodo with the other synonym files | Needed to rebuild `synmap9` exactly from verdicts. Every other verdict file is in `data/synonyms/judgments/`. |
+| Intermediate vocabularies used for hub choice in `build_synmap3.py` (`vocab.jsonl`, `vocab_f/g/h/i.jsonl`, `vocab_all.jsonl`) | 175 to 237 MB each | job scratch | same | Works counts that decide which heading a merge group gets. |
+| bge-m3 neighbour pairs (`pairs*.jsonl`) | 0.3 to 1.5 GB each | job scratch | optional | Candidate generation only; `modal_embed_knn.py` regenerates them in minutes. |
+| **Author-keyword gold slices** (akw_field, akw_pubmed, akw_landing, akw_repo: titles, abstracts, author keywords) | ≈ 40 MB | OpenAlex job scratch (#1306, #1322) | **decision needed** | A standing decision keeps author keywords internal. Options: (a) keep them private (the ids and splits are published, and akw_field can be rebuilt with `pull_akw_field.py` by anyone with OpenAlex data access); (b) publish the PubMed part only (NLM data); (c) publish all four. |
+| MeSH gold (4,728 PubMed works + MeSH headings) and judge gold v1.2 (1,198 works, Fable-judged) | 18 MB + ≈ 24 MB | OpenAlex job scratch (#1306, #1292) | small enough for git once approved | Diagnostics, not the headline. MeSH is NLM data. The judge gold is LLM-made. |
+
+Also not published, on purpose: work text (titles, abstracts). Every file here identifies works by OpenAlex id; fetch the text from the OpenAlex API or snapshot. The exception is `data/teacher/prompt_pilot/SIDE_BY_SIDE.md`, which quotes the first 200 characters of 20 abstracts.
