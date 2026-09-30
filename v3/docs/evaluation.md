@@ -15,15 +15,17 @@ It was built on 2026-09-22 to compare keyword designs on one benchmark, before t
 | akw_kp20k | the KP20k sample | KP20k keyphrases treated as author keywords | top-8 F1 | via `fetch_ext.py` |
 | kp20k | 2,000 random of the 20K test set (seed 1322) | present / absent keyphrases (PRMU), Porter-stemmed | F1@5 | via `fetch_ext.py` (Hugging Face `taln-ls2n/kp20k`) |
 | inspec | 500 (test) | indexer phrases, Porter-stemmed | F1@5 | via `fetch_ext.py` (`taln-ls2n/inspec`) |
-| mesh | 4,728 human-indexed PubMed works 2017 to 2022 | MeSH descriptors (views a / b / c) | micro F1, threshold fit on train+val | splits + scores |
-| judge | 1,198 | Fable-judged relevant keywords (gold v1.2) | P / R / F1, unjudged share | splits + scores |
+| mesh | 4,728 human-indexed PubMed works 2017 to 2022 | MeSH descriptors (views a / b / c) | micro F1, threshold fit on train+val | **labels** (`data/eval/golds/j1306/`) + splits + scores |
+| judge | 1,198 | Fable-judged relevant keywords (gold v1.2) | P / R / F1, unjudged share | **labels** (`data/eval/golds/j1292/`, `j1322/`) + splits + scores |
 | tibkat | 2,000 English TIBKAT records | GND codes | skipped for v3 (German headings) | splits |
 
 The **author-keyword composite** is the mean test top-8 F1 over the five akw slices. It is the headline number because it is the only one built from human labels that describe what each work is about.
 
 Splits: `data/eval/splits/<gold>.json` maps work id → train / val / test (50 / 20 / 30, seed 1322, stratified). Scores: `data/eval/results/<gold>__student_v3fix.json` and `__today.json` (v2 production), plus the full leaderboard of earlier arms in `data/eval/leaderboard.md`. The student's raw output on every harness work is in `data/eval/student_v3fix_harness_tags.json.gz` (`{work_id: [[keyword, mean log-prob], ...]}`).
 
-**Not released yet, pending a decision:** the label files for the akw slices, MeSH and the judge gold. The akw slices are author keywords harvested from PubMed and publisher landing pages. A standing OpenAlex decision keeps author keywords internal (labels, gold and priors only, never public), and that decision predates this release. Publishing them, or only their PubMed part (NLM data), is Jason's call. See [../data/LARGE_FILES.md](../data/LARGE_FILES.md). Without them, anyone can still re-score KP20k and Inspec end to end, and anyone with OpenAlex access can rebuild akw_field with `pull_akw_field.py`.
+**Released labels:** the MeSH gold (4,728 PubMed works identified by PMID, with their MeSH headings; MeSH and PubMed indexing are NLM public-domain data) and the judge gold v1.2 (1,198 works: relevant and chosen keywords, the candidate pools and delta candidates the judge saw), plus the MeSH 2026 descriptor table the loader needs. Ids and labels only: no titles or abstracts. Scoring the released student tags against them reproduces the published rows exactly (MeSH view a test F1 0.2227; judge random-set test F1 0.2682).
+
+**Kept private:** the akw slices' labels. They are author keywords harvested from PubMed and publisher landing pages, and a standing OpenAlex decision keeps author keywords internal. Their ids, splits and scores are published, anyone can re-score KP20k and Inspec end to end, and anyone with OpenAlex access can rebuild akw_field with `pull_akw_field.py`.
 
 Commands:
 
@@ -35,7 +37,7 @@ python score.py --gold kp20k --arm arms/kp20k__student_v3fix.jsonl --json result
 python leaderboard.py                                      # -> leaderboard.md
 ```
 
-`golds.py` loads each gold from `KW_GOLDS_DIR` (default `code/eval/golds/`), one folder per originating OpenAlex job: `j1292` (judge gold), `j1306` (MeSH sample, slices, TIBKAT), `j1295`, `j1319`. `normalize_kw.py` is the shared `canon()` used for exact matching.
+`golds.py` loads each gold from `KW_GOLDS_DIR` (default `v3/data/eval/golds/`), one folder per originating OpenAlex job: `j1292` + `j1322` (judge gold), `j1306` (MeSH sample and descriptors; the private slices and TIBKAT would go here too). Files over 5 MB are gzipped and read transparently. Splits are read from `v3/data/eval/splits/`. `normalize_kw.py` is the shared `canon()` used for exact matching.
 
 ## Teacher harness (code/student, code/teacher/pilot2, code/tagging)
 

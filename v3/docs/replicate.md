@@ -7,7 +7,7 @@ This page is for a person or an AI agent. Run the steps in order, and check each
 | level | needs | reproduces |
 |---|---|---|
 | **A. Check the claims** | Python 3.11, this repository | teacher-imitation F1, synonym map statistics, vocabulary statistics, rule tables |
-| **B. Re-score the benchmarks** | A + a GPU with the student weights (or `data/eval/student_v3fix_harness_tags.json.gz`) | KP20k / Inspec rows; the akw rows need the akw label files (see LARGE_FILES) |
+| **B. Re-score the benchmarks** | A + a GPU with the student weights (or `data/eval/student_v3fix_harness_tags.json.gz`) | KP20k / Inspec (fetched), MeSH and judge-gold rows (labels in `data/eval/golds/`); the akw labels are private |
 | **C. Rebuild from teacher labels** | the released teacher labels (LARGE_FILES), 8 GPUs with ≥ 141 GB each for 2 h, a tagging cluster, a SQL engine over OpenAlex | student, corpus tags, vocabulary |
 | **D. Full rerun** | C + an Anthropic API key with Opus 5.5 access | everything, including new teacher labels and synonym verdicts |
 

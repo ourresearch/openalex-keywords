@@ -41,7 +41,7 @@ Step-by-step commands are in [docs/pipeline.md](docs/pipeline.md). The vocabular
 ## Closed and open parts
 
 - **Closed:** every call to a closed model went to Claude Opus 5.5 (`claude-opus-5-5`, Anthropic API, structured JSON outputs). That covers the teacher and every judge. [prompts/](prompts/) has each prompt verbatim, with its model id, effort setting, token limit and output schema.
-- **Open:** the student base model [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B), the embedding model [BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3), vLLM, PyTorch, Transformers and Accelerate. The fine-tuned student weights are not in this repository yet (see [data/LARGE_FILES.md](data/LARGE_FILES.md)).
+- **Open:** the student base model [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B), the embedding model [BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3), vLLM, PyTorch, Transformers and Accelerate. The fine-tuned student weights will be published on Hugging Face as `OpenAlex/keywords-v3-qwen3-4b`, and the large data files (all teacher labels, synonym verdicts, intermediate vocabularies) as the dataset `OpenAlex/keywords-v3-data`. Neither is uploaded yet; links will be added here when they are live (see [data/LARGE_FILES.md](data/LARGE_FILES.md)).
 
 ## Replicate it
 
