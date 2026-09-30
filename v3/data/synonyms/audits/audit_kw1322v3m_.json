@@ -1,0 +1,969 @@
+{
+ "prefix": "kw1322v3m_",
+ "n": 1000,
+ "candidates": 457,
+ "with_split": 136,
+ "share": 0.136,
+ "works_weighted_share": 0.09122159358715759,
+ "examples": [
+  [
+   "electron cyclotron heating",
+   1172788,
+   [
+    "ECRH"
+   ]
+  ],
+  [
+   "COVID-19",
+   750695,
+   [
+    "coronavirus disease 2019"
+   ]
+  ],
+  [
+   "19th century",
+   549353,
+   [
+    "1800s"
+   ]
+  ],
+  [
+   "insulin resistance",
+   447453,
+   [
+    "insulin insensitivity"
+   ]
+  ],
+  [
+   "forest inventory",
+   391474,
+   [
+    "forest survey"
+   ]
+  ],
+  [
+   "antibacterial activity",
+   329962,
+   [
+    "antibacterial properties"
+   ]
+  ],
+  [
+   "early diagnosis",
+   261429,
+   [
+    "early detection"
+   ]
+  ],
+  [
+   "tuberculosis",
+   243331,
+   [
+    "consumption"
+   ]
+  ],
+  [
+   "support vector machine",
+   242828,
+   [
+    "SVM"
+   ]
+  ],
+  [
+   "multinational corporations",
+   172275,
+   [
+    "multinational enterprise"
+   ]
+  ],
+  [
+   "lipid metabolism",
+   168594,
+   [
+    "fat metabolism"
+   ]
+  ],
+  [
+   "fast ions",
+   157686,
+   [
+    "suprathermal ions"
+   ]
+  ],
+  [
+   "Australia",
+   153227,
+   [
+    "Commonwealth of Australia"
+   ]
+  ],
+  [
+   "inflammatory markers",
+   110552,
+   [
+    "biomarkers of inflammation",
+    "inflammation marker"
+   ]
+  ],
+  [
+   "disease-free survival",
+   102964,
+   [
+    "DFS"
+   ]
+  ],
+  [
+   "shelf life",
+   80611,
+   [
+    "storage life"
+   ]
+  ],
+  [
+   "kidney stones",
+   79347,
+   [
+    "kidney calculi"
+   ]
+  ],
+  [
+   "hypothyroidism",
+   75492,
+   [
+    "thyroid insufficiency"
+   ]
+  ],
+  [
+   "psychosis",
+   75154,
+   [
+    "psychotic disorders"
+   ]
+  ],
+  [
+   "alternative dispute resolution",
+   72674,
+   [
+    "ADR"
+   ]
+  ],
+  [
+   "maternal education",
+   65978,
+   [
+    "maternal educational level"
+   ]
+  ],
+  [
+   "Brassica napus",
+   64694,
+   [
+    "oilseed rape"
+   ]
+  ],
+  [
+   "gout",
+   45945,
+   [
+    "podagra"
+   ]
+  ],
+  [
+   "tumor immunology",
+   45642,
+   [
+    "oncoimmunology"
+   ]
+  ],
+  [
+   "antibacterial agents",
+   45586,
+   [
+    "antibacterial drug"
+   ]
+  ],
+  [
+   "gastrointestinal cancer",
+   44803,
+   [
+    "digestive tract cancer"
+   ]
+  ],
+  [
+   "Xinjiang",
+   43298,
+   [
+    "Sinkiang"
+   ]
+  ],
+  [
+   "surrealism",
+   41893,
+   [
+    "Surrealist movement"
+   ]
+  ],
+  [
+   "shipwreck",
+   41759,
+   [
+    "sunken ships"
+   ]
+  ],
+  [
+   "chemotaxis",
+   41498,
+   [
+    "chemotactic response"
+   ]
+  ],
+  [
+   "bradycardia",
+   40073,
+   [
+    "slow heart rate"
+   ]
+  ],
+  [
+   "ICT in education",
+   36047,
+   [
+    "information and communication technology in education"
+   ]
+  ],
+  [
+   "Guangdong",
+   35460,
+   [
+    "Kwangtung"
+   ]
+  ],
+  [
+   "crack initiation",
+   33346,
+   [
+    "crack nucleation"
+   ]
+  ],
+  [
+   "classroom practice",
+   32996,
+   [
+    "teaching practice"
+   ]
+  ],
+  [
+   "intonation",
+   32768,
+   [
+    "speech melody"
+   ]
+  ],
+  [
+   "health risks",
+   28611,
+   [
+    "health hazards"
+   ]
+  ],
+  [
+   "IgA",
+   25921,
+   [
+    "immunoglobulin A"
+   ]
+  ],
+  [
+   "disease course",
+   24259,
+   [
+    "clinical course"
+   ]
+  ],
+  [
+   "manual therapy",
+   23881,
+   [
+    "manipulative therapy"
+   ]
+  ],
+  [
+   "analgesic activity",
+   23078,
+   [
+    "analgesic effect"
+   ]
+  ],
+  [
+   "business administration",
+   22336,
+   [
+    "business management"
+   ]
+  ],
+  [
+   "social bonds",
+   21666,
+   [
+    "social ties"
+   ]
+  ],
+  [
+   "collateral",
+   18056,
+   [
+    "collateral security"
+   ]
+  ],
+  [
+   "labor analgesia",
+   15700,
+   [
+    "intrapartum analgesia"
+   ]
+  ],
+  [
+   "6061 aluminum alloy",
+   14567,
+   [
+    "AA6061"
+   ]
+  ],
+  [
+   "internet regulation",
+   14296,
+   [
+    "online regulation"
+   ]
+  ],
+  [
+   "saphenous vein graft",
+   13239,
+   [
+    "saphenous vein bypass graft"
+   ]
+  ],
+  [
+   "clinical chemistry",
+   12615,
+   [
+    "chemical pathology"
+   ]
+  ],
+  [
+   "motivational factors",
+   12517,
+   [
+    "motivators"
+   ]
+  ],
+  [
+   "TRIPS Agreement",
+   12283,
+   [
+    "TRIPS"
+   ]
+  ],
+  [
+   "RNA",
+   10981,
+   [
+    "ribonucleic acid"
+   ]
+  ],
+  [
+   "advanced heart failure",
+   10826,
+   [
+    "end-stage heart failure",
+    "stage D heart failure"
+   ]
+  ],
+  [
+   "genetics education",
+   9192,
+   [
+    "genetics teaching"
+   ]
+  ],
+  [
+   "competency-based assessment",
+   9111,
+   [
+    "competence-based assessment"
+   ]
+  ],
+  [
+   "magnetorheological fluid",
+   9027,
+   [
+    "MRF"
+   ]
+  ],
+  [
+   "capital stock",
+   8529,
+   [
+    "physical capital stock"
+   ]
+  ],
+  [
+   "Durban",
+   7952,
+   [
+    "eThekwini"
+   ]
+  ],
+  [
+   "compact antenna design",
+   7104,
+   [
+    "antenna miniaturization"
+   ]
+  ],
+  [
+   "flow rate measurement",
+   7062,
+   [
+    "flow measurement"
+   ]
+  ],
+  [
+   "behavioral risk factors",
+   6901,
+   [
+    "lifestyle risk factors"
+   ]
+  ],
+  [
+   "variable range hopping",
+   6517,
+   [
+    "Mott variable range hopping"
+   ]
+  ],
+  [
+   "farm diversification",
+   6009,
+   [
+    "agricultural diversification"
+   ]
+  ],
+  [
+   "grapevine cultivars",
+   5347,
+   [
+    "grape varieties"
+   ]
+  ],
+  [
+   "volumetric strain",
+   4800,
+   [
+    "volumetric deformation"
+   ]
+  ],
+  [
+   "PCBM",
+   4737,
+   [
+    "PC61BM"
+   ]
+  ],
+  [
+   "TE and TM modes",
+   4390,
+   [
+    "transverse electric and transverse magnetic modes"
+   ]
+  ],
+  [
+   "human image",
+   3883,
+   [
+    "image of man"
+   ]
+  ],
+  [
+   "arterial disease",
+   3857,
+   [
+    "arteriopathy"
+   ]
+  ],
+  [
+   "student handbook",
+   2753,
+   [
+    "student guide"
+   ]
+  ],
+  [
+   "Yanomami",
+   2632,
+   [
+    "Yanomama"
+   ]
+  ],
+  [
+   "poor metabolizers",
+   2403,
+   [
+    "slow metabolizers"
+   ]
+  ],
+  [
+   "clergy education",
+   2274,
+   [
+    "clerical education"
+   ]
+  ],
+  [
+   "multidrug resistance genes",
+   2064,
+   [
+    "MDR genes"
+   ]
+  ],
+  [
+   "Fe3Al",
+   1797,
+   [
+    "Fe3Al intermetallic"
+   ]
+  ],
+  [
+   "shapefile",
+   1768,
+   [
+    "ESRI Shapefile"
+   ]
+  ],
+  [
+   "cross-curricular integration",
+   1746,
+   [
+    "curriculum integration"
+   ]
+  ],
+  [
+   "Kounis syndrome",
+   1548,
+   [
+    "allergic myocardial infarction"
+   ]
+  ],
+  [
+   "malignant pheochromocytoma",
+   1438,
+   [
+    "metastatic pheochromocytoma"
+   ]
+  ],
+  [
+   "function fitting",
+   1278,
+   [
+    "curve fitting"
+   ]
+  ],
+  [
+   "multi-organ involvement",
+   1275,
+   [
+    "multisystem involvement"
+   ]
+  ],
+  [
+   "geochemical indicators",
+   1218,
+   [
+    "geochemical proxies"
+   ]
+  ],
+  [
+   "compressed natural gas vehicles",
+   1183,
+   [
+    "CNG vehicles"
+   ]
+  ],
+  [
+   "Teatro alla Scala",
+   1182,
+   [
+    "La Scala"
+   ]
+  ],
+  [
+   "harmonic rejection",
+   1095,
+   [
+    "harmonic suppression"
+   ]
+  ],
+  [
+   "subjective quality",
+   1053,
+   [
+    "perceived quality"
+   ]
+  ],
+  [
+   "classical Hollywood cinema",
+   1007,
+   [
+    "classical Hollywood"
+   ]
+  ],
+  [
+   "battery degradation mechanisms",
+   984,
+   [
+    "battery aging mechanisms"
+   ]
+  ],
+  [
+   "tirapazamine",
+   978,
+   [
+    "SR 4233"
+   ]
+  ],
+  [
+   "electricity policy",
+   951,
+   [
+    "power policy"
+   ]
+  ],
+  [
+   "graphene-metal interface",
+   922,
+   [
+    "metal-graphene contacts"
+   ]
+  ],
+  [
+   "microwave sources",
+   916,
+   [
+    "microwave generators"
+   ]
+  ],
+  [
+   "fermentation characteristics",
+   909,
+   [
+    "fermentation properties"
+   ]
+  ],
+  [
+   "finance leases",
+   908,
+   [
+    "capital leases",
+    "financial lease"
+   ]
+  ],
+  [
+   "vehicle speed reduction",
+   884,
+   [
+    "traffic speed reduction"
+   ]
+  ],
+  [
+   "POMC neurons",
+   869,
+   [
+    "proopiomelanocortin neurons"
+   ]
+  ],
+  [
+   "moving charges",
+   849,
+   [
+    "moving electric charges"
+   ]
+  ],
+  [
+   "intronless genes",
+   702,
+   [
+    "single-exon genes"
+   ]
+  ],
+  [
+   "MFSK",
+   663,
+   [
+    "M-ary frequency shift keying"
+   ]
+  ],
+  [
+   "oxidosqualene cyclase",
+   596,
+   [
+    "2,3-oxidosqualene cyclase"
+   ]
+  ],
+  [
+   "helical trajectory",
+   584,
+   [
+    "helical path"
+   ]
+  ],
+  [
+   "best constant factor",
+   583,
+   [
+    "sharp constants"
+   ]
+  ],
+  [
+   "phosphorus application rate",
+   580,
+   [
+    "phosphorus fertilization rate"
+   ]
+  ],
+  [
+   "two-piano music",
+   543,
+   [
+    "two pianos"
+   ]
+  ],
+  [
+   "vulnerable children and adolescents",
+   535,
+   [
+    "vulnerable youth"
+   ]
+  ],
+  [
+   "Adenium obesum",
+   506,
+   [
+    "desert rose"
+   ]
+  ],
+  [
+   "Accademia dei Lincei",
+   488,
+   [
+    "Accademia Nazionale dei Lincei"
+   ]
+  ],
+  [
+   "quasiconformal homeomorphisms",
+   437,
+   [
+    "quasiconformal mappings"
+   ]
+  ],
+  [
+   "pharmaceutical active ingredients",
+   435,
+   [
+    "active pharmaceutical ingredients"
+   ]
+  ],
+  [
+   "subjective health assessment",
+   434,
+   [
+    "self-rated health"
+   ]
+  ],
+  [
+   "PTH(1-84)",
+   424,
+   [
+    "intact PTH",
+    "parathyroid hormone 1-84"
+   ]
+  ],
+  [
+   "turbine-generator units",
+   401,
+   [
+    "turbine-generator set"
+   ]
+  ],
+  [
+   "thermonuclear plasma",
+   372,
+   [
+    "fusion plasma"
+   ]
+  ],
+  [
+   "opioid weaning",
+   363,
+   [
+    "opioid tapering"
+   ]
+  ],
+  [
+   "eyesight",
+   362,
+   [
+    "vision"
+   ]
+  ],
+  [
+   "Apicotermitinae",
+   338,
+   [
+    "soldierless termites"
+   ]
+  ],
+  [
+   "Caesalpinia bonducella",
+   332,
+   [
+    "Caesalpinia bonduc",
+    "Guilandina bonduc"
+   ]
+  ],
+  [
+   "investor incentives",
+   319,
+   [
+    "investment incentives"
+   ]
+  ],
+  [
+   "laser drive circuit",
+   314,
+   [
+    "laser driver circuit"
+   ]
+  ],
+  [
+   "calcium phosphate scale",
+   305,
+   [
+    "calcium phosphate deposits"
+   ]
+  ],
+  [
+   "iron monoxide",
+   274,
+   [
+    "FeO",
+    "ferrous oxide",
+    "iron(II) oxide"
+   ]
+  ],
+  [
+   "sonic hedgehog subgroup",
+   234,
+   [
+    "SHH subgroup"
+   ]
+  ],
+  [
+   "growth termination",
+   214,
+   [
+    "growth cessation"
+   ]
+  ],
+  [
+   "Viktor Shukshin",
+   213,
+   [
+    "Vasily Shukshin"
+   ]
+  ],
+  [
+   "reptation theory",
+   211,
+   [
+    "reptation model"
+   ]
+  ],
+  [
+   "photomechanical response",
+   191,
+   [
+    "photomechanical effect"
+   ]
+  ],
+  [
+   "native cultivars",
+   189,
+   [
+    "indigenous cultivars"
+   ]
+  ],
+  [
+   "financial execution",
+   187,
+   [
+    "budget execution"
+   ]
+  ],
+  [
+   "European Union trade relations",
+   173,
+   [
+    "EU trade relations"
+   ]
+  ],
+  [
+   "kicked rotator",
+   144,
+   [
+    "kicked rotor"
+   ]
+  ],
+  [
+   "normal gauge",
+   144,
+   [
+    "standard gauge"
+   ]
+  ],
+  [
+   "modular mind",
+   139,
+   [
+    "modularity of mind"
+   ]
+  ],
+  [
+   "immensity",
+   130,
+   [
+    "vastness"
+   ]
+  ],
+  [
+   "test-negative case-control design",
+   124,
+   [
+    "test-negative design"
+   ]
+  ],
+  [
+   "nitrogen-doped carbon nanospheres",
+   110,
+   [
+    "N-doped carbon nanospheres"
+   ]
+  ],
+  [
+   "aerial image object detection",
+   105,
+   [
+    "aerial object detection"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "new|abstract": {
+  "works": 341,
+  "kw": 9.35,
+  "empty": 0.009,
+  "precision": 0.905,
+  "good_per_work": 8.47,
+  "f1_vs_opus": 0.514
+ },
+ "new|short": {
+  "works": 88,
+  "kw": 6.06,
+  "empty": 0.057,
+  "precision": 0.829,
+  "good_per_work": 5.02,
+  "f1_vs_opus": 0.59
+ },
+ "new|title_only": {
+  "works": 271,
+  "kw": 4.05,
+  "empty": 0.207,
+  "precision": 0.729,
+  "good_per_work": 2.95,
+  "f1_vs_opus": 0.558
+ },
+ "new|xpac": {
+  "works": 300,
+  "kw": 5.73,
+  "empty": 0.153,
+  "precision": 0.828,
+  "good_per_work": 4.74,
+  "f1_vs_opus": 0.596
+ },
+ "new|all_nonxpac": {
+  "works": 700,
+  "kw": 6.89,
+  "empty": 0.091,
+  "precision": 0.856,
+  "good_per_work": 5.9,
+  "f1_vs_opus": 0.54
+ },
+ "old|abstract": {
+  "works": 341,
+  "kw": 7.43,
+  "empty": 0.006,
+  "precision": 0.92,
+  "good_per_work": 6.83,
+  "f1_vs_opus": 0.402
+ },
+ "old|short": {
+  "works": 88,
+  "kw": 5.38,
+  "empty": 0.068,
+  "precision": 0.801,
+  "good_per_work": 4.31,
+  "f1_vs_opus": 0.52
+ },
+ "old|title_only": {
+  "works": 271,
+  "kw": 4.1,
+  "empty": 0.21,
+  "precision": 0.673,
+  "good_per_work": 2.76,
+  "f1_vs_opus": 0.467
+ },
+ "old|all_nonxpac": {
+  "works": 700,
+  "kw": 5.88,
+  "empty": 0.093,
+  "precision": 0.84,
+  "good_per_work": 4.94,
+  "f1_vs_opus": 0.442
+ },
+ "opus|abstract": {
+  "works": 341,
+  "kw": 10.76,
+  "empty": 0.009,
+  "precision": 0.953,
+  "good_per_work": 10.25,
+  "f1_vs_opus": null
+ },
+ "opus|short": {
+  "works": 88,
+  "kw": 6.1,
+  "empty": 0.057,
+  "precision": 0.87,
+  "good_per_work": 5.31,
+  "f1_vs_opus": null
+ },
+ "opus|title_only": {
+  "works": 271,
+  "kw": 4.03,
+  "empty": 0.196,
+  "precision": 0.825,
+  "good_per_work": 3.32,
+  "f1_vs_opus": null
+ },
+ "opus|xpac": {
+  "works": 300,
+  "kw": 6.01,
+  "empty": 0.137,
+  "precision": 0.885,
+  "good_per_work": 5.32,
+  "f1_vs_opus": null
+ },
+ "opus|all_nonxpac": {
+  "works": 700,
+  "kw": 7.57,
+  "empty": 0.087,
+  "precision": 0.918,
+  "good_per_work": 6.95,
+  "f1_vs_opus": null
+ }
+}

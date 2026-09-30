@@ -1,0 +1,991 @@
+{
+ "prefix": "kw1322v3h_",
+ "n": 1000,
+ "candidates": 329,
+ "with_split": 138,
+ "share": 0.138,
+ "works_weighted_share": 0.08387054177928911,
+ "examples": [
+  [
+   "Doppler reflectometry",
+   2416851,
+   [
+    "Doppler backscattering"
+   ]
+  ],
+  [
+   "Lepidoptera",
+   1426130,
+   [
+    "butterflies and moths"
+   ]
+  ],
+  [
+   "China",
+   661329,
+   [
+    "People's Republic of China"
+   ]
+  ],
+  [
+   "anxiety",
+   541325,
+   [
+    "anxiousness"
+   ]
+  ],
+  [
+   "high-temperature superconductors",
+   188516,
+   [
+    "high-Tc superconductor"
+   ]
+  ],
+  [
+   "environmental impact",
+   183440,
+   [
+    "environmental effects"
+   ]
+  ],
+  [
+   "cardiovascular risk factors",
+   182227,
+   [
+    "CVD risk factors"
+   ]
+  ],
+  [
+   "invasive species",
+   160843,
+   [
+    "alien invasive species"
+   ]
+  ],
+  [
+   "Australia",
+   153227,
+   [
+    "Commonwealth of Australia"
+   ]
+  ],
+  [
+   "small business",
+   131624,
+   [
+    "small enterprise"
+   ]
+  ],
+  [
+   "sermons",
+   117513,
+   [
+    "homilies"
+   ]
+  ],
+  [
+   "corticosteroids",
+   115003,
+   [
+    "corticoids"
+   ]
+  ],
+  [
+   "NF-κB",
+   107696,
+   [
+    "NFKB"
+   ]
+  ],
+  [
+   "adverse effects",
+   102781,
+   [
+    "side effects"
+   ]
+  ],
+  [
+   "whole genome sequencing",
+   75493,
+   [
+    "full genome sequencing"
+   ]
+  ],
+  [
+   "molecular weight",
+   63888,
+   [
+    "molar mass",
+    "molecular mass"
+   ]
+  ],
+  [
+   "nitrous oxide",
+   60178,
+   [
+    "dinitrogen monoxide"
+   ]
+  ],
+  [
+   "finite difference method",
+   57165,
+   [
+    "finite differences"
+   ]
+  ],
+  [
+   "religious history",
+   54508,
+   [
+    "history of religions"
+   ]
+  ],
+  [
+   "moral responsibility",
+   52953,
+   [
+    "moral accountability"
+   ]
+  ],
+  [
+   "cereals",
+   50868,
+   [
+    "grain"
+   ]
+  ],
+  [
+   "revenge",
+   36126,
+   [
+    "retaliation"
+   ]
+  ],
+  [
+   "myocardial perfusion imaging",
+   30360,
+   [
+    "myocardial perfusion scintigraphy"
+   ]
+  ],
+  [
+   "elective surgery",
+   23673,
+   [
+    "non-emergency surgery"
+   ]
+  ],
+  [
+   "electric double layer",
+   22146,
+   [
+    "double layer"
+   ]
+  ],
+  [
+   "VEGFR2",
+   21434,
+   [
+    "VEGF receptor 2"
+   ]
+  ],
+  [
+   "sexual reproduction",
+   17239,
+   [
+    "amphimixis"
+   ]
+  ],
+  [
+   "rheumatic fever",
+   16594,
+   [
+    "acute rheumatic fever"
+   ]
+  ],
+  [
+   "nicotinamide",
+   15398,
+   [
+    "nicotinic acid amide"
+   ]
+  ],
+  [
+   "intraocular lens",
+   15265,
+   [
+    "intraocular implants"
+   ]
+  ],
+  [
+   "confounding factors",
+   15052,
+   [
+    "confounding variable"
+   ]
+  ],
+  [
+   "building conversion",
+   14995,
+   [
+    "adaptive reuse",
+    "building repurposing"
+   ]
+  ],
+  [
+   "blood analysis",
+   14108,
+   [
+    "blood testing"
+   ]
+  ],
+  [
+   "time to treatment",
+   13103,
+   [
+    "time to therapy"
+   ]
+  ],
+  [
+   "sun protection",
+   12583,
+   [
+    "photoprotection"
+   ]
+  ],
+  [
+   "SUMOylation",
+   12266,
+   [
+    "SUMO conjugation"
+   ]
+  ],
+  [
+   "capacity utilization",
+   11424,
+   [
+    "operating rate"
+   ]
+  ],
+  [
+   "heritage valorization",
+   10864,
+   [
+    "heritage enhancement"
+   ]
+  ],
+  [
+   "building rehabilitation",
+   9913,
+   [
+    "building renovation"
+   ]
+  ],
+  [
+   "Chinese revolution",
+   8944,
+   [
+    "Chinese Communist revolution"
+   ]
+  ],
+  [
+   "home-based intervention",
+   7914,
+   [
+    "home-based programs"
+   ]
+  ],
+  [
+   "planar waveguides",
+   7480,
+   [
+    "slab waveguide"
+   ]
+  ],
+  [
+   "ecophysiology",
+   6980,
+   [
+    "physiological ecology"
+   ]
+  ],
+  [
+   "river terraces",
+   6926,
+   [
+    "stream terraces"
+   ]
+  ],
+  [
+   "Wittig reaction",
+   6482,
+   [
+    "Wittig olefination"
+   ]
+  ],
+  [
+   "slash-and-burn agriculture",
+   6353,
+   [
+    "slash-and-burn"
+   ]
+  ],
+  [
+   "triclinic P-1",
+   6179,
+   [
+    "space group P-1"
+   ]
+  ],
+  [
+   "renin-angiotensin system blockade",
+   6000,
+   [
+    "RAAS blockade",
+    "RAS blockade",
+    "RAS inhibition"
+   ]
+  ],
+  [
+   "passive solar design",
+   5780,
+   [
+    "passive solar architecture"
+   ]
+  ],
+  [
+   "free verse",
+   5381,
+   [
+    "vers libre"
+   ]
+  ],
+  [
+   "delayed feedback",
+   5247,
+   [
+    "delay feedback"
+   ]
+  ],
+  [
+   "life imprisonment",
+   4820,
+   [
+    "life sentences"
+   ]
+  ],
+  [
+   "price mechanism",
+   4634,
+   [
+    "price system"
+   ]
+  ],
+  [
+   "Banach-Steinhaus theorem",
+   4573,
+   [
+    "uniform boundedness principle"
+   ]
+  ],
+  [
+   "type B aortic dissection",
+   4552,
+   [
+    "Stanford type B aortic dissection"
+   ]
+  ],
+  [
+   "bang-bang control",
+   4373,
+   [
+    "on-off control"
+   ]
+  ],
+  [
+   "G protein alpha subunit",
+   4335,
+   [
+    "Gα subunit"
+   ]
+  ],
+  [
+   "π-conjugated polymers",
+   3927,
+   [
+    "conjugated polymers"
+   ]
+  ],
+  [
+   "blinking",
+   3887,
+   [
+    "blink"
+   ]
+  ],
+  [
+   "legal regulation of AI",
+   3775,
+   [
+    "AI regulation"
+   ]
+  ],
+  [
+   "gypsum board",
+   3667,
+   [
+    "drywall",
+    "plasterboard",
+    "wallboard"
+   ]
+  ],
+  [
+   "LNG carriers",
+   3488,
+   [
+    "liquefied natural gas carriers",
+    "LNG tankers"
+   ]
+  ],
+  [
+   "Basil of Caesarea",
+   3444,
+   [
+    "Basil the Great"
+   ]
+  ],
+  [
+   "taste aversion",
+   3285,
+   [
+    "conditioned taste aversion"
+   ]
+  ],
+  [
+   "forecast bias",
+   3213,
+   [
+    "forecasting bias"
+   ]
+  ],
+  [
+   "electromagnetic transient simulation",
+   3116,
+   [
+    "EMT simulation"
+   ]
+  ],
+  [
+   "VEGF inhibitors",
+   2986,
+   [
+    "anti-VEGF agents"
+   ]
+  ],
+  [
+   "intestinal strictures",
+   2832,
+   [
+    "bowel stricture",
+    "intestinal stenosis"
+   ]
+  ],
+  [
+   "guide RNA",
+   2811,
+   [
+    "gRNA"
+   ]
+  ],
+  [
+   "antibody levels",
+   2732,
+   [
+    "antibody concentration"
+   ]
+  ],
+  [
+   "association statutes",
+   2715,
+   [
+    "articles of association"
+   ]
+  ],
+  [
+   "separate collection",
+   2706,
+   [
+    "source separation"
+   ]
+  ],
+  [
+   "nickel-based single crystal superalloy",
+   2566,
+   [
+    "nickel-base single crystal superalloy"
+   ]
+  ],
+  [
+   "organ dose",
+   2523,
+   [
+    "organ absorbed dose"
+   ]
+  ],
+  [
+   "kainate",
+   2173,
+   [
+    "kainic acid"
+   ]
+  ],
+  [
+   "street dwellers",
+   2110,
+   [
+    "rough sleepers"
+   ]
+  ],
+  [
+   "p-chloromercuribenzoate",
+   1963,
+   [
+    "PCMB"
+   ]
+  ],
+  [
+   "six-bar linkage",
+   1865,
+   [
+    "six-link mechanism"
+   ]
+  ],
+  [
+   "atmospheric particles",
+   1584,
+   [
+    "airborne particles"
+   ]
+  ],
+  [
+   "Lava Jato",
+   1574,
+   [
+    "Operation Car Wash"
+   ]
+  ],
+  [
+   "randomized block design",
+   1554,
+   [
+    "randomized complete block design"
+   ]
+  ],
+  [
+   "buttocks",
+   1545,
+   [
+    "gluteal region"
+   ]
+  ],
+  [
+   "Elizabethan church",
+   1477,
+   [
+    "Elizabethan Church of England"
+   ]
+  ],
+  [
+   "Joachim of Fiore",
+   1463,
+   [
+    "Gioacchino da Fiore"
+   ]
+  ],
+  [
+   "competency testing",
+   1406,
+   [
+    "competency assessment"
+   ]
+  ],
+  [
+   "intraocular lens fixation",
+   1333,
+   [
+    "IOL fixation"
+   ]
+  ],
+  [
+   "pulse waveform",
+   1333,
+   [
+    "pulse wave morphology"
+   ]
+  ],
+  [
+   "field inspection",
+   1288,
+   [
+    "on-site inspection"
+   ]
+  ],
+  [
+   "coitus",
+   1281,
+   [
+    "sexual intercourse"
+   ]
+  ],
+  [
+   "mesoporous titania",
+   1274,
+   [
+    "mesoporous TiO2",
+    "mesoporous titanium dioxide"
+   ]
+  ],
+  [
+   "deaths in custody",
+   1213,
+   [
+    "custodial deaths"
+   ]
+  ],
+  [
+   "CD35",
+   1200,
+   [
+    "complement receptor 1"
+   ]
+  ],
+  [
+   "cabbage aphid",
+   1193,
+   [
+    "Brevicoryne brassicae"
+   ]
+  ],
+  [
+   "cryomilling",
+   1143,
+   [
+    "cryogenic grinding"
+   ]
+  ],
+  [
+   "keratin 1",
+   1050,
+   [
+    "cytokeratin 1"
+   ]
+  ],
+  [
+   "Grus grus",
+   1049,
+   [
+    "common crane",
+    "Eurasian crane"
+   ]
+  ],
+  [
+   "Eugenia caryophyllata",
+   987,
+   [
+    "clove",
+    "Syzygium aromaticum"
+   ]
+  ],
+  [
+   "non-singular black holes",
+   984,
+   [
+    "regular black holes"
+   ]
+  ],
+  [
+   "growth lines",
+   980,
+   [
+    "growth increments"
+   ]
+  ],
+  [
+   "living with parents",
+   972,
+   [
+    "parental co-residence"
+   ]
+  ],
+  [
+   "arms reduction",
+   872,
+   [
+    "weapons reduction"
+   ]
+  ],
+  [
+   "unique factorization domains",
+   857,
+   [
+    "factorial rings"
+   ]
+  ],
+  [
+   "subgradient optimization",
+   820,
+   [
+    "subgradient method"
+   ]
+  ],
+  [
+   "physician selection",
+   804,
+   [
+    "physician choice"
+   ]
+  ],
+  [
+   "shielding design",
+   747,
+   [
+    "radiation shielding design"
+   ]
+  ],
+  [
+   "mRNA capping",
+   702,
+   [
+    "5' capping"
+   ]
+  ],
+  [
+   "error injection",
+   639,
+   [
+    "fault injection"
+   ]
+  ],
+  [
+   "work rhythm",
+   626,
+   [
+    "work pace"
+   ]
+  ],
+  [
+   "corrected gestational age",
+   609,
+   [
+    "corrected age"
+   ]
+  ],
+  [
+   "fracture interaction",
+   585,
+   [
+    "crack interaction"
+   ]
+  ],
+  [
+   "tympanic bulla",
+   542,
+   [
+    "auditory bulla"
+   ]
+  ],
+  [
+   "Madurese",
+   500,
+   [
+    "Madura people"
+   ]
+  ],
+  [
+   "APOC2",
+   482,
+   [
+    "apolipoprotein C-II"
+   ]
+  ],
+  [
+   "mean pressure",
+   475,
+   [
+    "average pressure"
+   ]
+  ],
+  [
+   "Pärnu",
+   431,
+   [
+    "Pernau"
+   ]
+  ],
+  [
+   "Al composition",
+   427,
+   [
+    "aluminum composition"
+   ]
+  ],
+  [
+   "freshwater beetles",
+   422,
+   [
+    "aquatic beetles"
+   ]
+  ],
+  [
+   "porous network structure",
+   361,
+   [
+    "porous networks"
+   ]
+  ],
+  [
+   "Candida spp.",
+   316,
+   [
+    "Candida species"
+   ]
+  ],
+  [
+   "region of attraction estimation",
+   277,
+   [
+    "domain of attraction estimation"
+   ]
+  ],
+  [
+   "Pseudomonas savastanoi pv. glycinea",
+   274,
+   [
+    "Pseudomonas syringae pv. glycinea"
+   ]
+  ],
+  [
+   "insurance premium subsidies",
+   268,
+   [
+    "premium subsidies"
+   ]
+  ],
+  [
+   "Second Jewish-Roman War",
+   250,
+   [
+    "Bar Kochba revolt",
+    "Bar Kokhba revolt"
+   ]
+  ],
+  [
+   "prosthetic eye",
+   245,
+   [
+    "artificial eye",
+    "ocular prosthesis"
+   ]
+  ],
+  [
+   "ad libitum diet",
+   233,
+   [
+    "ad libitum feeding"
+   ]
+  ],
+  [
+   "small water utilities",
+   206,
+   [
+    "small water systems"
+   ]
+  ],
+  [
+   "insect juvenile hormone",
+   185,
+   [
+    "juvenile hormone"
+   ]
+  ],
+  [
+   "Shi'i political thought",
+   169,
+   [
+    "Shia political thought"
+   ]
+  ],
+  [
+   "Carignan",
+   167,
+   [
+    "Cariñena"
+   ]
+  ],
+  [
+   "tumor-associated trypsin inhibitor",
+   161,
+   [
+    "pancreatic secretory trypsin inhibitor",
+    "SPINK1",
+    "TATI"
+   ]
+  ],
+  [
+   "minutiae-based matching",
+   154,
+   [
+    "minutiae matching"
+   ]
+  ],
+  [
+   "triplefin",
+   152,
+   [
+    "Tripterygiidae"
+   ]
+  ],
+  [
+   "laboratory practical skills",
+   151,
+   [
+    "laboratory skills"
+   ]
+  ],
+  [
+   "Twiddler syndrome",
+   137,
+   [
+    "Twiddler's syndrome"
+   ]
+  ],
+  [
+   "algorithm literacy",
+   131,
+   [
+    "algorithmic literacy"
+   ]
+  ],
+  [
+   "high-flow periods",
+   129,
+   [
+    "high flows"
+   ]
+  ],
+  [
+   "global DEMs",
+   114,
+   [
+    "global digital elevation models"
+   ]
+  ],
+  [
+   "texture uniformity",
+   102,
+   [
+    "texture homogeneity"
+   ]
+  ]
+ ]
+}

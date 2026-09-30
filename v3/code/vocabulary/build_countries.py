@@ -37,7 +37,7 @@ with cf.ThreadPoolExecutor(12) as ex:
 for x in out:
     x['aliases'] = sorted({a.lower().strip() for a in x['aliases'] + [x['name'].lower()] if a.strip()})
     x['adjectives'] = sorted({a.lower().strip() for a in x['adjectives'] if a.strip()}); x['native'] = sorted({a.lower().strip() for a in x['native'] if a.strip()})
-json.dump(out, open(f'{HERE}/data/countries.json', 'w'), ensure_ascii=False, indent=0)
+json.dump(out, open(os.path.join(HERE, '..', '..', 'data', 'vocabulary', 'countries.json'), 'w'), ensure_ascii=False, indent=0)   # released layout
 q = lambda s: "'" + s.replace("\\", "\\\\").replace("'", "\\'") + "'"
 arr = lambda xs: "array(" + ", ".join(q(s) for s in xs) + ")" if xs else "CAST(array() AS ARRAY<STRING>)"
 dbx.sql("CREATE OR REPLACE TABLE openalex.transient.kw1322_countries AS SELECT * FROM VALUES " + ", ".join(f"({q(x['cc'])}, {q(x['name'])}, {arr(x['aliases'])}, {arr(x['adjectives'])}, {arr(x['native'])})" for x in out)

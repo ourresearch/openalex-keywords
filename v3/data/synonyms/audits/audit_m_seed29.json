@@ -1,0 +1,740 @@
+{
+ "prefix": "kw1322v3m_",
+ "n": 1000,
+ "candidates": 374,
+ "with_split": 103,
+ "share": 0.103,
+ "works_weighted_share": 0.13821809158166817,
+ "examples": [
+  [
+   "neutral beam injection",
+   4961593,
+   [
+    "NBI"
+   ]
+  ],
+  [
+   "Doppler reflectometry",
+   2416851,
+   [
+    "Doppler backscattering"
+   ]
+  ],
+  [
+   "Doppler backscattering",
+   1432809,
+   [
+    "Doppler reflectometry"
+   ]
+  ],
+  [
+   "China",
+   661328,
+   [
+    "People's Republic of China"
+   ]
+  ],
+  [
+   "developing countries",
+   458713,
+   [
+    "Third World"
+   ]
+  ],
+  [
+   "seasonal variation",
+   445976,
+   [
+    "seasonality"
+   ]
+  ],
+  [
+   "animals",
+   341560,
+   [
+    "metazoans"
+   ]
+  ],
+  [
+   "children's literature",
+   259399,
+   [
+    "children's books",
+    "juvenile literature"
+   ]
+  ],
+  [
+   "surgical treatment",
+   257427,
+   [
+    "surgery"
+   ]
+  ],
+  [
+   "foreign direct investment",
+   220013,
+   [
+    "FDI"
+   ]
+  ],
+  [
+   "porosity",
+   192728,
+   [
+    "pore fraction"
+   ]
+  ],
+  [
+   "Australia",
+   153227,
+   [
+    "Commonwealth of Australia"
+   ]
+  ],
+  [
+   "carbon dioxide",
+   135473,
+   [
+    "carbonic acid gas",
+    "carbonic anhydride"
+   ]
+  ],
+  [
+   "regional variation",
+   115677,
+   [
+    "geographic variation"
+   ]
+  ],
+  [
+   "land tenure",
+   101880,
+   [
+    "land tenure systems"
+   ]
+  ],
+  [
+   "intensive care",
+   100896,
+   [
+    "ICU care"
+   ]
+  ],
+  [
+   "porous media",
+   85757,
+   [
+    "porous materials"
+   ]
+  ],
+  [
+   "veterans",
+   82316,
+   [
+    "ex-servicemen",
+    "military veterans"
+   ]
+  ],
+  [
+   "self-control",
+   73991,
+   [
+    "self-discipline"
+   ]
+  ],
+  [
+   "evangelical Christianity",
+   67814,
+   [
+    "evangelical Protestantism"
+   ]
+  ],
+  [
+   "community service",
+   59969,
+   [
+    "community volunteering"
+   ]
+  ],
+  [
+   "corporate finance",
+   54739,
+   [
+    "business finance"
+   ]
+  ],
+  [
+   "ancient Rome",
+   49452,
+   [
+    "classical Rome"
+   ]
+  ],
+  [
+   "ethnic conflict",
+   48384,
+   [
+    "interethnic conflict"
+   ]
+  ],
+  [
+   "Belarus",
+   44947,
+   [
+    "Belorussia"
+   ]
+  ],
+  [
+   "shelf life extension",
+   43106,
+   [
+    "extended shelf life"
+   ]
+  ],
+  [
+   "cytochrome c oxidase",
+   38445,
+   [
+    "cytochrome aa3"
+   ]
+  ],
+  [
+   "water deficit",
+   30835,
+   [
+    "water deficiency"
+   ]
+  ],
+  [
+   "adversarial robustness",
+   24967,
+   [
+    "adversarial resilience"
+   ]
+  ],
+  [
+   "dissipation",
+   24022,
+   [
+    "energy dissipation"
+   ]
+  ],
+  [
+   "student voice",
+   23769,
+   [
+    "pupil voice"
+   ]
+  ],
+  [
+   "scanning tunneling microscopy",
+   23106,
+   [
+    "STM"
+   ]
+  ],
+  [
+   "sentence structure",
+   23039,
+   [
+    "syntactic structure"
+   ]
+  ],
+  [
+   "religious tourism",
+   21408,
+   [
+    "pilgrimage tourism"
+   ]
+  ],
+  [
+   "nutritional therapy",
+   17546,
+   [
+    "dietary therapy"
+   ]
+  ],
+  [
+   "treaties",
+   16373,
+   [
+    "international treaties"
+   ]
+  ],
+  [
+   "building structures",
+   16354,
+   [
+    "building structural systems"
+   ]
+  ],
+  [
+   "nasal cavity",
+   12692,
+   [
+    "nasal fossa"
+   ]
+  ],
+  [
+   "convenience stores",
+   12208,
+   [
+    "corner stores"
+   ]
+  ],
+  [
+   "aging treatment",
+   11878,
+   [
+    "precipitation hardening"
+   ]
+  ],
+  [
+   "purchasing",
+   10980,
+   [
+    "buying"
+   ]
+  ],
+  [
+   "ACE2 receptor",
+   8366,
+   [
+    "ACE2",
+    "angiotensin-converting enzyme 2"
+   ]
+  ],
+  [
+   "SPSS",
+   7208,
+   [
+    "IBM SPSS Statistics"
+   ]
+  ],
+  [
+   "motor vehicle tax",
+   7118,
+   [
+    "road tax"
+   ]
+  ],
+  [
+   "clinical severity",
+   6839,
+   [
+    "disease severity"
+   ]
+  ],
+  [
+   "working fluid",
+   6417,
+   [
+    "working medium"
+   ]
+  ],
+  [
+   "beggars",
+   6142,
+   [
+    "mendicants"
+   ]
+  ],
+  [
+   "White Americans",
+   4099,
+   [
+    "European Americans"
+   ]
+  ],
+  [
+   "academic chairs",
+   3778,
+   [
+    "professorship"
+   ]
+  ],
+  [
+   "mind control",
+   3643,
+   [
+    "thought control"
+   ]
+  ],
+  [
+   "marginalised groups",
+   3584,
+   [
+    "marginalized population"
+   ]
+  ],
+  [
+   "low-pressure discharge",
+   3563,
+   [
+    "low-pressure plasma discharge"
+   ]
+  ],
+  [
+   "heme iron",
+   3444,
+   [
+    "haem iron"
+   ]
+  ],
+  [
+   "highway driving",
+   3431,
+   [
+    "motorway driving"
+   ]
+  ],
+  [
+   "variable thermal conductivity",
+   3368,
+   [
+    "temperature-dependent thermal conductivity"
+   ]
+  ],
+  [
+   "methanol electrooxidation",
+   2657,
+   [
+    "methanol electro-oxidation"
+   ]
+  ],
+  [
+   "home-based business",
+   2609,
+   [
+    "home-based enterprises"
+   ]
+  ],
+  [
+   "bubble shape",
+   2456,
+   [
+    "bubble morphology"
+   ]
+  ],
+  [
+   "skin discoloration",
+   2256,
+   [
+    "dyschromia"
+   ]
+  ],
+  [
+   "valence band maximum",
+   2248,
+   [
+    "valence band top"
+   ]
+  ],
+  [
+   "prohibition of the use of force",
+   2158,
+   [
+    "non-use of force"
+   ]
+  ],
+  [
+   "intensivists",
+   2050,
+   [
+    "intensive care physicians"
+   ]
+  ],
+  [
+   "contact load",
+   1867,
+   [
+    "contact force"
+   ]
+  ],
+  [
+   "hart's-tongue fern",
+   1680,
+   [
+    "Asplenium scolopendrium"
+   ]
+  ],
+  [
+   "bioretention",
+   1666,
+   [
+    "bioretention cells"
+   ]
+  ],
+  [
+   "insect repellency",
+   1457,
+   [
+    "insect repellent activity"
+   ]
+  ],
+  [
+   "PMBOK Guide",
+   1401,
+   [
+    "PMBOK"
+   ]
+  ],
+  [
+   "political party funding",
+   1321,
+   [
+    "party finance",
+    "party funding",
+    "political party financing"
+   ]
+  ],
+  [
+   "chromatin modifiers",
+   1308,
+   [
+    "chromatin regulators"
+   ]
+  ],
+  [
+   "Heraklion",
+   1225,
+   [
+    "Candia"
+   ]
+  ],
+  [
+   "external cues",
+   1167,
+   [
+    "exogenous cues"
+   ]
+  ],
+  [
+   "educational actors",
+   1016,
+   [
+    "educational stakeholders"
+   ]
+  ],
+  [
+   "WEPP model",
+   999,
+   [
+    "Water Erosion Prediction Project",
+    "WEPP"
+   ]
+  ],
+  [
+   "cyclic olefins",
+   978,
+   [
+    "cycloalkenes"
+   ]
+  ],
+  [
+   "idiopathic portal hypertension",
+   905,
+   [
+    "idiopathic non-cirrhotic portal hypertension"
+   ]
+  ],
+  [
+   "oral health survey",
+   900,
+   [
+    "dental health survey"
+   ]
+  ],
+  [
+   "annual ring width",
+   888,
+   [
+    "tree-ring width"
+   ]
+  ],
+  [
+   "periorbital swelling",
+   732,
+   [
+    "periorbital edema"
+   ]
+  ],
+  [
+   "heme a",
+   645,
+   [
+    "haem a"
+   ]
+  ],
+  [
+   "neuronal stem cells",
+   629,
+   [
+    "neural stem cells"
+   ]
+  ],
+  [
+   "phosphoenolpyruvate:sugar phosphotransferase system",
+   493,
+   [
+    "phosphotransferase system"
+   ]
+  ],
+  [
+   "implantable neural interfaces",
+   490,
+   [
+    "neural implants"
+   ]
+  ],
+  [
+   "network interconnectivity",
+   458,
+   [
+    "network interconnection"
+   ]
+  ],
+  [
+   "non-uniform loading",
+   452,
+   [
+    "non-uniform load"
+   ]
+  ],
+  [
+   "detector configuration",
+   451,
+   [
+    "detector geometry",
+    "detector setup"
+   ]
+  ],
+  [
+   "water level observations",
+   444,
+   [
+    "water level measurement"
+   ]
+  ],
+  [
+   "Mimus polyglottos",
+   431,
+   [
+    "Northern Mockingbird"
+   ]
+  ],
+  [
+   "Celluclast",
+   365,
+   [
+    "Celluclast 1.5L"
+   ]
+  ],
+  [
+   "magnesium-nickel alloys",
+   337,
+   [
+    "Mg-Ni alloys"
+   ]
+  ],
+  [
+   "ambient pressure X-ray photoelectron spectroscopy",
+   326,
+   [
+    "near-ambient pressure XPS"
+   ]
+  ],
+  [
+   "cloud service deployment",
+   250,
+   [
+    "cloud deployment"
+   ]
+  ],
+  [
+   "zinc precursor",
+   234,
+   [
+    "zinc sources"
+   ]
+  ],
+  [
+   "mil",
+   204,
+   [
+    "thou"
+   ]
+  ],
+  [
+   "book stacks",
+   184,
+   [
+    "library stacks"
+   ]
+  ],
+  [
+   "American ambassadors",
+   159,
+   [
+    "United States ambassadors",
+    "US ambassadors"
+   ]
+  ],
+  [
+   "classical Kaposi's sarcoma",
+   155,
+   [
+    "classic Kaposi's sarcoma"
+   ]
+  ],
+  [
+   "5' capping",
+   144,
+   [
+    "mRNA capping"
+   ]
+  ],
+  [
+   "chondroblast differentiation",
+   139,
+   [
+    "chondrogenic differentiation"
+   ]
+  ],
+  [
+   "search query construction",
+   118,
+   [
+    "query formulation"
+   ]
+  ],
+  [
+   "hidden layer depth",
+   116,
+   [
+    "hidden layer number"
+   ]
+  ],
+  [
+   "Cuban exodus",
+   111,
+   [
+    "Cuban emigration"
+   ]
+  ],
+  [
+   "Escuela Superior Politécnica del Litoral",
+   103,
+   [
+    "ESPOL"
+   ]
+  ],
+  [
+   "non-canonical DNA secondary structures",
+   102,
+   [
+    "non-B DNA structures"
+   ]
+  ]
+ ]
+}

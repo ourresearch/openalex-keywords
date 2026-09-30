@@ -1,0 +1,315 @@
+Note that running a local entrypoint in detached mode only keeps the last triggered Modal function alive after the parent process has been killed or disconnected.
+✓ Initialized. View run at 
+https://modal.com/apps/<workspace>/main/<app-run>
+✓ Created objects.
+├── 🔨 Created mount 
+│   <local checkout>/code/student/
+│   modal_student.py
+├── 🔨 Created function train_and_infer_8.
+└── 🔨 Created function train_and_infer.
+== /tmp/work/student_gen_train_ddp.py --train /vol/data/student_train_v3.jsonl --out /vol/models/student_qwen4b_v3fix --limit 907610 --epochs 1.0 --bs 8 --grad-accum 1 --maxlen 640 --base Qwen/Qwen3-4B --no-grad-ckpt
+8 procs, 907,610 rows, 14181 optimizer steps
+step 50/14181 loss 2.090 lr 5.88e-06 29s
+step 100/14181 loss 1.222 lr 1.18e-05 55s
+step 150/14181 loss 1.031 lr 1.76e-05 80s
+step 200/14181 loss 0.945 lr 2.35e-05 105s
+step 250/14181 loss 0.906 lr 2.94e-05 131s
+step 300/14181 loss 0.939 lr 3.53e-05 156s
+step 350/14181 loss 0.904 lr 4.12e-05 181s
+step 400/14181 loss 0.919 lr 4.71e-05 206s
+step 450/14181 loss 0.885 lr 5.00e-05 232s
+step 500/14181 loss 0.869 lr 5.00e-05 257s
+step 550/14181 loss 0.878 lr 5.00e-05 282s
+step 600/14181 loss 0.888 lr 5.00e-05 307s
+step 650/14181 loss 0.862 lr 5.00e-05 332s
+step 700/14181 loss 0.882 lr 5.00e-05 357s
+step 750/14181 loss 0.828 lr 4.99e-05 383s
+step 800/14181 loss 0.851 lr 4.99e-05 408s
+step 850/14181 loss 0.844 lr 4.99e-05 433s
+step 900/14181 loss 0.813 lr 4.99e-05 459s
+step 950/14181 loss 0.842 lr 4.98e-05 484s
+step 1000/14181 loss 0.859 lr 4.98e-05 509s
+step 1050/14181 loss 0.856 lr 4.97e-05 535s
+step 1100/14181 loss 0.849 lr 4.97e-05 560s
+step 1150/14181 loss 0.820 lr 4.97e-05 585s
+step 1200/14181 loss 0.814 lr 4.96e-05 610s
+step 1250/14181 loss 0.808 lr 4.96e-05 636s
+step 1300/14181 loss 0.812 lr 4.95e-05 661s
+step 1350/14181 loss 0.810 lr 4.94e-05 686s
+step 1400/14181 loss 0.789 lr 4.94e-05 711s
+step 1450/14181 loss 0.782 lr 4.93e-05 737s
+step 1500/14181 loss 0.765 lr 4.93e-05 762s
+step 1550/14181 loss 0.823 lr 4.92e-05 787s
+step 1600/14181 loss 0.852 lr 4.91e-05 812s
+step 1650/14181 loss 0.829 lr 4.90e-05 838s
+step 1700/14181 loss 0.780 lr 4.89e-05 863s
+step 1750/14181 loss 0.784 lr 4.89e-05 888s
+step 1800/14181 loss 0.792 lr 4.88e-05 913s
+step 1850/14181 loss 0.810 lr 4.87e-05 938s
+step 1900/14181 loss 0.832 lr 4.86e-05 964s
+step 1950/14181 loss 0.805 lr 4.85e-05 989s
+step 2000/14181 loss 0.784 lr 4.84e-05 1014s
+step 2050/14181 loss 0.861 lr 4.83e-05 1039s
+step 2100/14181 loss 0.793 lr 4.82e-05 1064s
+step 2150/14181 loss 0.747 lr 4.81e-05 1090s
+step 2200/14181 loss 0.770 lr 4.80e-05 1115s
+step 2250/14181 loss 0.779 lr 4.79e-05 1140s
+step 2300/14181 loss 0.808 lr 4.77e-05 1165s
+step 2350/14181 loss 0.769 lr 4.76e-05 1191s
+step 2400/14181 loss 0.777 lr 4.75e-05 1216s
+step 2450/14181 loss 0.809 lr 4.74e-05 1241s
+step 2500/14181 loss 0.799 lr 4.72e-05 1266s
+step 2550/14181 loss 0.704 lr 4.71e-05 1291s
+step 2600/14181 loss 0.788 lr 4.70e-05 1317s
+step 2650/14181 loss 0.770 lr 4.68e-05 1342s
+step 2700/14181 loss 0.816 lr 4.67e-05 1367s
+step 2750/14181 loss 0.783 lr 4.66e-05 1393s
+step 2800/14181 loss 0.756 lr 4.64e-05 1418s
+step 2850/14181 loss 0.745 lr 4.63e-05 1443s
+step 2900/14181 loss 0.756 lr 4.61e-05 1469s
+step 2950/14181 loss 0.777 lr 4.60e-05 1494s
+step 3000/14181 loss 0.712 lr 4.58e-05 1519s
+step 3050/14181 loss 0.739 lr 4.56e-05 1544s
+step 3100/14181 loss 0.777 lr 4.55e-05 1569s
+step 3150/14181 loss 0.802 lr 4.53e-05 1594s
+step 3200/14181 loss 0.757 lr 4.51e-05 1620s
+step 3250/14181 loss 0.799 lr 4.50e-05 1645s
+step 3300/14181 loss 0.774 lr 4.48e-05 1670s
+step 3350/14181 loss 0.817 lr 4.46e-05 1695s
+step 3400/14181 loss 0.775 lr 4.44e-05 1721s
+step 3450/14181 loss 0.772 lr 4.43e-05 1746s
+step 3500/14181 loss 0.741 lr 4.41e-05 1771s
+step 3550/14181 loss 0.731 lr 4.39e-05 1797s
+step 3600/14181 loss 0.773 lr 4.37e-05 1822s
+step 3650/14181 loss 0.724 lr 4.35e-05 1847s
+step 3700/14181 loss 0.718 lr 4.33e-05 1872s
+step 3750/14181 loss 0.752 lr 4.31e-05 1898s
+step 3800/14181 loss 0.745 lr 4.29e-05 1923s
+step 3850/14181 loss 0.716 lr 4.27e-05 1948s
+step 3900/14181 loss 0.711 lr 4.25e-05 1973s
+step 3950/14181 loss 0.727 lr 4.23e-05 1998s
+step 4000/14181 loss 0.737 lr 4.21e-05 2023s
+step 4050/14181 loss 0.725 lr 4.19e-05 2049s
+step 4100/14181 loss 0.695 lr 4.17e-05 2074s
+step 4150/14181 loss 0.697 lr 4.15e-05 2099s
+step 4200/14181 loss 0.748 lr 4.13e-05 2124s
+step 4250/14181 loss 0.723 lr 4.11e-05 2150s
+step 4300/14181 loss 0.724 lr 4.08e-05 2175s
+step 4350/14181 loss 0.724 lr 4.06e-05 2201s
+step 4400/14181 loss 0.717 lr 4.04e-05 2226s
+step 4450/14181 loss 0.713 lr 4.02e-05 2251s
+step 4500/14181 loss 0.730 lr 3.99e-05 2277s
+step 4550/14181 loss 0.727 lr 3.97e-05 2302s
+step 4600/14181 loss 0.723 lr 3.95e-05 2327s
+step 4650/14181 loss 0.737 lr 3.92e-05 2352s
+step 4700/14181 loss 0.721 lr 3.90e-05 2377s
+step 4750/14181 loss 0.714 lr 3.88e-05 2403s
+step 4800/14181 loss 0.718 lr 3.85e-05 2428s
+step 4850/14181 loss 0.727 lr 3.83e-05 2453s
+step 4900/14181 loss 0.696 lr 3.80e-05 2479s
+step 4950/14181 loss 0.712 lr 3.78e-05 2504s
+step 5000/14181 loss 0.755 lr 3.76e-05 2529s
+step 5050/14181 loss 0.705 lr 3.73e-05 2554s
+step 5100/14181 loss 0.675 lr 3.71e-05 2580s
+step 5150/14181 loss 0.719 lr 3.68e-05 2605s
+step 5200/14181 loss 0.689 lr 3.66e-05 2630s
+step 5250/14181 loss 0.735 lr 3.63e-05 2655s
+step 5300/14181 loss 0.728 lr 3.60e-05 2680s
+step 5350/14181 loss 0.752 lr 3.58e-05 2706s
+step 5400/14181 loss 0.684 lr 3.55e-05 2731s
+step 5450/14181 loss 0.698 lr 3.53e-05 2756s
+step 5500/14181 loss 0.725 lr 3.50e-05 2781s
+step 5550/14181 loss 0.737 lr 3.47e-05 2806s
+step 5600/14181 loss 0.702 lr 3.45e-05 2831s
+step 5650/14181 loss 0.714 lr 3.42e-05 2857s
+step 5700/14181 loss 0.688 lr 3.39e-05 2882s
+step 5750/14181 loss 0.763 lr 3.37e-05 2907s
+step 5800/14181 loss 0.667 lr 3.34e-05 2932s
+step 5850/14181 loss 0.713 lr 3.31e-05 2958s
+step 5900/14181 loss 0.685 lr 3.29e-05 2983s
+step 5950/14181 loss 0.715 lr 3.26e-05 3008s
+step 6000/14181 loss 0.721 lr 3.23e-05 3034s
+step 6050/14181 loss 0.676 lr 3.21e-05 3059s
+step 6100/14181 loss 0.710 lr 3.18e-05 3084s
+step 6150/14181 loss 0.677 lr 3.15e-05 3109s
+step 6200/14181 loss 0.669 lr 3.12e-05 3134s
+step 6250/14181 loss 0.636 lr 3.10e-05 3160s
+step 6300/14181 loss 0.698 lr 3.07e-05 3185s
+step 6350/14181 loss 0.689 lr 3.04e-05 3210s
+step 6400/14181 loss 0.706 lr 3.01e-05 3235s
+step 6450/14181 loss 0.686 lr 2.98e-05 3261s
+step 6500/14181 loss 0.726 lr 2.96e-05 3286s
+step 6550/14181 loss 0.697 lr 2.93e-05 3311s
+step 6600/14181 loss 0.672 lr 2.90e-05 3337s
+step 6650/14181 loss 0.687 lr 2.87e-05 3362s
+step 6700/14181 loss 0.710 lr 2.84e-05 3387s
+step 6750/14181 loss 0.625 lr 2.81e-05 3412s
+step 6800/14181 loss 0.680 lr 2.79e-05 3437s
+step 6850/14181 loss 0.730 lr 2.76e-05 3463s
+step 6900/14181 loss 0.664 lr 2.73e-05 3488s
+step 6950/14181 loss 0.672 lr 2.70e-05 3513s
+step 7000/14181 loss 0.651 lr 2.67e-05 3538s
+step 7050/14181 loss 0.671 lr 2.64e-05 3563s
+step 7100/14181 loss 0.688 lr 2.62e-05 3588s
+step 7150/14181 loss 0.715 lr 2.59e-05 3613s
+step 7200/14181 loss 0.702 lr 2.56e-05 3638s
+step 7250/14181 loss 0.656 lr 2.53e-05 3664s
+step 7300/14181 loss 0.673 lr 2.50e-05 3689s
+step 7350/14181 loss 0.697 lr 2.47e-05 3714s
+step 7400/14181 loss 0.683 lr 2.44e-05 3740s
+step 7450/14181 loss 0.698 lr 2.42e-05 3765s
+step 7500/14181 loss 0.704 lr 2.39e-05 3790s
+step 7550/14181 loss 0.646 lr 2.36e-05 3816s
+step 7600/14181 loss 0.711 lr 2.33e-05 3841s
+step 7650/14181 loss 0.682 lr 2.30e-05 3866s
+step 7700/14181 loss 0.666 lr 2.27e-05 3891s
+step 7750/14181 loss 0.673 lr 2.25e-05 3917s
+step 7800/14181 loss 0.680 lr 2.22e-05 3942s
+step 7850/14181 loss 0.637 lr 2.19e-05 3967s
+step 7900/14181 loss 0.679 lr 2.16e-05 3992s
+step 7950/14181 loss 0.643 lr 2.13e-05 4017s
+step 8000/14181 loss 0.664 lr 2.10e-05 4043s
+step 8050/14181 loss 0.667 lr 2.08e-05 4068s
+step 8100/14181 loss 0.700 lr 2.05e-05 4093s
+step 8150/14181 loss 0.684 lr 2.02e-05 4119s
+step 8200/14181 loss 0.672 lr 1.99e-05 4144s
+step 8250/14181 loss 0.682 lr 1.96e-05 4169s
+step 8300/14181 loss 0.654 lr 1.94e-05 4194s
+step 8350/14181 loss 0.664 lr 1.91e-05 4219s
+step 8400/14181 loss 0.674 lr 1.88e-05 4245s
+step 8450/14181 loss 0.697 lr 1.85e-05 4270s
+step 8500/14181 loss 0.677 lr 1.83e-05 4295s
+step 8550/14181 loss 0.729 lr 1.80e-05 4320s
+step 8600/14181 loss 0.639 lr 1.77e-05 4345s
+step 8650/14181 loss 0.648 lr 1.74e-05 4371s
+step 8700/14181 loss 0.686 lr 1.72e-05 4396s
+step 8750/14181 loss 0.693 lr 1.69e-05 4422s
+step 8800/14181 loss 0.689 lr 1.66e-05 4447s
+step 8850/14181 loss 0.654 lr 1.64e-05 4472s
+step 8900/14181 loss 0.650 lr 1.61e-05 4498s
+step 8950/14181 loss 0.644 lr 1.58e-05 4523s
+step 9000/14181 loss 0.657 lr 1.56e-05 4548s
+step 9050/14181 loss 0.652 lr 1.53e-05 4573s
+step 9100/14181 loss 0.668 lr 1.50e-05 4599s
+step 9150/14181 loss 0.631 lr 1.48e-05 4624s
+step 9200/14181 loss 0.694 lr 1.45e-05 4649s
+step 9250/14181 loss 0.627 lr 1.42e-05 4674s
+step 9300/14181 loss 0.664 lr 1.40e-05 4700s
+step 9350/14181 loss 0.672 lr 1.37e-05 4725s
+step 9400/14181 loss 0.706 lr 1.35e-05 4750s
+step 9450/14181 loss 0.655 lr 1.32e-05 4776s
+step 9500/14181 loss 0.674 lr 1.30e-05 4801s
+step 9550/14181 loss 0.662 lr 1.27e-05 4826s
+step 9600/14181 loss 0.649 lr 1.25e-05 4851s
+step 9650/14181 loss 0.634 lr 1.22e-05 4877s
+step 9700/14181 loss 0.646 lr 1.20e-05 4902s
+step 9750/14181 loss 0.653 lr 1.17e-05 4927s
+step 9800/14181 loss 0.718 lr 1.15e-05 4952s
+step 9850/14181 loss 0.641 lr 1.13e-05 4978s
+step 9900/14181 loss 0.678 lr 1.10e-05 5003s
+step 9950/14181 loss 0.689 lr 1.08e-05 5028s
+step 10000/14181 loss 0.689 lr 1.06e-05 5053s
+step 10050/14181 loss 0.661 lr 1.03e-05 5079s
+step 10100/14181 loss 0.648 lr 1.01e-05 5104s
+step 10150/14181 loss 0.660 lr 9.87e-06 5129s
+step 10200/14181 loss 0.684 lr 9.64e-06 5154s
+step 10250/14181 loss 0.661 lr 9.42e-06 5180s
+step 10300/14181 loss 0.668 lr 9.19e-06 5205s
+step 10350/14181 loss 0.670 lr 8.97e-06 5230s
+step 10400/14181 loss 0.643 lr 8.76e-06 5255s
+step 10450/14181 loss 0.683 lr 8.54e-06 5281s
+step 10500/14181 loss 0.637 lr 8.33e-06 5306s
+step 10550/14181 loss 0.681 lr 8.11e-06 5331s
+step 10600/14181 loss 0.655 lr 7.90e-06 5356s
+step 10650/14181 loss 0.669 lr 7.70e-06 5382s
+step 10700/14181 loss 0.668 lr 7.49e-06 5407s
+step 10750/14181 loss 0.693 lr 7.29e-06 5432s
+step 10800/14181 loss 0.685 lr 7.09e-06 5457s
+step 10850/14181 loss 0.698 lr 6.89e-06 5483s
+step 10900/14181 loss 0.656 lr 6.70e-06 5508s
+step 10950/14181 loss 0.698 lr 6.50e-06 5533s
+step 11000/14181 loss 0.641 lr 6.31e-06 5558s
+step 11050/14181 loss 0.649 lr 6.12e-06 5583s
+step 11100/14181 loss 0.642 lr 5.94e-06 5609s
+step 11150/14181 loss 0.685 lr 5.75e-06 5634s
+step 11200/14181 loss 0.723 lr 5.57e-06 5659s
+step 11250/14181 loss 0.666 lr 5.39e-06 5684s
+step 11300/14181 loss 0.684 lr 5.22e-06 5709s
+step 11350/14181 loss 0.640 lr 5.05e-06 5735s
+step 11400/14181 loss 0.698 lr 4.88e-06 5760s
+step 11450/14181 loss 0.655 lr 4.71e-06 5785s
+step 11500/14181 loss 0.683 lr 4.54e-06 5810s
+step 11550/14181 loss 0.659 lr 4.38e-06 5836s
+step 11600/14181 loss 0.700 lr 4.22e-06 5861s
+step 11650/14181 loss 0.671 lr 4.06e-06 5886s
+step 11700/14181 loss 0.664 lr 3.91e-06 5911s
+step 11750/14181 loss 0.677 lr 3.76e-06 5937s
+step 11800/14181 loss 0.668 lr 3.61e-06 5962s
+step 11850/14181 loss 0.652 lr 3.46e-06 5987s
+step 11900/14181 loss 0.676 lr 3.32e-06 6012s
+step 11950/14181 loss 0.692 lr 3.18e-06 6037s
+step 12000/14181 loss 0.658 lr 3.04e-06 6063s
+step 12050/14181 loss 0.697 lr 2.90e-06 6088s
+step 12100/14181 loss 0.697 lr 2.77e-06 6113s
+step 12150/14181 loss 0.690 lr 2.64e-06 6138s
+step 12200/14181 loss 0.648 lr 2.52e-06 6164s
+step 12250/14181 loss 0.674 lr 2.39e-06 6189s
+step 12300/14181 loss 0.678 lr 2.27e-06 6214s
+step 12350/14181 loss 0.677 lr 2.15e-06 6239s
+step 12400/14181 loss 0.669 lr 2.04e-06 6265s
+step 12450/14181 loss 0.665 lr 1.93e-06 6290s
+step 12500/14181 loss 0.682 lr 1.82e-06 6315s
+step 12550/14181 loss 0.667 lr 1.71e-06 6341s
+step 12600/14181 loss 0.698 lr 1.61e-06 6366s
+step 12650/14181 loss 0.675 lr 1.51e-06 6391s
+step 12700/14181 loss 0.664 lr 1.42e-06 6416s
+step 12750/14181 loss 0.650 lr 1.32e-06 6441s
+step 12800/14181 loss 0.688 lr 1.23e-06 6466s
+step 12850/14181 loss 0.729 lr 1.15e-06 6492s
+step 12900/14181 loss 0.661 lr 1.06e-06 6517s
+step 12950/14181 loss 0.650 lr 9.81e-07 6542s
+step 13000/14181 loss 0.685 lr 9.04e-07 6567s
+step 13050/14181 loss 0.655 lr 8.29e-07 6593s
+step 13100/14181 loss 0.665 lr 7.58e-07 6618s
+step 13150/14181 loss 0.681 lr 6.90e-07 6643s
+step 13200/14181 loss 0.699 lr 6.25e-07 6668s
+step 13250/14181 loss 0.702 lr 5.63e-07 6694s
+step 13300/14181 loss 0.690 lr 5.04e-07 6719s
+step 13350/14181 loss 0.674 lr 4.49e-07 6744s
+step 13400/14181 loss 0.655 lr 3.97e-07 6770s
+step 13450/14181 loss 0.706 lr 3.48e-07 6795s
+step 13500/14181 loss 0.687 lr 3.02e-07 6820s
+step 13550/14181 loss 0.643 lr 2.59e-07 6845s
+step 13600/14181 loss 0.703 lr 2.20e-07 6871s
+step 13650/14181 loss 0.665 lr 1.84e-07 6896s
+step 13700/14181 loss 0.656 lr 1.51e-07 6921s
+step 13750/14181 loss 0.703 lr 1.21e-07 6947s
+step 13800/14181 loss 0.676 lr 9.46e-08 6972s
+step 13850/14181 loss 0.672 lr 7.14e-08 6997s
+step 13900/14181 loss 0.664 lr 5.15e-08 7022s
+step 13950/14181 loss 0.661 lr 3.48e-08 7047s
+step 14000/14181 loss 0.676 lr 2.14e-08 7073s
+step 14050/14181 loss 0.677 lr 1.12e-08 7098s
+step 14100/14181 loss 0.672 lr 4.28e-09 7123s
+step 14150/14181 loss 0.727 lr 6.27e-10 7149s
+saved /vol/models/student_qwen4b_v3fix 7177s
+   exit 0 7222s
+== /tmp/work/student_gen_infer.py --model /vol/models/student_qwen4b_v3fix --tag qwen4b_v3fix --eval /vol/data/student_eval_v3.jsonl --bs 64
+   exit 0 1369s
+<00:00,  6.57it/s]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+64 6s
+1344 134s
+2624 262s
+3904 396s
+5184 517s
+6464 660s
+7744 788s
+9024 919s
+10304 1044s
+11584 1182s
+12864 1306s
+done 13338 1358s
+
+✓ App completed. View run at 
+https://modal.com/apps/<workspace>/main/<app-run>

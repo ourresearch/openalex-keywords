@@ -40,7 +40,7 @@ earth-sciences environmental-science materials-science biochemistry molecular-bi
 architecture finance accounting marketing sciences science technology health research""".split())   # peer review 2026-09-28: discipline labels only on field-level works
 SCORE = "round(exp(lp), 3)" if HAS_LP else "round(1 - rnk / n, 3)"   # v3: geometric-mean token probability of the keyword
 kid_src = open(os.path.join(HERE, '..', 'common', 'kid.py')).read().split('"""', 2)[2]   # drop the module docstring
-countries = json.load(open(f'{HERE}/data/countries.json'))
+countries = json.load(open(os.path.join(HERE, '..', '..', 'data', 'vocabulary', 'countries.json')))   # released layout
 AMBIG_KW = {'us', 'roc', 'rok', 'gb', 'brd', 'frg'}          # not treated as country keywords (ROC curve, pronoun, ...)
 def evidence_rx(c):
     names = [n for n in c['aliases'] if (len(n) >= 4 or '.' in n) and n != 'america'] + c['adjectives'] + c['native']

@@ -1,0 +1,4 @@
+# v3 ships small JSON data files and run logs; the repo-wide ignore of *.json / *.log does not apply here
+!*.json
+!*.log
+__pycache__/

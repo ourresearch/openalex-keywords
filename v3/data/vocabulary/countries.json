@@ -1,0 +1,4537 @@
+[
+{
+"cc": "AW",
+"name": "Aruba",
+"aliases": [
+"aruba"
+],
+"adjectives": [
+"aruban"
+],
+"native": [
+"aruba"
+]
+},
+{
+"cc": "AF",
+"name": "Afghanistan",
+"aliases": [
+"afghanistan",
+"islamic emirate of afghanistan",
+"islamic republic of afghanistan"
+],
+"adjectives": [
+"afghan",
+"afghani"
+],
+"native": [
+"afghanistan",
+"افغانستان",
+"د افغانستان"
+]
+},
+{
+"cc": "AO",
+"name": "Angola",
+"aliases": [
+"angola",
+"republic of angola"
+],
+"adjectives": [
+"angolan"
+],
+"native": [
+"angola",
+"angolana",
+"angolano",
+"república de angola"
+]
+},
+{
+"cc": "AI",
+"name": "Anguilla",
+"aliases": [
+"anguilla"
+],
+"adjectives": [
+"anguillan"
+],
+"native": [
+"anguilla"
+]
+},
+{
+"cc": "AX",
+"name": "Åland Islands",
+"aliases": [
+"aaland",
+"aland",
+"aland islands",
+"åland",
+"åland islands"
+],
+"adjectives": [
+"alander",
+"ålander",
+"ålandic"
+],
+"native": [
+"ahvenanmaa",
+"åland",
+"ålands"
+]
+},
+{
+"cc": "AL",
+"name": "Albania",
+"aliases": [
+"albania",
+"republic of albania"
+],
+"adjectives": [
+"albanian"
+],
+"native": [
+"republika e shqipërisë",
+"shqiptar",
+"shqiptare",
+"shqipëri",
+"shqipëria"
+]
+},
+{
+"cc": "AD",
+"name": "Andorra",
+"aliases": [
+"andorra",
+"principality of andorra"
+],
+"adjectives": [
+"andorran"
+],
+"native": [
+"andorra",
+"andorrana",
+"andorrà",
+"principat d'andorra"
+]
+},
+{
+"cc": "AE",
+"name": "United Arab Emirates",
+"aliases": [
+"emirates",
+"u.a.e.",
+"uae",
+"united arab emirates"
+],
+"adjectives": [
+"emirati",
+"emirian"
+],
+"native": [
+"إماراتي",
+"الإمارات",
+"الإمارات العربية المتحدة",
+"دولة الإمارات العربية المتحدة"
+]
+},
+{
+"cc": "AR",
+"name": "Argentina",
+"aliases": [
+"argentina",
+"argentine republic",
+"the argentine"
+],
+"adjectives": [
+"argentine",
+"argentinean",
+"argentinian"
+],
+"native": [
+"argentina",
+"argentino",
+"república argentina"
+]
+},
+{
+"cc": "AM",
+"name": "Armenia",
+"aliases": [
+"armenia",
+"republic of armenia"
+],
+"adjectives": [
+"armenian"
+],
+"native": [
+"hayastan",
+"հայաստան",
+"հայաստանի հանրապետություն",
+"հայկական"
+]
+},
+{
+"cc": "AS",
+"name": "American Samoa",
+"aliases": [
+"american samoa",
+"eastern samoa"
+],
+"adjectives": [
+"american samoan"
+],
+"native": [
+"amerika samoa",
+"amerika sāmoa",
+"sāmoa amelika"
+]
+},
+{
+"cc": "AQ",
+"name": "Antarctica",
+"aliases": [
+"antarctic",
+"antarctica"
+],
+"adjectives": [
+"antarctic"
+],
+"native": [
+"antarctica",
+"antarctique",
+"antártida"
+]
+},
+{
+"cc": "TF",
+"name": "French Southern Territories",
+"aliases": [
+"french southern and antarctic lands",
+"french southern lands",
+"french southern territories",
+"taaf"
+],
+"adjectives": [],
+"native": [
+"terres australes et antarctiques françaises",
+"terres australes françaises"
+]
+},
+{
+"cc": "AG",
+"name": "Antigua and Barbuda",
+"aliases": [
+"antigua",
+"antigua & barbuda",
+"antigua and barbuda"
+],
+"adjectives": [
+"antiguan",
+"barbudan"
+],
+"native": [
+"antigua and barbuda"
+]
+},
+{
+"cc": "AU",
+"name": "Australia",
+"aliases": [
+"australia",
+"commonwealth of australia"
+],
+"adjectives": [
+"australian",
+"australians"
+],
+"native": [
+"australia"
+]
+},
+{
+"cc": "AT",
+"name": "Austria",
+"aliases": [
+"austria",
+"republic of austria"
+],
+"adjectives": [
+"austrian",
+"austrians"
+],
+"native": [
+"republik österreich",
+"österreich",
+"österreichisch",
+"österreichische",
+"österreichischen"
+]
+},
+{
+"cc": "AZ",
+"name": "Azerbaijan",
+"aliases": [
+"azerbaidjan",
+"azerbaijan",
+"republic of azerbaijan"
+],
+"adjectives": [
+"azerbaijani",
+"azerbaijanian",
+"azerbaijanis",
+"azeri"
+],
+"native": [
+"azərbaycan",
+"azərbaycan respublikası",
+"азербайджан"
+]
+},
+{
+"cc": "BI",
+"name": "Burundi",
+"aliases": [
+"burundi",
+"republic of burundi"
+],
+"adjectives": [
+"burundian",
+"burundians"
+],
+"native": [
+"burundi",
+"republika y'uburundi",
+"république du burundi",
+"uburundi"
+]
+},
+{
+"cc": "BE",
+"name": "Belgium",
+"aliases": [
+"belgium",
+"kingdom of belgium"
+],
+"adjectives": [
+"belgian",
+"belgians"
+],
+"native": [
+"belge",
+"belges",
+"belgien",
+"belgique",
+"belgisch",
+"belgië",
+"koninkrijk belgië",
+"royaume de belgique"
+]
+},
+{
+"cc": "BJ",
+"name": "Benin",
+"aliases": [
+"benin",
+"dahomey",
+"republic of benin"
+],
+"adjectives": [
+"beninese",
+"beninois"
+],
+"native": [
+"bénin",
+"béninois",
+"béninoise",
+"république du bénin"
+]
+},
+{
+"cc": "BQ",
+"name": "Bonaire, Sint Eustatius and Saba",
+"aliases": [
+"bes islands",
+"bonaire",
+"bonaire, sint eustatius and saba",
+"caribbean netherlands",
+"saba",
+"sint eustatius",
+"statia"
+],
+"adjectives": [
+"bonairean"
+],
+"native": [
+"bonaire, sint eustatius en saba",
+"caribisch nederland"
+]
+},
+{
+"cc": "BF",
+"name": "Burkina Faso",
+"aliases": [
+"burkina",
+"burkina faso",
+"upper volta"
+],
+"adjectives": [
+"burkinabe",
+"burkinabè",
+"burkinese"
+],
+"native": [
+"burkina faso",
+"burkinabè"
+]
+},
+{
+"cc": "BD",
+"name": "Bangladesh",
+"aliases": [
+"bangladesh",
+"east pakistan",
+"people's republic of bangladesh"
+],
+"adjectives": [
+"bangladeshi",
+"bangladeshis"
+],
+"native": [
+"গণপ্রজাতন্ত্রী বাংলাদেশ",
+"বাংলাদেশ",
+"বাংলাদেশী"
+]
+},
+{
+"cc": "BG",
+"name": "Bulgaria",
+"aliases": [
+"bulgaria",
+"republic of bulgaria"
+],
+"adjectives": [
+"bulgarian",
+"bulgarians"
+],
+"native": [
+"balgariya",
+"bulgariya",
+"българия",
+"българска",
+"български",
+"република българия"
+]
+},
+{
+"cc": "BH",
+"name": "Bahrain",
+"aliases": [
+"bahrain",
+"kingdom of bahrain"
+],
+"adjectives": [
+"bahraini"
+],
+"native": [
+"البحرين",
+"بحريني",
+"بحرينية",
+"مملكة البحرين"
+]
+},
+{
+"cc": "BS",
+"name": "Bahamas",
+"aliases": [
+"bahamas",
+"commonwealth of the bahamas",
+"the bahamas"
+],
+"adjectives": [
+"bahamian"
+],
+"native": [
+"bahamas"
+]
+},
+{
+"cc": "BA",
+"name": "Bosnia and Herzegovina",
+"aliases": [
+"bih",
+"bosnia",
+"bosnia & herzegovina",
+"bosnia and herzegovina",
+"bosnia-herzegovina",
+"republic of bosnia and herzegovina"
+],
+"adjectives": [
+"bosnian",
+"herzegovinian"
+],
+"native": [
+"bosanska",
+"bosanski",
+"bosansko",
+"bosna i hercegovina",
+"босна и херцеговина"
+]
+},
+{
+"cc": "BL",
+"name": "Saint Barthélemy",
+"aliases": [
+"saint barthelemy",
+"saint barthélemy",
+"saint barts",
+"saint-barthélemy",
+"st barths",
+"st barthélemy",
+"st barts",
+"st. barths",
+"st. barthélemy",
+"st. barts"
+],
+"adjectives": [
+"barthélemois"
+],
+"native": [
+"saint barthélemy",
+"saint-barthélemy"
+]
+},
+{
+"cc": "BY",
+"name": "Belarus",
+"aliases": [
+"belarus",
+"belorussia",
+"byelorussia",
+"republic of belarus"
+],
+"adjectives": [
+"belarusan",
+"belarusian",
+"belorussian",
+"byelorussian"
+],
+"native": [
+"belarus",
+"беларуская",
+"беларускі",
+"беларусь",
+"белоруссия",
+"белорусская",
+"белорусский",
+"республика беларусь",
+"рэспубліка беларусь"
+]
+},
+{
+"cc": "BZ",
+"name": "Belize",
+"aliases": [
+"belize",
+"british honduras"
+],
+"adjectives": [
+"belizean"
+],
+"native": [
+"belice",
+"belize"
+]
+},
+{
+"cc": "BM",
+"name": "Bermuda",
+"aliases": [
+"bermuda",
+"bermudas"
+],
+"adjectives": [
+"bermudan",
+"bermudian"
+],
+"native": [
+"bermuda"
+]
+},
+{
+"cc": "BO",
+"name": "Bolivia",
+"aliases": [
+"bolivia",
+"plurinational state of bolivia",
+"republic of bolivia"
+],
+"adjectives": [
+"bolivian"
+],
+"native": [
+"bolivia",
+"boliviana",
+"boliviano",
+"buliwya",
+"estado plurinacional de bolivia",
+"volívia",
+"wuliwya"
+]
+},
+{
+"cc": "BR",
+"name": "Brazil",
+"aliases": [
+"brazil",
+"federative republic of brazil"
+],
+"adjectives": [
+"brazilian"
+],
+"native": [
+"brasil",
+"brasileira",
+"brasileiras",
+"brasileiro",
+"brasileiros",
+"república federativa do brasil"
+]
+},
+{
+"cc": "BB",
+"name": "Barbados",
+"aliases": [
+"barbados"
+],
+"adjectives": [
+"bajan",
+"barbadian"
+],
+"native": [
+"barbados"
+]
+},
+{
+"cc": "BN",
+"name": "Brunei Darussalam",
+"aliases": [
+"brunei",
+"brunei darussalam",
+"nation of brunei"
+],
+"adjectives": [
+"bruneian",
+"bruneian malay"
+],
+"native": [
+"brunei",
+"brunei darussalam",
+"negara brunei darussalam",
+"بروني دارالسلام"
+]
+},
+{
+"cc": "BT",
+"name": "Bhutan",
+"aliases": [
+"bhutan",
+"kingdom of bhutan"
+],
+"adjectives": [
+"bhutanese"
+],
+"native": [
+"druk",
+"druk yul",
+"འབྲུག་",
+"འབྲུག་ཡུལ་"
+]
+},
+{
+"cc": "BV",
+"name": "Bouvet Island",
+"aliases": [
+"bouvet",
+"bouvet island"
+],
+"adjectives": [],
+"native": [
+"bouvetøya"
+]
+},
+{
+"cc": "BW",
+"name": "Botswana",
+"aliases": [
+"botswana",
+"republic of botswana"
+],
+"adjectives": [
+"batswana",
+"botswanan",
+"motswana"
+],
+"native": [
+"botswana",
+"lefatshe la botswana"
+]
+},
+{
+"cc": "CF",
+"name": "Central African Republic",
+"aliases": [
+"c.a.r.",
+"car",
+"central african republic"
+],
+"adjectives": [
+"central african"
+],
+"native": [
+"bêafrîka",
+"centrafricain",
+"centrafricaine",
+"centrafrique",
+"ködörösêse tî bêafrîka",
+"république centrafricaine"
+]
+},
+{
+"cc": "CA",
+"name": "Canada",
+"aliases": [
+"canada"
+],
+"adjectives": [
+"canadian",
+"canadians"
+],
+"native": [
+"canada",
+"canadien",
+"canadienne"
+]
+},
+{
+"cc": "CC",
+"name": "Cocos (Keeling) Islands",
+"aliases": [
+"cocos (keeling) islands",
+"cocos islands",
+"cocos keeling islands",
+"keeling islands"
+],
+"adjectives": [],
+"native": [
+"pulu kokos"
+]
+},
+{
+"cc": "CH",
+"name": "Switzerland",
+"aliases": [
+"swiss confederation",
+"switzerland"
+],
+"adjectives": [
+"swiss"
+],
+"native": [
+"confoederatio helvetica",
+"helvetia",
+"schweiz",
+"schweizer",
+"schweizerische",
+"schweizerischen",
+"suisse",
+"suisses",
+"svizra",
+"svizzera",
+"svizzero"
+]
+},
+{
+"cc": "CL",
+"name": "Chile",
+"aliases": [
+"chile",
+"republic of chile"
+],
+"adjectives": [
+"chilean",
+"chileans"
+],
+"native": [
+"chile",
+"chilena",
+"chileno",
+"república de chile"
+]
+},
+{
+"cc": "CN",
+"name": "China",
+"aliases": [
+"china",
+"mainland china",
+"p.r. china",
+"p.r.c.",
+"people's republic of china",
+"peoples republic of china",
+"pr china",
+"prc"
+],
+"adjectives": [
+"chinese"
+],
+"native": [
+"zhongguo",
+"zhōngguó",
+"中华人民共和国",
+"中国",
+"中國",
+"中華人民共和國"
+]
+},
+{
+"cc": "CI",
+"name": "Côte d'Ivoire",
+"aliases": [
+"cote d'ivoire",
+"cote divoire",
+"côte d'ivoire",
+"ivory coast",
+"republic of cote d'ivoire",
+"republic of côte d'ivoire"
+],
+"adjectives": [
+"ivoirian",
+"ivorian"
+],
+"native": [
+"côte d'ivoire",
+"ivoirien",
+"ivoirienne",
+"république de côte d'ivoire"
+]
+},
+{
+"cc": "CM",
+"name": "Cameroon",
+"aliases": [
+"cameroon",
+"cameroun",
+"republic of cameroon"
+],
+"adjectives": [
+"cameroonian",
+"cameroonians"
+],
+"native": [
+"cameroun",
+"camerounais",
+"camerounaise",
+"république du cameroun"
+]
+},
+{
+"cc": "CD",
+"name": "Congo, The Democratic Republic of the",
+"aliases": [
+"congo kinshasa",
+"congo, the democratic republic of the",
+"congo-kinshasa",
+"d.r.c.",
+"dem. rep. congo",
+"democratic republic of congo",
+"democratic republic of the congo",
+"dr congo",
+"dr. congo",
+"drc",
+"zaire"
+],
+"adjectives": [
+"congolese"
+],
+"native": [
+"congolais",
+"congolaise",
+"rd congo",
+"rdc",
+"république démocratique du congo"
+]
+},
+{
+"cc": "CG",
+"name": "Congo",
+"aliases": [
+"congo",
+"congo brazzaville",
+"congo-brazzaville",
+"republic of congo",
+"republic of the congo",
+"roc"
+],
+"adjectives": [
+"congolese"
+],
+"native": [
+"congo",
+"congolais",
+"congolaise",
+"république du congo"
+]
+},
+{
+"cc": "CK",
+"name": "Cook Islands",
+"aliases": [
+"cook islands",
+"the cook islands"
+],
+"adjectives": [
+"cook islander"
+],
+"native": [
+"kuki airani",
+"kūki 'āirani"
+]
+},
+{
+"cc": "CO",
+"name": "Colombia",
+"aliases": [
+"colombia",
+"republic of colombia"
+],
+"adjectives": [
+"colombian"
+],
+"native": [
+"colombia",
+"colombiana",
+"colombiano",
+"república de colombia"
+]
+},
+{
+"cc": "KM",
+"name": "Comoros",
+"aliases": [
+"comoro islands",
+"comoros",
+"the comoros",
+"union of the comoros"
+],
+"adjectives": [
+"comoran",
+"comorian"
+],
+"native": [
+"comores",
+"comorien",
+"comorienne",
+"komori",
+"udzima wa komori",
+"union des comores",
+"القمر",
+"جزر القمر"
+]
+},
+{
+"cc": "CV",
+"name": "Cabo Verde",
+"aliases": [
+"cabo verde",
+"cape verde",
+"republic of cabo verde",
+"republic of cape verde"
+],
+"adjectives": [
+"cabo verdean",
+"cape verdean"
+],
+"native": [
+"cabo verde",
+"cabo-verdiana",
+"cabo-verdiano",
+"caboverdiana",
+"caboverdiano",
+"kabu verdi",
+"república de cabo verde"
+]
+},
+{
+"cc": "CR",
+"name": "Costa Rica",
+"aliases": [
+"costa rica",
+"republic of costa rica"
+],
+"adjectives": [
+"costa rican"
+],
+"native": [
+"costa rica",
+"costarricense",
+"república de costa rica"
+]
+},
+{
+"cc": "CU",
+"name": "Cuba",
+"aliases": [
+"cuba",
+"republic of cuba"
+],
+"adjectives": [
+"cuban"
+],
+"native": [
+"cuba",
+"cubana",
+"cubano",
+"república de cuba"
+]
+},
+{
+"cc": "CW",
+"name": "Curaçao",
+"aliases": [
+"curacao",
+"curaçao"
+],
+"adjectives": [
+"curacaoan",
+"curaçaoan",
+"curaçaoese"
+],
+"native": [
+"curaçao",
+"curaçaos",
+"curaçaose",
+"korsou",
+"kòrsou"
+]
+},
+{
+"cc": "CX",
+"name": "Christmas Island",
+"aliases": [
+"christmas island",
+"territory of christmas island"
+],
+"adjectives": [
+"christmas islander"
+],
+"native": [
+"christmas island"
+]
+},
+{
+"cc": "KY",
+"name": "Cayman Islands",
+"aliases": [
+"cayman islands",
+"caymans",
+"the cayman islands"
+],
+"adjectives": [
+"caymanian"
+],
+"native": [
+"cayman islands"
+]
+},
+{
+"cc": "CY",
+"name": "Cyprus",
+"aliases": [
+"cyprus",
+"republic of cyprus"
+],
+"adjectives": [
+"cypriot",
+"cypriote"
+],
+"native": [
+"kıbrıs",
+"kıbrıs cumhuriyeti",
+"kıbrıslı",
+"κυπριακή",
+"κυπριακή δημοκρατία",
+"κυπριακός",
+"κύπριος",
+"κύπρος"
+]
+},
+{
+"cc": "CZ",
+"name": "Czechia",
+"aliases": [
+"czech",
+"czech republic",
+"czechia",
+"the czech republic"
+],
+"adjectives": [
+"czech"
+],
+"native": [
+"česko",
+"česká",
+"česká republika",
+"české",
+"český",
+"čeština"
+]
+},
+{
+"cc": "DE",
+"name": "Germany",
+"aliases": [
+"brd",
+"federal republic of germany",
+"frg",
+"germany"
+],
+"adjectives": [
+"german"
+],
+"native": [
+"bundesrepublik deutschland",
+"deutsch",
+"deutsche",
+"deutschen",
+"deutscher",
+"deutsches",
+"deutschland"
+]
+},
+{
+"cc": "DJ",
+"name": "Djibouti",
+"aliases": [
+"djibouti",
+"republic of djibouti"
+],
+"adjectives": [
+"djiboutian"
+],
+"native": [
+"djibouti",
+"djiboutien",
+"djiboutienne",
+"jabuuti",
+"république de djibouti",
+"جيبوتي"
+]
+},
+{
+"cc": "DM",
+"name": "Dominica",
+"aliases": [
+"commonwealth of dominica",
+"dominica"
+],
+"adjectives": [
+"dominican"
+],
+"native": [
+"dominica"
+]
+},
+{
+"cc": "DK",
+"name": "Denmark",
+"aliases": [
+"denmark",
+"kingdom of denmark"
+],
+"adjectives": [
+"danish"
+],
+"native": [
+"danmark",
+"dansk",
+"danske",
+"kongeriget danmark"
+]
+},
+{
+"cc": "DO",
+"name": "Dominican Republic",
+"aliases": [
+"dominican republic",
+"the dominican republic"
+],
+"adjectives": [
+"dominican"
+],
+"native": [
+"dominicana",
+"dominicano",
+"república dominicana"
+]
+},
+{
+"cc": "DZ",
+"name": "Algeria",
+"aliases": [
+"algeria",
+"people's democratic republic of algeria",
+"peoples democratic republic of algeria"
+],
+"adjectives": [
+"algerian"
+],
+"native": [
+"algérie",
+"algérien",
+"algérienne",
+"dzayer",
+"الجزائر",
+"الجزائرية",
+"جزائري",
+"ⴷⵣⴰⵢⴻⵔ"
+]
+},
+{
+"cc": "EC",
+"name": "Ecuador",
+"aliases": [
+"ecuador",
+"republic of ecuador"
+],
+"adjectives": [
+"ecuadorean",
+"ecuadorian"
+],
+"native": [
+"ecuador",
+"ecuatoriana",
+"ecuatoriano",
+"república del ecuador"
+]
+},
+{
+"cc": "EG",
+"name": "Egypt",
+"aliases": [
+"arab republic of egypt",
+"egypt"
+],
+"adjectives": [
+"egyptian"
+],
+"native": [
+"المصرية",
+"جمهورية مصر العربية",
+"مصر",
+"مصري"
+]
+},
+{
+"cc": "ER",
+"name": "Eritrea",
+"aliases": [
+"eritrea",
+"state of eritrea",
+"the state of eritrea"
+],
+"adjectives": [
+"eritrean"
+],
+"native": [
+"ertra",
+"إرتريا",
+"ኤርትራ"
+]
+},
+{
+"cc": "EH",
+"name": "Western Sahara",
+"aliases": [
+"sadr",
+"sahrawi arab democratic republic",
+"western sahara"
+],
+"adjectives": [
+"saharawi",
+"sahrawi",
+"western saharan"
+],
+"native": [
+"sahara occidental",
+"الجمهورية العربية الصحراوية الديمقراطية",
+"الصحراء الغربية"
+]
+},
+{
+"cc": "ES",
+"name": "Spain",
+"aliases": [
+"kingdom of spain",
+"spain"
+],
+"adjectives": [
+"spanish"
+],
+"native": [
+"espainia",
+"espanya",
+"españa",
+"español",
+"española",
+"españolas",
+"españoles",
+"reino de españa"
+]
+},
+{
+"cc": "EE",
+"name": "Estonia",
+"aliases": [
+"estonia",
+"republic of estonia"
+],
+"adjectives": [
+"estonian"
+],
+"native": [
+"eesti",
+"eesti vabariik"
+]
+},
+{
+"cc": "ET",
+"name": "Ethiopia",
+"aliases": [
+"ethiopia",
+"fdre",
+"federal democratic republic of ethiopia"
+],
+"adjectives": [
+"ethiopian"
+],
+"native": [
+"itoophiyaa",
+"ኢትዮጵያ",
+"ኢትዮጵያዊ"
+]
+},
+{
+"cc": "FI",
+"name": "Finland",
+"aliases": [
+"finland",
+"republic of finland"
+],
+"adjectives": [
+"finnish"
+],
+"native": [
+"finland",
+"finländsk",
+"republiken finland",
+"suomalainen",
+"suomalaisen",
+"suomen tasavalta",
+"suomi"
+]
+},
+{
+"cc": "FJ",
+"name": "Fiji",
+"aliases": [
+"fiji",
+"fiji islands",
+"republic of fiji"
+],
+"adjectives": [
+"fijian"
+],
+"native": [
+"matanitu tugalala o viti",
+"viti",
+"फ़िजी",
+"फिजी"
+]
+},
+{
+"cc": "FK",
+"name": "Falkland Islands (Malvinas)",
+"aliases": [
+"falkland islands",
+"falkland islands (malvinas)",
+"falklands",
+"islas malvinas",
+"malvinas"
+],
+"adjectives": [
+"falkland",
+"falklander"
+],
+"native": [
+"falkland islands",
+"islas malvinas"
+]
+},
+{
+"cc": "FR",
+"name": "France",
+"aliases": [
+"france",
+"french republic"
+],
+"adjectives": [
+"french"
+],
+"native": [
+"france",
+"français",
+"française",
+"françaises",
+"république française"
+]
+},
+{
+"cc": "FO",
+"name": "Faroe Islands",
+"aliases": [
+"faeroe islands",
+"faeroes",
+"faroe",
+"faroe islands",
+"faroes"
+],
+"adjectives": [
+"faeroese",
+"faroese"
+],
+"native": [
+"færøerne",
+"føroyar",
+"føroysk",
+"føroyskur"
+]
+},
+{
+"cc": "FM",
+"name": "Micronesia, Federated States of",
+"aliases": [
+"federated states of micronesia",
+"fsm",
+"micronesia",
+"micronesia, federated states of"
+],
+"adjectives": [
+"micronesian"
+],
+"native": [
+"federated states of micronesia",
+"micronesia"
+]
+},
+{
+"cc": "GA",
+"name": "Gabon",
+"aliases": [
+"gabon",
+"gabonese republic"
+],
+"adjectives": [
+"gabonese"
+],
+"native": [
+"gabon",
+"gabonais",
+"gabonaise",
+"république gabonaise"
+]
+},
+{
+"cc": "GB",
+"name": "United Kingdom",
+"aliases": [
+"britain",
+"gb",
+"great britain",
+"u.k.",
+"uk",
+"united kingdom",
+"united kingdom of great britain and northern ireland"
+],
+"adjectives": [
+"british"
+],
+"native": [
+"prydain fawr",
+"rìoghachd aonaichte",
+"united kingdom",
+"y deyrnas unedig"
+]
+},
+{
+"cc": "GE",
+"name": "Georgia",
+"aliases": [
+"georgia",
+"republic of georgia"
+],
+"adjectives": [
+"georgian"
+],
+"native": [
+"sakartvelo",
+"საქართველო",
+"ქართული"
+]
+},
+{
+"cc": "GG",
+"name": "Guernsey",
+"aliases": [
+"bailiwick of guernsey",
+"guernsey"
+],
+"adjectives": [
+"guernsey",
+"guernseyman"
+],
+"native": [
+"guernesey",
+"guernsey",
+"guernési"
+]
+},
+{
+"cc": "GH",
+"name": "Ghana",
+"aliases": [
+"ghana",
+"republic of ghana"
+],
+"adjectives": [
+"ghanaian"
+],
+"native": [
+"ghana"
+]
+},
+{
+"cc": "GI",
+"name": "Gibraltar",
+"aliases": [
+"gibraltar"
+],
+"adjectives": [
+"gibraltarian"
+],
+"native": [
+"gibraltar"
+]
+},
+{
+"cc": "GN",
+"name": "Guinea",
+"aliases": [
+"guinea",
+"guinea conakry",
+"guinea-conakry",
+"republic of guinea"
+],
+"adjectives": [
+"guinean"
+],
+"native": [
+"guinée",
+"guinéen",
+"guinéenne",
+"république de guinée"
+]
+},
+{
+"cc": "GP",
+"name": "Guadeloupe",
+"aliases": [
+"guadeloupe"
+],
+"adjectives": [
+"guadeloupean",
+"guadeloupian"
+],
+"native": [
+"guadeloupe",
+"guadeloupéen",
+"guadeloupéenne",
+"gwadloup"
+]
+},
+{
+"cc": "GM",
+"name": "Gambia",
+"aliases": [
+"gambia",
+"republic of gambia",
+"republic of the gambia",
+"the gambia"
+],
+"adjectives": [
+"gambian"
+],
+"native": [
+"gambia",
+"the gambia"
+]
+},
+{
+"cc": "GW",
+"name": "Guinea-Bissau",
+"aliases": [
+"guinea bissau",
+"guinea-bissau",
+"portuguese guinea",
+"republic of guinea-bissau"
+],
+"adjectives": [
+"bissau guinean",
+"bissau-guinean"
+],
+"native": [
+"guineense",
+"guiné-bissau",
+"república da guiné-bissau"
+]
+},
+{
+"cc": "GQ",
+"name": "Equatorial Guinea",
+"aliases": [
+"equatorial guinea",
+"republic of equatorial guinea"
+],
+"adjectives": [
+"equatoguinean",
+"equatorial guinean"
+],
+"native": [
+"ecuatoguineana",
+"ecuatoguineano",
+"guinea ecuatorial",
+"guiné equatorial",
+"guinée équatoriale",
+"república de guinea ecuatorial"
+]
+},
+{
+"cc": "GR",
+"name": "Greece",
+"aliases": [
+"greece",
+"hellas",
+"hellenic republic"
+],
+"adjectives": [
+"greek",
+"hellenic"
+],
+"native": [
+"ellada",
+"ελλάδα",
+"ελλάς",
+"ελληνική",
+"ελληνική δημοκρατία",
+"ελληνικό",
+"ελληνικός"
+]
+},
+{
+"cc": "GD",
+"name": "Grenada",
+"aliases": [
+"grenada"
+],
+"adjectives": [
+"grenadian"
+],
+"native": [
+"grenada"
+]
+},
+{
+"cc": "GL",
+"name": "Greenland",
+"aliases": [
+"greenland"
+],
+"adjectives": [
+"greenlander",
+"greenlandic"
+],
+"native": [
+"grønland",
+"grønlandsk",
+"kalaallisut",
+"kalaallit nunaat"
+]
+},
+{
+"cc": "GT",
+"name": "Guatemala",
+"aliases": [
+"guatemala",
+"republic of guatemala"
+],
+"adjectives": [
+"guatemalan"
+],
+"native": [
+"guatemala",
+"guatemalteca",
+"guatemalteco",
+"república de guatemala"
+]
+},
+{
+"cc": "GF",
+"name": "French Guiana",
+"aliases": [
+"french guiana",
+"guiana",
+"guyane"
+],
+"adjectives": [
+"french guianese",
+"guianese"
+],
+"native": [
+"guyanais",
+"guyanaise",
+"guyane",
+"guyane française"
+]
+},
+{
+"cc": "GU",
+"name": "Guam",
+"aliases": [
+"guam",
+"territory of guam"
+],
+"adjectives": [
+"chamorro",
+"guamanian"
+],
+"native": [
+"guam",
+"guåhån"
+]
+},
+{
+"cc": "GY",
+"name": "Guyana",
+"aliases": [
+"british guiana",
+"co-operative republic of guyana",
+"guyana",
+"republic of guyana"
+],
+"adjectives": [
+"guyanese"
+],
+"native": [
+"guyana"
+]
+},
+{
+"cc": "HK",
+"name": "Hong Kong",
+"aliases": [
+"hksar",
+"hong kong",
+"hong kong sar",
+"hong kong special administrative region",
+"hong kong special administrative region of china",
+"hong kong, china"
+],
+"adjectives": [
+"hongkonger",
+"hongkongese"
+],
+"native": [
+"heung gong",
+"香港",
+"香港特別行政區",
+"香港特别行政区"
+]
+},
+{
+"cc": "HM",
+"name": "Heard Island and McDonald Islands",
+"aliases": [
+"heard and mcdonald islands",
+"heard island",
+"heard island and mcdonald islands",
+"mcdonald islands"
+],
+"adjectives": [],
+"native": []
+},
+{
+"cc": "HN",
+"name": "Honduras",
+"aliases": [
+"honduras",
+"republic of honduras"
+],
+"adjectives": [
+"honduran"
+],
+"native": [
+"honduras",
+"hondureña",
+"hondureño",
+"república de honduras"
+]
+},
+{
+"cc": "HR",
+"name": "Croatia",
+"aliases": [
+"croatia",
+"republic of croatia"
+],
+"adjectives": [
+"croat",
+"croatian"
+],
+"native": [
+"hrvatska",
+"hrvatske",
+"hrvatski",
+"republika hrvatska"
+]
+},
+{
+"cc": "HT",
+"name": "Haiti",
+"aliases": [
+"haiti",
+"republic of haiti"
+],
+"adjectives": [
+"haitian"
+],
+"native": [
+"ayiti",
+"haïti",
+"haïtien",
+"haïtienne",
+"république d'haïti"
+]
+},
+{
+"cc": "HU",
+"name": "Hungary",
+"aliases": [
+"hungary"
+],
+"adjectives": [
+"hungarian",
+"magyar"
+],
+"native": [
+"magyar",
+"magyarország",
+"magyarországi"
+]
+},
+{
+"cc": "ID",
+"name": "Indonesia",
+"aliases": [
+"indonesia",
+"republic of indonesia"
+],
+"adjectives": [
+"indonesian"
+],
+"native": [
+"indonesia",
+"republik indonesia"
+]
+},
+{
+"cc": "IM",
+"name": "Isle of Man",
+"aliases": [
+"isle of man"
+],
+"adjectives": [
+"manx"
+],
+"native": [
+"ellan vannin",
+"mannin"
+]
+},
+{
+"cc": "IN",
+"name": "India",
+"aliases": [
+"bharat",
+"india",
+"republic of india"
+],
+"adjectives": [
+"indian"
+],
+"native": [
+"bharat",
+"bhārat",
+"hindustan",
+"भारत",
+"भारत गणराज्य",
+"भारतीय",
+"हिंदुस्तान"
+]
+},
+{
+"cc": "IO",
+"name": "British Indian Ocean Territory",
+"aliases": [
+"biot",
+"british indian ocean territory",
+"chagos archipelago",
+"chagos islands"
+],
+"adjectives": [
+"chagossian"
+],
+"native": []
+},
+{
+"cc": "IE",
+"name": "Ireland",
+"aliases": [
+"eire",
+"ireland",
+"republic of ireland",
+"éire"
+],
+"adjectives": [
+"irish"
+],
+"native": [
+"ireland",
+"poblacht na héireann",
+"éire",
+"éireannach"
+]
+},
+{
+"cc": "IR",
+"name": "Iran",
+"aliases": [
+"i.r. iran",
+"iran",
+"islamic republic of iran",
+"persia"
+],
+"adjectives": [
+"iranian",
+"persian"
+],
+"native": [
+"ايران",
+"ایران",
+"ایرانی",
+"جمهوری اسلامی ایران"
+]
+},
+{
+"cc": "IQ",
+"name": "Iraq",
+"aliases": [
+"iraq",
+"republic of iraq"
+],
+"adjectives": [
+"iraqi",
+"iraqis"
+],
+"native": [
+"العراق",
+"العراقية",
+"جمهورية العراق",
+"عراقي",
+"عێراق",
+"كوردستان العراق"
+]
+},
+{
+"cc": "IS",
+"name": "Iceland",
+"aliases": [
+"iceland",
+"republic of iceland"
+],
+"adjectives": [
+"icelander",
+"icelanders",
+"icelandic"
+],
+"native": [
+"lýðveldið ísland",
+"ísland",
+"íslensk",
+"íslenska",
+"íslenskur"
+]
+},
+{
+"cc": "IL",
+"name": "Israel",
+"aliases": [
+"israel",
+"state of israel"
+],
+"adjectives": [
+"israeli",
+"israelis"
+],
+"native": [
+"ישראל",
+"ישראלי",
+"ישראלית",
+"מדינת ישראל",
+"إسرائيل"
+]
+},
+{
+"cc": "IT",
+"name": "Italy",
+"aliases": [
+"italian republic",
+"italy"
+],
+"adjectives": [
+"italian",
+"italians"
+],
+"native": [
+"italia",
+"italiana",
+"italiane",
+"italiani",
+"italiano",
+"repubblica italiana"
+]
+},
+{
+"cc": "JM",
+"name": "Jamaica",
+"aliases": [
+"jamaica"
+],
+"adjectives": [
+"jamaican",
+"jamaicans"
+],
+"native": [
+"jamaica",
+"jamaika"
+]
+},
+{
+"cc": "JE",
+"name": "Jersey",
+"aliases": [
+"bailiwick of jersey",
+"jersey"
+],
+"adjectives": [
+"jerseyman",
+"jerseymen"
+],
+"native": [
+"bailliage de jersey",
+"jèrri"
+]
+},
+{
+"cc": "JO",
+"name": "Jordan",
+"aliases": [
+"hashemite kingdom of jordan",
+"jordan",
+"kingdom of jordan"
+],
+"adjectives": [
+"jordanian",
+"jordanians"
+],
+"native": [
+"أردني",
+"الأردن",
+"الأردنية",
+"الاردن",
+"المملكة الأردنية الهاشمية"
+]
+},
+{
+"cc": "JP",
+"name": "Japan",
+"aliases": [
+"japan"
+],
+"adjectives": [
+"japanese"
+],
+"native": [
+"nihon",
+"nippon",
+"にっぽん",
+"にほん",
+"日本",
+"日本の",
+"日本国"
+]
+},
+{
+"cc": "KZ",
+"name": "Kazakhstan",
+"aliases": [
+"kazakhstan",
+"kazakstan",
+"republic of kazakhstan"
+],
+"adjectives": [
+"kazak",
+"kazakh",
+"kazakhs",
+"kazakhstani"
+],
+"native": [
+"qazaqstan",
+"казахский",
+"казахстан",
+"казахстанский",
+"республика казахстан",
+"қазақ",
+"қазақстан",
+"қазақстан республикасы"
+]
+},
+{
+"cc": "KE",
+"name": "Kenya",
+"aliases": [
+"kenya",
+"republic of kenya"
+],
+"adjectives": [
+"kenyan",
+"kenyans"
+],
+"native": [
+"jamhuri ya kenya",
+"kenya"
+]
+},
+{
+"cc": "KG",
+"name": "Kyrgyzstan",
+"aliases": [
+"kirghizia",
+"kirgizia",
+"kyrgyz republic",
+"kyrgyzia",
+"kyrgyzstan"
+],
+"adjectives": [
+"kirghiz",
+"kirgiz",
+"kyrgyz",
+"kyrgyzstani"
+],
+"native": [
+"киргизия",
+"киргизский",
+"кыргыз",
+"кыргыз республикасы",
+"кыргызская республика",
+"кыргызский",
+"кыргызстан"
+]
+},
+{
+"cc": "KH",
+"name": "Cambodia",
+"aliases": [
+"cambodia",
+"kampuchea",
+"kingdom of cambodia"
+],
+"adjectives": [
+"cambodian",
+"cambodians",
+"khmer"
+],
+"native": [
+"kampuchea",
+"កម្ពុជា",
+"ខ្មែរ",
+"ព្រះរាជាណាចក្រកម្ពុជា"
+]
+},
+{
+"cc": "KI",
+"name": "Kiribati",
+"aliases": [
+"gilbert islands",
+"kiribati",
+"republic of kiribati"
+],
+"adjectives": [
+"i-kiribati",
+"kiribatian"
+],
+"native": [
+"kiribati",
+"ribaberiki kiribati"
+]
+},
+{
+"cc": "KN",
+"name": "Saint Kitts and Nevis",
+"aliases": [
+"federation of saint kitts and nevis",
+"saint christopher and nevis",
+"saint kitts",
+"saint kitts and nevis",
+"st kitts",
+"st kitts and nevis",
+"st. kitts and nevis"
+],
+"adjectives": [
+"kittitian",
+"nevisian"
+],
+"native": [
+"saint kitts and nevis"
+]
+},
+{
+"cc": "KR",
+"name": "South Korea",
+"aliases": [
+"korea",
+"korea, republic of",
+"republic of korea",
+"rok",
+"s. korea",
+"south korea"
+],
+"adjectives": [
+"korean",
+"south korean"
+],
+"native": [
+"大韓民國",
+"韓國",
+"대한민국",
+"한국",
+"한국의",
+"한국인"
+]
+},
+{
+"cc": "KW",
+"name": "Kuwait",
+"aliases": [
+"kuwait",
+"state of kuwait"
+],
+"adjectives": [
+"kuwaiti"
+],
+"native": [
+"الكويت",
+"الكويتي",
+"الكويتية",
+"دولة الكويت",
+"كويتي"
+]
+},
+{
+"cc": "LA",
+"name": "Laos",
+"aliases": [
+"lao",
+"lao pdr",
+"lao people's democratic republic",
+"lao peoples democratic republic",
+"laos"
+],
+"adjectives": [
+"lao",
+"laotian"
+],
+"native": [
+"ປະເທດລາວ",
+"ລາວ",
+"ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ"
+]
+},
+{
+"cc": "LB",
+"name": "Lebanon",
+"aliases": [
+"lebanese republic",
+"lebanon"
+],
+"adjectives": [
+"lebanese"
+],
+"native": [
+"liban",
+"libanais",
+"libanaise",
+"الجمهورية اللبنانية",
+"اللبناني",
+"اللبنانية",
+"لبنان",
+"لبناني"
+]
+},
+{
+"cc": "LR",
+"name": "Liberia",
+"aliases": [
+"liberia",
+"republic of liberia"
+],
+"adjectives": [
+"liberian"
+],
+"native": [
+"liberia"
+]
+},
+{
+"cc": "LY",
+"name": "Libya",
+"aliases": [
+"libya",
+"libyan arab jamahiriya",
+"state of libya"
+],
+"adjectives": [
+"libyan"
+],
+"native": [
+"الليبي",
+"الليبية",
+"دولة ليبيا",
+"ليبي",
+"ليبيا"
+]
+},
+{
+"cc": "LC",
+"name": "Saint Lucia",
+"aliases": [
+"saint lucia",
+"st lucia",
+"st. lucia"
+],
+"adjectives": [
+"saint lucian",
+"st lucian"
+],
+"native": [
+"saint lucia",
+"sainte-lucie",
+"sent lisi"
+]
+},
+{
+"cc": "LI",
+"name": "Liechtenstein",
+"aliases": [
+"liechtenstein",
+"principality of liechtenstein"
+],
+"adjectives": [
+"liechtensteiner",
+"liechtensteinian"
+],
+"native": [
+"fürstentum liechtenstein",
+"liechtenstein",
+"liechtensteinisch",
+"liechtensteinische"
+]
+},
+{
+"cc": "LK",
+"name": "Sri Lanka",
+"aliases": [
+"ceylon",
+"democratic socialist republic of sri lanka",
+"sri lanka"
+],
+"adjectives": [
+"ceylonese",
+"sri lankan"
+],
+"native": [
+"இலங்கை",
+"ලංකාව",
+"ශ්‍රී ලංකා",
+"ශ්‍රී ලංකාව"
+]
+},
+{
+"cc": "LS",
+"name": "Lesotho",
+"aliases": [
+"basutoland",
+"kingdom of lesotho",
+"lesotho"
+],
+"adjectives": [
+"basotho",
+"mosotho"
+],
+"native": [
+"lesotho",
+"muso oa lesotho"
+]
+},
+{
+"cc": "LT",
+"name": "Lithuania",
+"aliases": [
+"lithuania",
+"republic of lithuania"
+],
+"adjectives": [
+"lithuanian"
+],
+"native": [
+"lietuva",
+"lietuviškas",
+"lietuvių",
+"lietuvos",
+"lietuvos respublika"
+]
+},
+{
+"cc": "LU",
+"name": "Luxembourg",
+"aliases": [
+"grand duchy of luxembourg",
+"luxembourg",
+"luxemburg"
+],
+"adjectives": [
+"luxembourger",
+"luxembourgish",
+"luxemburgish"
+],
+"native": [
+"grand-duché de luxembourg",
+"großherzogtum luxemburg",
+"luxembourg",
+"luxembourgeois",
+"luxemburg",
+"luxemburgisch",
+"lëtzebuerg"
+]
+},
+{
+"cc": "LV",
+"name": "Latvia",
+"aliases": [
+"latvia",
+"republic of latvia"
+],
+"adjectives": [
+"latvian"
+],
+"native": [
+"latviešu",
+"latvija",
+"latvijas",
+"latvijas republika"
+]
+},
+{
+"cc": "MO",
+"name": "Macao",
+"aliases": [
+"macao",
+"macao sar",
+"macao special administrative region",
+"macao special administrative region of china",
+"macau",
+"macau sar"
+],
+"adjectives": [
+"macanese"
+],
+"native": [
+"região administrativa especial de macau",
+"中国澳门特别行政区",
+"中國澳門特別行政區",
+"澳門",
+"澳门"
+]
+},
+{
+"cc": "MF",
+"name": "Saint Martin (French part)",
+"aliases": [
+"collectivity of saint martin",
+"saint martin",
+"saint martin (french part)",
+"st martin",
+"st. martin"
+],
+"adjectives": [
+"saint-martinois"
+],
+"native": [
+"collectivité de saint-martin",
+"saint-martin"
+]
+},
+{
+"cc": "MA",
+"name": "Morocco",
+"aliases": [
+"kingdom of morocco",
+"morocco"
+],
+"adjectives": [
+"moroccan"
+],
+"native": [
+"maroc",
+"marocain",
+"marocaine",
+"royaume du maroc",
+"المغرب",
+"المملكة المغربية",
+"مغربي",
+"ⵍⵎⵖⵔⵉⴱ"
+]
+},
+{
+"cc": "MC",
+"name": "Monaco",
+"aliases": [
+"monaco",
+"principality of monaco"
+],
+"adjectives": [
+"monacan",
+"monegasque"
+],
+"native": [
+"monaco",
+"monégasque",
+"mónegu",
+"principauté de monaco"
+]
+},
+{
+"cc": "MD",
+"name": "Moldova",
+"aliases": [
+"moldavia",
+"moldova",
+"republic of moldova"
+],
+"adjectives": [
+"moldavian",
+"moldovan"
+],
+"native": [
+"moldova",
+"moldovenească",
+"moldovenesc",
+"republica moldova"
+]
+},
+{
+"cc": "MG",
+"name": "Madagascar",
+"aliases": [
+"madagascar",
+"malagasy republic",
+"republic of madagascar"
+],
+"adjectives": [
+"madagascan",
+"malagasy"
+],
+"native": [
+"madagascar",
+"madagasikara",
+"malgache",
+"repoblikan'i madagasikara",
+"république de madagascar"
+]
+},
+{
+"cc": "MV",
+"name": "Maldives",
+"aliases": [
+"maldive islands",
+"maldives",
+"republic of maldives",
+"republic of the maldives"
+],
+"adjectives": [
+"maldivian"
+],
+"native": [
+"dhivehi raajje",
+"ދިވެހިރާއްޖެ",
+"ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ"
+]
+},
+{
+"cc": "MX",
+"name": "Mexico",
+"aliases": [
+"mexico",
+"united mexican states"
+],
+"adjectives": [
+"mexican"
+],
+"native": [
+"estados unidos mexicanos",
+"mexicana",
+"mexicanas",
+"mexicano",
+"mexicanos",
+"mexico",
+"méxico"
+]
+},
+{
+"cc": "MH",
+"name": "Marshall Islands",
+"aliases": [
+"marshall islands",
+"republic of the marshall islands",
+"rmi"
+],
+"adjectives": [
+"marshallese"
+],
+"native": [
+"aorōkin m̧ajeļ",
+"majel",
+"m̧ajeļ"
+]
+},
+{
+"cc": "MK",
+"name": "North Macedonia",
+"aliases": [
+"former yugoslav republic of macedonia",
+"fyrom",
+"macedonia",
+"north macedonia",
+"republic of macedonia",
+"republic of north macedonia"
+],
+"adjectives": [
+"macedonian",
+"north macedonian"
+],
+"native": [
+"maqedonia e veriut",
+"македонија",
+"македонска",
+"македонски",
+"република северна македонија",
+"северна македонија"
+]
+},
+{
+"cc": "ML",
+"name": "Mali",
+"aliases": [
+"mali",
+"republic of mali"
+],
+"adjectives": [
+"malian"
+],
+"native": [
+"mali",
+"malien",
+"malienne",
+"république du mali"
+]
+},
+{
+"cc": "MT",
+"name": "Malta",
+"aliases": [
+"malta",
+"republic of malta"
+],
+"adjectives": [
+"maltese"
+],
+"native": [
+"malta",
+"malti",
+"maltija",
+"repubblika ta' malta"
+]
+},
+{
+"cc": "MM",
+"name": "Myanmar",
+"aliases": [
+"burma",
+"myanmar",
+"republic of myanmar",
+"republic of the union of myanmar"
+],
+"adjectives": [
+"burmese",
+"myanmar"
+],
+"native": [
+"ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+"မြန်မာ",
+"မြန်မာနိုင်ငံ"
+]
+},
+{
+"cc": "ME",
+"name": "Montenegro",
+"aliases": [
+"montenegro"
+],
+"adjectives": [
+"montenegrin"
+],
+"native": [
+"crna gora",
+"crnogorska",
+"crnogorski",
+"црна гора",
+"црногорски"
+]
+},
+{
+"cc": "MN",
+"name": "Mongolia",
+"aliases": [
+"mongolia"
+],
+"adjectives": [
+"mongolian"
+],
+"native": [
+"монгол",
+"монгол улс",
+"монголын",
+"ᠮᠣᠩᠭᠣᠯ ᠤᠯᠤᠰ"
+]
+},
+{
+"cc": "MP",
+"name": "Northern Mariana Islands",
+"aliases": [
+"cnmi",
+"commonwealth of the northern mariana islands",
+"n. mariana islands",
+"northern mariana islands",
+"northern marianas"
+],
+"adjectives": [
+"northern mariana islander"
+],
+"native": [
+"notte mariånas",
+"sankattan siha na islas mariånas"
+]
+},
+{
+"cc": "MZ",
+"name": "Mozambique",
+"aliases": [
+"mozambique",
+"republic of mozambique"
+],
+"adjectives": [
+"mozambican"
+],
+"native": [
+"moçambicana",
+"moçambicano",
+"moçambique",
+"república de moçambique"
+]
+},
+{
+"cc": "MR",
+"name": "Mauritania",
+"aliases": [
+"islamic republic of mauritania",
+"mauritania"
+],
+"adjectives": [
+"mauritanian"
+],
+"native": [
+"mauritanie",
+"mauritanien",
+"mauritanienne",
+"الجمهورية الإسلامية الموريتانية",
+"موريتاني",
+"موريتانيا"
+]
+},
+{
+"cc": "MS",
+"name": "Montserrat",
+"aliases": [
+"montserrat"
+],
+"adjectives": [
+"montserratian"
+],
+"native": [
+"montserrat"
+]
+},
+{
+"cc": "MQ",
+"name": "Martinique",
+"aliases": [
+"martinique"
+],
+"adjectives": [
+"martinican",
+"martiniquais"
+],
+"native": [
+"martiniquais",
+"martiniquaise",
+"martinique",
+"matinik"
+]
+},
+{
+"cc": "MU",
+"name": "Mauritius",
+"aliases": [
+"mauritius",
+"republic of mauritius"
+],
+"adjectives": [
+"mauritian"
+],
+"native": [
+"maurice",
+"mauricien",
+"mauricienne",
+"moris",
+"république de maurice",
+"île maurice"
+]
+},
+{
+"cc": "MW",
+"name": "Malawi",
+"aliases": [
+"malawi",
+"nyasaland",
+"republic of malawi"
+],
+"adjectives": [
+"malawian"
+],
+"native": [
+"dziko la malaŵi",
+"malawi",
+"malaŵi"
+]
+},
+{
+"cc": "MY",
+"name": "Malaysia",
+"aliases": [
+"federation of malaysia",
+"malaysia"
+],
+"adjectives": [
+"malaysian"
+],
+"native": [
+"malaysia",
+"مليسيا",
+"மலேசியா",
+"马來西亞",
+"马来西亚"
+]
+},
+{
+"cc": "YT",
+"name": "Mayotte",
+"aliases": [
+"mayotte"
+],
+"adjectives": [
+"mahorais",
+"mahoran"
+],
+"native": [
+"mahorais",
+"mahoraise",
+"maore",
+"mayotte"
+]
+},
+{
+"cc": "NA",
+"name": "Namibia",
+"aliases": [
+"namibia",
+"republic of namibia",
+"south west africa"
+],
+"adjectives": [
+"namibian"
+],
+"native": [
+"namibia",
+"namibië"
+]
+},
+{
+"cc": "NC",
+"name": "New Caledonia",
+"aliases": [
+"new caledonia"
+],
+"adjectives": [
+"caledonian",
+"new caledonian"
+],
+"native": [
+"calédonien",
+"calédonienne",
+"nouvelle calédonie",
+"nouvelle-calédonie",
+"néo-calédonien",
+"néo-calédonienne"
+]
+},
+{
+"cc": "NE",
+"name": "Niger",
+"aliases": [
+"niger",
+"republic of niger",
+"republic of the niger"
+],
+"adjectives": [
+"nigerien"
+],
+"native": [
+"niger",
+"nigérien",
+"nigérienne",
+"république du niger"
+]
+},
+{
+"cc": "NF",
+"name": "Norfolk Island",
+"aliases": [
+"norfolk island"
+],
+"adjectives": [
+"norfolk islander"
+],
+"native": [
+"norf'k ailen",
+"norfolk island"
+]
+},
+{
+"cc": "NG",
+"name": "Nigeria",
+"aliases": [
+"federal republic of nigeria",
+"nigeria"
+],
+"adjectives": [
+"nigerian"
+],
+"native": [
+"najeriya",
+"naìjíríà",
+"nigeria",
+"nàìjíríà"
+]
+},
+{
+"cc": "NI",
+"name": "Nicaragua",
+"aliases": [
+"nicaragua",
+"republic of nicaragua"
+],
+"adjectives": [
+"nicaraguan"
+],
+"native": [
+"nicaragua",
+"nicaragüense",
+"nicaragüenses",
+"república de nicaragua"
+]
+},
+{
+"cc": "NU",
+"name": "Niue",
+"aliases": [
+"niue"
+],
+"adjectives": [
+"niuean"
+],
+"native": [
+"niue",
+"niuē"
+]
+},
+{
+"cc": "NL",
+"name": "Netherlands",
+"aliases": [
+"holland",
+"kingdom of the netherlands",
+"netherlands",
+"the netherlands"
+],
+"adjectives": [
+"dutch",
+"netherlandish"
+],
+"native": [
+"koninkrijk der nederlanden",
+"nederland",
+"nederlands",
+"nederlandse",
+"nederlân"
+]
+},
+{
+"cc": "NO",
+"name": "Norway",
+"aliases": [
+"kingdom of norway",
+"norway"
+],
+"adjectives": [
+"norwegian"
+],
+"native": [
+"kongeriket noreg",
+"kongeriket norge",
+"noreg",
+"norga",
+"norge",
+"norsk",
+"norske",
+"vuodna"
+]
+},
+{
+"cc": "NP",
+"name": "Nepal",
+"aliases": [
+"federal democratic republic of nepal",
+"nepal"
+],
+"adjectives": [
+"nepalese",
+"nepali"
+],
+"native": [
+"नेपाल",
+"नेपाली",
+"संघीय लोकतान्त्रिक गणतन्त्र नेपाल"
+]
+},
+{
+"cc": "NR",
+"name": "Nauru",
+"aliases": [
+"nauru",
+"republic of nauru"
+],
+"adjectives": [
+"nauruan"
+],
+"native": [
+"naoero",
+"ripublik naoero"
+]
+},
+{
+"cc": "NZ",
+"name": "New Zealand",
+"aliases": [
+"aotearoa new zealand",
+"n.z.",
+"new zealand",
+"nz"
+],
+"adjectives": [
+"new zealander"
+],
+"native": [
+"aotearoa"
+]
+},
+{
+"cc": "OM",
+"name": "Oman",
+"aliases": [
+"oman",
+"sultanate of oman"
+],
+"adjectives": [
+"omani"
+],
+"native": [
+"العمانية",
+"سلطنة عمان",
+"عمان",
+"عماني",
+"عُمان"
+]
+},
+{
+"cc": "PK",
+"name": "Pakistan",
+"aliases": [
+"islamic republic of pakistan",
+"pakistan"
+],
+"adjectives": [
+"pakistani"
+],
+"native": [
+"اسلامی جمہوریہ پاکستان",
+"پاکستان",
+"پاکستانی"
+]
+},
+{
+"cc": "PA",
+"name": "Panama",
+"aliases": [
+"panama",
+"republic of panama"
+],
+"adjectives": [
+"panamanian"
+],
+"native": [
+"panameña",
+"panameño",
+"panamá",
+"república de panamá"
+]
+},
+{
+"cc": "PN",
+"name": "Pitcairn",
+"aliases": [
+"pitcairn",
+"pitcairn island",
+"pitcairn islands",
+"pitcairn, henderson, ducie and oeno islands"
+],
+"adjectives": [
+"pitcairner",
+"pitcairnese"
+],
+"native": [
+"pitkern"
+]
+},
+{
+"cc": "PE",
+"name": "Peru",
+"aliases": [
+"peru",
+"republic of peru"
+],
+"adjectives": [
+"peruvian"
+],
+"native": [
+"peruana",
+"peruano",
+"perú",
+"piruw",
+"república del perú"
+]
+},
+{
+"cc": "PH",
+"name": "Philippines",
+"aliases": [
+"philippine islands",
+"philippines",
+"republic of the philippines",
+"the philippines"
+],
+"adjectives": [
+"filipina",
+"filipino",
+"philippine"
+],
+"native": [
+"pilipinas",
+"pilipino",
+"republika ng pilipinas"
+]
+},
+{
+"cc": "PW",
+"name": "Palau",
+"aliases": [
+"belau",
+"palau",
+"republic of palau"
+],
+"adjectives": [
+"palauan"
+],
+"native": [
+"belau",
+"beluu er a belau"
+]
+},
+{
+"cc": "PG",
+"name": "Papua New Guinea",
+"aliases": [
+"independent state of papua new guinea",
+"papua new guinea",
+"png"
+],
+"adjectives": [
+"papua new guinean"
+],
+"native": [
+"independen stet bilong papua niugini",
+"papua niu gini",
+"papua niugini"
+]
+},
+{
+"cc": "PL",
+"name": "Poland",
+"aliases": [
+"poland",
+"republic of poland"
+],
+"adjectives": [
+"polish"
+],
+"native": [
+"polska",
+"polski",
+"polskie",
+"polskiego",
+"polskiej",
+"rzeczpospolita polska",
+"w polsce"
+]
+},
+{
+"cc": "PR",
+"name": "Puerto Rico",
+"aliases": [
+"commonwealth of puerto rico",
+"porto rico",
+"puerto rico"
+],
+"adjectives": [
+"puerto rican",
+"puertorican"
+],
+"native": [
+"boricua",
+"borinquen",
+"estado libre asociado de puerto rico",
+"puerto rico",
+"puertorriqueña",
+"puertorriqueño"
+]
+},
+{
+"cc": "KP",
+"name": "North Korea",
+"aliases": [
+"d.p.r.k.",
+"democratic people's republic of korea",
+"democratic peoples republic of korea",
+"dprk",
+"north korea"
+],
+"adjectives": [
+"north korean"
+],
+"native": [
+"北朝鮮",
+"朝鮮",
+"朝鲜",
+"북한",
+"조선",
+"조선민주주의인민공화국"
+]
+},
+{
+"cc": "PT",
+"name": "Portugal",
+"aliases": [
+"portugal",
+"portuguese republic"
+],
+"adjectives": [
+"portuguese"
+],
+"native": [
+"portugal",
+"portuguesa",
+"portuguesas",
+"portugueses",
+"português",
+"república portuguesa"
+]
+},
+{
+"cc": "PY",
+"name": "Paraguay",
+"aliases": [
+"paraguay",
+"republic of paraguay"
+],
+"adjectives": [
+"paraguayan"
+],
+"native": [
+"paraguay",
+"paraguaya",
+"paraguayo",
+"paraguái",
+"república del paraguay",
+"tetã paraguái"
+]
+},
+{
+"cc": "PS",
+"name": "Palestine, State of",
+"aliases": [
+"gaza strip",
+"occupied palestinian territories",
+"occupied palestinian territory",
+"palestine",
+"palestine, state of",
+"palestinian territories",
+"state of palestine",
+"the state of palestine",
+"west bank and gaza"
+],
+"adjectives": [
+"palestinian"
+],
+"native": [
+"دولة فلسطين",
+"فلسطين",
+"فلسطيني",
+"فلسطينية"
+]
+},
+{
+"cc": "PF",
+"name": "French Polynesia",
+"aliases": [
+"french polynesia",
+"tahiti"
+],
+"adjectives": [
+"french polynesian",
+"tahitian"
+],
+"native": [
+"polynésie",
+"polynésie française",
+"polynésien",
+"polynésienne",
+"pōrīnetia farāni"
+]
+},
+{
+"cc": "QA",
+"name": "Qatar",
+"aliases": [
+"qatar",
+"state of qatar"
+],
+"adjectives": [
+"qatari"
+],
+"native": [
+"دولة قطر",
+"قطر",
+"قطري",
+"قطرية"
+]
+},
+{
+"cc": "RE",
+"name": "Réunion",
+"aliases": [
+"la reunion",
+"la réunion",
+"reunion",
+"reunion island",
+"réunion",
+"réunion island"
+],
+"adjectives": [
+"reunionese",
+"réunionese"
+],
+"native": [
+"la réunion",
+"réunion",
+"réunionnais",
+"réunionnaise",
+"île de la réunion"
+]
+},
+{
+"cc": "RO",
+"name": "Romania",
+"aliases": [
+"romania",
+"roumania",
+"rumania"
+],
+"adjectives": [
+"romanian",
+"rumanian"
+],
+"native": [
+"romania",
+"român",
+"românească",
+"românesc",
+"românia",
+"română"
+]
+},
+{
+"cc": "RU",
+"name": "Russian Federation",
+"aliases": [
+"russia",
+"russian federation",
+"the russian federation"
+],
+"adjectives": [
+"russian"
+],
+"native": [
+"российская",
+"российская федерация",
+"российский",
+"российской",
+"россия",
+"русская",
+"русский",
+"рф"
+]
+},
+{
+"cc": "RW",
+"name": "Rwanda",
+"aliases": [
+"republic of rwanda",
+"ruanda",
+"rwanda",
+"rwandese republic"
+],
+"adjectives": [
+"rwandan",
+"rwandese"
+],
+"native": [
+"repubulika y'u rwanda",
+"rwanda",
+"rwandais",
+"rwandaise",
+"république du rwanda",
+"u rwanda"
+]
+},
+{
+"cc": "SA",
+"name": "Saudi Arabia",
+"aliases": [
+"k.s.a.",
+"kingdom of saudi arabia",
+"ksa",
+"saudi",
+"saudi arabia"
+],
+"adjectives": [
+"saudi",
+"saudi arabian"
+],
+"native": [
+"السعودية",
+"المملكة العربية السعودية",
+"سعودي",
+"سعودية"
+]
+},
+{
+"cc": "SD",
+"name": "Sudan",
+"aliases": [
+"republic of sudan",
+"republic of the sudan",
+"sudan",
+"the sudan"
+],
+"adjectives": [
+"sudanese"
+],
+"native": [
+"السودان",
+"جمهورية السودان",
+"سوداني",
+"سودانية"
+]
+},
+{
+"cc": "SN",
+"name": "Senegal",
+"aliases": [
+"republic of senegal",
+"senegal"
+],
+"adjectives": [
+"senegalese"
+],
+"native": [
+"république du sénégal",
+"sénégal",
+"sénégalais",
+"sénégalaise"
+]
+},
+{
+"cc": "SG",
+"name": "Singapore",
+"aliases": [
+"republic of singapore",
+"singapore"
+],
+"adjectives": [
+"singaporean"
+],
+"native": [
+"republik singapura",
+"singapura",
+"சிங்கப்பூர்",
+"新加坡",
+"新加坡共和国"
+]
+},
+{
+"cc": "GS",
+"name": "South Georgia and the South Sandwich Islands",
+"aliases": [
+"sgssi",
+"south georgia",
+"south georgia and the south sandwich islands",
+"south sandwich islands"
+],
+"adjectives": [],
+"native": []
+},
+{
+"cc": "SH",
+"name": "Saint Helena, Ascension and Tristan da Cunha",
+"aliases": [
+"ascension island",
+"saint helena",
+"saint helena, ascension and tristan da cunha",
+"st helena",
+"st. helena",
+"tristan da cunha"
+],
+"adjectives": [
+"saint helenian"
+],
+"native": []
+},
+{
+"cc": "SJ",
+"name": "Svalbard and Jan Mayen",
+"aliases": [
+"jan mayen",
+"svalbard",
+"svalbard and jan mayen"
+],
+"adjectives": [],
+"native": [
+"svalbard og jan mayen"
+]
+},
+{
+"cc": "SB",
+"name": "Solomon Islands",
+"aliases": [
+"solomon islands",
+"solomons"
+],
+"adjectives": [
+"solomon islander"
+],
+"native": [
+"solomon aelan"
+]
+},
+{
+"cc": "SL",
+"name": "Sierra Leone",
+"aliases": [
+"republic of sierra leone",
+"sierra leone"
+],
+"adjectives": [
+"sierra leonean"
+],
+"native": [
+"salone"
+]
+},
+{
+"cc": "SV",
+"name": "El Salvador",
+"aliases": [
+"el salvador",
+"republic of el salvador",
+"salvador"
+],
+"adjectives": [
+"salvadoran",
+"salvadorean",
+"salvadorian"
+],
+"native": [
+"república de el salvador",
+"salvadoreña",
+"salvadoreño"
+]
+},
+{
+"cc": "SM",
+"name": "San Marino",
+"aliases": [
+"most serene republic of san marino",
+"republic of san marino",
+"san marino"
+],
+"adjectives": [
+"sammarinese"
+],
+"native": [
+"repubblica di san marino",
+"serenissima repubblica di san marino"
+]
+},
+{
+"cc": "SO",
+"name": "Somalia",
+"aliases": [
+"federal republic of somalia",
+"somalia"
+],
+"adjectives": [
+"somali",
+"somalian"
+],
+"native": [
+"jamhuuriyadda federaalka soomaaliya",
+"soomaali",
+"soomaaliya",
+"الصومال"
+]
+},
+{
+"cc": "PM",
+"name": "Saint Pierre and Miquelon",
+"aliases": [
+"saint pierre and miquelon",
+"st pierre and miquelon",
+"st. pierre and miquelon"
+],
+"adjectives": [],
+"native": [
+"miquelonnais",
+"saint-pierrais",
+"saint-pierre-et-miquelon"
+]
+},
+{
+"cc": "RS",
+"name": "Serbia",
+"aliases": [
+"republic of serbia",
+"serbia"
+],
+"adjectives": [
+"serb",
+"serbian",
+"serbs"
+],
+"native": [
+"republika srbija",
+"srbija",
+"srpska",
+"srpski",
+"република србија",
+"србија",
+"српска",
+"српски"
+]
+},
+{
+"cc": "SS",
+"name": "South Sudan",
+"aliases": [
+"republic of south sudan",
+"south sudan"
+],
+"adjectives": [
+"south sudanese"
+],
+"native": [
+"south sudan",
+"جنوب السودان"
+]
+},
+{
+"cc": "ST",
+"name": "Sao Tome and Principe",
+"aliases": [
+"democratic republic of sao tome and principe",
+"sao tome",
+"sao tome & principe",
+"sao tome and principe",
+"são tomé and príncipe",
+"são tomé e príncipe"
+],
+"adjectives": [
+"santomean",
+"são toméan"
+],
+"native": [
+"santomense",
+"sao tome e principe",
+"são tomé e príncipe",
+"são-tomense"
+]
+},
+{
+"cc": "SR",
+"name": "Suriname",
+"aliases": [
+"dutch guiana",
+"republic of suriname",
+"surinam",
+"suriname"
+],
+"adjectives": [
+"surinamer",
+"surinamese"
+],
+"native": [
+"republiek suriname",
+"surinaams",
+"surinaamse",
+"suriname"
+]
+},
+{
+"cc": "SK",
+"name": "Slovakia",
+"aliases": [
+"slovak republic",
+"slovakia"
+],
+"adjectives": [
+"slovak",
+"slovakian",
+"slovaks"
+],
+"native": [
+"slovensko",
+"slovenská",
+"slovenská republika",
+"slovenské",
+"slovenský"
+]
+},
+{
+"cc": "SI",
+"name": "Slovenia",
+"aliases": [
+"republic of slovenia",
+"slovenia"
+],
+"adjectives": [
+"slovene",
+"slovenes",
+"slovenian"
+],
+"native": [
+"republika slovenija",
+"slovenija",
+"slovenska",
+"slovenski",
+"slovensko"
+]
+},
+{
+"cc": "SE",
+"name": "Sweden",
+"aliases": [
+"kingdom of sweden",
+"sweden"
+],
+"adjectives": [
+"swede",
+"swedes",
+"swedish"
+],
+"native": [
+"konungariket sverige",
+"svensk",
+"svenska",
+"svenskt",
+"sverige"
+]
+},
+{
+"cc": "SZ",
+"name": "Eswatini",
+"aliases": [
+"eswatini",
+"kingdom of eswatini",
+"kingdom of swaziland",
+"swaziland"
+],
+"adjectives": [
+"emaswati",
+"liswati",
+"swazi"
+],
+"native": [
+"eswatini",
+"ingwenyama",
+"swatini",
+"umbuso weswatini"
+]
+},
+{
+"cc": "SX",
+"name": "Sint Maarten (Dutch part)",
+"aliases": [
+"dutch sint maarten",
+"sint maarten",
+"sint maarten (dutch part)"
+],
+"adjectives": [
+"sint maartener"
+],
+"native": [
+"sint maarten"
+]
+},
+{
+"cc": "SC",
+"name": "Seychelles",
+"aliases": [
+"republic of seychelles",
+"seychelles"
+],
+"adjectives": [
+"seychellois",
+"seychelloise"
+],
+"native": [
+"repiblik sesel",
+"république des seychelles",
+"sesel",
+"seychelles"
+]
+},
+{
+"cc": "SY",
+"name": "Syria",
+"aliases": [
+"syria",
+"syrian arab republic"
+],
+"adjectives": [
+"syrian",
+"syrians"
+],
+"native": [
+"الجمهورية العربية السورية",
+"السورية",
+"سوري",
+"سوريا",
+"سورية"
+]
+},
+{
+"cc": "TC",
+"name": "Turks and Caicos Islands",
+"aliases": [
+"tci",
+"turks & caicos",
+"turks and caicos",
+"turks and caicos islands"
+],
+"adjectives": [
+"turks and caicos islander"
+],
+"native": [
+"turks and caicos islands"
+]
+},
+{
+"cc": "TD",
+"name": "Chad",
+"aliases": [
+"chad",
+"republic of chad"
+],
+"adjectives": [
+"chadian"
+],
+"native": [
+"république du tchad",
+"tchad",
+"tchadien",
+"tchadienne",
+"تشاد",
+"جمهورية تشاد"
+]
+},
+{
+"cc": "TG",
+"name": "Togo",
+"aliases": [
+"togo",
+"togolese republic"
+],
+"adjectives": [
+"togolese"
+],
+"native": [
+"république togolaise",
+"togo",
+"togolais",
+"togolaise"
+]
+},
+{
+"cc": "TH",
+"name": "Thailand",
+"aliases": [
+"kingdom of thailand",
+"siam",
+"thailand"
+],
+"adjectives": [
+"thai"
+],
+"native": [
+"prathet thai",
+"ประเทศไทย",
+"ราชอาณาจักรไทย",
+"ไทย"
+]
+},
+{
+"cc": "TJ",
+"name": "Tajikistan",
+"aliases": [
+"republic of tajikistan",
+"tajikistan"
+],
+"adjectives": [
+"tajik",
+"tajikistani"
+],
+"native": [
+"таджикистан",
+"тоҷик",
+"тоҷикистон",
+"ҷумҳурии тоҷикистон"
+]
+},
+{
+"cc": "TK",
+"name": "Tokelau",
+"aliases": [
+"tokelau"
+],
+"adjectives": [
+"tokelauan"
+],
+"native": [
+"tokelau"
+]
+},
+{
+"cc": "TM",
+"name": "Turkmenistan",
+"aliases": [
+"turkmenistan"
+],
+"adjectives": [
+"turkmen",
+"turkmenistani"
+],
+"native": [
+"türkmen",
+"türkmenistan",
+"туркменистан"
+]
+},
+{
+"cc": "TL",
+"name": "Timor-Leste",
+"aliases": [
+"democratic republic of timor-leste",
+"east timor",
+"timor leste",
+"timor-leste"
+],
+"adjectives": [
+"east timorese",
+"timorese"
+],
+"native": [
+"república democrática de timor-leste",
+"timor lorosa'e",
+"timor-leste",
+"timorense",
+"timór lorosa'e"
+]
+},
+{
+"cc": "TO",
+"name": "Tonga",
+"aliases": [
+"kingdom of tonga",
+"tonga"
+],
+"adjectives": [
+"tongan"
+],
+"native": [
+"puleanga fakatui o tonga",
+"puleʻanga fakatuʻi ʻo tonga",
+"tonga"
+]
+},
+{
+"cc": "TT",
+"name": "Trinidad and Tobago",
+"aliases": [
+"republic of trinidad and tobago",
+"t&t",
+"trinidad & tobago",
+"trinidad and tobago"
+],
+"adjectives": [
+"tobagonian",
+"trinbagonian",
+"trinidadian"
+],
+"native": [
+"trinidad and tobago"
+]
+},
+{
+"cc": "TN",
+"name": "Tunisia",
+"aliases": [
+"republic of tunisia",
+"tunisia"
+],
+"adjectives": [
+"tunisian"
+],
+"native": [
+"tounes",
+"tunisie",
+"tunisien",
+"tunisienne",
+"الجمهورية التونسية",
+"تونس",
+"تونسي"
+]
+},
+{
+"cc": "TR",
+"name": "Türkiye",
+"aliases": [
+"republic of turkey",
+"republic of turkiye",
+"republic of türkiye",
+"turkey",
+"turkiye",
+"türkiye"
+],
+"adjectives": [
+"turkish"
+],
+"native": [
+"türk",
+"türkiye",
+"türkiye cumhuriyeti",
+"türkçe"
+]
+},
+{
+"cc": "TV",
+"name": "Tuvalu",
+"aliases": [
+"tuvalu"
+],
+"adjectives": [
+"tuvaluan"
+],
+"native": [
+"tuvalu"
+]
+},
+{
+"cc": "TW",
+"name": "Taiwan",
+"aliases": [
+"chinese taipei",
+"formosa",
+"r.o.c.",
+"republic of china",
+"roc",
+"taiwan",
+"taiwan, province of china"
+],
+"adjectives": [
+"taiwanese"
+],
+"native": [
+"taiwan",
+"中华民国",
+"中華民國",
+"台湾",
+"台灣",
+"臺灣"
+]
+},
+{
+"cc": "TZ",
+"name": "Tanzania",
+"aliases": [
+"tanzania",
+"united republic of tanzania"
+],
+"adjectives": [
+"tanzanian"
+],
+"native": [
+"jamhuri ya muungano wa tanzania",
+"tanzania"
+]
+},
+{
+"cc": "UG",
+"name": "Uganda",
+"aliases": [
+"republic of uganda",
+"uganda"
+],
+"adjectives": [
+"ugandan"
+],
+"native": [
+"jamhuri ya uganda",
+"uganda"
+]
+},
+{
+"cc": "UA",
+"name": "Ukraine",
+"aliases": [
+"the ukraine",
+"ukraine"
+],
+"adjectives": [
+"ukrainian"
+],
+"native": [
+"украина",
+"україна",
+"україни",
+"українська",
+"український"
+]
+},
+{
+"cc": "UM",
+"name": "United States Minor Outlying Islands",
+"aliases": [
+"u.s. minor outlying islands",
+"united states minor outlying islands",
+"us minor outlying islands"
+],
+"adjectives": [],
+"native": []
+},
+{
+"cc": "UY",
+"name": "Uruguay",
+"aliases": [
+"eastern republic of uruguay",
+"oriental republic of uruguay",
+"uruguay"
+],
+"adjectives": [
+"uruguayan"
+],
+"native": [
+"república oriental del uruguay",
+"uruguay",
+"uruguaya",
+"uruguayo"
+]
+},
+{
+"cc": "US",
+"name": "United States",
+"aliases": [
+"america",
+"u.s.",
+"u.s.a.",
+"united states",
+"united states of america",
+"us",
+"usa"
+],
+"adjectives": [
+"american"
+],
+"native": [
+"united states",
+"united states of america"
+]
+},
+{
+"cc": "UZ",
+"name": "Uzbekistan",
+"aliases": [
+"republic of uzbekistan",
+"uzbekistan"
+],
+"adjectives": [
+"uzbek",
+"uzbekistani"
+],
+"native": [
+"o'zbekiston",
+"oʻzbekiston",
+"узбекистан",
+"ўзбекистон"
+]
+},
+{
+"cc": "VA",
+"name": "Holy See (Vatican City State)",
+"aliases": [
+"holy see",
+"holy see (vatican city state)",
+"vatican",
+"vatican city",
+"vatican city state"
+],
+"adjectives": [
+"vatican"
+],
+"native": [
+"città del vaticano",
+"civitas vaticana",
+"sancta sedes",
+"santa sede",
+"stato della città del vaticano"
+]
+},
+{
+"cc": "VC",
+"name": "Saint Vincent and the Grenadines",
+"aliases": [
+"saint vincent",
+"saint vincent and the grenadines",
+"st vincent and the grenadines",
+"st. vincent",
+"st. vincent and the grenadines"
+],
+"adjectives": [
+"vincentian"
+],
+"native": [
+"saint vincent and the grenadines"
+]
+},
+{
+"cc": "VE",
+"name": "Venezuela",
+"aliases": [
+"bolivarian republic of venezuela",
+"venezuela"
+],
+"adjectives": [
+"venezuelan"
+],
+"native": [
+"república bolivariana de venezuela",
+"venezolana",
+"venezolano",
+"venezuela"
+]
+},
+{
+"cc": "VG",
+"name": "Virgin Islands, British",
+"aliases": [
+"british virgin islands",
+"bvi",
+"virgin islands, british"
+],
+"adjectives": [],
+"native": [
+"british virgin islands"
+]
+},
+{
+"cc": "VI",
+"name": "Virgin Islands, U.S.",
+"aliases": [
+"u.s. virgin islands",
+"united states virgin islands",
+"us virgin islands",
+"usvi",
+"virgin islands of the united states",
+"virgin islands, u.s."
+],
+"adjectives": [
+"virgin islander"
+],
+"native": []
+},
+{
+"cc": "VN",
+"name": "Vietnam",
+"aliases": [
+"socialist republic of viet nam",
+"socialist republic of vietnam",
+"viet nam",
+"vietnam"
+],
+"adjectives": [
+"vietnamese"
+],
+"native": [
+"cộng hòa xã hội chủ nghĩa việt nam",
+"người việt",
+"tiếng việt",
+"việt nam"
+]
+},
+{
+"cc": "VU",
+"name": "Vanuatu",
+"aliases": [
+"new hebrides",
+"republic of vanuatu",
+"vanuatu"
+],
+"adjectives": [
+"ni-vanuatu",
+"vanuatuan"
+],
+"native": [
+"ripablik blong vanuatu",
+"république de vanuatu"
+]
+},
+{
+"cc": "WF",
+"name": "Wallis and Futuna",
+"aliases": [
+"territory of the wallis and futuna islands",
+"wallis & futuna",
+"wallis and futuna",
+"wallis and futuna islands"
+],
+"adjectives": [
+"futunan",
+"wallisian"
+],
+"native": [
+"wallis-et-futuna",
+"ʻuvea mo futuna"
+]
+},
+{
+"cc": "WS",
+"name": "Samoa",
+"aliases": [
+"independent state of samoa",
+"samoa",
+"western samoa"
+],
+"adjectives": [
+"samoan"
+],
+"native": [
+"malo saʻoloto tutoʻatasi o sāmoa",
+"sāmoa"
+]
+},
+{
+"cc": "YE",
+"name": "Yemen",
+"aliases": [
+"republic of yemen",
+"yemen"
+],
+"adjectives": [
+"yemeni",
+"yemenite"
+],
+"native": [
+"الجمهورية اليمنية",
+"اليمن",
+"اليمنية",
+"يمني"
+]
+},
+{
+"cc": "ZA",
+"name": "South Africa",
+"aliases": [
+"republic of south africa",
+"rsa",
+"south africa"
+],
+"adjectives": [
+"south african"
+],
+"native": [
+"afrika borwa",
+"iningizimu afrika",
+"mzansi",
+"ningizimu afrika",
+"republiek van suid-afrika",
+"suid-afrika",
+"suid-afrikaanse"
+]
+},
+{
+"cc": "ZM",
+"name": "Zambia",
+"aliases": [
+"northern rhodesia",
+"republic of zambia",
+"zambia"
+],
+"adjectives": [
+"zambian"
+],
+"native": []
+},
+{
+"cc": "ZW",
+"name": "Zimbabwe",
+"aliases": [
+"republic of zimbabwe",
+"southern rhodesia",
+"zimbabwe"
+],
+"adjectives": [
+"zimbabwean"
+],
+"native": []
+},
+{
+"cc": "XK",
+"name": "Kosovo",
+"aliases": [
+"kosova",
+"kosovo",
+"republic of kosovo"
+],
+"adjectives": [
+"kosovan",
+"kosovar"
+],
+"native": [
+"kosovar",
+"kosovare",
+"kosovo i metohija",
+"kosovës",
+"republika e kosovës",
+"косово",
+"косово и метохија",
+"република косово"
+]
+}
+]

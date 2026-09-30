@@ -1,0 +1,2344 @@
+{
+ "prefix": "kw1322v3g_",
+ "n": 1000,
+ "candidates": 653,
+ "with_split": 323,
+ "share": 0.323,
+ "works_weighted_share": 0.4980793766720292,
+ "examples": [
+  [
+   "Large Helical Device",
+   9894445,
+   [
+    "LHD"
+   ]
+  ],
+  [
+   "neutral beam injection",
+   4961593,
+   [
+    "NBI"
+   ]
+  ],
+  [
+   "electron cyclotron emission",
+   1983288,
+   [
+    "ECE"
+   ]
+  ],
+  [
+   "Doppler backscattering",
+   1432809,
+   [
+    "DBS",
+    "Doppler reflectometry"
+   ]
+  ],
+  [
+   "Lepidoptera",
+   1425929,
+   [
+    "butterflies and moths",
+    "lepidopterans"
+   ]
+  ],
+  [
+   "electron cyclotron heating",
+   1172649,
+   [
+    "ECH"
+   ]
+  ],
+  [
+   "diabetes mellitus",
+   791468,
+   [
+    "dm"
+   ]
+  ],
+  [
+   "depression",
+   789859,
+   [
+    "clinical depression"
+   ]
+  ],
+  [
+   "Gastropoda",
+   769156,
+   [
+    "gastropods"
+   ]
+  ],
+  [
+   "breast cancer",
+   734710,
+   [
+    "mammary cancer"
+   ]
+  ],
+  [
+   "hypertension",
+   661727,
+   [
+    "high blood pressure"
+   ]
+  ],
+  [
+   "artificial intelligence",
+   599112,
+   [
+    "machine intelligence"
+   ]
+  ],
+  [
+   "body mass index",
+   506006,
+   [
+    "Quetelet index"
+   ]
+  ],
+  [
+   "early childhood education",
+   493214,
+   [
+    "ECE"
+   ]
+  ],
+  [
+   "primary care",
+   476528,
+   [
+    "primary healthcare"
+   ]
+  ],
+  [
+   "educational technology",
+   437717,
+   [
+    "EdTech",
+    "instructional technology"
+   ]
+  ],
+  [
+   "national forest inventory",
+   436916,
+   [
+    "NFI"
+   ]
+  ],
+  [
+   "biomarkers",
+   391219,
+   [
+    "biological markers"
+   ]
+  ],
+  [
+   "comorbidities",
+   386658,
+   [
+    "comorbid conditions",
+    "medical comorbidity"
+   ]
+  ],
+  [
+   "machine learning",
+   348154,
+   [
+    "ML"
+   ]
+  ],
+  [
+   "He-I line emission",
+   334973,
+   [
+    "He I emission"
+   ]
+  ],
+  [
+   "Parkinson's disease",
+   333121,
+   [
+    "paralysis agitans",
+    "Pd"
+   ]
+  ],
+  [
+   "chronic kidney disease",
+   294071,
+   [
+    "CKD"
+   ]
+  ],
+  [
+   "animals",
+   293937,
+   [
+    "Animalia"
+   ]
+  ],
+  [
+   "traditional Chinese medicine",
+   280919,
+   [
+    "TCM"
+   ]
+  ],
+  [
+   "flavonoids",
+   274391,
+   [
+    "bioflavonoids"
+   ]
+  ],
+  [
+   "drug safety",
+   267204,
+   [
+    "medication safety"
+   ]
+  ],
+  [
+   "insects",
+   250616,
+   [
+    "Insecta"
+   ]
+  ],
+  [
+   "intellectual disability",
+   247687,
+   [
+    "intellectual developmental disorder",
+    "mental retardation"
+   ]
+  ],
+  [
+   "wound healing",
+   242588,
+   [
+    "wound repair"
+   ]
+  ],
+  [
+   "online learning",
+   242123,
+   [
+    "e-learning",
+    "virtual learning",
+    "web-based learning"
+   ]
+  ],
+  [
+   "non-small cell lung cancer",
+   241038,
+   [
+    "NSCLC"
+   ]
+  ],
+  [
+   "marriage",
+   236030,
+   [
+    "matrimony"
+   ]
+  ],
+  [
+   "course program",
+   229351,
+   [
+    "curriculum"
+   ]
+  ],
+  [
+   "TNF-α",
+   214581,
+   [
+    "cachectin",
+    "tumor necrosis factor-alpha"
+   ]
+  ],
+  [
+   "neutral particle analyzer",
+   203892,
+   [
+    "NPA"
+   ]
+  ],
+  [
+   "poetry",
+   197206,
+   [
+    "verse"
+   ]
+  ],
+  [
+   "ferns",
+   177790,
+   [
+    "Polypodiopsida"
+   ]
+  ],
+  [
+   "innate immunity",
+   174012,
+   [
+    "non-specific immunity"
+   ]
+  ],
+  [
+   "phenolic compounds",
+   166858,
+   [
+    "phenolics"
+   ]
+  ],
+  [
+   "multinational corporations",
+   164463,
+   [
+    "MNE",
+    "multinational enterprise",
+    "TNC"
+   ]
+  ],
+  [
+   "dose-response relationship",
+   163947,
+   [
+    "exposure-response relationship"
+   ]
+  ],
+  [
+   "plant extracts",
+   149276,
+   [
+    "herbal extract"
+   ]
+  ],
+  [
+   "Ottoman Empire",
+   133308,
+   [
+    "Ottoman state"
+   ]
+  ],
+  [
+   "emotional intelligence",
+   128474,
+   [
+    "EI",
+    "emotional quotient",
+    "EQ"
+   ]
+  ],
+  [
+   "high-temperature superconductors",
+   127123,
+   [
+    "high-Tc superconductor"
+   ]
+  ],
+  [
+   "nonprofit organizations",
+   122588,
+   [
+    "NPO"
+   ]
+  ],
+  [
+   "metal-organic frameworks",
+   113894,
+   [
+    "MOF"
+   ]
+  ],
+  [
+   "home care",
+   111818,
+   [
+    "domiciliary care",
+    "home health care"
+   ]
+  ],
+  [
+   "lipid profile",
+   103157,
+   [
+    "lipid panel",
+    "lipid parameters"
+   ]
+  ],
+  [
+   "dietary fiber",
+   97461,
+   [
+    "roughage"
+   ]
+  ],
+  [
+   "statins",
+   95871,
+   [
+    "HMG-CoA reductase inhibitors"
+   ]
+  ],
+  [
+   "maternal mortality",
+   92648,
+   [
+    "maternal death"
+   ]
+  ],
+  [
+   "bats",
+   89528,
+   [
+    "Chiroptera",
+    "chiropterans"
+   ]
+  ],
+  [
+   "digital marketing",
+   89263,
+   [
+    "internet marketing",
+    "online marketing"
+   ]
+  ],
+  [
+   "drought tolerance",
+   85534,
+   [
+    "drought resistance"
+   ]
+  ],
+  [
+   "tumor suppressor genes",
+   85100,
+   [
+    "TSG"
+   ]
+  ],
+  [
+   "vascular plants",
+   84756,
+   [
+    "Tracheophyta"
+   ]
+  ],
+  [
+   "curriculum integration",
+   81904,
+   [
+    "integrated curriculum"
+   ]
+  ],
+  [
+   "plastic deformation",
+   81072,
+   [
+    "plastic flow"
+   ]
+  ],
+  [
+   "pressure drop",
+   80484,
+   [
+    "pressure loss"
+   ]
+  ],
+  [
+   "cardiac arrhythmias",
+   79726,
+   [
+    "arrhythmia",
+    "dysrhythmias"
+   ]
+  ],
+  [
+   "temporal trends",
+   77629,
+   [
+    "time trend"
+   ]
+  ],
+  [
+   "family business",
+   77491,
+   [
+    "family enterprises",
+    "family firms"
+   ]
+  ],
+  [
+   "nobility",
+   76987,
+   [
+    "aristocracy"
+   ]
+  ],
+  [
+   "precision agriculture",
+   75709,
+   [
+    "site-specific agriculture"
+   ]
+  ],
+  [
+   "heterocyclic compounds",
+   73054,
+   [
+    "heterocycles"
+   ]
+  ],
+  [
+   "parathyroid hormone",
+   72935,
+   [
+    "PTH"
+   ]
+  ],
+  [
+   "hypotension",
+   69768,
+   [
+    "low blood pressure"
+   ]
+  ],
+  [
+   "Glycine max",
+   69555,
+   [
+    "soy",
+    "soya bean",
+    "soybean"
+   ]
+  ],
+  [
+   "congestive heart failure",
+   69133,
+   [
+    "CHF"
+   ]
+  ],
+  [
+   "polyethylene glycol",
+   68808,
+   [
+    "macrogol"
+   ]
+  ],
+  [
+   "grapevine",
+   68292,
+   [
+    "Vitis vinifera"
+   ]
+  ],
+  [
+   "phylogeny",
+   67937,
+   [
+    "evolutionary history"
+   ]
+  ],
+  [
+   "DNA barcoding",
+   67449,
+   [
+    "molecular barcoding"
+   ]
+  ],
+  [
+   "railways",
+   65216,
+   [
+    "rail transport"
+   ]
+  ],
+  [
+   "constitutional review",
+   64640,
+   [
+    "constitutional control",
+    "judicial review of constitutionality"
+   ]
+  ],
+  [
+   "rove beetles",
+   64010,
+   [
+    "Staphylinidae"
+   ]
+  ],
+  [
+   "federated learning",
+   62648,
+   [
+    "federated machine learning"
+   ]
+  ],
+  [
+   "sucrose",
+   62408,
+   [
+    "saccharose",
+    "table sugar"
+   ]
+  ],
+  [
+   "liver cancer",
+   61422,
+   [
+    "hepatic cancer"
+   ]
+  ],
+  [
+   "NOx emissions",
+   60707,
+   [
+    "nitrogen oxides emissions"
+   ]
+  ],
+  [
+   "cardiomyocytes",
+   59657,
+   [
+    "cardiac muscle cells",
+    "cardiac myocyte"
+   ]
+  ],
+  [
+   "population genetic structure",
+   58556,
+   [
+    "genetic structure"
+   ]
+  ],
+  [
+   "kidney stones",
+   58276,
+   [
+    "kidney calculi",
+    "nephrolithiasis",
+    "renal calculi"
+   ]
+  ],
+  [
+   "solid tumors",
+   57970,
+   [
+    "solid cancer",
+    "solid malignancies"
+   ]
+  ],
+  [
+   "reptiles",
+   56645,
+   [
+    "Reptilia"
+   ]
+  ],
+  [
+   "kindergarten children",
+   56159,
+   [
+    "kindergarteners"
+   ]
+  ],
+  [
+   "immune evasion",
+   54977,
+   [
+    "immunoevasion"
+   ]
+  ],
+  [
+   "euthanasia",
+   53732,
+   [
+    "mercy killing"
+   ]
+  ],
+  [
+   "older workers",
+   52479,
+   [
+    "ageing workers",
+    "senior workers"
+   ]
+  ],
+  [
+   "gene regulatory networks",
+   52446,
+   [
+    "GRN"
+   ]
+  ],
+  [
+   "mycotoxins",
+   48903,
+   [
+    "fungal toxins"
+   ]
+  ],
+  [
+   "neutrophil-to-lymphocyte ratio",
+   48209,
+   [
+    "NLR"
+   ]
+  ],
+  [
+   "hypothalamic-pituitary-adrenal axis",
+   46582,
+   [
+    "HPA axis"
+   ]
+  ],
+  [
+   "Freundlich isotherm",
+   46489,
+   [
+    "Freundlich adsorption isotherm"
+   ]
+  ],
+  [
+   "soil stabilization",
+   44353,
+   [
+    "ground stabilization"
+   ]
+  ],
+  [
+   "graduate students",
+   43695,
+   [
+    "postgraduate students"
+   ]
+  ],
+  [
+   "cereals",
+   43626,
+   [
+    "grain crops"
+   ]
+  ],
+  [
+   "capital accumulation",
+   42398,
+   [
+    "accumulation of capital"
+   ]
+  ],
+  [
+   "lamp shells",
+   42327,
+   [
+    "Brachiopoda",
+    "brachiopods"
+   ]
+  ],
+  [
+   "knowledge, attitudes and practices",
+   42278,
+   [
+    "KAP"
+   ]
+  ],
+  [
+   "public service delivery",
+   41242,
+   [
+    "government service delivery"
+   ]
+  ],
+  [
+   "bioindicators",
+   39740,
+   [
+    "biological indicators"
+   ]
+  ],
+  [
+   "collective agreements",
+   39507,
+   [
+    "CBA"
+   ]
+  ],
+  [
+   "river discharge",
+   38069,
+   [
+    "stream discharge"
+   ]
+  ],
+  [
+   "stochastic differential equations",
+   37504,
+   [
+    "SDE"
+   ]
+  ],
+  [
+   "platelet-rich plasma",
+   36123,
+   [
+    "PRP"
+   ]
+  ],
+  [
+   "Cerrado",
+   36097,
+   [
+    "Brazilian savanna"
+   ]
+  ],
+  [
+   "self-harm",
+   35952,
+   [
+    "deliberate self-harm"
+   ]
+  ],
+  [
+   "host-guest chemistry",
+   35554,
+   [
+    "supramolecular host-guest chemistry"
+   ]
+  ],
+  [
+   "dysbiosis",
+   35123,
+   [
+    "dysbacteriosis",
+    "microbial imbalance"
+   ]
+  ],
+  [
+   "Roman Hispania",
+   35053,
+   [
+    "Hispania",
+    "Roman Spain"
+   ]
+  ],
+  [
+   "beta-lactam antibiotics",
+   32869,
+   [
+    "β-lactams"
+   ]
+  ],
+  [
+   "red blood cells",
+   32154,
+   [
+    "erythrocytes",
+    "rbcS"
+   ]
+  ],
+  [
+   "adsorbents",
+   31468,
+   [
+    "adsorbent material"
+   ]
+  ],
+  [
+   "cold stress",
+   31332,
+   [
+    "low temperature stress"
+   ]
+  ],
+  [
+   "writing process",
+   31324,
+   [
+    "composing process"
+   ]
+  ],
+  [
+   "youth participation",
+   30821,
+   [
+    "young people's participation"
+   ]
+  ],
+  [
+   "data compression",
+   30521,
+   [
+    "compression"
+   ]
+  ],
+  [
+   "multiple linear regression",
+   30051,
+   [
+    "multivariable linear regression"
+   ]
+  ],
+  [
+   "niobium",
+   29260,
+   [
+    "columbium",
+    "Nb"
+   ]
+  ],
+  [
+   "weeds",
+   29092,
+   [
+    "weed plants"
+   ]
+  ],
+  [
+   "small for gestational age",
+   28926,
+   [
+    "SGA"
+   ]
+  ],
+  [
+   "Dead Sea Scrolls",
+   28715,
+   [
+    "Qumran manuscripts",
+    "Qumran scrolls"
+   ]
+  ],
+  [
+   "tuberculosis control",
+   28593,
+   [
+    "TB control"
+   ]
+  ],
+  [
+   "androgens",
+   28305,
+   [
+    "androgenic hormones",
+    "male sex hormones"
+   ]
+  ],
+  [
+   "skin aging",
+   28170,
+   [
+    "cutaneous aging"
+   ]
+  ],
+  [
+   "silicon nitride",
+   27847,
+   [
+    "Si3N4"
+   ]
+  ],
+  [
+   "consumer price index",
+   27570,
+   [
+    "CPI"
+   ]
+  ],
+  [
+   "solvent-free synthesis",
+   25928,
+   [
+    "solventless synthesis"
+   ]
+  ],
+  [
+   "dandelion",
+   25525,
+   [
+    "Taraxacum"
+   ]
+  ],
+  [
+   "ETH Zurich",
+   25386,
+   [
+    "Eidgenössische Technische Hochschule Zürich",
+    "Swiss Federal Institute of Technology Zurich"
+   ]
+  ],
+  [
+   "building regulations",
+   25212,
+   [
+    "building codes"
+   ]
+  ],
+  [
+   "detoxification",
+   24782,
+   [
+    "detox"
+   ]
+  ],
+  [
+   "jumping spiders",
+   23916,
+   [
+    "Salticidae"
+   ]
+  ],
+  [
+   "triacylglycerols",
+   23147,
+   [
+    "tags",
+    "TG",
+    "triglycerides"
+   ]
+  ],
+  [
+   "corporate groups",
+   22051,
+   [
+    "business group"
+   ]
+  ],
+  [
+   "lithic technology",
+   22029,
+   [
+    "stone tool technology"
+   ]
+  ],
+  [
+   "harvest index",
+   21259,
+   [
+    "HI"
+   ]
+  ],
+  [
+   "recurrence relations",
+   21224,
+   [
+    "recurrence equations"
+   ]
+  ],
+  [
+   "primary percutaneous coronary intervention",
+   20953,
+   [
+    "primary angioplasty",
+    "primary PCI"
+   ]
+  ],
+  [
+   "chirality",
+   20765,
+   [
+    "handedness"
+   ]
+  ],
+  [
+   "cycloheximide",
+   20680,
+   [
+    "actidione"
+   ]
+  ],
+  [
+   "knowledge transmission",
+   19631,
+   [
+    "knowledge transfer"
+   ]
+  ],
+  [
+   "renal artery stenosis",
+   19623,
+   [
+    "renal arterial stenosis"
+   ]
+  ],
+  [
+   "radon",
+   17074,
+   [
+    "Rn"
+   ]
+  ],
+  [
+   "tuberculous meningitis",
+   17020,
+   [
+    "TB meningitis",
+    "TBM"
+   ]
+  ],
+  [
+   "redox homeostasis",
+   16898,
+   [
+    "redox balance"
+   ]
+  ],
+  [
+   "electromagnetism",
+   15767,
+   [
+    "electromagnetics"
+   ]
+  ],
+  [
+   "continuous ambulatory peritoneal dialysis",
+   15215,
+   [
+    "CAPD"
+   ]
+  ],
+  [
+   "global capitalism",
+   15152,
+   [
+    "transnational capitalism"
+   ]
+  ],
+  [
+   "low vision",
+   14890,
+   [
+    "partial sight"
+   ]
+  ],
+  [
+   "deletion mutants",
+   14853,
+   [
+    "deletion strains"
+   ]
+  ],
+  [
+   "18th-century theatre",
+   14610,
+   [
+    "eighteenth-century theater"
+   ]
+  ],
+  [
+   "tobacco mosaic virus",
+   13906,
+   [
+    "TMV"
+   ]
+  ],
+  [
+   "treatment outcome prediction",
+   13835,
+   [
+    "treatment response prediction"
+   ]
+  ],
+  [
+   "Lord Byron",
+   13808,
+   [
+    "Byron",
+    "George Gordon Byron"
+   ]
+  ],
+  [
+   "philosophy teaching",
+   13682,
+   [
+    "philosophy instruction"
+   ]
+  ],
+  [
+   "manganese dioxide",
+   13495,
+   [
+    "manganese(IV) oxide",
+    "MnO2"
+   ]
+  ],
+  [
+   "radium-226",
+   13409,
+   [
+    "226Ra",
+    "Ra-226"
+   ]
+  ],
+  [
+   "narrative writing",
+   13316,
+   [
+    "narrative composition"
+   ]
+  ],
+  [
+   "soil formation",
+   13229,
+   [
+    "pedogenesis"
+   ]
+  ],
+  [
+   "dihydrotestosterone",
+   13223,
+   [
+    "androstanolone",
+    "DHT"
+   ]
+  ],
+  [
+   "orchid taxonomy",
+   12850,
+   [
+    "Orchidaceae taxonomy"
+   ]
+  ],
+  [
+   "enterprise risk management",
+   12387,
+   [
+    "ERM"
+   ]
+  ],
+  [
+   "extremely preterm infants",
+   12371,
+   [
+    "extremely preterm neonates"
+   ]
+  ],
+  [
+   "ATLAS experiment",
+   11975,
+   [
+    "ATLAS"
+   ]
+  ],
+  [
+   "endogenous growth",
+   11888,
+   [
+    "endogenous growth theory",
+    "new growth theory"
+   ]
+  ],
+  [
+   "butyric acid",
+   11266,
+   [
+    "butanoic acid"
+   ]
+  ],
+  [
+   "Mycobacterium avium complex",
+   10922,
+   [
+    "MAC"
+   ]
+  ],
+  [
+   "osteonecrosis",
+   10799,
+   [
+    "aseptic necrosis",
+    "avascular necrosis",
+    "bone necrosis"
+   ]
+  ],
+  [
+   "oil sands",
+   10760,
+   [
+    "bituminous sands",
+    "tar sands"
+   ]
+  ],
+  [
+   "Apriori algorithm",
+   10614,
+   [
+    "Apriori"
+   ]
+  ],
+  [
+   "high-income countries",
+   10602,
+   [
+    "HIC"
+   ]
+  ],
+  [
+   "bioleaching",
+   10583,
+   [
+    "microbial leaching"
+   ]
+  ],
+  [
+   "myo-inositol",
+   10447,
+   [
+    "meso-inositol"
+   ]
+  ],
+  [
+   "enteropathogenic Escherichia coli",
+   10432,
+   [
+    "EPEC"
+   ]
+  ],
+  [
+   "glacial-interglacial cycles",
+   10392,
+   [
+    "glacial cycles",
+    "ice age cycles"
+   ]
+  ],
+  [
+   "data hiding",
+   10182,
+   [
+    "information hiding"
+   ]
+  ],
+  [
+   "third molar extraction",
+   10144,
+   [
+    "wisdom tooth extraction"
+   ]
+  ],
+  [
+   "news values",
+   10136,
+   [
+    "news factors"
+   ]
+  ],
+  [
+   "Ralph Waldo Emerson",
+   9722,
+   [
+    "Emerson"
+   ]
+  ],
+  [
+   "betweenness centrality",
+   9448,
+   [
+    "betweenness"
+   ]
+  ],
+  [
+   "phenotypic characterization",
+   9398,
+   [
+    "phenotyping"
+   ]
+  ],
+  [
+   "cosmological constant problem",
+   9066,
+   [
+    "vacuum catastrophe"
+   ]
+  ],
+  [
+   "sodium ions",
+   9029,
+   [
+    "Na+ ions",
+    "sodium cations"
+   ]
+  ],
+  [
+   "weight stigma",
+   8929,
+   [
+    "fat stigma"
+   ]
+  ],
+  [
+   "IL-15",
+   8789,
+   [
+    "interleukin-15"
+   ]
+  ],
+  [
+   "electoral districts",
+   8727,
+   [
+    "electoral constituencies"
+   ]
+  ],
+  [
+   "copperplate engravings",
+   8520,
+   [
+    "copper engraving"
+   ]
+  ],
+  [
+   "cerium oxide nanoparticles",
+   8465,
+   [
+    "CeO2 nanoparticles",
+    "ceria nanoparticles",
+    "nanoceria"
+   ]
+  ],
+  [
+   "papal diplomacy",
+   8205,
+   [
+    "Holy See diplomacy",
+    "Vatican diplomacy"
+   ]
+  ],
+  [
+   "hypersensitivity pneumonitis",
+   8077,
+   [
+    "extrinsic allergic alveolitis"
+   ]
+  ],
+  [
+   "community living",
+   7876,
+   [
+    "community-based living"
+   ]
+  ],
+  [
+   "Syrian hamster",
+   7875,
+   [
+    "golden hamster",
+    "Mesocricetus auratus"
+   ]
+  ],
+  [
+   "radical innovation",
+   7838,
+   [
+    "breakthrough innovation"
+   ]
+  ],
+  [
+   "Si/Al ratio",
+   7827,
+   [
+    "SAR",
+    "silicon to aluminum ratio"
+   ]
+  ],
+  [
+   "polyhydramnios",
+   7721,
+   [
+    "hydramnios"
+   ]
+  ],
+  [
+   "historical stock data",
+   7672,
+   [
+    "historical stock prices"
+   ]
+  ],
+  [
+   "Marangoni convection",
+   6971,
+   [
+    "thermocapillary convection"
+   ]
+  ],
+  [
+   "CT diagnosis",
+   6902,
+   [
+    "computed tomography diagnosis"
+   ]
+  ],
+  [
+   "Hsp90 inhibitors",
+   6775,
+   [
+    "heat shock protein 90 inhibitor"
+   ]
+  ],
+  [
+   "palmitoylation",
+   6385,
+   [
+    "S-palmitoylation"
+   ]
+  ],
+  [
+   "dissociative identity disorder",
+   6380,
+   [
+    "did",
+    "multiple personality disorder"
+   ]
+  ],
+  [
+   "assortative mating",
+   6197,
+   [
+    "homogamy"
+   ]
+  ],
+  [
+   "PROMIS",
+   6108,
+   [
+    "Patient-Reported Outcomes Measurement Information System"
+   ]
+  ],
+  [
+   "bulk viscosity",
+   6019,
+   [
+    "dilatational viscosity",
+    "second viscosity",
+    "volume viscosity"
+   ]
+  ],
+  [
+   "skeletal maturation",
+   5974,
+   [
+    "bone maturation"
+   ]
+  ],
+  [
+   "polyacrylamide gel electrophoresis",
+   5196,
+   [
+    "page"
+   ]
+  ],
+  [
+   "Béla Bartók",
+   5074,
+   [
+    "Bartók"
+   ]
+  ],
+  [
+   "corrosion testing",
+   4910,
+   [
+    "corrosion test"
+   ]
+  ],
+  [
+   "weighing instruments",
+   4864,
+   [
+    "weighing machines"
+   ]
+  ],
+  [
+   "Batrachochytrium dendrobatidis",
+   4777,
+   [
+    "amphibian chytrid fungus"
+   ]
+  ],
+  [
+   "resistive switching memory",
+   4737,
+   [
+    "ReRAM",
+    "resistive random access memory",
+    "RRAM"
+   ]
+  ],
+  [
+   "workers' education",
+   4698,
+   [
+    "labor education"
+   ]
+  ],
+  [
+   "quadratic convergence",
+   4345,
+   [
+    "second-order convergence"
+   ]
+  ],
+  [
+   "aerodynamic noise",
+   4074,
+   [
+    "aeroacoustic noise"
+   ]
+  ],
+  [
+   "alpha-adrenergic blockade",
+   3981,
+   [
+    "alpha-adrenoceptor blockade",
+    "alpha-blockade"
+   ]
+  ],
+  [
+   "illegal immigrants",
+   3764,
+   [
+    "undocumented immigrants"
+   ]
+  ],
+  [
+   "probability generating function",
+   3706,
+   [
+    "PGF"
+   ]
+  ],
+  [
+   "children in armed conflict",
+   3677,
+   [
+    "children and armed conflict"
+   ]
+  ],
+  [
+   "core-periphery structure",
+   3430,
+   [
+    "core-periphery"
+   ]
+  ],
+  [
+   "monocots",
+   3313,
+   [
+    "monocotyledons"
+   ]
+  ],
+  [
+   "non-essential amino acids",
+   3207,
+   [
+    "dispensable amino acids"
+   ]
+  ],
+  [
+   "value neutrality",
+   3184,
+   [
+    "value freedom"
+   ]
+  ],
+  [
+   "hadith terminology",
+   3069,
+   [
+    "hadith sciences"
+   ]
+  ],
+  [
+   "multicentric Castleman disease",
+   2947,
+   [
+    "MCD"
+   ]
+  ],
+  [
+   "extracapsular extension",
+   2808,
+   [
+    "extracapsular spread"
+   ]
+  ],
+  [
+   "anthocyanin content",
+   2758,
+   [
+    "anthocyanin concentration"
+   ]
+  ],
+  [
+   "wheat seeds",
+   2689,
+   [
+    "wheat grain"
+   ]
+  ],
+  [
+   "antispasmodic activity",
+   2683,
+   [
+    "spasmolytic activity"
+   ]
+  ],
+  [
+   "stream pollution",
+   2644,
+   [
+    "river pollution"
+   ]
+  ],
+  [
+   "aquaculture effluent",
+   2474,
+   [
+    "aquaculture wastewater"
+   ]
+  ],
+  [
+   "tree decline",
+   2461,
+   [
+    "tree dieback"
+   ]
+  ],
+  [
+   "sovereign credit risk",
+   2421,
+   [
+    "sovereign default risk"
+   ]
+  ],
+  [
+   "stationary waves",
+   2358,
+   [
+    "standing waves"
+   ]
+  ],
+  [
+   "Rudolf Bultmann",
+   2268,
+   [
+    "Bultmann"
+   ]
+  ],
+  [
+   "oligomeric state",
+   2262,
+   [
+    "oligomerization state"
+   ]
+  ],
+  [
+   "granulomatous lesions",
+   2207,
+   [
+    "granuloma"
+   ]
+  ],
+  [
+   "Bonferroni correction",
+   2082,
+   [
+    "Bonferroni adjustment",
+    "Bonferroni method"
+   ]
+  ],
+  [
+   "test-time adaptation",
+   2049,
+   [
+    "TTA"
+   ]
+  ],
+  [
+   "prosthetic valve thrombosis",
+   1992,
+   [
+    "prosthetic heart valve thrombosis",
+    "PVT"
+   ]
+  ],
+  [
+   "maximal independent sets",
+   1884,
+   [
+    "MIS"
+   ]
+  ],
+  [
+   "one-dimensional chain structure",
+   1864,
+   [
+    "1D chain structure"
+   ]
+  ],
+  [
+   "antihistamine therapy",
+   1850,
+   [
+    "antihistamine treatment"
+   ]
+  ],
+  [
+   "encoder-decoder",
+   1766,
+   [
+    "encoder-decoder architecture"
+   ]
+  ],
+  [
+   "Valley of Mexico",
+   1665,
+   [
+    "Basin of Mexico",
+    "Mexico Valley"
+   ]
+  ],
+  [
+   "diversifying selection",
+   1620,
+   [
+    "positive selection"
+   ]
+  ],
+  [
+   "polycystin-1",
+   1616,
+   [
+    "PC1"
+   ]
+  ],
+  [
+   "Sclerocarya birrea",
+   1608,
+   [
+    "marula"
+   ]
+  ],
+  [
+   "experimental plots",
+   1459,
+   [
+    "field plots"
+   ]
+  ],
+  [
+   "agricultural enterprise management",
+   1406,
+   [
+    "farm business management"
+   ]
+  ],
+  [
+   "schistosome eggs",
+   1397,
+   [
+    "Schistosoma eggs"
+   ]
+  ],
+  [
+   "branded content",
+   1386,
+   [
+    "brand content"
+   ]
+  ],
+  [
+   "7-hydroxycoumarin",
+   1242,
+   [
+    "umbelliferone"
+   ]
+  ],
+  [
+   "irreversible enzyme inhibition",
+   1224,
+   [
+    "irreversible inhibition"
+   ]
+  ],
+  [
+   "hepatitis B transmission",
+   1196,
+   [
+    "HBV transmission"
+   ]
+  ],
+  [
+   "Biobío Region",
+   1189,
+   [
+    "Bío-Bío region",
+    "Biobío"
+   ]
+  ],
+  [
+   "private equity investment",
+   1171,
+   [
+    "private equity"
+   ]
+  ],
+  [
+   "private television",
+   1048,
+   [
+    "commercial television"
+   ]
+  ],
+  [
+   "entropy weight TOPSIS",
+   1036,
+   [
+    "entropy-weighted TOPSIS"
+   ]
+  ],
+  [
+   "Spanish Caribbean",
+   1028,
+   [
+    "Hispanic Caribbean"
+   ]
+  ],
+  [
+   "Guadalupian",
+   956,
+   [
+    "Middle Permian"
+   ]
+  ],
+  [
+   "vertical zonation",
+   949,
+   [
+    "altitudinal zonation"
+   ]
+  ],
+  [
+   "signal-background separation",
+   930,
+   [
+    "signal-background discrimination"
+   ]
+  ],
+  [
+   "fermion mass spectrum",
+   900,
+   [
+    "fermion masses"
+   ]
+  ],
+  [
+   "fore tibia",
+   897,
+   [
+    "protibia"
+   ]
+  ],
+  [
+   "lean transformation",
+   846,
+   [
+    "lean implementation"
+   ]
+  ],
+  [
+   "surface sealing",
+   841,
+   [
+    "surface crusting"
+   ]
+  ],
+  [
+   "inmate mental health",
+   822,
+   [
+    "prison mental health"
+   ]
+  ],
+  [
+   "exploitative competition",
+   817,
+   [
+    "resource competition"
+   ]
+  ],
+  [
+   "folklore texts",
+   814,
+   [
+    "folk texts"
+   ]
+  ],
+  [
+   "calcium channel agonists",
+   778,
+   [
+    "calcium channel activators"
+   ]
+  ],
+  [
+   "downy brome",
+   742,
+   [
+    "Bromus tectorum",
+    "cheatgrass"
+   ]
+  ],
+  [
+   "boron trioxide",
+   726,
+   [
+    "B2O3",
+    "boric oxide",
+    "boron oxide"
+   ]
+  ],
+  [
+   "traditional classroom",
+   696,
+   [
+    "face-to-face classroom"
+   ]
+  ],
+  [
+   "VLIW",
+   692,
+   [
+    "very long instruction word"
+   ]
+  ],
+  [
+   "ATP13A2",
+   690,
+   [
+    "PARK9"
+   ]
+  ],
+  [
+   "organic producers",
+   682,
+   [
+    "organic farmers"
+   ]
+  ],
+  [
+   "paper prototypes",
+   669,
+   [
+    "paper prototyping"
+   ]
+  ],
+  [
+   "unicorn companies",
+   630,
+   [
+    "unicorn startups",
+    "unicorns"
+   ]
+  ],
+  [
+   "digestive tract histology",
+   609,
+   [
+    "gastrointestinal histology"
+   ]
+  ],
+  [
+   "node strength",
+   585,
+   [
+    "weighted degree"
+   ]
+  ],
+  [
+   "grant aid",
+   581,
+   [
+    "grants-in-aid"
+   ]
+  ],
+  [
+   "colloidal crystal templates",
+   547,
+   [
+    "opal templates"
+   ]
+  ],
+  [
+   "Beverly Hills (Calif.)",
+   544,
+   [
+    "Beverly Hills"
+   ]
+  ],
+  [
+   "fabric pretreatment",
+   536,
+   [
+    "textile pretreatment"
+   ]
+  ],
+  [
+   "cancer grading",
+   534,
+   [
+    "tumor grading"
+   ]
+  ],
+  [
+   "electromagnetic field energy",
+   528,
+   [
+    "electromagnetic energy"
+   ]
+  ],
+  [
+   "Quito, Ecuador",
+   479,
+   [
+    "Quito"
+   ]
+  ],
+  [
+   "cathode electrocatalysts",
+   478,
+   [
+    "cathode catalysts"
+   ]
+  ],
+  [
+   "mixed saliva",
+   453,
+   [
+    "whole saliva"
+   ]
+  ],
+  [
+   "elevated temperature tensile properties",
+   419,
+   [
+    "elevated temperature tensile behavior",
+    "high-temperature tensile properties"
+   ]
+  ],
+  [
+   "height datum",
+   397,
+   [
+    "vertical datum"
+   ]
+  ],
+  [
+   "service outages",
+   389,
+   [
+    "service disruption"
+   ]
+  ],
+  [
+   "person-centered support",
+   388,
+   [
+    "person-centred support"
+   ]
+  ],
+  [
+   "boat tours",
+   359,
+   [
+    "boat trips"
+   ]
+  ],
+  [
+   "tissue-engineered skin substitutes",
+   345,
+   [
+    "bioengineered skin substitutes"
+   ]
+  ],
+  [
+   "composite resin cement",
+   341,
+   [
+    "resin cement"
+   ]
+  ],
+  [
+   "parenteral fluid therapy",
+   311,
+   [
+    "intravenous fluid therapy"
+   ]
+  ],
+  [
+   "renal maturation",
+   304,
+   [
+    "kidney maturation"
+   ]
+  ],
+  [
+   "controlled deficit irrigation",
+   296,
+   [
+    "regulated deficit irrigation"
+   ]
+  ],
+  [
+   "headwater regions",
+   285,
+   [
+    "headwaters"
+   ]
+  ],
+  [
+   "healthcare translation",
+   284,
+   [
+    "medical translation"
+   ]
+  ],
+  [
+   "light curve synthesis",
+   281,
+   [
+    "light curve modeling"
+   ]
+  ],
+  [
+   "microspherophakia",
+   274,
+   [
+    "spherophakia"
+   ]
+  ],
+  [
+   "observing the night sky",
+   273,
+   [
+    "stargazing"
+   ]
+  ],
+  [
+   "Tomáš G. Masaryk",
+   260,
+   [
+    "T. G. Masaryk",
+    "Tomáš Garrigue Masaryk"
+   ]
+  ],
+  [
+   "post-pyloric feeding",
+   248,
+   [
+    "transpyloric feeding"
+   ]
+  ],
+  [
+   "Auckland, New Zealand",
+   238,
+   [
+    "Auckland",
+    "Tāmaki Makaurau"
+   ]
+  ],
+  [
+   "biological inventory",
+   238,
+   [
+    "biodiversity inventory"
+   ]
+  ],
+  [
+   "Peter III",
+   206,
+   [
+    "Peter III of Russia"
+   ]
+  ],
+  [
+   "self-perceived preparedness",
+   169,
+   [
+    "perceived preparedness"
+   ]
+  ],
+  [
+   "key business processes",
+   166,
+   [
+    "core business processes"
+   ]
+  ],
+  [
+   "erythropenia",
+   161,
+   [
+    "erythrocytopenia"
+   ]
+  ],
+  [
+   "first upper molar",
+   145,
+   [
+    "maxillary first molar",
+    "upper first molar"
+   ]
+  ],
+  [
+   "egestion rate",
+   143,
+   [
+    "defecation rate"
+   ]
+  ],
+  [
+   "Gallic numismatics",
+   141,
+   [
+    "Gaulish coinage"
+   ]
+  ],
+  [
+   "3-methyl-2-butanone",
+   130,
+   [
+    "methyl isopropyl ketone"
+   ]
+  ],
+  [
+   "opioid-related overdose",
+   128,
+   [
+    "opioid overdose"
+   ]
+  ],
+  [
+   "Sweden–Germany relations",
+   128,
+   [
+    "German-Swedish relations"
+   ]
+  ],
+  [
+   "shortest common superstring",
+   115,
+   [
+    "SCS"
+   ]
+  ]
+ ]
+}

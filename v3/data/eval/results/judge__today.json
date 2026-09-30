@@ -1,0 +1,233 @@
+{
+ "n": 1198,
+ "n_missing": 0,
+ "n_err": 0,
+ "cut": {
+  "t": 0.5,
+  "top": 5,
+  "t_fit": 0.05,
+  "fit_on": "train+val random"
+ },
+ "splits": {
+  "train": {
+   "random": {
+    "n": 453,
+    "precision": 0.3227,
+    "recall": 0.1852,
+    "f1": 0.2354,
+    "zero_good": 0.4655,
+    "empty": 0.0375,
+    "mean_n": 3.89,
+    "unjudged": 0.0
+   },
+   "cited": {
+    "n": 99,
+    "precision": 0.5081,
+    "recall": 0.296,
+    "f1": 0.374,
+    "zero_good": 0.0303,
+    "empty": 0.0,
+    "mean_n": 4.99,
+    "unjudged": 0.0
+   },
+   "all": {
+    "n": 552,
+    "precision": 0.3633,
+    "recall": 0.2076,
+    "f1": 0.2642,
+    "zero_good": 0.3869,
+    "empty": 0.0308,
+    "mean_n": 4.09,
+    "unjudged": 0.0
+   },
+   "random_fit": {
+    "n": 453,
+    "precision": 0.3227,
+    "recall": 0.1852,
+    "f1": 0.2354,
+    "zero_good": 0.4655,
+    "empty": 0.0375,
+    "mean_n": 3.89,
+    "unjudged": 0.0
+   },
+   "cited_fit": {
+    "n": 99,
+    "precision": 0.5081,
+    "recall": 0.296,
+    "f1": 0.374,
+    "zero_good": 0.0303,
+    "empty": 0.0,
+    "mean_n": 4.99,
+    "unjudged": 0.0
+   }
+  },
+  "val": {
+   "random": {
+    "n": 181,
+    "precision": 0.331,
+    "recall": 0.2159,
+    "f1": 0.2613,
+    "zero_good": 0.4134,
+    "empty": 0.0442,
+    "mean_n": 4.01,
+    "unjudged": 0.0
+   },
+   "cited": {
+    "n": 40,
+    "precision": 0.495,
+    "recall": 0.2896,
+    "f1": 0.3654,
+    "zero_good": 0.025,
+    "empty": 0.0,
+    "mean_n": 5.0,
+    "unjudged": 0.0
+   },
+   "all": {
+    "n": 221,
+    "precision": 0.3665,
+    "recall": 0.2309,
+    "f1": 0.2833,
+    "zero_good": 0.3425,
+    "empty": 0.0362,
+    "mean_n": 4.19,
+    "unjudged": 0.0
+   },
+   "random_fit": {
+    "n": 181,
+    "precision": 0.331,
+    "recall": 0.2159,
+    "f1": 0.2613,
+    "zero_good": 0.4134,
+    "empty": 0.0442,
+    "mean_n": 4.01,
+    "unjudged": 0.0
+   },
+   "cited_fit": {
+    "n": 40,
+    "precision": 0.495,
+    "recall": 0.2896,
+    "f1": 0.3654,
+    "zero_good": 0.025,
+    "empty": 0.0,
+    "mean_n": 5.0,
+    "unjudged": 0.0
+   }
+  },
+  "test": {
+   "random": {
+    "n": 276,
+    "precision": 0.3429,
+    "recall": 0.1843,
+    "f1": 0.2398,
+    "zero_good": 0.4022,
+    "empty": 0.0399,
+    "mean_n": 3.91,
+    "unjudged": 0.0
+   },
+   "cited": {
+    "n": 60,
+    "precision": 0.4561,
+    "recall": 0.2583,
+    "f1": 0.3298,
+    "zero_good": 0.0833,
+    "empty": 0.0,
+    "mean_n": 4.93,
+    "unjudged": 0.0
+   },
+   "all": {
+    "n": 336,
+    "precision": 0.3673,
+    "recall": 0.1991,
+    "f1": 0.2582,
+    "zero_good": 0.3444,
+    "empty": 0.0327,
+    "mean_n": 4.09,
+    "unjudged": 0.0
+   },
+   "random_fit": {
+    "n": 276,
+    "precision": 0.3429,
+    "recall": 0.1843,
+    "f1": 0.2398,
+    "zero_good": 0.4022,
+    "empty": 0.0399,
+    "mean_n": 3.91,
+    "unjudged": 0.0
+   },
+   "cited_fit": {
+    "n": 60,
+    "precision": 0.4561,
+    "recall": 0.2583,
+    "f1": 0.3298,
+    "zero_good": 0.0833,
+    "empty": 0.0,
+    "mean_n": 4.93,
+    "unjudged": 0.0
+   }
+  },
+  "all": {
+   "random": {
+    "n": 910,
+    "precision": 0.3305,
+    "recall": 0.1911,
+    "f1": 0.2422,
+    "zero_good": 0.436,
+    "empty": 0.0396,
+    "mean_n": 3.92,
+    "unjudged": 0.0
+   },
+   "cited": {
+    "n": 199,
+    "precision": 0.4899,
+    "recall": 0.2833,
+    "f1": 0.359,
+    "zero_good": 0.0452,
+    "empty": 0.0,
+    "mean_n": 4.97,
+    "unjudged": 0.0
+   },
+   "all": {
+    "n": 1109,
+    "precision": 0.3652,
+    "recall": 0.2097,
+    "f1": 0.2664,
+    "zero_good": 0.3652,
+    "empty": 0.0325,
+    "mean_n": 4.11,
+    "unjudged": 0.0
+   },
+   "random_fit": {
+    "n": 910,
+    "precision": 0.3305,
+    "recall": 0.1911,
+    "f1": 0.2422,
+    "zero_good": 0.436,
+    "empty": 0.0396,
+    "mean_n": 3.92,
+    "unjudged": 0.0
+   },
+   "cited_fit": {
+    "n": 199,
+    "precision": 0.4899,
+    "recall": 0.2833,
+    "f1": 0.359,
+    "zero_good": 0.0452,
+    "empty": 0.0,
+    "mean_n": 4.97,
+    "unjudged": 0.0
+   }
+  }
+ },
+ "tokens_per_work": 0,
+ "cost_per_work": 0,
+ "latency_ms": 0,
+ "mean_pool": 6.0,
+ "headline": [
+  "random",
+  "f1"
+ ],
+ "ece": 0.6746,
+ "arm": "today",
+ "gold": "judge",
+ "arm_file": "arms/judge__today.jsonl"
+}

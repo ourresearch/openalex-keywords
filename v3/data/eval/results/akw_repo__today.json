@@ -1,0 +1,170 @@
+{
+ "n": 416,
+ "n_missing": 0,
+ "n_err": 0,
+ "cut": {
+  "t": 0.5,
+  "tops": [
+   5,
+   8
+  ],
+  "t_fit": {
+   "5": 0.05,
+   "8": 0.05
+  },
+  "fit_on": "train+val"
+ },
+ "splits": {
+  "train": {
+   "ceiling": 0.0913,
+   "top5": {
+    "precision": 0.0611,
+    "recall": 0.0615,
+    "f1": 0.0613,
+    "mean_n": 4.72
+   },
+   "top5_fit": {
+    "precision": 0.0611,
+    "recall": 0.0615,
+    "f1": 0.0613,
+    "t": 0.05,
+    "mean_n": 4.72
+   },
+   "top8": {
+    "precision": 0.0472,
+    "recall": 0.0708,
+    "f1": 0.0566,
+    "mean_n": 7.03
+   },
+   "top8_fit": {
+    "precision": 0.0472,
+    "recall": 0.0708,
+    "f1": 0.0566,
+    "t": 0.05,
+    "mean_n": 7.03
+   },
+   "uncapped": {
+    "precision": 0.0394,
+    "recall": 0.0913,
+    "f1": 0.0551,
+    "mean_n": 10.86
+   }
+  },
+  "val": {
+   "ceiling": 0.0618,
+   "top5": {
+    "precision": 0.0413,
+    "recall": 0.043,
+    "f1": 0.0422,
+    "mean_n": 4.66
+   },
+   "top5_fit": {
+    "precision": 0.0413,
+    "recall": 0.043,
+    "f1": 0.0422,
+    "t": 0.05,
+    "mean_n": 4.66
+   },
+   "top8": {
+    "precision": 0.038,
+    "recall": 0.0591,
+    "f1": 0.0463,
+    "mean_n": 6.98
+   },
+   "top8_fit": {
+    "precision": 0.038,
+    "recall": 0.0591,
+    "f1": 0.0463,
+    "t": 0.05,
+    "mean_n": 6.98
+   },
+   "uncapped": {
+    "precision": 0.0268,
+    "recall": 0.0618,
+    "f1": 0.0374,
+    "mean_n": 10.35
+   }
+  },
+  "test": {
+   "ceiling": 0.0852,
+   "top5": {
+    "precision": 0.0647,
+    "recall": 0.0553,
+    "f1": 0.0596,
+    "mean_n": 4.58
+   },
+   "top5_fit": {
+    "precision": 0.0647,
+    "recall": 0.0553,
+    "f1": 0.0596,
+    "t": 0.05,
+    "mean_n": 4.58
+   },
+   "top8": {
+    "precision": 0.052,
+    "recall": 0.0658,
+    "f1": 0.0581,
+    "mean_n": 6.77
+   },
+   "top8_fit": {
+    "precision": 0.052,
+    "recall": 0.0658,
+    "f1": 0.0581,
+    "t": 0.05,
+    "mean_n": 6.77
+   },
+   "uncapped": {
+    "precision": 0.0453,
+    "recall": 0.0852,
+    "f1": 0.0592,
+    "mean_n": 10.06
+   }
+  },
+  "all": {
+   "ceiling": 0.0838,
+   "top5": {
+    "precision": 0.0582,
+    "recall": 0.0561,
+    "f1": 0.0571,
+    "mean_n": 4.67
+   },
+   "top5_fit": {
+    "precision": 0.0582,
+    "recall": 0.0561,
+    "f1": 0.0571,
+    "t": 0.05,
+    "mean_n": 4.67
+   },
+   "top8": {
+    "precision": 0.0468,
+    "recall": 0.067,
+    "f1": 0.0551,
+    "mean_n": 6.94
+   },
+   "top8_fit": {
+    "precision": 0.0468,
+    "recall": 0.067,
+    "f1": 0.0551,
+    "t": 0.05,
+    "mean_n": 6.94
+   },
+   "uncapped": {
+    "precision": 0.0386,
+    "recall": 0.0838,
+    "f1": 0.0529,
+    "mean_n": 10.51
+   }
+  }
+ },
+ "tokens_per_work": 0,
+ "cost_per_work": 0,
+ "latency_ms": 0,
+ "mean_pool": 10.5,
+ "headline": [
+  "top8",
+  "f1"
+ ],
+ "arm": "today",
+ "gold": "akw_repo",
+ "arm_file": "arms/akw_repo__today.jsonl"
+}

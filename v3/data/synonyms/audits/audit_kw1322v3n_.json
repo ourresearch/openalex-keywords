@@ -1,0 +1,840 @@
+{
+ "prefix": "kw1322v3n_",
+ "n": 1000,
+ "candidates": 352,
+ "with_split": 117,
+ "share": 0.117,
+ "works_weighted_share": 0.11609218780386604,
+ "examples": [
+  [
+   "neutral beam injection",
+   4961593,
+   [
+    "NBI"
+   ]
+  ],
+  [
+   "19th century",
+   549353,
+   [
+    "1800s"
+   ]
+  ],
+  [
+   "developing countries",
+   476303,
+   [
+    "Third World countries"
+   ]
+  ],
+  [
+   "educational technology",
+   471608,
+   [
+    "EdTech"
+   ]
+  ],
+  [
+   "cardiovascular disease",
+   319310,
+   [
+    "CVD"
+   ]
+  ],
+  [
+   "16th century",
+   269146,
+   [
+    "1500s"
+   ]
+  ],
+  [
+   "mice",
+   188438,
+   [
+    "Mus musculus"
+   ]
+  ],
+  [
+   "ultrasonography",
+   169347,
+   [
+    "echography"
+   ]
+  ],
+  [
+   "invasive species",
+   161195,
+   [
+    "invasive exotic species"
+   ]
+  ],
+  [
+   "electric vehicles",
+   149604,
+   [
+    "electric cars"
+   ]
+  ],
+  [
+   "3D printing",
+   143504,
+   [
+    "three-dimensional printing"
+   ]
+  ],
+  [
+   "digital marketing",
+   124530,
+   [
+    "internet marketing"
+   ]
+  ],
+  [
+   "elastic modulus",
+   123817,
+   [
+    "Young's modulus"
+   ]
+  ],
+  [
+   "Islamic jurisprudence",
+   117736,
+   [
+    "Islamic law"
+   ]
+  ],
+  [
+   "Down syndrome",
+   95064,
+   [
+    "mongolism"
+   ]
+  ],
+  [
+   "family life",
+   94792,
+   [
+    "domestic life"
+   ]
+  ],
+  [
+   "polyethylene glycol",
+   68997,
+   [
+    "macrogol"
+   ]
+  ],
+  [
+   "eye tracking",
+   68006,
+   [
+    "gaze tracking"
+   ]
+  ],
+  [
+   "electric utilities",
+   65723,
+   [
+    "electric power companies"
+   ]
+  ],
+  [
+   "Ki-67",
+   61945,
+   [
+    "MKI67"
+   ]
+  ],
+  [
+   "drug trafficking",
+   60807,
+   [
+    "drug smuggling"
+   ]
+  ],
+  [
+   "antibiotics",
+   60522,
+   [
+    "antibacterial agents"
+   ]
+  ],
+  [
+   "zoonotic transmission",
+   57094,
+   [
+    "animal-to-human transmission"
+   ]
+  ],
+  [
+   "European Convention on Human Rights",
+   55442,
+   [
+    "Convention for the Protection of Human Rights and Fundamental Freedoms"
+   ]
+  ],
+  [
+   "microcontroller",
+   55404,
+   [
+    "MCU"
+   ]
+  ],
+  [
+   "chaotic dynamics",
+   38992,
+   [
+    "chaos"
+   ]
+  ],
+  [
+   "administrative records",
+   36034,
+   [
+    "administrative data"
+   ]
+  ],
+  [
+   "ethylene glycol",
+   31335,
+   [
+    "1,2-ethanediol"
+   ]
+  ],
+  [
+   "animal cognition",
+   30734,
+   [
+    "animal intelligence"
+   ]
+  ],
+  [
+   "home visits",
+   29335,
+   [
+    "home visiting"
+   ]
+  ],
+  [
+   "vascular disease",
+   23649,
+   [
+    "angiopathy"
+   ]
+  ],
+  [
+   "economic downturn",
+   17589,
+   [
+    "economic recession"
+   ]
+  ],
+  [
+   "alcohol intoxication",
+   15977,
+   [
+    "drunkenness",
+    "ethanol intoxication"
+   ]
+  ],
+  [
+   "anxiolytics",
+   15898,
+   [
+    "anti-anxiety medication"
+   ]
+  ],
+  [
+   "m6A RNA methylation",
+   14963,
+   [
+    "N6-methyladenosine methylation"
+   ]
+  ],
+  [
+   "Ebola virus disease",
+   13463,
+   [
+    "Ebola"
+   ]
+  ],
+  [
+   "lymphocyte activation",
+   12686,
+   [
+    "lymphocyte stimulation"
+   ]
+  ],
+  [
+   "country houses",
+   12336,
+   [
+    "stately homes"
+   ]
+  ],
+  [
+   "Odysseus",
+   12142,
+   [
+    "Ulysses"
+   ]
+  ],
+  [
+   "context-aware systems",
+   9579,
+   [
+    "context-aware computing"
+   ]
+  ],
+  [
+   "asymptotic theory",
+   8700,
+   [
+    "asymptotic analysis"
+   ]
+  ],
+  [
+   "pleural tuberculosis",
+   8232,
+   [
+    "tuberculous pleural effusion"
+   ]
+  ],
+  [
+   "ethics committees",
+   7981,
+   [
+    "ethics boards"
+   ]
+  ],
+  [
+   "CD10",
+   7517,
+   [
+    "MME",
+    "neprilysin",
+    "neutral endopeptidase"
+   ]
+  ],
+  [
+   "L1 regularization",
+   6905,
+   [
+    "l1 penalty"
+   ]
+  ],
+  [
+   "antiviral defense",
+   6871,
+   [
+    "antiviral immunity"
+   ]
+  ],
+  [
+   "transdermal patch",
+   6820,
+   [
+    "skin patch"
+   ]
+  ],
+  [
+   "inversion symmetry breaking",
+   6067,
+   [
+    "centrosymmetry breaking"
+   ]
+  ],
+  [
+   "crystalline silicon",
+   5983,
+   [
+    "c-sis"
+   ]
+  ],
+  [
+   "double stars",
+   5914,
+   [
+    "binary stars"
+   ]
+  ],
+  [
+   "Irish Americans",
+   5846,
+   [
+    "Irish-American community"
+   ]
+  ],
+  [
+   "Cr2O3",
+   5814,
+   [
+    "chromia",
+    "chromium(III) oxide"
+   ]
+  ],
+  [
+   "excitatory postsynaptic potentials",
+   5798,
+   [
+    "EPSP"
+   ]
+  ],
+  [
+   "brittle-ductile transition",
+   5764,
+   [
+    "ductile-to-brittle transition"
+   ]
+  ],
+  [
+   "cold ischemia time",
+   5644,
+   [
+    "CIT"
+   ]
+  ],
+  [
+   "board members",
+   4971,
+   [
+    "directors"
+   ]
+  ],
+  [
+   "shear",
+   4361,
+   [
+    "shearing"
+   ]
+  ],
+  [
+   "repetitive strain injury",
+   4313,
+   [
+    "RSI"
+   ]
+  ],
+  [
+   "systemic oppression",
+   3904,
+   [
+    "institutional oppression"
+   ]
+  ],
+  [
+   "Agamidae",
+   3723,
+   [
+    "dragon lizards"
+   ]
+  ],
+  [
+   "resolvent",
+   3481,
+   [
+    "resolvent operator"
+   ]
+  ],
+  [
+   "factor XII",
+   3252,
+   [
+    "coagulation factor XII"
+   ]
+  ],
+  [
+   "pure bending",
+   2868,
+   [
+    "simple bending"
+   ]
+  ],
+  [
+   "hospitalized cancer patients",
+   2300,
+   [
+    "oncology inpatients"
+   ]
+  ],
+  [
+   "Anglo-Saxon settlement",
+   2269,
+   [
+    "Anglo-Saxon migration"
+   ]
+  ],
+  [
+   "Vale",
+   1969,
+   [
+    "Companhia Vale do Rio Doce",
+    "Vale S.A."
+   ]
+  ],
+  [
+   "linguistic historiography",
+   1509,
+   [
+    "history of linguistics"
+   ]
+  ],
+  [
+   "foreign sovereign immunity",
+   1460,
+   [
+    "state immunity"
+   ]
+  ],
+  [
+   "Micrococcus lysodeikticus",
+   1454,
+   [
+    "Micrococcus luteus"
+   ]
+  ],
+  [
+   "triangulated surfaces",
+   1434,
+   [
+    "triangular meshes"
+   ]
+  ],
+  [
+   "Mexican salamander",
+   1426,
+   [
+    "axolotl"
+   ]
+  ],
+  [
+   "conjugal relationships",
+   1376,
+   [
+    "marital relationships"
+   ]
+  ],
+  [
+   "worker exposure",
+   1332,
+   [
+    "occupational exposure"
+   ]
+  ],
+  [
+   "IgG deposition",
+   1307,
+   [
+    "IgG deposits"
+   ]
+  ],
+  [
+   "DHPG",
+   1184,
+   [
+    "ganciclovir"
+   ]
+  ],
+  [
+   "basin characteristics",
+   1089,
+   [
+    "catchment characteristics"
+   ]
+  ],
+  [
+   "digital video recorder",
+   1081,
+   [
+    "DVR",
+    "personal video recorder"
+   ]
+  ],
+  [
+   "bone sclerosis",
+   998,
+   [
+    "osteosclerosis"
+   ]
+  ],
+  [
+   "paleotemperature proxies",
+   908,
+   [
+    "paleothermometer"
+   ]
+  ],
+  [
+   "automobile maintenance",
+   881,
+   [
+    "vehicle maintenance"
+   ]
+  ],
+  [
+   "birdwatching tourism",
+   857,
+   [
+    "avitourism"
+   ]
+  ],
+  [
+   "SRS-22",
+   838,
+   [
+    "SRS-22 questionnaire"
+   ]
+  ],
+  [
+   "tensile yield strength",
+   825,
+   [
+    "tensile yield stress"
+   ]
+  ],
+  [
+   "Lutheran Church–Missouri Synod",
+   810,
+   [
+    "Missouri Synod"
+   ]
+  ],
+  [
+   "forest rotation",
+   799,
+   [
+    "rotation age",
+    "rotation length"
+   ]
+  ],
+  [
+   "koi herpesvirus",
+   783,
+   [
+    "Cyprinid herpesvirus 3"
+   ]
+  ],
+  [
+   "electroplating baths",
+   712,
+   [
+    "electroplating solutions",
+    "plating baths"
+   ]
+  ],
+  [
+   "afterburning",
+   683,
+   [
+    "augmentation"
+   ]
+  ],
+  [
+   "CMS electromagnetic calorimeter",
+   673,
+   [
+    "CMS ECAL"
+   ]
+  ],
+  [
+   "Double Chooz",
+   652,
+   [
+    "Double Chooz experiment"
+   ]
+  ],
+  [
+   "rotordynamic coefficients",
+   634,
+   [
+    "rotordynamic force coefficients"
+   ]
+  ],
+  [
+   "aortic valve cusps",
+   622,
+   [
+    "aortic valve leaflets"
+   ]
+  ],
+  [
+   "gas pores",
+   445,
+   [
+    "blowholes"
+   ]
+  ],
+  [
+   "anti-bribery",
+   436,
+   [
+    "bribery prevention"
+   ]
+  ],
+  [
+   "gifted and talented children",
+   412,
+   [
+    "gifted children"
+   ]
+  ],
+  [
+   "ovalbumin antigen",
+   350,
+   [
+    "ovalbumin"
+   ]
+  ],
+  [
+   "perspective in painting",
+   326,
+   [
+    "pictorial perspective"
+   ]
+  ],
+  [
+   "soil preparation systems",
+   313,
+   [
+    "tillage systems"
+   ]
+  ],
+  [
+   "betta fish",
+   311,
+   [
+    "Betta splendens"
+   ]
+  ],
+  [
+   "cardiac tissue mechanics",
+   306,
+   [
+    "myocardial mechanics"
+   ]
+  ],
+  [
+   "non-Abelian monopoles",
+   288,
+   [
+    "non-Abelian magnetic monopoles"
+   ]
+  ],
+  [
+   "crop residue return",
+   283,
+   [
+    "crop residue retention"
+   ]
+  ],
+  [
+   "dihydroflavonol reductase",
+   268,
+   [
+    "dihydroflavonol 4-reductase"
+   ]
+  ],
+  [
+   "sarcoma botryoides",
+   255,
+   [
+    "botryoid rhabdomyosarcoma",
+    "botryoid sarcoma"
+   ]
+  ],
+  [
+   "Theobroma bicolor",
+   255,
+   [
+    "Mocambo"
+   ]
+  ],
+  [
+   "ground truth-free evaluation",
+   250,
+   [
+    "reference-free evaluation"
+   ]
+  ],
+  [
+   "AMPK/SIRT1 pathway",
+   224,
+   [
+    "AMPK/SIRT1 signaling"
+   ]
+  ],
+  [
+   "supervised physical activity",
+   220,
+   [
+    "supervised exercise"
+   ]
+  ],
+  [
+   "aerosol research",
+   218,
+   [
+    "aerosol science"
+   ]
+  ],
+  [
+   "straight-chain hydrocarbons",
+   218,
+   [
+    "linear hydrocarbons"
+   ]
+  ],
+  [
+   "Mazepa",
+   209,
+   [
+    "Ivan Mazepa",
+    "Mazeppa"
+   ]
+  ],
+  [
+   "numerical aptitude",
+   155,
+   [
+    "numerical ability"
+   ]
+  ],
+  [
+   "thermal strengthening",
+   152,
+   [
+    "thermal tempering"
+   ]
+  ],
+  [
+   "ComGIS",
+   147,
+   [
+    "component-based GIS",
+    "component GIS"
+   ]
+  ],
+  [
+   "hybrid parameters",
+   123,
+   [
+    "h-parameters"
+   ]
+  ],
+  [
+   "murine thymus",
+   109,
+   [
+    "mouse thymus"
+   ]
+  ],
+  [
+   "bisphenol alternatives",
+   101,
+   [
+    "BPA alternatives"
+   ]
+  ]
+ ]
+}

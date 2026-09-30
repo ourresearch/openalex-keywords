@@ -1,0 +1,233 @@
+{
+ "n": 1198,
+ "n_missing": 0,
+ "n_err": 0,
+ "cut": {
+  "t": 0.5,
+  "top": 5,
+  "t_fit": 0.4,
+  "fit_on": "train+val random"
+ },
+ "splits": {
+  "train": {
+   "random": {
+    "n": 453,
+    "precision": 0.3807,
+    "recall": 0.2068,
+    "f1": 0.268,
+    "zero_good": 0.2138,
+    "empty": 0.0309,
+    "mean_n": 4.28,
+    "unjudged": 0.609
+   },
+   "cited": {
+    "n": 99,
+    "precision": 0.4946,
+    "recall": 0.2668,
+    "f1": 0.3466,
+    "zero_good": 0.0505,
+    "empty": 0.0,
+    "mean_n": 4.72,
+    "unjudged": 0.5032
+   },
+   "all": {
+    "n": 552,
+    "precision": 0.4028,
+    "recall": 0.2189,
+    "f1": 0.2837,
+    "zero_good": 0.1843,
+    "empty": 0.0254,
+    "mean_n": 4.36,
+    "unjudged": 0.5885
+   },
+   "random_fit": {
+    "n": 453,
+    "precision": 0.3736,
+    "recall": 0.2097,
+    "f1": 0.2686,
+    "zero_good": 0.2027,
+    "empty": 0.0287,
+    "mean_n": 4.5,
+    "unjudged": 0.6166
+   },
+   "cited_fit": {
+    "n": 99,
+    "precision": 0.4845,
+    "recall": 0.2735,
+    "f1": 0.3497,
+    "zero_good": 0.0404,
+    "empty": 0.0,
+    "mean_n": 4.88,
+    "unjudged": 0.5114
+   }
+  },
+  "val": {
+   "random": {
+    "n": 181,
+    "precision": 0.3732,
+    "recall": 0.2033,
+    "f1": 0.2633,
+    "zero_good": 0.162,
+    "empty": 0.0221,
+    "mean_n": 4.34,
+    "unjudged": 0.6178
+   },
+   "cited": {
+    "n": 40,
+    "precision": 0.4794,
+    "recall": 0.2623,
+    "f1": 0.3391,
+    "zero_good": 0.05,
+    "empty": 0.0,
+    "mean_n": 4.85,
+    "unjudged": 0.5052
+   },
+   "all": {
+    "n": 221,
+    "precision": 0.3943,
+    "recall": 0.2153,
+    "f1": 0.2785,
+    "zero_good": 0.1416,
+    "empty": 0.0181,
+    "mean_n": 4.43,
+    "unjudged": 0.5955
+   },
+   "random_fit": {
+    "n": 181,
+    "precision": 0.3674,
+    "recall": 0.2103,
+    "f1": 0.2675,
+    "zero_good": 0.1508,
+    "empty": 0.0221,
+    "mean_n": 4.54,
+    "unjudged": 0.6229
+   },
+   "cited_fit": {
+    "n": 40,
+    "precision": 0.4772,
+    "recall": 0.2678,
+    "f1": 0.343,
+    "zero_good": 0.025,
+    "empty": 0.0,
+    "mean_n": 4.92,
+    "unjudged": 0.5076
+   }
+  },
+  "test": {
+   "random": {
+    "n": 276,
+    "precision": 0.377,
+    "recall": 0.2,
+    "f1": 0.2614,
+    "zero_good": 0.203,
+    "empty": 0.0254,
+    "mean_n": 4.26,
+    "unjudged": 0.6145
+   },
+   "cited": {
+    "n": 60,
+    "precision": 0.4737,
+    "recall": 0.2583,
+    "f1": 0.3343,
+    "zero_good": 0.1,
+    "empty": 0.0,
+    "mean_n": 4.75,
+    "unjudged": 0.5193
+   },
+   "all": {
+    "n": 336,
+    "precision": 0.3959,
+    "recall": 0.2117,
+    "f1": 0.2758,
+    "zero_good": 0.1843,
+    "empty": 0.0208,
+    "mean_n": 4.35,
+    "unjudged": 0.5959
+   },
+   "random_fit": {
+    "n": 276,
+    "precision": 0.3766,
+    "recall": 0.2083,
+    "f1": 0.2682,
+    "zero_good": 0.1845,
+    "empty": 0.0254,
+    "mean_n": 4.46,
+    "unjudged": 0.6136
+   },
+   "cited_fit": {
+    "n": 60,
+    "precision": 0.469,
+    "recall": 0.2583,
+    "f1": 0.3331,
+    "zero_good": 0.1333,
+    "empty": 0.0,
+    "mean_n": 4.83,
+    "unjudged": 0.5207
+   }
+  },
+  "all": {
+   "random": {
+    "n": 910,
+    "precision": 0.3781,
+    "recall": 0.204,
+    "f1": 0.2651,
+    "zero_good": 0.2002,
+    "empty": 0.0275,
+    "mean_n": 4.29,
+    "unjudged": 0.6124
+   },
+   "cited": {
+    "n": 199,
+    "precision": 0.4852,
+    "recall": 0.2633,
+    "f1": 0.3414,
+    "zero_good": 0.0653,
+    "empty": 0.0,
+    "mean_n": 4.75,
+    "unjudged": 0.5085
+   },
+   "all": {
+    "n": 1109,
+    "precision": 0.399,
+    "recall": 0.216,
+    "f1": 0.2803,
+    "zero_good": 0.1758,
+    "empty": 0.0225,
+    "mean_n": 4.37,
+    "unjudged": 0.5921
+   },
+   "random_fit": {
+    "n": 910,
+    "precision": 0.3733,
+    "recall": 0.2094,
+    "f1": 0.2683,
+    "zero_good": 0.1869,
+    "empty": 0.0264,
+    "mean_n": 4.5,
+    "unjudged": 0.617
+   },
+   "cited_fit": {
+    "n": 199,
+    "precision": 0.4784,
+    "recall": 0.2678,
+    "f1": 0.3434,
+    "zero_good": 0.0653,
+    "empty": 0.0,
+    "mean_n": 4.87,
+    "unjudged": 0.5134
+   }
+  }
+ },
+ "tokens_per_work": 0,
+ "cost_per_work": 0,
+ "latency_ms": 0,
+ "mean_pool": 7.4,
+ "headline": [
+  "random",
+  "f1"
+ ],
+ "ece": 0.4335,
+ "arm": "student_v3fix",
+ "gold": "judge",
+ "arm_file": "arms/judge__student_v3fix.jsonl"
+}
