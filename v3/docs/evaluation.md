@@ -25,7 +25,7 @@ Splits: `data/eval/splits/<gold>.json` maps work id → train / val / test (50 /
 
 **Released labels:** the MeSH gold (4,728 PubMed works identified by PMID, with their MeSH headings; MeSH and PubMed indexing are NLM public-domain data) and the judge gold v1.2 (1,198 works: relevant and chosen keywords, the candidate pools and delta candidates the judge saw), plus the MeSH 2026 descriptor table the loader needs. Ids and labels only: no titles or abstracts. Scoring the released student tags against them reproduces the published rows exactly (MeSH view a test F1 0.2227; judge random-set test F1 0.2682).
 
-**Kept private:** the akw slices' labels. They are author keywords harvested from PubMed and publisher landing pages, and a standing OpenAlex decision keeps author keywords internal. Their ids, splits and scores are published, anyone can re-score KP20k and Inspec end to end, and anyone with OpenAlex access can rebuild akw_field with `pull_akw_field.py`.
+**Author-keyword golds (released):** all four akw slices, the headline benchmark: `akw_field` (6,180 works, `data/eval/golds/j1322/akw_field.jsonl.gz`) and `akw_pubmed`, `akw_landing`, `akw_repo` (2,000 works each, `data/eval/golds/j1306/slices/`). Each row has the OpenAlex work id, venue, language, year, source, the author keywords (from PubMed or the publisher's landing page / repository record) and the old OpenAlex keywords (`current`). Titles and abstracts are blank (`null`); fetch them from the OpenAlex API or snapshot by id.
 
 Commands:
 

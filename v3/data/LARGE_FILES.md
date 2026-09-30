@@ -1,4 +1,4 @@
-# Files too large for git, and files kept private
+# Files too large for git
 
 Everything hosted is on GitHub, as assets of the [`v3.0` release](https://github.com/ourresearch/openalex-keywords/releases/tag/v3.0): the **student weights** (split into files under 2 GB each; see [`docs/weights.md`](../docs/weights.md)), the **teacher labels**, the **twins verdicts** and the **intermediate vocabularies**. Download with `gh release download v3.0 -R ourresearch/openalex-keywords` (add `-p '<pattern>'` for a subset).
 
@@ -12,6 +12,5 @@ Everything hosted is on GitHub, as assets of the [`v3.0` release](https://github
 | Synonym round-4 "twins" verdicts (`judged_twins.jsonl`, 1,553,192 pairs) | 192 MB (36.6 MB gzipped) | job scratch | release `v3.0`: `judged_twins.jsonl.gz` | Needed to rebuild `synmap9` exactly from verdicts. Every other verdict file is in `data/synonyms/judgments/`. |
 | Intermediate vocabularies used for hub choice in `build_synmap3.py` (`vocab.jsonl`, `vocab_f/g/h/i.jsonl`, `vocab_all.jsonl`) | 175 to 237 MB each | job scratch | release `v3.0`: `intermediate_vocab_*.jsonl.gz` | Works counts that decide which heading a merge group gets. |
 | bge-m3 neighbour pairs (`pairs*.jsonl`) | 0.3 to 1.5 GB each | job scratch | optional | Candidate generation only; `modal_embed_knn.py` regenerates them in minutes. |
-| **Author-keyword gold slices** (akw_field, akw_pubmed, akw_landing, akw_repo: titles, abstracts, author keywords) | ≈ 40 MB | OpenAlex job scratch (#1306, #1322) | **kept private** | Author keywords stay internal (standing OpenAlex decision). Their ids, splits and scores are published; akw_field can be rebuilt with `pull_akw_field.py` by anyone with OpenAlex data access. |
 
 Also not published, on purpose: work text (titles, abstracts). The repository contains no abstract text; every file identifies works by OpenAlex id (or PMID for the MeSH gold). Fetch the text from the OpenAlex API or snapshot. The MeSH and judge golds are in git (`data/eval/golds/`), with ids and labels only.

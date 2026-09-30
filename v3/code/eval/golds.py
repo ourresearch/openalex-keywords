@@ -59,7 +59,9 @@ def load(name):
             n+=1; g.works[w['id']]={'title':w['title'],'abstract':w.get('abstract'),'venue':w.get('journal'),'language':w.get('language'),'today':[canon(k) for k in (w.get('current') or [])]}; g.labels[w['id']]={'akw':lab[w['id']]}
         g.cands='canon keyword (Opus vocabulary)'
     elif name in ('akw_field','akw_train'):
-        for w in jl(f'{DATA}/{name}.jsonl'):
+        src=f'{DATA}/{name}.jsonl'
+        if name=='akw_field' and not os.path.exists(src): src=f"{P['j1322']}/akw_field.jsonl"   # released copy (titles/abstracts blank)
+        for w in jl(src):
             g.works[w['id']]={'title':w['title'],'abstract':w.get('abstract'),'venue':w.get('journal'),'language':w.get('language'),'field':w.get('field'),'source':w['source'],'pmid':w.get('pmid'),'today':[canon(k['name']) for k in (w.get('current') or [])]}
             g.labels[w['id']]={'akw':{canon(k) for k in w['author_kw'] if canon(k)}}
         g.cands='canon keyword'
