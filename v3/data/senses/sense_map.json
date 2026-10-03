@@ -1,0 +1,2164 @@
+{
+ "taxonomy": [
+  {
+   "opt": "s0",
+   "label": "taxonomy (biology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "taxonomy (general classification scheme)",
+   "sense_id": "taxonomy-general-classification-scheme",
+   "sense_name": "taxonomy (general classification scheme)",
+   "new": true
+  }
+ ],
+ "aging": [
+  {
+   "opt": "s0",
+   "label": "aging (biology and society)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "aging (materials)",
+   "sense_id": "aging-materials",
+   "sense_name": "aging materials",
+   "new": false
+  }
+ ],
+ "electron-density": [
+  {
+   "opt": "s0",
+   "label": "electron density (plasma physics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "electron density (electronic structure)",
+   "sense_id": "electron-density-electronic-structure",
+   "sense_name": "electron density (electronic structure)",
+   "new": true
+  }
+ ],
+ "synonymy": [
+  {
+   "opt": "s0",
+   "label": "synonymy (taxonomy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "synonymy (linguistics)",
+   "sense_id": "synonymy-linguistics",
+   "sense_name": "synonymy (linguistics)",
+   "new": true
+  }
+ ],
+ "morphology": [
+  {
+   "opt": "s0",
+   "label": "morphology (biology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "morphology (materials science)",
+   "sense_id": "morphology-materials-science",
+   "sense_name": "morphology (materials science)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "morphology (linguistics)",
+   "sense_id": "morphology-linguistics",
+   "sense_name": "morphology (linguistics)",
+   "new": true
+  },
+  {
+   "opt": "s3",
+   "label": "morphology (geomorphology)",
+   "sense_id": "morphology-geomorphology",
+   "sense_name": "morphology (geomorphology)",
+   "new": true
+  }
+ ],
+ "weight-loss": [
+  {
+   "opt": "s0",
+   "label": "weight loss (body weight)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "weight loss (materials)",
+   "sense_id": "weight-loss-materials",
+   "sense_name": "weight loss (materials)",
+   "new": true
+  }
+ ],
+ "family-history": [
+  {
+   "opt": "s0",
+   "label": "family history (genealogy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "family history (medicine)",
+   "sense_id": "family-history-medicine",
+   "sense_name": "family history (medicine)",
+   "new": true
+  }
+ ],
+ "resilience": [
+  {
+   "opt": "s0",
+   "label": "resilience (psychology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "resilience (ecology and social-ecological systems)",
+   "sense_id": "resilience-ecology-and-social-ecological-systems",
+   "sense_name": "resilience (ecology and social-ecological systems)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "resilience (engineering)",
+   "sense_id": "resilience-engineering",
+   "sense_name": "resilience engineering",
+   "new": false
+  }
+ ],
+ "energy-conservation": [
+  {
+   "opt": "s0",
+   "label": "energy conservation (energy efficiency)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "energy conservation (physics)",
+   "sense_id": "energy-conservation-physics",
+   "sense_name": "energy conservation (physics)",
+   "new": true
+  }
+ ],
+ "performance-evaluation": [
+  {
+   "opt": "s0",
+   "label": "performance evaluation (systems and engineering)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "performance evaluation (human resources)",
+   "sense_id": "performance-evaluation-human-resources",
+   "sense_name": "performance evaluation (human resources)",
+   "new": true
+  }
+ ],
+ "mediation": [
+  {
+   "opt": "s0",
+   "label": "mediation (statistics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "mediation (conflict resolution)",
+   "sense_id": "mediation-conflict-resolution",
+   "sense_name": "mediation (conflict resolution)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "mediation (cultural/media theory)",
+   "sense_id": "mediation-cultural-media-theory",
+   "sense_name": "mediation (cultural/media theory)",
+   "new": true
+  }
+ ],
+ "inflation": [
+  {
+   "opt": "s0",
+   "label": "inflation (economics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "inflation (cosmology)",
+   "sense_id": "inflation-cosmology",
+   "sense_name": "inflation (cosmology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "inflation (mechanics)",
+   "sense_id": "inflation-mechanics",
+   "sense_name": "inflation (mechanics)",
+   "new": true
+  }
+ ],
+ "heat-treatment": [
+  {
+   "opt": "s0",
+   "label": "heat treatment (metallurgy and materials processing)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "heat treatment (food and biological processing)",
+   "sense_id": "heat-treatment-food-and-biological-processing",
+   "sense_name": "heat treatment (food and biological processing)",
+   "new": true
+  }
+ ],
+ "trust": [
+  {
+   "opt": "s0",
+   "label": "trust (social science)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "trust (law)",
+   "sense_id": "trust-law",
+   "sense_name": "trust law",
+   "new": false
+  }
+ ],
+ "stress": [
+  {
+   "opt": "s0",
+   "label": "stress (psychological)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "stress (mechanics)",
+   "sense_id": "stress-mechanics",
+   "sense_name": "stress (mechanics)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "stress (biological)",
+   "sense_id": "stress-biological",
+   "sense_name": "stress (biological)",
+   "new": true
+  }
+ ],
+ "hypoxia": [
+  {
+   "opt": "s0",
+   "label": "hypoxia (medicine)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "hypoxia (environmental)",
+   "sense_id": "hypoxia-environmental",
+   "sense_name": "hypoxia (environmental)",
+   "new": true
+  }
+ ],
+ "fatigue": [
+  {
+   "opt": "s0",
+   "label": "fatigue (medical)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "fatigue (material)",
+   "sense_id": "fatigue-material",
+   "sense_name": "fatigue (material)",
+   "new": true
+  }
+ ],
+ "reliability": [
+  {
+   "opt": "s0",
+   "label": "reliability (engineering)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "reliability (statistics)",
+   "sense_id": "reliability-statistics",
+   "sense_name": "reliability statistics",
+   "new": false
+  }
+ ],
+ "corruption": [
+  {
+   "opt": "s0",
+   "label": "corruption (political)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "data corruption",
+   "sense_id": "data-corruption",
+   "sense_name": "data corruption",
+   "new": false
+  }
+ ],
+ "banking": [
+  {
+   "opt": "s0",
+   "label": "banking (finance)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "banking (aeronautics and road superelevation)",
+   "sense_id": "banking-aeronautics-and-road-superelevation",
+   "sense_name": "banking (aeronautics and road superelevation)",
+   "new": true
+  }
+ ],
+ "working-conditions": [
+  {
+   "opt": "s0",
+   "label": "working conditions (labour)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "working conditions (engineering)",
+   "sense_id": "working-conditions-engineering",
+   "sense_name": "working conditions (engineering)",
+   "new": true
+  }
+ ],
+ "burnout": [
+  {
+   "opt": "s0",
+   "label": "burnout (psychology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "burnout (heat transfer)",
+   "sense_id": "burnout-heat-transfer",
+   "sense_name": "burnout (heat transfer)",
+   "new": true
+  }
+ ],
+ "clustering": [
+  {
+   "opt": "s0",
+   "label": "clustering (cluster analysis)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "clustering (clustered data / cluster sampling)",
+   "sense_id": "clustering-clustered-data-cluster-sampling",
+   "sense_name": "clustering (clustered data / cluster sampling)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "clustering (business cluster)",
+   "sense_id": "clustering-business-cluster",
+   "sense_name": "clustering (business cluster)",
+   "new": true
+  }
+ ],
+ "active-learning": [
+  {
+   "opt": "s0",
+   "label": "active learning (education)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "active learning (machine learning)",
+   "sense_id": "active-learning-machine-learning",
+   "sense_name": "active learning (machine learning)",
+   "new": true
+  }
+ ],
+ "trauma": [
+  {
+   "opt": "s0",
+   "label": "trauma (psychological)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "trauma (physical injury)",
+   "sense_id": "trauma-physical-injury",
+   "sense_name": "trauma (physical injury)",
+   "new": true
+  }
+ ],
+ "translation": [
+  {
+   "opt": "s0",
+   "label": "translation (linguistics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "translation (biology)",
+   "sense_id": "translation-biology",
+   "sense_name": "translation (biology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "translation (geometry)",
+   "sense_id": "translation-geometry",
+   "sense_name": "translation (geometry)",
+   "new": true
+  },
+  {
+   "opt": "s3",
+   "label": "translational research",
+   "sense_id": "translational-research",
+   "sense_name": "translational research",
+   "new": false
+  }
+ ],
+ "natural-history": [
+  {
+   "opt": "s0",
+   "label": "natural history (study of nature)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "natural history (disease)",
+   "sense_id": "natural-history-disease",
+   "sense_name": "natural history (disease)",
+   "new": true
+  }
+ ],
+ "abortion": [
+  {
+   "opt": "s0",
+   "label": "abortion (human pregnancy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "abortion (veterinary)",
+   "sense_id": "abortion-veterinary",
+   "sense_name": "abortion (veterinary)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "abortion (botany)",
+   "sense_id": "abortion-botany",
+   "sense_name": "abortion (botany)",
+   "new": true
+  }
+ ],
+ "accessibility": [
+  {
+   "opt": "s0",
+   "label": "accessibility (disability and inclusive design)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "accessibility (transport and spatial geography)",
+   "sense_id": "accessibility-transport-and-spatial-geography",
+   "sense_name": "accessibility (transport and spatial geography)",
+   "new": true
+  }
+ ],
+ "decentralization": [
+  {
+   "opt": "s0",
+   "label": "decentralization (governance)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "decentralization (distributed systems)",
+   "sense_id": "decentralization-distributed-systems",
+   "sense_name": "decentralization (distributed systems)",
+   "new": true
+  }
+ ],
+ "aggression": [
+  {
+   "opt": "s0",
+   "label": "aggression (behavior)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "aggression (chemical attack on materials)",
+   "sense_id": "aggression-chemical-attack-on-materials",
+   "sense_name": "aggression (chemical attack on materials)",
+   "new": true
+  }
+ ],
+ "precipitation": [
+  {
+   "opt": "s0",
+   "label": "precipitation (meteorology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "precipitation (chemistry)",
+   "sense_id": "precipitation-chemistry",
+   "sense_name": "precipitation chemistry",
+   "new": false
+  }
+ ],
+ "housing": [
+  {
+   "opt": "s0",
+   "label": "housing (dwellings)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "housing (animal husbandry)",
+   "sense_id": "housing-animal-husbandry",
+   "sense_name": "housing (animal husbandry)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "housing (mechanical enclosure)",
+   "sense_id": "housing-mechanical-enclosure",
+   "sense_name": "housing (mechanical enclosure)",
+   "new": true
+  }
+ ],
+ "population-structure": [
+  {
+   "opt": "s0",
+   "label": "population structure (genetics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "population structure (demography)",
+   "sense_id": "population-structure-demography",
+   "sense_name": "population structure (demography)",
+   "new": true
+  }
+ ],
+ "self-regulation": [
+  {
+   "opt": "s0",
+   "label": "self-regulation (psychology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "self-regulation (law and governance)",
+   "sense_id": "self-regulation-law-and-governance",
+   "sense_name": "self-regulation (law and governance)",
+   "new": true
+  }
+ ],
+ "ontology": [
+  {
+   "opt": "s0",
+   "label": "ontology (philosophy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "ontology (information science)",
+   "sense_id": "ontology-information-science",
+   "sense_name": "ontology (information science)",
+   "new": true
+  }
+ ],
+ "landscape": [
+  {
+   "opt": "s0",
+   "label": "landscape (geography)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "energy landscape (physics)",
+   "sense_id": "energy-landscape",
+   "sense_name": "energy landscape",
+   "new": false
+  },
+  {
+   "opt": "s2",
+   "label": "landscape (genomics)",
+   "sense_id": "landscape-genomics",
+   "sense_name": "landscape genomics",
+   "new": false
+  }
+ ],
+ "consciousness": [
+  {
+   "opt": "s0",
+   "label": "consciousness (mind and experience)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "consciousness (social and political awareness)",
+   "sense_id": "consciousness-social-and-political-awareness",
+   "sense_name": "consciousness (social and political awareness)",
+   "new": true
+  }
+ ],
+ "phenomenology": [
+  {
+   "opt": "s0",
+   "label": "phenomenology (philosophy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "phenomenology (physics)",
+   "sense_id": "phenomenology-physics",
+   "sense_name": "phenomenology (physics)",
+   "new": true
+  }
+ ],
+ "stigma": [
+  {
+   "opt": "s0",
+   "label": "stigma (social)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "stigma (botany)",
+   "sense_id": "stigma-botany",
+   "sense_name": "stigma (botany)",
+   "new": true
+  }
+ ],
+ "inheritance": [
+  {
+   "opt": "s0",
+   "label": "inheritance (law)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "heredity (biology)",
+   "sense_id": "heredity-biology",
+   "sense_name": "heredity (biology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "inheritance (object-oriented programming)",
+   "sense_id": "inheritance-object-oriented-programming",
+   "sense_name": "inheritance (object-oriented programming)",
+   "new": true
+  }
+ ],
+ "aids": [
+  {
+   "opt": "s0",
+   "label": "AIDS (acquired immunodeficiency syndrome)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "aids (assistive or instructional devices)",
+   "sense_id": "aids-assistive-or-instructional-devices",
+   "sense_name": "aids (assistive or instructional devices)",
+   "new": true
+  }
+ ],
+ "film": [
+  {
+   "opt": "s0",
+   "label": "film (cinema)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "film (thin film)",
+   "sense_id": "film-thin-film",
+   "sense_name": "film (thin film)",
+   "new": true
+  }
+ ],
+ "autonomy": [
+  {
+   "opt": "s0",
+   "label": "autonomy (personal and political self-determination)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "autonomy (robotics and autonomous systems)",
+   "sense_id": "autonomy-robotics-and-autonomous-systems",
+   "sense_name": "autonomy (robotics and autonomous systems)",
+   "new": true
+  }
+ ],
+ "blood-coagulation": [
+  {
+   "opt": "s0",
+   "label": "blood coagulation (physiology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "coagulation (water treatment)",
+   "sense_id": "coagulation-water-treatment",
+   "sense_name": "coagulation (water treatment)",
+   "new": true
+  }
+ ],
+ "water-uptake": [
+  {
+   "opt": "s0",
+   "label": "water uptake (materials)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "water uptake (plant physiology)",
+   "sense_id": "water-uptake-plant-physiology",
+   "sense_name": "water uptake (plant physiology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "water uptake (human physiology)",
+   "sense_id": "water-uptake-human-physiology",
+   "sense_name": "water uptake (human physiology)",
+   "new": true
+  }
+ ],
+ "water-management": [
+  {
+   "opt": "s0",
+   "label": "water management (resource management)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "water management (fuel cells)",
+   "sense_id": "water-management-fuel-cells",
+   "sense_name": "water management (fuel cells)",
+   "new": true
+  }
+ ],
+ "topography": [
+  {
+   "opt": "s0",
+   "label": "topography (terrain)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "surface topography (materials science)",
+   "sense_id": "surface-topography",
+   "sense_name": "surface topography",
+   "new": false
+  },
+  {
+   "opt": "s2",
+   "label": "corneal topography",
+   "sense_id": "corneal-topography",
+   "sense_name": "corneal topography",
+   "new": false
+  }
+ ],
+ "culture": [
+  {
+   "opt": "s0",
+   "label": "culture (society)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "culture (biology)",
+   "sense_id": "culture-biology",
+   "sense_name": "culture (biology)",
+   "new": true
+  }
+ ],
+ "modernization": [
+  {
+   "opt": "s0",
+   "label": "modernization (social science)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "modernization (engineering)",
+   "sense_id": "modernization-engineering",
+   "sense_name": "modernization (engineering)",
+   "new": true
+  }
+ ],
+ "discrimination": [
+  {
+   "opt": "s0",
+   "label": "discrimination (sociology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "discrimination (statistics)",
+   "sense_id": "discrimination-statistics",
+   "sense_name": "discrimination (statistics)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "discrimination (signal processing)",
+   "sense_id": "discrimination-signal-processing",
+   "sense_name": "discrimination (signal processing)",
+   "new": true
+  },
+  {
+   "opt": "s3",
+   "label": "discrimination (perception)",
+   "sense_id": "discrimination-perception",
+   "sense_name": "discrimination (perception)",
+   "new": true
+  }
+ ],
+ "plato": [
+  {
+   "opt": "s0",
+   "label": "Plato (philosopher)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "PLATO (spacecraft)",
+   "sense_id": "plato-spacecraft",
+   "sense_name": "PLATO (spacecraft)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "PLATO (computer system)",
+   "sense_id": "plato-computer-system",
+   "sense_name": "PLATO (computer system)",
+   "new": true
+  }
+ ],
+ "stress-response": [
+  {
+   "opt": "s0",
+   "label": "stress response (biology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "stress response (mechanics)",
+   "sense_id": "stress-response-mechanics",
+   "sense_name": "stress response (mechanics)",
+   "new": true
+  }
+ ],
+ "cosmology": [
+  {
+   "opt": "s0",
+   "label": "cosmology (physics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "cosmology (religion and anthropology)",
+   "sense_id": "cosmology-religion-and-anthropology",
+   "sense_name": "cosmology (religion and anthropology)",
+   "new": true
+  }
+ ],
+ "fertility": [
+  {
+   "opt": "s0",
+   "label": "fertility (reproduction and demography)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "fertility (soil)",
+   "sense_id": "fertility-soil",
+   "sense_name": "fertility (soil)",
+   "new": true
+  }
+ ],
+ "body": [
+  {
+   "opt": "s0",
+   "label": "body (social and cultural theory)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "body (physics and engineering)",
+   "sense_id": "body-physics-and-engineering",
+   "sense_name": "body (physics and engineering)",
+   "new": true
+  }
+ ],
+ "social-welfare": [
+  {
+   "opt": "s0",
+   "label": "social welfare (social policy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "social welfare (welfare economics)",
+   "sense_id": "social-welfare-welfare-economics",
+   "sense_name": "social welfare (welfare economics)",
+   "new": true
+  }
+ ],
+ "face-recognition": [
+  {
+   "opt": "s0",
+   "label": "face recognition (biometrics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "face recognition (cognition)",
+   "sense_id": "face-recognition-cognition",
+   "sense_name": "face recognition (cognition)",
+   "new": true
+  }
+ ],
+ "humor": [
+  {
+   "opt": "s0",
+   "label": "humor (comedy)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "humor (bodily fluid)",
+   "sense_id": "humor-bodily-fluid",
+   "sense_name": "humor (bodily fluid)",
+   "new": true
+  }
+ ],
+ "social-development": [
+  {
+   "opt": "s0",
+   "label": "social development (societal progress)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "social development (developmental psychology)",
+   "sense_id": "social-development-developmental-psychology",
+   "sense_name": "social development (developmental psychology)",
+   "new": true
+  }
+ ],
+ "competition": [
+  {
+   "opt": "s0",
+   "label": "competition (economics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "competition (biology)",
+   "sense_id": "competition-biology",
+   "sense_name": "competition (biology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "competition (contest)",
+   "sense_id": "competition-contest",
+   "sense_name": "competition (contest)",
+   "new": true
+  }
+ ],
+ "speech-recognition": [
+  {
+   "opt": "s0",
+   "label": "speech recognition (computing)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "speech recognition (audiology)",
+   "sense_id": "speech-recognition-audiology",
+   "sense_name": "speech recognition (audiology)",
+   "new": true
+  }
+ ],
+ "causality": [
+  {
+   "opt": "s0",
+   "label": "causality (philosophy and causal inference)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "causality (physics)",
+   "sense_id": "causality-physics",
+   "sense_name": "causality (physics)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "causation (law)",
+   "sense_id": "causation-law",
+   "sense_name": "causation (law)",
+   "new": true
+  }
+ ],
+ "self-determination": [
+  {
+   "opt": "s0",
+   "label": "self-determination (psychology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "self-determination (international law)",
+   "sense_id": "self-determination-international-law",
+   "sense_name": "self-determination (international law)",
+   "new": true
+  }
+ ],
+ "mobility": [
+  {
+   "opt": "s0",
+   "label": "mobility (human geography)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "mobility (physical function)",
+   "sense_id": "mobility-physical-function",
+   "sense_name": "mobility (physical function)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "mobility (social)",
+   "sense_id": "mobility-social",
+   "sense_name": "mobility (social)",
+   "new": true
+  },
+  {
+   "opt": "s3",
+   "label": "mobility (telecommunications)",
+   "sense_id": "mobility-telecommunications",
+   "sense_name": "mobility (telecommunications)",
+   "new": true
+  }
+ ],
+ "play": [
+  {
+   "opt": "s0",
+   "label": "play (activity)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "play (engineering)",
+   "sense_id": "play-engineering",
+   "sense_name": "play (engineering)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "play (theatre)",
+   "sense_id": "play-theatre",
+   "sense_name": "play (theatre)",
+   "new": true
+  }
+ ],
+ "authenticity": [
+  {
+   "opt": "s0",
+   "label": "authenticity (philosophy and culture)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "authenticity (information security)",
+   "sense_id": "authenticity-information-security",
+   "sense_name": "authenticity (information security)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "authenticity (food science)",
+   "sense_id": "authenticity-food-science",
+   "sense_name": "authenticity (food science)",
+   "new": true
+  }
+ ],
+ "growth-rate": [
+  {
+   "opt": "s0",
+   "label": "growth rate (biology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "growth rate (crystal and thin-film growth)",
+   "sense_id": "growth-rate-crystal-and-thin-film-growth",
+   "sense_name": "growth rate (crystal and thin-film growth)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "growth rate (instability)",
+   "sense_id": "growth-rate-instability",
+   "sense_name": "growth rate (instability)",
+   "new": true
+  }
+ ],
+ "energy-balance": [
+  {
+   "opt": "s0",
+   "label": "energy balance (physics and engineering)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "energy balance (biology)",
+   "sense_id": "energy-balance-biology",
+   "sense_name": "energy balance (biology)",
+   "new": true
+  }
+ ],
+ "disaster-recovery": [
+  {
+   "opt": "s0",
+   "label": "disaster recovery (emergency management)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "disaster recovery (information technology)",
+   "sense_id": "disaster-recovery-information-technology",
+   "sense_name": "disaster recovery (information technology)",
+   "new": true
+  }
+ ],
+ "cold-storage": [
+  {
+   "opt": "s0",
+   "label": "cold storage (food preservation)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "cold storage (organ preservation)",
+   "sense_id": "cold-storage-organ-preservation",
+   "sense_name": "cold storage (organ preservation)",
+   "new": true
+  }
+ ],
+ "censorship": [
+  {
+   "opt": "s0",
+   "label": "censorship (suppression of speech and media)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "cosmic censorship (general relativity)",
+   "sense_id": "cosmic-censorship",
+   "sense_name": "cosmic censorship",
+   "new": false
+  },
+  {
+   "opt": "s2",
+   "label": "censoring (statistics)",
+   "sense_id": "censoring",
+   "sense_name": "censoring",
+   "new": false
+  }
+ ],
+ "apple": [
+  {
+   "opt": "s0",
+   "label": "apple (fruit)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "Apple Inc.",
+   "sense_id": "apple-inc",
+   "sense_name": "Apple Inc.",
+   "new": false
+  }
+ ],
+ "building-information-modeling": [
+  {
+   "opt": "s0",
+   "label": "building information modeling (construction)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "Bim (protein)",
+   "sense_id": "bim-protein",
+   "sense_name": "Bim (protein)",
+   "new": true
+  }
+ ],
+ "realism": [
+  {
+   "opt": "s0",
+   "label": "realism (international relations)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "realism (arts)",
+   "sense_id": "realism-arts",
+   "sense_name": "realism (arts)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "philosophical realism",
+   "sense_id": "philosophical-realism",
+   "sense_name": "philosophical realism",
+   "new": false
+  },
+  {
+   "opt": "s3",
+   "label": "realism (computer graphics)",
+   "sense_id": "realism-computer-graphics",
+   "sense_name": "realism (computer graphics)",
+   "new": true
+  }
+ ],
+ "inequality": [
+  {
+   "opt": "s0",
+   "label": "inequality (social and economic)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "inequality (mathematics)",
+   "sense_id": "inequality-mathematics",
+   "sense_name": "inequality (mathematics)",
+   "new": true
+  }
+ ],
+ "camp": [
+  {
+   "opt": "s0",
+   "label": "cAMP (cyclic adenosine monophosphate)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "camp (encampment)",
+   "sense_id": "camp-encampment",
+   "sense_name": "camp (encampment)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "camp (style)",
+   "sense_id": "camp-style",
+   "sense_name": "camp (style)",
+   "new": true
+  }
+ ],
+ "surveillance": [
+  {
+   "opt": "s0",
+   "label": "surveillance (social control)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "surveillance (computer vision)",
+   "sense_id": "surveillance-computer-vision",
+   "sense_name": "surveillance (computer vision)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "surveillance (medicine)",
+   "sense_id": "surveillance-medicine",
+   "sense_name": "surveillance (medicine)",
+   "new": true
+  }
+ ],
+ "reaction-time": [
+  {
+   "opt": "s0",
+   "label": "reaction time (psychology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "reaction time (chemistry)",
+   "sense_id": "reaction-time-chemistry",
+   "sense_name": "reaction time (chemistry)",
+   "new": true
+  }
+ ],
+ "middle-ages": [
+  {
+   "opt": "s0",
+   "label": "Middle Ages (historical period)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "middle age (human life stage)",
+   "sense_id": "middle-age-human-life-stage",
+   "sense_name": "middle age (human life stage)",
+   "new": true
+  }
+ ],
+ "inclusion": [
+  {
+   "opt": "s0",
+   "label": "inclusion (social)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "inclusion (metallurgy)",
+   "sense_id": "inclusion-metallurgy",
+   "sense_name": "inclusion (metallurgy)",
+   "new": true
+  }
+ ],
+ "hybridization": [
+  {
+   "opt": "s0",
+   "label": "hybridization (biology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "nucleic acid hybridization",
+   "sense_id": "nucleic-acid-hybridization",
+   "sense_name": "nucleic acid hybridization",
+   "new": false
+  },
+  {
+   "opt": "s2",
+   "label": "cultural hybridity",
+   "sense_id": "cultural-hybridity",
+   "sense_name": "cultural hybridity",
+   "new": false
+  },
+  {
+   "opt": "s3",
+   "label": "orbital hybridisation",
+   "sense_id": "orbital-hybridisation",
+   "sense_name": "orbital hybridisation",
+   "new": true
+  },
+  {
+   "opt": "s4",
+   "label": "hybrid system (engineering)",
+   "sense_id": "hybrid-system-engineering",
+   "sense_name": "hybrid system (engineering)",
+   "new": true
+  }
+ ],
+ "naturalization": [
+  {
+   "opt": "s0",
+   "label": "naturalization (citizenship)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "naturalization (philosophy)",
+   "sense_id": "naturalization-philosophy",
+   "sense_name": "naturalization (philosophy)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "naturalization (biology)",
+   "sense_id": "naturalization-biology",
+   "sense_name": "naturalization (biology)",
+   "new": true
+  }
+ ],
+ "population-decline": [
+  {
+   "opt": "s0",
+   "label": "population decline (demography)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "population decline (ecology)",
+   "sense_id": "population-decline-ecology",
+   "sense_name": "population decline (ecology)",
+   "new": true
+  }
+ ],
+ "thermal-stress": [
+  {
+   "opt": "s0",
+   "label": "thermal stress (mechanics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "thermal stress (biology)",
+   "sense_id": "thermal-stress-biology",
+   "sense_name": "thermal stress (biology)",
+   "new": true
+  }
+ ],
+ "plants": [
+  {
+   "opt": "s0",
+   "label": "plants (organisms)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "plant (industrial facility)",
+   "sense_id": "plant-industrial-facility",
+   "sense_name": "plant (industrial facility)",
+   "new": true
+  }
+ ],
+ "dehydration": [
+  {
+   "opt": "s0",
+   "label": "dehydration (medicine)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "dehydration reaction (chemistry)",
+   "sense_id": "dehydration-reaction-chemistry",
+   "sense_name": "dehydration reaction (chemistry)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "dehydration (food drying and plant water stress)",
+   "sense_id": "dehydration-food-drying-and-plant-water-stress",
+   "sense_name": "dehydration (food drying and plant water stress)",
+   "new": true
+  }
+ ],
+ "residents": [
+  {
+   "opt": "s0",
+   "label": "residents (inhabitants)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "residents (medical training)",
+   "sense_id": "residents-medical-training",
+   "sense_name": "residents (medical training)",
+   "new": true
+  }
+ ],
+ "ceramics": [
+  {
+   "opt": "s0",
+   "label": "ceramics (materials science)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "ceramics (art and archaeology)",
+   "sense_id": "ceramics-art-and-archaeology",
+   "sense_name": "ceramics (art and archaeology)",
+   "new": true
+  }
+ ],
+ "alcohol": [
+  {
+   "opt": "s0",
+   "label": "alcohol (drug)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "alcohol (chemistry)",
+   "sense_id": "alcohol-chemistry",
+   "sense_name": "alcohol chemistry",
+   "new": false
+  }
+ ],
+ "entropy": [
+  {
+   "opt": "s0",
+   "label": "entropy (thermodynamics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "entropy (information theory)",
+   "sense_id": "entropy-information-theory",
+   "sense_name": "entropy (information theory)",
+   "new": true
+  }
+ ],
+ "resource-utilization": [
+  {
+   "opt": "s0",
+   "label": "resource utilization (computing)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "resource utilization (natural resources)",
+   "sense_id": "resource-utilization-natural-resources",
+   "sense_name": "resource utilization (natural resources)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "resource utilization (health care)",
+   "sense_id": "resource-utilization-health-care",
+   "sense_name": "resource utilization (health care)",
+   "new": true
+  }
+ ],
+ "vulnerability": [
+  {
+   "opt": "s0",
+   "label": "vulnerability (social and environmental risk)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "vulnerability (computer security)",
+   "sense_id": "vulnerability-computer-security",
+   "sense_name": "vulnerability (computer security)",
+   "new": true
+  }
+ ],
+ "security": [
+  {
+   "opt": "s0",
+   "label": "security (social and political science)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "security (computing)",
+   "sense_id": "security-computing",
+   "sense_name": "security (computing)",
+   "new": true
+  }
+ ],
+ "life-history": [
+  {
+   "opt": "s0",
+   "label": "life history (biology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "life history (social science method)",
+   "sense_id": "life-history-social-science-method",
+   "sense_name": "life history (social science method)",
+   "new": true
+  }
+ ],
+ "representation": [
+  {
+   "opt": "s0",
+   "label": "representation (arts and culture)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "representation (politics)",
+   "sense_id": "representation-politics",
+   "sense_name": "representation (politics)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "mental representation",
+   "sense_id": "mental-representation",
+   "sense_name": "mental representation",
+   "new": false
+  },
+  {
+   "opt": "s3",
+   "label": "knowledge representation (computer science)",
+   "sense_id": "knowledge-representation",
+   "sense_name": "knowledge representation",
+   "new": false
+  },
+  {
+   "opt": "s4",
+   "label": "representation (mathematics)",
+   "sense_id": "representation-mathematics",
+   "sense_name": "representation (mathematics)",
+   "new": true
+  }
+ ],
+ "feedback": [
+  {
+   "opt": "s0",
+   "label": "feedback (education and performance)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "feedback (control systems)",
+   "sense_id": "feedback-control-systems",
+   "sense_name": "feedback (control systems)",
+   "new": true
+  }
+ ],
+ "cross-cultural-adaptation": [
+  {
+   "opt": "s0",
+   "label": "cross-cultural adaptation (psychometrics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "cross-cultural adaptation (acculturation)",
+   "sense_id": "cross-cultural-adaptation-acculturation",
+   "sense_name": "cross-cultural adaptation (acculturation)",
+   "new": true
+  }
+ ],
+ "social-participation": [
+  {
+   "opt": "s0",
+   "label": "social participation (civic and political engagement)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "social participation (health and rehabilitation)",
+   "sense_id": "social-participation-health-and-rehabilitation",
+   "sense_name": "social participation (health and rehabilitation)",
+   "new": true
+  }
+ ],
+ "hemispheric-asymmetry": [
+  {
+   "opt": "s0",
+   "label": "hemispheric asymmetry (brain lateralization)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "hemispheric asymmetry (solar and geophysical)",
+   "sense_id": "hemispheric-asymmetry-solar-and-geophysical",
+   "sense_name": "hemispheric asymmetry (solar and geophysical)",
+   "new": true
+  }
+ ],
+ "classification": [
+  {
+   "opt": "s0",
+   "label": "classification (machine learning)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "classification (taxonomy and nomenclature)",
+   "sense_id": "classification-taxonomy-and-nomenclature",
+   "sense_name": "classification (taxonomy and nomenclature)",
+   "new": true
+  }
+ ],
+ "fertilization": [
+  {
+   "opt": "s0",
+   "label": "fertilization (agriculture)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "fertilisation (biology)",
+   "sense_id": "fertilisation-biology",
+   "sense_name": "fertilisation (biology)",
+   "new": true
+  }
+ ],
+ "mutation": [
+  {
+   "opt": "s0",
+   "label": "mutation (genetics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "mutation (genetic algorithm)",
+   "sense_id": "mutation-genetic-algorithm",
+   "sense_name": "mutation (genetic algorithm)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "mutation (linguistics/cultural change)",
+   "sense_id": "mutation-linguistics-cultural-change",
+   "sense_name": "mutation (linguistics/cultural change)",
+   "new": true
+  }
+ ],
+ "ferns": [
+  {
+   "opt": "s0",
+   "label": "ferns (plants)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "random ferns (machine learning)",
+   "sense_id": "random-ferns",
+   "sense_name": "random ferns",
+   "new": false
+  }
+ ],
+ "bioactivity": [
+  {
+   "opt": "s0",
+   "label": "bioactivity (biological activity of compounds)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "bioactivity (biomaterials)",
+   "sense_id": "bioactivity-biomaterials",
+   "sense_name": "bioactivity (biomaterials)",
+   "new": true
+  }
+ ],
+ "response-time": [
+  {
+   "opt": "s0",
+   "label": "response time (technology)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "reaction time (psychology)",
+   "sense_id": "reaction-time-psychology",
+   "sense_name": "reaction time (psychology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "response time (sensor)",
+   "sense_id": "response-time-sensor",
+   "sense_name": "response time (sensor)",
+   "new": true
+  },
+  {
+   "opt": "s3",
+   "label": "response time (emergency services)",
+   "sense_id": "response-time-emergency-services",
+   "sense_name": "response time (emergency services)",
+   "new": true
+  }
+ ],
+ "health-status": [
+  {
+   "opt": "s0",
+   "label": "health status (human health)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "health status (engineering condition monitoring)",
+   "sense_id": "health-status-engineering-condition-monitoring",
+   "sense_name": "health status (engineering condition monitoring)",
+   "new": true
+  }
+ ],
+ "regionalism": [
+  {
+   "opt": "s0",
+   "label": "regionalism (politics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "regionalism (arts)",
+   "sense_id": "regionalism-arts",
+   "sense_name": "regionalism (arts)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "regionalism (architecture)",
+   "sense_id": "regionalism-architecture",
+   "sense_name": "regionalism (architecture)",
+   "new": true
+  }
+ ],
+ "london": [
+  {
+   "opt": "s0",
+   "label": "London (city)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "London (physics eponym)",
+   "sense_id": "london-physics-eponym",
+   "sense_name": "London (physics eponym)",
+   "new": true
+  }
+ ],
+ "compensation": [
+  {
+   "opt": "s0",
+   "label": "compensation (law and remuneration)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "compensation (engineering)",
+   "sense_id": "compensation-engineering",
+   "sense_name": "compensation (engineering)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "compensation (physiology)",
+   "sense_id": "compensation-physiology",
+   "sense_name": "compensation (physiology)",
+   "new": true
+  }
+ ],
+ "development": [
+  {
+   "opt": "s0",
+   "label": "development (international/socioeconomic)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "development (biology)",
+   "sense_id": "development-biology",
+   "sense_name": "development (biology)",
+   "new": true
+  }
+ ],
+ "recruitment": [
+  {
+   "opt": "s0",
+   "label": "recruitment (human resources)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "recruitment (biology)",
+   "sense_id": "recruitment-biology",
+   "sense_name": "recruitment (biology)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "recruitment (clinical trials)",
+   "sense_id": "recruitment-clinical-trials",
+   "sense_name": "recruitment (clinical trials)",
+   "new": true
+  }
+ ],
+ "radiation-hardness": [
+  {
+   "opt": "s0",
+   "label": "radiation hardness (electronics)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "radioresistance (biology)",
+   "sense_id": "radioresistance-biology",
+   "sense_name": "radioresistance (biology)",
+   "new": true
+  }
+ ],
+ "soil-compaction": [
+  {
+   "opt": "s0",
+   "label": "soil compaction (agriculture)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "soil compaction (geotechnical engineering)",
+   "sense_id": "soil-compaction-geotechnical-engineering",
+   "sense_name": "soil compaction (geotechnical engineering)",
+   "new": true
+  }
+ ],
+ "tolerance": [
+  {
+   "opt": "s0",
+   "label": "tolerance (social and political)",
+   "sense_id": null,
+   "sense_name": null,
+   "new": false
+  },
+  {
+   "opt": "s1",
+   "label": "tolerance (engineering)",
+   "sense_id": "tolerance-engineering",
+   "sense_name": "tolerance (engineering)",
+   "new": true
+  },
+  {
+   "opt": "s2",
+   "label": "tolerance (pharmacology and immunology)",
+   "sense_id": "tolerance-pharmacology-and-immunology",
+   "sense_name": "tolerance (pharmacology and immunology)",
+   "new": true
+  }
+ ]
+}

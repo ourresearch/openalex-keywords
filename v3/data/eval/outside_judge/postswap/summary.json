@@ -1,0 +1,89 @@
+{
+ "sets": {
+  "amr_kw_only": {
+   "n": 150,
+   "yes": 100,
+   "partly": 22,
+   "no": 28,
+   "count": 122550,
+   "yes_pct": 66.7,
+   "yes_ci": [
+    58.8,
+    73.7
+   ],
+   "yp_pct": 81.3,
+   "yp_ci": [
+    74.3,
+    86.8
+   ]
+  },
+  "amr_kw_only_noabs": {
+   "n": 100,
+   "yes": 67,
+   "partly": 7,
+   "no": 26,
+   "count": 47269,
+   "yes_pct": 67.0,
+   "yes_ci": [
+    57.3,
+    75.4
+   ],
+   "yp_pct": 74.0,
+   "yp_ci": [
+    64.6,
+    81.6
+   ]
+  },
+  "amr_text": {
+   "n": 50,
+   "yes": 33,
+   "partly": 7,
+   "no": 10,
+   "count": 118099,
+   "yes_pct": 66.0,
+   "yes_ci": [
+    52.2,
+    77.6
+   ],
+   "yp_pct": 80.0,
+   "yp_ci": [
+    67.0,
+    88.8
+   ]
+  },
+  "remote_kw_only": {
+   "n": 100,
+   "yes": 41,
+   "partly": 28,
+   "no": 31,
+   "count": 7922,
+   "yes_pct": 41.0,
+   "yes_ci": [
+    31.9,
+    50.8
+   ],
+   "yp_pct": 69.0,
+   "yp_ci": [
+    59.4,
+    77.2
+   ]
+  },
+  "remote_phrase": {
+   "n": 50,
+   "yes": 17,
+   "partly": 8,
+   "no": 25,
+   "count": 2462,
+   "yes_pct": 34.0,
+   "yes_ci": [
+    22.4,
+    47.8
+   ],
+   "yp_pct": 50.0,
+   "yp_ci": [
+    36.6,
+    63.4
+   ]
+  }
+ }
+}

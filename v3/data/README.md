@@ -19,11 +19,18 @@ Works are identified by OpenAlex id (`W…`). Work text is not included; fetch i
 | `eval/leaderboard.md` | every arm ever scored on the harness, incl. the retired designs |
 | `eval/golds/` | label files for the MeSH gold (`j1306/`: 4,728 PubMed works with their MeSH headings, plus the MeSH 2026 descriptor table) and the judge gold v1.2 (`j1292/` + `j1322/`: 1,198 works, relevant keywords, candidate pools); ids and labels only, no titles or abstracts; files over 5 MB gzipped |
 | `eval/student_v3fix_harness_tags.json.gz` | the student's keywords and mean log-probs on all 18,706 harness works |
-| `vocabulary/kw1322v3n_vocabulary.tsv.gz` | **the shipped vocabulary**: keyword_id, display_name, works_count (1,874,460 rows) |
+| `vocabulary/vocabulary_20261003.tsv.gz` | **the vocabulary as served on 2026-10-03 (v3.1)**: keyword_id, display_name, works_count over live works (1,882,088 headings; 1,881,484 carry at least one work). Includes the synonym-audit and sense-split headings. A heading can drift below 100 works as works are added, merged or deleted |
+| `vocabulary/kw1322v3n_vocabulary.tsv.gz` | the vocabulary as built for v3.0: keyword_id, display_name, works_count (1,874,460 rows) |
 | `vocabulary/*.tsv`, `countries.json` | rule tables, see docs/vocabulary.md |
-| `synonyms/synmap9_final.jsonl.gz` | **the shipped synonym map** `{kid, canon}` (applied after the plural fold) |
+| `synonyms/synmap10_final.jsonl.gz` | **the synonym map served since 2026-10-01 (v3.1)** `{kid, canon}`: synmap9 minus 5,016 merges the audit judged wrong ([docs/synonym_audit.md](../docs/synonym_audit.md)) |
+| `synonyms/synmap10_breaks.jsonl` | the 5,016 broken merges with works moved and the judge's reason |
+| `synonyms/audit_v31/` | the audit: every synmap9 merge, string-judge verdicts, display-name checks, re-judge, long-COVID work verdicts |
+| `synonyms/synmap9_final.jsonl.gz` | the v3.0 synonym map `{kid, canon}` (applied after the plural fold) |
 | `synonyms/hand_decisions.jsonl`, `review500.json` | the 500 hand-reviewed pairs with prior verdict counts, and the decisions |
 | `synonyms/judgments/` | every judge verdict file the map builder reads (gzipped), plus the per-channel merge maps; twins verdicts in LARGE_FILES |
 | `synonyms/audits/` | residual-split audits on successive vocabularies, incl. the shipped one (`audit_kw1322v3n_.json`, `audit_n29.log`, `audit_n31.log`) |
 
 Formats of the verdict files: name judges `{a, b, cos, merge, keep}` (`keep` = preferred heading); context checks `{kid, canon, verified}`; UK/US and variants `{a, b, merge}`; acronyms `{kid, acronym, expansion, exp_kid}`; alternative names `{kid, names}`.
+| `senses/` | keyword sense splits (v3.1): sense map, gold and gate labels, per-sense gate results, shipped per-work senses; see [senses/README.md](senses/README.md) and [docs/senses.md](../docs/senses.md) |
+| `alternatives/` | keyword synonyms for search and autocomplete (v3.1): the served `display_name_alternatives`, bake-off, ownership and eval aggregates; see [alternatives/README.md](alternatives/README.md) and [docs/alternatives.md](../docs/alternatives.md) |
+| `eval/outside_judge/` | the outside judge (GPT-6 Astra, v3.1): the 400-work sample (ids and keyword lists, no text), every verdict, tables; `postswap/` = the launch post's search examples. See [docs/outside_judge.md](../docs/outside_judge.md) |

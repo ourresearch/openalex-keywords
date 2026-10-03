@@ -1,0 +1,2533 @@
+[
+{
+"query": "antibacterial resistance",
+"gold": [
+"antimicrobial-resistance",
+"antibiotic-resistance"
+],
+"src": "hand"
+},
+{
+"query": "heart attack",
+"gold": [
+"myocardial-infarction",
+"acute-myocardial-infarction"
+],
+"src": "hand"
+},
+{
+"query": "high blood pressure",
+"gold": [
+"hypertension"
+],
+"src": "hand"
+},
+{
+"query": "bird flu",
+"gold": [
+"avian-influenza"
+],
+"src": "hand"
+},
+{
+"query": "global warming",
+"gold": [
+"climate-change",
+"global-warming"
+],
+"src": "hand"
+},
+{
+"query": "AI",
+"gold": [
+"artificial-intelligence"
+],
+"src": "hand"
+},
+{
+"query": "LLMs",
+"gold": [
+"large-language-models"
+],
+"src": "hand"
+},
+{
+"query": "chatbots in education",
+"gold": [
+"chatgpt",
+"chatbots"
+],
+"src": "hand"
+},
+{
+"query": "cancer immunotherapy drugs",
+"gold": [
+"immune-checkpoint-inhibitors",
+"cancer-immunotherapy",
+"immunotherapy"
+],
+"src": "hand"
+},
+{
+"query": "tumour microenvironment",
+"gold": [
+"tumor-microenvironment"
+],
+"src": "hand"
+},
+{
+"query": "behaviour change",
+"gold": [
+"behavior-change"
+],
+"src": "hand"
+},
+{
+"query": "sea level going up",
+"gold": [
+"sea-level-rise"
+],
+"src": "hand"
+},
+{
+"query": "kidney failure",
+"gold": [
+"chronic-kidney-disease",
+"acute-kidney-injury",
+"end-stage-renal-disease",
+"kidney-failure"
+],
+"src": "hand"
+},
+{
+"query": "stroke",
+"gold": [
+"stroke",
+"ischemic-stroke"
+],
+"src": "hand"
+},
+{
+"query": "gene editing",
+"gold": [
+"crispr-cas9",
+"genome-editing"
+],
+"src": "hand"
+},
+{
+"query": "misinformation on social media",
+"gold": [
+"misinformation",
+"fake-news",
+"social-media-misinformation"
+],
+"src": "hand"
+},
+{
+"query": "self-driving cars",
+"gold": [
+"autonomous-vehicles",
+"autonomous-driving"
+],
+"src": "hand"
+},
+{
+"query": "solar cells made of perovskite",
+"gold": [
+"perovskite-solar-cells"
+],
+"src": "hand"
+},
+{
+"query": "gut bacteria",
+"gold": [
+"gut-microbiota"
+],
+"src": "hand"
+},
+{
+"query": "lung cancer",
+"gold": [
+"lung-cancer",
+"non-small-cell-lung-cancer"
+],
+"src": "hand"
+},
+{
+"query": "type 2 diabetes",
+"gold": [
+"type-2-diabetes"
+],
+"src": "hand"
+},
+{
+"query": "sugar diabetes",
+"gold": [
+"diabetes-mellitus",
+"type-2-diabetes"
+],
+"src": "hand"
+},
+{
+"query": "covid vaccine hesitancy",
+"gold": [
+"covid-19-vaccine-hesitancy",
+"vaccine-hesitancy"
+],
+"src": "hand"
+},
+{
+"query": "long-term effects of covid",
+"gold": [
+"long-covid"
+],
+"src": "hand"
+},
+{
+"query": "graph neural nets",
+"gold": [
+"graph-neural-networks"
+],
+"src": "hand"
+},
+{
+"query": "remote work",
+"gold": [
+"remote-work",
+"working-from-home"
+],
+"src": "hand"
+},
+{
+"query": "carbon capture",
+"gold": [
+"carbon-capture-and-storage"
+],
+"src": "hand"
+},
+{
+"query": "microplastic pollution",
+"gold": [
+"microplastics",
+"microplastic-pollution"
+],
+"src": "hand"
+},
+{
+"query": "ADHD in kids",
+"gold": [
+"attention-deficit-hyperactivity-disorder"
+],
+"src": "hand"
+},
+{
+"query": "obesity in children",
+"gold": [
+"childhood-obesity"
+],
+"src": "hand"
+},
+{
+"query": "machine translation",
+"gold": [
+"machine-translation",
+"neural-machine-translation"
+],
+"src": "hand"
+},
+{
+"query": "quantum computers",
+"gold": [
+"quantum-computing"
+],
+"src": "hand"
+},
+{
+"query": "honey bee decline",
+"gold": [
+"colony-collapse-disorder",
+"pollinator-decline",
+"bee-decline"
+],
+"src": "hand"
+},
+{
+"query": "coral bleaching",
+"gold": [
+"coral-bleaching"
+],
+"src": "hand"
+},
+{
+"query": "wind power",
+"gold": [
+"wind-energy"
+],
+"src": "hand"
+},
+{
+"query": "electric cars",
+"gold": [
+"electric-vehicles"
+],
+"src": "hand"
+},
+{
+"query": "bitcoin",
+"gold": [
+"bitcoin",
+"cryptocurrency"
+],
+"src": "hand"
+},
+{
+"query": "blockchain",
+"gold": [
+"blockchain"
+],
+"src": "hand"
+},
+{
+"query": "open access publishing",
+"gold": [
+"open-access",
+"open-access-publishing"
+],
+"src": "hand"
+},
+{
+"query": "peer review",
+"gold": [
+"peer-review"
+],
+"src": "hand"
+},
+{
+"query": "fake news",
+"gold": [
+"fake-news",
+"misinformation"
+],
+"src": "hand"
+},
+{
+"query": "antibiotic overuse",
+"gold": [
+"antibiotic-misuse",
+"antibiotic-stewardship",
+"inappropriate-antibiotic-use"
+],
+"src": "hand"
+},
+{
+"query": "superbugs",
+"gold": [
+"multidrug-resistant-bacteria",
+"antimicrobial-resistance",
+"multidrug-resistance"
+],
+"src": "hand"
+},
+{
+"query": "MRSA",
+"gold": [
+"methicillin-resistant-staphylococcus-aureus"
+],
+"src": "hand"
+},
+{
+"query": "tb",
+"gold": [
+"tuberculosis"
+],
+"src": "hand"
+},
+{
+"query": "malaria parasites",
+"gold": [
+"plasmodium-falciparum",
+"malaria"
+],
+"src": "hand"
+},
+{
+"query": "the placebo effect",
+"gold": [
+"placebo-effect"
+],
+"src": "hand"
+},
+{
+"query": "post-traumatic stress",
+"gold": [
+"posttraumatic-stress-disorder"
+],
+"src": "hand"
+},
+{
+"query": "neural nets",
+"gold": [
+"neural-network"
+],
+"src": "hand"
+},
+{
+"query": "alzheimers",
+"gold": [
+"alzheimer-s-disease"
+],
+"src": "hand"
+},
+{
+"query": "food nutrient content",
+"gold": [
+"nutritional-value"
+],
+"src": "gen_head",
+"keyword": "nutritional value",
+"n": 80295
+},
+{
+"query": "macroalgae",
+"gold": [
+"seaweed"
+],
+"src": "gen_head",
+"keyword": "seaweed",
+"n": 57579
+},
+{
+"query": "molten metals",
+"gold": [
+"liquid-metals"
+],
+"src": "gen_head",
+"keyword": "liquid metals",
+"n": 22226
+},
+{
+"query": "electronic characteristics",
+"gold": [
+"electronic-properties"
+],
+"src": "gen_head",
+"keyword": "electronic properties",
+"n": 39198
+},
+{
+"query": "military expenditure",
+"gold": [
+"defense-spending"
+],
+"src": "gen_head",
+"keyword": "defense spending",
+"n": 45265
+},
+{
+"query": "reflective practice",
+"gold": [
+"critical-reflection"
+],
+"src": "gen_head",
+"keyword": "critical reflection",
+"n": 24486
+},
+{
+"query": "religious ministers",
+"gold": [
+"clergy"
+],
+"src": "gen_head",
+"keyword": "clergy",
+"n": 66575
+},
+{
+"query": "evolutionary history of organisms",
+"gold": [
+"phylogeny"
+],
+"src": "gen_head",
+"keyword": "phylogeny",
+"n": 68582
+},
+{
+"query": "ice age epoch",
+"gold": [
+"pleistocene"
+],
+"src": "gen_head",
+"keyword": "Pleistocene",
+"n": 28715
+},
+{
+"query": "worker autonomy and decision-making authority",
+"gold": [
+"employee-empowerment"
+],
+"src": "gen_head",
+"keyword": "employee empowerment",
+"n": 24521
+},
+{
+"query": "hepatotoxicity",
+"gold": [
+"drug-induced-liver-injury"
+],
+"src": "gen_head",
+"keyword": "drug-induced liver injury",
+"n": 50973
+},
+{
+"query": "MPC",
+"gold": [
+"model-predictive-control"
+],
+"src": "gen_head",
+"keyword": "model predictive control",
+"n": 65668
+},
+{
+"query": "respiratory tract inflammation",
+"gold": [
+"airway-inflammation"
+],
+"src": "gen_head",
+"keyword": "airway inflammation",
+"n": 54501
+},
+{
+"query": "gel formation",
+"gold": [
+"gelation"
+],
+"src": "gen_head",
+"keyword": "gelation",
+"n": 25194
+},
+{
+"query": "collaborative stakeholder engagement method",
+"gold": [
+"participatory-approach"
+],
+"src": "gen_head",
+"keyword": "participatory approach",
+"n": 22349
+},
+{
+"query": "better safe than sorry approach",
+"gold": [
+"precautionary-principle"
+],
+"src": "gen_head",
+"keyword": "precautionary principle",
+"n": 20835
+},
+{
+"query": "history of law",
+"gold": [
+"legal-history"
+],
+"src": "gen_head",
+"keyword": "legal history",
+"n": 174892
+},
+{
+"query": "SNNs",
+"gold": [
+"spiking-neural-networks"
+],
+"src": "gen_head",
+"keyword": "spiking neural networks",
+"n": 22593
+},
+{
+"query": "in vitro clonal propagation",
+"gold": [
+"micropropagation"
+],
+"src": "gen_head",
+"keyword": "micropropagation",
+"n": 72319
+},
+{
+"query": "Hodgkin lymphoma",
+"gold": [
+"hodgkin-lymphoma"
+],
+"src": "gen_head",
+"keyword": "Hodgkin's disease",
+"n": 56028
+},
+{
+"query": "online shopping platforms\n\nWait \u2014 \"platforms\" is reused. Alternative: \"online marketplaces\".\n\nonline marketplaces",
+"gold": [
+"e-commerce-platforms"
+],
+"src": "gen_head",
+"keyword": "e-commerce platforms",
+"n": 26026
+},
+{
+"query": "food supply",
+"gold": [
+"food-availability"
+],
+"src": "gen_head",
+"keyword": "food availability",
+"n": 30457
+},
+{
+"query": "between-subject variation",
+"gold": [
+"inter-individual-variability"
+],
+"src": "gen_head",
+"keyword": "interindividual variability",
+"n": 66581
+},
+{
+"query": "groundwater reservoirs",
+"gold": [
+"aquifers"
+],
+"src": "gen_head",
+"keyword": "aquifers",
+"n": 27763
+},
+{
+"query": "pediatric inpatients",
+"gold": [
+"hospitalized-children"
+],
+"src": "gen_head",
+"keyword": "hospitalized children",
+"n": 35335
+},
+{
+"query": "morphology-based traits\n\nHmm, \"morphology\" shares a root with \"morphological\". A version that avoids both content words: \"structural traits\" or \"anatomical features\". In taxonomy and phylogenetics, \"morphological characters\" are anatomical traits used in classification, so \"anatomical traits\" is a good fit.\n\nanatomical traits",
+"gold": [
+"morphological-characters"
+],
+"src": "gen_head",
+"keyword": "morphological characters",
+"n": 59232
+},
+{
+"query": "planetogenesis",
+"gold": [
+"planet-formation"
+],
+"src": "gen_head",
+"keyword": "planet formation",
+"n": 23432
+},
+{
+"query": "road deaths",
+"gold": [
+"traffic-fatalities"
+],
+"src": "gen_head",
+"keyword": "traffic fatalities",
+"n": 22724
+},
+{
+"query": "BCR",
+"gold": [
+"benefit-cost-ratio"
+],
+"src": "gen_head",
+"keyword": "benefit-cost ratio",
+"n": 37801
+},
+{
+"query": "faunal and floral inventory",
+"gold": [
+"species-checklist"
+],
+"src": "gen_head",
+"keyword": "species checklist",
+"n": 95051
+},
+{
+"query": "Reformation Christianity",
+"gold": [
+"protestantism"
+],
+"src": "gen_head",
+"keyword": "Protestantism",
+"n": 67411
+},
+{
+"query": "nanoparticle suspensions",
+"gold": [
+"nanofluids"
+],
+"src": "gen_head",
+"keyword": "nanofluids",
+"n": 36075
+},
+{
+"query": "social pedagogy",
+"gold": [
+"social-education"
+],
+"src": "gen_head",
+"keyword": "social education",
+"n": 25274
+},
+{
+"query": "choosing how to travel",
+"gold": [
+"mode-choice"
+],
+"src": "gen_head",
+"keyword": "mode choice",
+"n": 34800
+},
+{
+"query": "distinctive capabilities",
+"gold": [
+"core-competencies"
+],
+"src": "gen_head",
+"keyword": "core competencies",
+"n": 39219
+},
+{
+"query": "base isolation",
+"gold": [
+"seismic-isolation"
+],
+"src": "gen_head",
+"keyword": "seismic isolation",
+"n": 30122
+},
+{
+"query": "carp family",
+"gold": [
+"cyprinidae"
+],
+"src": "gen_head",
+"keyword": "Cyprinidae",
+"n": 37162
+},
+{
+"query": "green building",
+"gold": [
+"sustainable-construction"
+],
+"src": "gen_head",
+"keyword": "sustainable construction",
+"n": 73914
+},
+{
+"query": "Czecho-Slovakia",
+"gold": [
+"czechoslovakia"
+],
+"src": "gen_head",
+"keyword": "Czechoslovakia",
+"n": 50837
+},
+{
+"query": "electoral behaviour",
+"gold": [
+"voting-behavior"
+],
+"src": "gen_head",
+"keyword": "voting behavior",
+"n": 72018
+},
+{
+"query": "LIB",
+"gold": [
+"lithium-ion-batteries"
+],
+"src": "gen_head",
+"keyword": "lithium-ion batteries",
+"n": 145315
+},
+{
+"query": "keyhole surgery",
+"gold": [
+"minimally-invasive-surgery"
+],
+"src": "gen_head",
+"keyword": "minimally invasive surgery",
+"n": 127248
+},
+{
+"query": "beta-oxidation",
+"gold": [
+"fatty-acid-oxidation"
+],
+"src": "gen_head",
+"keyword": "fatty acid oxidation",
+"n": 27131
+},
+{
+"query": "TGI",
+"gold": [
+"tumor-growth-inhibition"
+],
+"src": "gen_head",
+"keyword": "tumor growth inhibition",
+"n": 78601
+},
+{
+"query": "marine navigation maps",
+"gold": [
+"nautical-charts"
+],
+"src": "gen_head",
+"keyword": "nautical charts",
+"n": 25901
+},
+{
+"query": "azacyclic compounds",
+"gold": [
+"nitrogen-containing-heterocycles"
+],
+"src": "gen_head",
+"keyword": "nitrogen heterocycles",
+"n": 30704
+},
+{
+"query": "reading habits",
+"gold": [
+"reading-practices"
+],
+"src": "gen_head",
+"keyword": "reading practices",
+"n": 26058
+},
+{
+"query": "self-concept",
+"gold": [
+"self-perception"
+],
+"src": "gen_head",
+"keyword": "self-perception",
+"n": 41038
+},
+{
+"query": "adaptive evolution",
+"gold": [
+"positive-selection"
+],
+"src": "gen_head",
+"keyword": "positive selection",
+"n": 29192
+},
+{
+"query": "microelement determination",
+"gold": [
+"trace-element-analysis"
+],
+"src": "gen_head",
+"keyword": "trace element analysis",
+"n": 25815
+},
+{
+"query": "neutral weak gauge boson",
+"gold": [
+"z-boson"
+],
+"src": "gen_head",
+"keyword": "Z boson",
+"n": 20776
+},
+{
+"query": "gonalgia",
+"gold": [
+"knee-pain"
+],
+"src": "gen_head",
+"keyword": "knee pain",
+"n": 27948
+},
+{
+"query": "ionized gas density variations",
+"gold": [
+"plasma-density-fluctuations"
+],
+"src": "gen_head",
+"keyword": "plasma density fluctuations",
+"n": 96808
+},
+{
+"query": "primary care medicine",
+"gold": [
+"general-practice"
+],
+"src": "gen_head",
+"keyword": "general practice",
+"n": 133572
+},
+{
+"query": "name studies",
+"gold": [
+"onomastics"
+],
+"src": "gen_head",
+"keyword": "onomastics",
+"n": 40814
+},
+{
+"query": "mineral deposit formation",
+"gold": [
+"ore-genesis"
+],
+"src": "gen_head",
+"keyword": "ore genesis",
+"n": 33580
+},
+{
+"query": "defense of christianity",
+"gold": [
+"christian-apologetics"
+],
+"src": "gen_head",
+"keyword": "Christian apologetics",
+"n": 37994
+},
+{
+"query": "biocatalyst characterisation",
+"gold": [
+"enzyme-characterization"
+],
+"src": "gen_head",
+"keyword": "enzyme characterization",
+"n": 30234
+},
+{
+"query": "interaction effect",
+"gold": [
+"moderating-effect"
+],
+"src": "gen_head",
+"keyword": "moderating effect",
+"n": 177207
+},
+{
+"query": "non-linear PDEs",
+"gold": [
+"nonlinear-partial-differential-equations"
+],
+"src": "gen_head",
+"keyword": "nonlinear partial differential equations",
+"n": 28847
+},
+{
+"query": "upper jawbone",
+"gold": [
+"maxilla"
+],
+"src": "gen_head",
+"keyword": "maxilla",
+"n": 37626
+},
+{
+"query": "rising price level",
+"gold": [
+"inflation"
+],
+"src": "gen_head",
+"keyword": "inflation",
+"n": 228978
+},
+{
+"query": "gossypium",
+"gold": [
+"cotton"
+],
+"src": "gen_head",
+"keyword": "cotton",
+"n": 82464
+},
+{
+"query": "penmanship",
+"gold": [
+"calligraphy"
+],
+"src": "gen_head",
+"keyword": "calligraphy",
+"n": 23671
+},
+{
+"query": "cross-species morphological comparison",
+"gold": [
+"comparative-anatomy"
+],
+"src": "gen_head",
+"keyword": "comparative anatomy",
+"n": 29552
+},
+{
+"query": "minority protection",
+"gold": [
+"minority-rights"
+],
+"src": "gen_head",
+"keyword": "minority rights",
+"n": 38217
+},
+{
+"query": "emotional attachment to the organization",
+"gold": [
+"affective-commitment"
+],
+"src": "gen_head",
+"keyword": "affective commitment",
+"n": 23262
+},
+{
+"query": "wave-particle coupling",
+"gold": [
+"wave-particle-interaction"
+],
+"src": "gen_head",
+"keyword": "wave-particle interactions",
+"n": 49306
+},
+{
+"query": "GDP",
+"gold": [
+"gross-domestic-product"
+],
+"src": "gen_head",
+"keyword": "gross domestic product",
+"n": 71930
+},
+{
+"query": "Religious Society of Friends",
+"gold": [
+"quakers"
+],
+"src": "gen_head",
+"keyword": "Quakers",
+"n": 21367
+},
+{
+"query": "communal well-being",
+"gold": [
+"community-welfare"
+],
+"src": "gen_head",
+"keyword": "community welfare",
+"n": 22095
+},
+{
+"query": "monolayer graphite",
+"gold": [
+"graphene"
+],
+"src": "gen_head",
+"keyword": "graphene",
+"n": 113975
+},
+{
+"query": "CG",
+"gold": [
+"computer-graphics"
+],
+"src": "gen_head",
+"keyword": "computer graphics",
+"n": 35130
+},
+{
+"query": "moving violations",
+"gold": [
+"traffic-violations"
+],
+"src": "gen_head",
+"keyword": "traffic offenses",
+"n": 21011
+},
+{
+"query": "space potential",
+"gold": [
+"plasma-potential"
+],
+"src": "gen_head",
+"keyword": "plasma electric potential",
+"n": 252900
+},
+{
+"query": "Illes Balears",
+"gold": [
+"balearic-islands"
+],
+"src": "gen_head",
+"keyword": "Balearic Islands",
+"n": 24053
+},
+{
+"query": "medical judgment",
+"gold": [
+"clinical-decision-making"
+],
+"src": "gen_head",
+"keyword": "clinical decision-making",
+"n": 111018
+},
+{
+"query": "era before written records",
+"gold": [
+"prehistory"
+],
+"src": "gen_head",
+"keyword": "prehistory",
+"n": 23794
+},
+{
+"query": "BOP",
+"gold": [
+"balance-of-payments"
+],
+"src": "gen_head",
+"keyword": "balance of payments",
+"n": 31993
+},
+{
+"query": "lipid hydroperoxide content",
+"gold": [
+"peroxide-value"
+],
+"src": "gen_head",
+"keyword": "peroxide value",
+"n": 20268
+},
+{
+"query": "social milieu",
+"gold": [
+"social-environment"
+],
+"src": "gen_head",
+"keyword": "social environment",
+"n": 63295
+},
+{
+"query": "gene migration\n\nWait\u2014that reuses \"gene\". Better: allele migration? Common synonym: \"gene migration\" is standard but reuses \"gene\". Rules allow reuse only if no natural alternative. Alternative: \"genetic migration\" (reuses \"gene\"-root? \"genetic\" is different word). \"allele exchange between populations\"? Let me pick \"genetic migration\".\n\ngenetic migration",
+"gold": [
+"gene-flow"
+],
+"src": "gen_head",
+"keyword": "gene flow",
+"n": 51974
+},
+{
+"query": "SEN",
+"gold": [
+"special-educational-needs"
+],
+"src": "gen_head",
+"keyword": "special educational needs",
+"n": 82915
+},
+{
+"query": "transmembrane voltage",
+"gold": [
+"membrane-potential"
+],
+"src": "gen_head",
+"keyword": "membrane potential",
+"n": 34483
+},
+{
+"query": "structural analysis",
+"gold": [
+"structural-characterization"
+],
+"src": "gen_head",
+"keyword": "structural characterization",
+"n": 21590
+},
+{
+"query": "lettres fran\u00e7aises",
+"gold": [
+"french-literature"
+],
+"src": "gen_head",
+"keyword": "French literature",
+"n": 170575
+},
+{
+"query": "grassroots outreach program",
+"gold": [
+"community-based-intervention"
+],
+"src": "gen_head",
+"keyword": "community-based intervention",
+"n": 36914
+},
+{
+"query": "KB",
+"gold": [
+"knowledge-base"
+],
+"src": "gen_head",
+"keyword": "knowledge base",
+"n": 41016
+},
+{
+"query": "tooth repair biomaterials",
+"gold": [
+"dental-restorative-materials"
+],
+"src": "gen_head",
+"keyword": "dental restorative materials",
+"n": 20215
+},
+{
+"query": "use of medical services",
+"gold": [
+"health-care-utilization"
+],
+"src": "gen_head",
+"keyword": "health care utilization",
+"n": 149894
+},
+{
+"query": "countryside deprivation",
+"gold": [
+"rural-poverty"
+],
+"src": "gen_head",
+"keyword": "rural poverty",
+"n": 49438
+},
+{
+"query": "acute circulatory failure",
+"gold": [
+"shock"
+],
+"src": "gen_head",
+"keyword": "shock",
+"n": 42054
+},
+{
+"query": "self-perception of appearance",
+"gold": [
+"body-image"
+],
+"src": "gen_head",
+"keyword": "body image",
+"n": 130055
+},
+{
+"query": "mechanical behaviour",
+"gold": [
+"mechanical-behavior"
+],
+"src": "gen_head",
+"keyword": "mechanical behavior",
+"n": 22551
+},
+{
+"query": "self-sufficiency",
+"gold": [
+"self-reliance"
+],
+"src": "gen_head",
+"keyword": "self-reliance",
+"n": 35571
+},
+{
+"query": "microwave-based measurement techniques",
+"gold": [
+"microwave-diagnostics"
+],
+"src": "gen_head",
+"keyword": "microwave diagnostics",
+"n": 275841
+},
+{
+"query": "academic publishing",
+"gold": [
+"scholarly-publishing"
+],
+"src": "gen_head",
+"keyword": "scholarly publishing",
+"n": 199353
+},
+{
+"query": "moral philosophy of Confucius",
+"gold": [
+"confucian-ethics"
+],
+"src": "gen_head",
+"keyword": "Confucian ethics",
+"n": 27855
+},
+{
+"query": "moisture uptake",
+"gold": [
+"water-uptake"
+],
+"src": "gen_head",
+"keyword": "water absorption",
+"n": 111746
+},
+{
+"query": "C. diff",
+"gold": [
+"clostridium-difficile-infection"
+],
+"src": "gen_head",
+"keyword": "Clostridium difficile infection",
+"n": 27456
+},
+{
+"query": "processing at the network periphery",
+"gold": [
+"edge-computing"
+],
+"src": "gen_head",
+"keyword": "edge computing",
+"n": 81937
+},
+{
+"query": "countryside travel",
+"gold": [
+"rural-tourism"
+],
+"src": "gen_head",
+"keyword": "rural tourism",
+"n": 57389
+},
+{
+"query": "bone-implant integration",
+"gold": [
+"osseointegration"
+],
+"src": "gen_head",
+"keyword": "osseointegration",
+"n": 42570
+},
+{
+"query": "life after death",
+"gold": [
+"afterlife"
+],
+"src": "gen_head",
+"keyword": "afterlife",
+"n": 46327
+},
+{
+"query": "family therapy",
+"gold": [
+"family-intervention"
+],
+"src": "gen_head",
+"keyword": "family intervention",
+"n": 25093
+},
+{
+"query": "higher education learners",
+"gold": [
+"college-students"
+],
+"src": "gen_head",
+"keyword": "university students",
+"n": 1059802
+},
+{
+"query": "theology of the church",
+"gold": [
+"ecclesiology"
+],
+"src": "gen_head",
+"keyword": "ecclesiology",
+"n": 62257
+},
+{
+"query": "vocational counseling",
+"gold": [
+"career-guidance"
+],
+"src": "gen_head",
+"keyword": "career guidance",
+"n": 144173
+},
+{
+"query": "GC",
+"gold": [
+"gas-chromatography"
+],
+"src": "gen_head",
+"keyword": "gas chromatography",
+"n": 35691
+},
+{
+"query": "raphanus sativus",
+"gold": [
+"radish"
+],
+"src": "gen_head",
+"keyword": "radish",
+"n": 23593
+},
+{
+"query": "viral identification",
+"gold": [
+"virus-detection"
+],
+"src": "gen_head",
+"keyword": "virus detection",
+"n": 28970
+},
+{
+"query": "portfolio allocation approach",
+"gold": [
+"investment-strategy"
+],
+"src": "gen_head",
+"keyword": "investment strategy",
+"n": 24739
+},
+{
+"query": "BPA",
+"gold": [
+"bisphenol-a"
+],
+"src": "gen_head",
+"keyword": "bisphenol A",
+"n": 37252
+},
+{
+"query": "cross-cultural proficiency",
+"gold": [
+"intercultural-competence"
+],
+"src": "gen_head",
+"keyword": "intercultural competence",
+"n": 47490
+},
+{
+"query": "deprivation in cities",
+"gold": [
+"urban-poverty"
+],
+"src": "gen_head",
+"keyword": "urban poverty",
+"n": 48719
+},
+{
+"query": "soil P",
+"gold": [
+"soil-phosphorus"
+],
+"src": "gen_head",
+"keyword": "soil phosphorus",
+"n": 37507
+},
+{
+"query": "DNA-level study of heredity",
+"gold": [
+"molecular-genetics"
+],
+"src": "gen_head",
+"keyword": "molecular genetics",
+"n": 24135
+},
+{
+"query": "unexpected abrupt demise",
+"gold": [
+"sudden-death"
+],
+"src": "gen_head",
+"keyword": "sudden death",
+"n": 21878
+},
+{
+"query": "pricing power",
+"gold": [
+"market-power"
+],
+"src": "gen_head",
+"keyword": "market power",
+"n": 36742
+},
+{
+"query": "patient anticipations\n\nWait, avoid reusing \"patient\". Alternative: \"what patients expect from care\"? That reuses a patient variant. Better option:\n\ntreatment expectancy beliefs\n\nHmm, that is narrower. Best choice:\n\nclient expectations of care\n\nThat reuses \"expectations\". Final answer:\n\nwhat patients anticipate from treatment",
+"gold": [
+"patient-expectations"
+],
+"src": "gen_head",
+"keyword": "patient expectations",
+"n": 26968
+},
+{
+"query": "inverted spinel lattice",
+"gold": [
+"inverse-spinel"
+],
+"src": "gen_torso",
+"keyword": "inverse spinel structure",
+"n": 1719
+},
+{
+"query": "hidden factors",
+"gold": [
+"latent-features"
+],
+"src": "gen_torso",
+"keyword": "latent features",
+"n": 1015
+},
+{
+"query": "consonant mutation",
+"gold": [
+"consonant-alternation"
+],
+"src": "gen_torso",
+"keyword": "consonant alternation",
+"n": 1151
+},
+{
+"query": "thermal radiation from interstellar grains",
+"gold": [
+"dust-continuum-emission"
+],
+"src": "gen_torso",
+"keyword": "dust continuum emission",
+"n": 3328
+},
+{
+"query": "Garden Isle Hawaii",
+"gold": [
+"kauai"
+],
+"src": "gen_torso",
+"keyword": "Kauai",
+"n": 3097
+},
+{
+"query": "coculture",
+"gold": [
+"mixed-culture"
+],
+"src": "gen_torso",
+"keyword": "mixed culture",
+"n": 9185
+},
+{
+"query": "D/A mixtures",
+"gold": [
+"donor-acceptor-blends"
+],
+"src": "gen_torso",
+"keyword": "donor-acceptor blends",
+"n": 1562
+},
+{
+"query": "ligand-interacting amino acids",
+"gold": [
+"binding-site-residues"
+],
+"src": "gen_torso",
+"keyword": "binding site residues",
+"n": 1276
+},
+{
+"query": "microorganisms in freshwater and marine habitats",
+"gold": [
+"aquatic-microbiology"
+],
+"src": "gen_torso",
+"keyword": "aquatic microbiology",
+"n": 7256
+},
+{
+"query": "pyrosol process",
+"gold": [
+"ultrasonic-spray-pyrolysis"
+],
+"src": "gen_torso",
+"keyword": "ultrasonic spray pyrolysis",
+"n": 3037
+},
+{
+"query": "persistent stomach lining inflammation",
+"gold": [
+"chronic-gastritis"
+],
+"src": "gen_torso",
+"keyword": "chronic gastritis",
+"n": 13873
+},
+{
+"query": "highest female singing voice",
+"gold": [
+"soprano"
+],
+"src": "gen_torso",
+"keyword": "soprano",
+"n": 15785
+},
+{
+"query": "operations strategy\n\nThis reuses \"strategy\", so a closer fit that avoids both original content words would be:\n\nmanufacturing strategy\n\nThat one is arguably narrower, though. Best answer:\n\noperations management strategy\n\nThat still reuses \"strategy\". Final:\n\nproduction strategy",
+"gold": [
+"operational-strategy"
+],
+"src": "gen_torso",
+"keyword": "operational strategy",
+"n": 8513
+},
+{
+"query": "non-local gravitation",
+"gold": [
+"nonlocal-gravity"
+],
+"src": "gen_torso",
+"keyword": "nonlocal gravity",
+"n": 1252
+},
+{
+"query": "experience of thinking",
+"gold": [
+"cognitive-experience"
+],
+"src": "gen_torso",
+"keyword": "cognitive experience",
+"n": 1316
+},
+{
+"query": "high-end timepieces",
+"gold": [
+"luxury-watches"
+],
+"src": "gen_torso",
+"keyword": "luxury watches",
+"n": 1099
+},
+{
+"query": "culinary scholarship",
+"gold": [
+"food-studies"
+],
+"src": "gen_torso",
+"keyword": "food studies",
+"n": 2631
+},
+{
+"query": "cytoplasmic polypeptides",
+"gold": [
+"cytosolic-proteins"
+],
+"src": "gen_torso",
+"keyword": "cytosolic proteins",
+"n": 3826
+},
+{
+"query": "IPA",
+"gold": [
+"importance-performance-analysis"
+],
+"src": "gen_torso",
+"keyword": "importance-performance analysis",
+"n": 12995
+},
+{
+"query": "global metabolite profiling",
+"gold": [
+"untargeted-metabolomics"
+],
+"src": "gen_torso",
+"keyword": "untargeted metabolomics",
+"n": 12619
+},
+{
+"query": "activation technique",
+"gold": [
+"activation-method"
+],
+"src": "gen_torso",
+"keyword": "activation method",
+"n": 1963
+},
+{
+"query": "concrete surface flaking",
+"gold": [
+"spalling"
+],
+"src": "gen_torso",
+"keyword": "spalling",
+"n": 5080
+},
+{
+"query": "financial return evaluation",
+"gold": [
+"profitability-analysis"
+],
+"src": "gen_torso",
+"keyword": "profitability analysis",
+"n": 14070
+},
+{
+"query": "piscine intelligence",
+"gold": [
+"fish-cognition"
+],
+"src": "gen_torso",
+"keyword": "fish cognition",
+"n": 1153
+},
+{
+"query": "newly synthesized proteins",
+"gold": [
+"nascent-polypeptide-chains"
+],
+"src": "gen_torso",
+"keyword": "nascent polypeptide chains",
+"n": 1728
+},
+{
+"query": "understanding one's own feelings",
+"gold": [
+"emotional-clarity"
+],
+"src": "gen_torso",
+"keyword": "emotional clarity",
+"n": 1818
+},
+{
+"query": "THz imaging",
+"gold": [
+"terahertz-imaging"
+],
+"src": "gen_torso",
+"keyword": "terahertz imaging",
+"n": 9944
+},
+{
+"query": "conservation equations",
+"gold": [
+"balance-equations"
+],
+"src": "gen_torso",
+"keyword": "balance equations",
+"n": 1715
+},
+{
+"query": "MMD",
+"gold": [
+"maximum-mean-discrepancy"
+],
+"src": "gen_torso",
+"keyword": "maximum mean discrepancy",
+"n": 3522
+},
+{
+"query": "direction of arrival",
+"gold": [
+"angle-of-arrival"
+],
+"src": "gen_torso",
+"keyword": "angle of arrival",
+"n": 5580
+},
+{
+"query": "moyen fran\u00e7ais",
+"gold": [
+"middle-french"
+],
+"src": "gen_torso",
+"keyword": "Middle French",
+"n": 2248
+},
+{
+"query": "Jesus of history",
+"gold": [
+"historical-jesus"
+],
+"src": "gen_torso",
+"keyword": "historical Jesus",
+"n": 12440
+},
+{
+"query": "Myosotis arvensis",
+"gold": [
+"myosotis-arvensis"
+],
+"src": "gen_torso",
+"keyword": "field forget-me-not",
+"n": 2886
+},
+{
+"query": "L1 regression",
+"gold": [
+"least-absolute-deviation"
+],
+"src": "gen_torso",
+"keyword": "least absolute deviation",
+"n": 1407
+},
+{
+"query": "nonprofit hospitals",
+"gold": [
+"voluntary-hospitals"
+],
+"src": "gen_torso",
+"keyword": "voluntary hospitals",
+"n": 1254
+},
+{
+"query": "biological regulatory substances",
+"gold": [
+"bioregulators"
+],
+"src": "gen_torso",
+"keyword": "bioregulators",
+"n": 1172
+},
+{
+"query": "degrees of autonomy",
+"gold": [
+"levels-of-automation"
+],
+"src": "gen_torso",
+"keyword": "levels of automation",
+"n": 3356
+},
+{
+"query": "fertilization effect",
+"gold": [
+"fertilizer-response"
+],
+"src": "gen_torso",
+"keyword": "fertilizer response",
+"n": 5003
+},
+{
+"query": "gender differences in food intake",
+"gold": [
+"sex-differences-in-diet"
+],
+"src": "gen_torso",
+"keyword": "sex differences in diet",
+"n": 1704
+},
+{
+"query": "VHSIC hardware description language",
+"gold": [
+"vhdl"
+],
+"src": "gen_torso",
+"keyword": "VHDL",
+"n": 12771
+},
+{
+"query": "design for all",
+"gold": [
+"universal-design"
+],
+"src": "gen_torso",
+"keyword": "universal design",
+"n": 16372
+},
+{
+"query": "american healthcare legislation and regulation",
+"gold": [
+"us-health-policy"
+],
+"src": "gen_torso",
+"keyword": "United States health policy",
+"n": 1132
+},
+{
+"query": "acoustic modelling",
+"gold": [
+"acoustic-modeling"
+],
+"src": "gen_torso",
+"keyword": "acoustic modeling",
+"n": 7610
+},
+{
+"query": "fine-scale surface roughness",
+"gold": [
+"microtexture"
+],
+"src": "gen_torso",
+"keyword": "microtexture",
+"n": 3723
+},
+{
+"query": "feminist critiques of scientific knowledge",
+"gold": [
+"feminist-philosophy-of-science"
+],
+"src": "gen_torso",
+"keyword": "feminist philosophy of science",
+"n": 1136
+},
+{
+"query": "political conflict",
+"gold": [
+"political-contestation"
+],
+"src": "gen_torso",
+"keyword": "political contestation",
+"n": 4538
+},
+{
+"query": "nurse attire",
+"gold": [
+"nursing-uniforms"
+],
+"src": "gen_torso",
+"keyword": "nursing uniforms",
+"n": 1938
+},
+{
+"query": "gaseous composition determination",
+"gold": [
+"gas-analysis"
+],
+"src": "gen_torso",
+"keyword": "gas analysis",
+"n": 7991
+},
+{
+"query": "invisible barriers to career advancement",
+"gold": [
+"glass-ceiling"
+],
+"src": "gen_torso",
+"keyword": "glass ceiling",
+"n": 10844
+},
+{
+"query": "shallow mouth ulcers",
+"gold": [
+"oral-mucosal-erosions"
+],
+"src": "gen_torso",
+"keyword": "oral erosions",
+"n": 1136
+},
+{
+"query": "double exponential distribution",
+"gold": [
+"laplace-distribution"
+],
+"src": "gen_torso",
+"keyword": "Laplace distribution",
+"n": 2587
+},
+{
+"query": "compliance issues",
+"gold": [
+"regulatory-aspects"
+],
+"src": "gen_torso",
+"keyword": "regulatory considerations",
+"n": 3782
+},
+{
+"query": "multiple-input multiple-output antenna array",
+"gold": [
+"mimo-antenna-array"
+],
+"src": "gen_torso",
+"keyword": "MIMO antenna array",
+"n": 1197
+},
+{
+"query": "research discipline",
+"gold": [
+"scientific-field"
+],
+"src": "gen_torso",
+"keyword": "scientific field",
+"n": 1147
+},
+{
+"query": "abstract grammar",
+"gold": [
+"abstract-syntax"
+],
+"src": "gen_torso",
+"keyword": "abstract syntax",
+"n": 1280
+},
+{
+"query": "Attic comic drama",
+"gold": [
+"ancient-greek-comedy"
+],
+"src": "gen_torso",
+"keyword": "ancient Greek comedy",
+"n": 3044
+},
+{
+"query": "positive-intrinsic-negative diode switches",
+"gold": [
+"pin-diode-switching"
+],
+"src": "gen_torso",
+"keyword": "PIN diode switching",
+"n": 2600
+},
+{
+"query": "Bellevue College Nebraska",
+"gold": [
+"bellevue-university"
+],
+"src": "gen_torso",
+"keyword": "Bellevue University",
+"n": 2048
+},
+{
+"query": "NR2A NMDA receptor subunit",
+"gold": [
+"glun2a"
+],
+"src": "gen_torso",
+"keyword": "GluN2A",
+"n": 1306
+},
+{
+"query": "alloy chemistry",
+"gold": [
+"alloy-composition"
+],
+"src": "gen_torso",
+"keyword": "alloy composition",
+"n": 12888
+},
+{
+"query": "DNA and RNA transfer into cells",
+"gold": [
+"nucleic-acid-delivery"
+],
+"src": "gen_torso",
+"keyword": "nucleic acid delivery",
+"n": 5288
+},
+{
+"query": "stability of atomic nuclei",
+"gold": [
+"nuclear-stability"
+],
+"src": "gen_torso",
+"keyword": "nuclear stability",
+"n": 3136
+},
+{
+"query": "Lie algebras with nondegenerate Killing form",
+"gold": [
+"semisimple-lie-algebras"
+],
+"src": "gen_torso",
+"keyword": "semisimple Lie algebras",
+"n": 3501
+},
+{
+"query": "scalar adjectives",
+"gold": [
+"gradable-adjectives"
+],
+"src": "gen_torso",
+"keyword": "gradable adjectives",
+"n": 1001
+},
+{
+"query": "RQA",
+"gold": [
+"recurrence-quantification-analysis"
+],
+"src": "gen_torso",
+"keyword": "recurrence quantification analysis",
+"n": 3033
+},
+{
+"query": "mineral carbon",
+"gold": [
+"inorganic-carbon"
+],
+"src": "gen_torso",
+"keyword": "inorganic carbon",
+"n": 3205
+},
+{
+"query": "West Indian economic systems",
+"gold": [
+"caribbean-economies"
+],
+"src": "gen_torso",
+"keyword": "Caribbean economies",
+"n": 1290
+},
+{
+"query": "power-sharing democracy",
+"gold": [
+"consociationalism"
+],
+"src": "gen_torso",
+"keyword": "consociationalism",
+"n": 3409
+},
+{
+"query": "TTM",
+"gold": [
+"targeted-temperature-management"
+],
+"src": "gen_torso",
+"keyword": "targeted temperature management",
+"n": 3755
+},
+{
+"query": "air terminals",
+"gold": [
+"lightning-rods"
+],
+"src": "gen_torso",
+"keyword": "lightning rods",
+"n": 3263
+},
+{
+"query": "tawny marbled minor moth",
+"gold": [
+"oligia-latruncula"
+],
+"src": "gen_torso",
+"keyword": "Oligia latruncula",
+"n": 7660
+},
+{
+"query": "dermal wellness",
+"gold": [
+"skin-health"
+],
+"src": "gen_torso",
+"keyword": "skin health",
+"n": 5765
+},
+{
+"query": "p15INK4b",
+"gold": [
+"cdkn2b"
+],
+"src": "gen_torso",
+"keyword": "CDKN2B",
+"n": 3090
+},
+{
+"query": "adult progeria",
+"gold": [
+"werner-syndrome"
+],
+"src": "gen_torso",
+"keyword": "Werner syndrome",
+"n": 3096
+},
+{
+"query": "military commanders",
+"gold": [
+"generals"
+],
+"src": "gen_torso",
+"keyword": "generals",
+"n": 6092
+},
+{
+"query": "P2O5-based glass",
+"gold": [
+"phosphate-glass"
+],
+"src": "gen_torso",
+"keyword": "phosphate glass",
+"n": 4587
+},
+{
+"query": "ageing management",
+"gold": [
+"aging-management"
+],
+"src": "gen_torso",
+"keyword": "aging management",
+"n": 1238
+},
+{
+"query": "PTSD Checklist for DSM-5",
+"gold": [
+"pcl-5"
+],
+"src": "gen_torso",
+"keyword": "PCL-5",
+"n": 1515
+},
+{
+"query": "antivirus software",
+"gold": [
+"computer-virus-protection"
+],
+"src": "gen_torso",
+"keyword": "virus protection",
+"n": 1800
+},
+{
+"query": "broadband visible illuminator",
+"gold": [
+"white-light-source"
+],
+"src": "gen_torso",
+"keyword": "white light source",
+"n": 1022
+},
+{
+"query": "Lac Tchad",
+"gold": [
+"lake-chad"
+],
+"src": "gen_torso",
+"keyword": "Lake Chad",
+"n": 2191
+},
+{
+"query": "empowering agricultural producers",
+"gold": [
+"farmer-empowerment"
+],
+"src": "gen_torso",
+"keyword": "farmer empowerment",
+"n": 6127
+},
+{
+"query": "mechanistic target of rapamycin complex 2",
+"gold": [
+"mtorc2"
+],
+"src": "gen_torso",
+"keyword": "mTORC2",
+"n": 4675
+},
+{
+"query": "supergames",
+"gold": [
+"repeated-games"
+],
+"src": "gen_torso",
+"keyword": "repeated games",
+"n": 10451
+},
+{
+"query": "pattern recognition",
+"gold": [
+"pattern-detection"
+],
+"src": "gen_torso",
+"keyword": "pattern detection",
+"n": 2908
+},
+{
+"query": "holomorphic except at isolated poles",
+"gold": [
+"meromorphic-functions"
+],
+"src": "gen_torso",
+"keyword": "meromorphic functions",
+"n": 10457
+},
+{
+"query": "policy of state interference",
+"gold": [
+"interventionism"
+],
+"src": "gen_torso",
+"keyword": "interventionism",
+"n": 3779
+},
+{
+"query": "information exchange processes",
+"gold": [
+"communication-mechanisms"
+],
+"src": "gen_torso",
+"keyword": "communication mechanisms",
+"n": 1949
+},
+{
+"query": "functional abilities is out because \"functional\" is reused. A better fit is \"operational capacities\".\n\noperational capacities",
+"gold": [
+"functional-capabilities"
+],
+"src": "gen_torso",
+"keyword": "functional capabilities",
+"n": 1076
+},
+{
+"query": "fire flickering",
+"gold": [
+"flame-oscillation"
+],
+"src": "gen_torso",
+"keyword": "flame oscillation",
+"n": 1142
+},
+{
+"query": "dropping mercury electrode voltammetry",
+"gold": [
+"polarography"
+],
+"src": "gen_torso",
+"keyword": "polarography",
+"n": 9543
+},
+{
+"query": "sure start centres",
+"gold": [
+"children-s-centers"
+],
+"src": "gen_torso",
+"keyword": "children's centres",
+"n": 2194
+},
+{
+"query": "societal debate",
+"gold": [
+"public-discourse"
+],
+"src": "gen_torso",
+"keyword": "public discourse",
+"n": 18795
+},
+{
+"query": "1d hydrodynamic modelling",
+"gold": [
+"one-dimensional-flow-model"
+],
+"src": "gen_torso",
+"keyword": "one-dimensional flow model",
+"n": 1133
+},
+{
+"query": "WHtR\n\nWHtR",
+"gold": [
+"waist-to-height-ratio"
+],
+"src": "gen_torso",
+"keyword": "waist-to-height ratio",
+"n": 10706
+},
+{
+"query": "non-Latino African American adults",
+"gold": [
+"non-hispanic-black-adults"
+],
+"src": "gen_torso",
+"keyword": "non-Hispanic Black adults",
+"n": 1090
+},
+{
+"query": "ERBB2 copy number gain",
+"gold": [
+"her2-amplification"
+],
+"src": "gen_torso",
+"keyword": "HER2 amplification",
+"n": 6819
+},
+{
+"query": "doxorubicin-resistant MCF-7 line",
+"gold": [
+"mcf-7-adr-cells"
+],
+"src": "gen_torso",
+"keyword": "MCF-7/ADR cells",
+"n": 1215
+},
+{
+"query": "network embedding",
+"gold": [
+"graph-representation-learning"
+],
+"src": "gen_torso",
+"keyword": "graph representation learning",
+"n": 6166
+},
+{
+"query": "historical writing in the 1800s",
+"gold": [
+"19th-century-historiography"
+],
+"src": "gen_torso",
+"keyword": "19th-century historiography",
+"n": 3882
+},
+{
+"query": "module-integrated inverters",
+"gold": [
+"microinverters"
+],
+"src": "gen_torso",
+"keyword": "microinverters",
+"n": 1299
+},
+{
+"query": "otic anomalies",
+"gold": [
+"ear-malformations"
+],
+"src": "gen_torso",
+"keyword": "ear malformations",
+"n": 1158
+},
+{
+"query": "contentious argumentation",
+"gold": [
+"polemics"
+],
+"src": "gen_torso",
+"keyword": "polemics",
+"n": 19294
+},
+{
+"query": "craniofacial and cervical anatomy",
+"gold": [
+"head-and-neck-anatomy"
+],
+"src": "gen_torso",
+"keyword": "head and neck anatomy",
+"n": 2724
+},
+{
+"query": "signal travel time",
+"gold": [
+"propagation-delay"
+],
+"src": "gen_torso",
+"keyword": "propagation delay",
+"n": 10632
+},
+{
+"query": "bile salt balance",
+"gold": [
+"bile-acid-homeostasis"
+],
+"src": "gen_torso",
+"keyword": "bile acid homeostasis",
+"n": 1604
+},
+{
+"query": "metallic artefacts",
+"gold": [
+"metal-artifacts"
+],
+"src": "gen_torso",
+"keyword": "metal artifacts",
+"n": 8935
+},
+{
+"query": "population health hazard evaluation",
+"gold": [
+"public-health-risk-assessment"
+],
+"src": "gen_torso",
+"keyword": "public health risk assessment",
+"n": 2145
+},
+{
+"query": "open court proceedings",
+"gold": [
+"public-trial"
+],
+"src": "gen_torso",
+"keyword": "public trial",
+"n": 1021
+},
+{
+"query": "alder buckthorn",
+"gold": [
+"frangula-alnus"
+],
+"src": "gen_torso",
+"keyword": "Frangula alnus",
+"n": 2586
+},
+{
+"query": "multilevel nested partitioning",
+"gold": [
+"hierarchical-segmentation"
+],
+"src": "gen_torso",
+"keyword": "hierarchical segmentation",
+"n": 1742
+},
+{
+"query": "CoC articulation",
+"gold": [
+"ceramic-on-ceramic-bearings"
+],
+"src": "gen_torso",
+"keyword": "ceramic-on-ceramic bearings",
+"n": 2157
+},
+{
+"query": "bereaved parents",
+"gold": [
+"loss-of-a-child"
+],
+"src": "gen_torso",
+"keyword": "loss of a child",
+"n": 1539
+},
+{
+"query": "plumbing fixtures",
+"gold": [
+"sanitary-installations"
+],
+"src": "gen_torso",
+"keyword": "sanitary installations",
+"n": 1170
+},
+{
+"query": "questionnaire respondent distortion",
+"gold": [
+"survey-response-bias"
+],
+"src": "gen_torso",
+"keyword": "survey response bias",
+"n": 1218
+},
+{
+"query": "cereal sector",
+"gold": [
+"grain-industry"
+],
+"src": "gen_torso",
+"keyword": "grain industry",
+"n": 1395
+},
+{
+"query": "catalyst dissolution",
+"gold": [
+"catalyst-leaching"
+],
+"src": "gen_torso",
+"keyword": "catalyst leaching",
+"n": 1752
+},
+{
+"query": "Reston VA",
+"gold": [
+"reston-virginia"
+],
+"src": "gen_torso",
+"keyword": "Reston, Virginia",
+"n": 1113
+},
+{
+"query": "X-rays from stars",
+"gold": [
+"stellar-x-ray-emission"
+],
+"src": "gen_torso",
+"keyword": "stellar X-ray emission",
+"n": 1377
+}
+]

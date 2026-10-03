@@ -6,10 +6,10 @@ This page is for a person or an AI agent. Run the steps in order, and check each
 
 | level | needs | reproduces |
 |---|---|---|
-| **A. Check the claims** | Python 3.11, this repository | teacher-imitation F1, synonym map statistics, vocabulary statistics, rule tables |
+| **A. Check the claims** | Python 3.11, this repository | teacher-imitation F1, synonym map statistics (and synmap10 rebuilt exactly from the audit verdicts), vocabulary statistics, rule tables, the outside judge's numbers from its verdicts |
 | **B. Re-score the benchmarks** | A + a GPU with the student weights (or `data/eval/student_v3fix_harness_tags.json.gz`) | KP20k / Inspec (fetched), author-keyword, MeSH and judge-gold rows (labels in `data/eval/golds/`; titles and abstracts from the OpenAlex API by id) |
 | **C. Rebuild from teacher labels** | the released teacher labels (LARGE_FILES), 8 GPUs with ≥ 141 GB each for 2 h, a tagging cluster, a SQL engine over OpenAlex | student, corpus tags, vocabulary |
-| **D. Full rerun** | C + an Anthropic API key with Opus 5.5 access | everything, including new teacher labels and synonym verdicts |
+| **D. Full rerun** | C + an Anthropic API key with Opus 5.5 access; for the v3.1 steps also an OpenRouter (or OpenAI) key and Jev access | everything, including new teacher labels, synonym and audit verdicts, sense labels, alternative names and outside-judge verdicts |
 
 Opus outputs are not deterministic, so a level D rerun will not match our labels exactly. Compare distributions (keywords per work, empty share, judged precision), not individual lists.
 
@@ -27,7 +27,13 @@ modal secret create oxjob-databricks DATABRICKS_HOST=... DATABRICKS_TOKEN=... DA
 
 Python dependencies by stage: teacher `anthropic`; student `torch==2.6.0 transformers>=4.51,<5 accelerate>=1.0` (pinned inside `modal_student.py`); tagging `vllm>=0.10` on CUDA 12.8 (pinned inside `modal_corpus_v3.py`); synonyms `sentence-transformers>=3.0`; eval `numpy nltk huggingface_hub`.
 
-## Level A in five commands
+## Level A in one command
+
+```
+cd v3 && python3 code/check_level_a.py       # standard library only; prints PASS / FAIL per claim
+```
+
+It runs the checks below plus the v3.1 ones: synmap10 rebuilt from `data/synonyms/audit_v31/` and compared byte for byte with the served map, the 2026-10-03 vocabulary size, and the outside judge's accuracy (91.1% / 43.5%), head-to-head (395 / 1 / 4) and search-example shares (81.3% / 74.0%) recomputed from the released verdicts. The same checks by hand:
 
 ```
 cd v3
@@ -73,7 +79,7 @@ Things that bit us, in case they bite you:
 - **Large prompt batches in one vLLM call** starved Modal's heartbeat. `_tag` chunks by 16,384.
 - **Anthropic credit balance** can run out mid-batch. `judge_batch.py submit` requeues those rows.
 - **Plural folding:** never strip a final *s* blindly (see [vocabulary.md](vocabulary.md)).
-- **Acronym detection:** decide from the display name (≥ 2 capitals, no spaces), not from the lowercase id. The id alone made "elderly" an acronym.
+- **Acronym detection:** decide from the display name (≥ 2 capitals, no spaces), not from the lowercase id. The id alone made "elderly" an acronym. But the display name alone misses short ids usually written in lower case or as chemical symbols (dm, Ir, Pd), which then bridge two meanings: audit every merge, not a sample weighted by keyword ([synonym_audit.md](synonym_audit.md)); `build_synmap3.py --acronym-guard` adds a length rule.
 
 ## For AI agents
 

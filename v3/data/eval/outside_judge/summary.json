@@ -1,0 +1,326 @@
+{
+ "summary": {
+  "A|All|old": {
+   "works": 400,
+   "keywords": 2708,
+   "acc": [
+    0.43537666174298373,
+    0.4168069404416906,
+    0.4541294741335558
+   ],
+   "boot": [
+    0.4114331723027375,
+    0.4584269662921348
+   ],
+   "per_work_mean": 0.3387196964037893,
+   "problems": {
+    "too_generic": 388,
+    "wrong_or_unsupported": 751,
+    "wrong_sense": 359,
+    "not_aboutness": 28,
+    "malformed": 3
+   },
+   "redundant": 59
+  },
+  "A|All|new": {
+   "works": 400,
+   "keywords": 2357,
+   "acc": [
+    0.9109036911327959,
+    0.8987238090681692,
+    0.9217463148063
+   ],
+   "boot": [
+    0.8962571196094385,
+    0.9250856164383562
+   ],
+   "per_work_mean": 0.8933237907925405,
+   "problems": {
+    "wrong_or_unsupported": 189,
+    "not_aboutness": 10,
+    "wrong_sense": 9,
+    "too_generic": 2
+   },
+   "redundant": 44
+  },
+  "A|With abstract|old": {
+   "works": 282,
+   "keywords": 2211,
+   "acc": [
+    0.4690185436454093,
+    0.44828867580559745,
+    0.4898558849611859
+   ],
+   "boot": [
+    0.44326412361178175,
+    0.4934120854157201
+   ],
+   "per_work_mean": 0.40224781048765834,
+   "problems": {
+    "wrong_or_unsupported": 551,
+    "not_aboutness": 26,
+    "too_generic": 320,
+    "wrong_sense": 274,
+    "malformed": 3
+   },
+   "redundant": 55
+  },
+  "A|With abstract|new": {
+   "works": 282,
+   "keywords": 1866,
+   "acc": [
+    0.9442658092175777,
+    0.9329147964208694,
+    0.9537913288466399
+   ],
+   "boot": [
+    0.9311224489795918,
+    0.9566353187042842
+   ],
+   "per_work_mean": 0.9449037221643605,
+   "problems": {
+    "wrong_or_unsupported": 94,
+    "wrong_sense": 6,
+    "not_aboutness": 3,
+    "too_generic": 1
+   },
+   "redundant": 29
+  },
+  "A|No abstract|old": {
+   "works": 118,
+   "keywords": 497,
+   "acc": [
+    0.2857142857142857,
+    0.247759097094696,
+    0.3269567412062757
+   ],
+   "boot": [
+    0.23275862068965517,
+    0.3352059925093633
+   ],
+   "per_work_mean": 0.18689827122030503,
+   "problems": {
+    "too_generic": 68,
+    "wrong_or_unsupported": 200,
+    "wrong_sense": 85,
+    "not_aboutness": 2
+   },
+   "redundant": 4
+  },
+  "A|No abstract|new": {
+   "works": 118,
+   "keywords": 491,
+   "acc": [
+    0.7841140529531568,
+    0.7455899551489542,
+    0.818226829858612
+   ],
+   "boot": [
+    0.7368421052631579,
+    0.8288461538461539
+   ],
+   "per_work_mean": 0.7700564971751415,
+   "problems": {
+    "wrong_or_unsupported": 95,
+    "not_aboutness": 7,
+    "wrong_sense": 3,
+    "too_generic": 1
+   },
+   "redundant": 15
+  },
+  "A|Non-xpac|old": {
+   "works": 291,
+   "keywords": 2184,
+   "acc": [
+    0.44871794871794873,
+    0.42796664475691565,
+    0.4696493435303534
+   ],
+   "boot": [
+    0.4232424677187948,
+    0.4731977818853974
+   ],
+   "per_work_mean": 0.3450750749672988,
+   "problems": {
+    "too_generic": 373,
+    "wrong_or_unsupported": 615,
+    "not_aboutness": 18,
+    "wrong_sense": 197,
+    "malformed": 1
+   },
+   "redundant": 44
+  },
+  "A|Non-xpac|new": {
+   "works": 291,
+   "keywords": 1803,
+   "acc": [
+    0.9217970049916805,
+    0.9084876314057858,
+    0.9333127787685204
+   ],
+   "boot": [
+    0.90534262485482,
+    0.9370165745856354
+   ],
+   "per_work_mean": 0.8952470448604475,
+   "problems": {
+    "wrong_or_unsupported": 127,
+    "wrong_sense": 8,
+    "not_aboutness": 4,
+    "too_generic": 2
+   },
+   "redundant": 32
+  },
+  "A|xpac|old": {
+   "works": 109,
+   "keywords": 524,
+   "acc": [
+    0.3797709923664122,
+    0.3392328720610806,
+    0.42205915190974713
+   ],
+   "boot": [
+    0.31673306772908366,
+    0.43933823529411764
+   ],
+   "per_work_mean": 0.3217525848259794,
+   "problems": {
+    "wrong_sense": 162,
+    "wrong_or_unsupported": 136,
+    "too_generic": 15,
+    "malformed": 2,
+    "not_aboutness": 10
+   },
+   "redundant": 15
+  },
+  "A|xpac|new": {
+   "works": 109,
+   "keywords": 554,
+   "acc": [
+    0.8754512635379061,
+    0.8453417383094156,
+    0.900389666447777
+   ],
+   "boot": [
+    0.8378378378378378,
+    0.9086021505376344
+   ],
+   "per_work_mean": 0.8881892317672134,
+   "problems": {
+    "wrong_or_unsupported": 62,
+    "not_aboutness": 6,
+    "wrong_sense": 1
+   },
+   "redundant": 12
+  },
+  "P|All": {
+   "new": 395,
+   "old": 1,
+   "neither_useful": 4
+  },
+  "P|With abstract": {
+   "new": 282
+  },
+  "P|No abstract": {
+   "new": 113,
+   "old": 1,
+   "neither_useful": 4
+  },
+  "P|Non-xpac": {
+   "new": 286,
+   "old": 1,
+   "neither_useful": 4
+  },
+  "P|xpac": {
+   "new": 109
+  },
+  "B|kw_only": {
+   "n": 150,
+   "yes": [
+    0.64,
+    0.5605726755123628,
+    0.712435405526836
+   ],
+   "yes_partly": [
+    0.7666666666666667,
+    0.6928407309593593,
+    0.8271746614962575
+   ],
+   "counts": {
+    "yes": 96,
+    "no": 35,
+    "partly": 19
+   },
+   "claude_counts": {
+    "yes": 91,
+    "no": 20,
+    "partly": 39
+   }
+  },
+  "B|kw_only_noabs": {
+   "n": 100,
+   "yes": [
+    0.81,
+    0.7222097592919214,
+    0.8748534600729574
+   ],
+   "yes_partly": [
+    0.9,
+    0.8256326956323347,
+    0.9447714583868639
+   ],
+   "counts": {
+    "yes": 81,
+    "partly": 9,
+    "no": 10
+   },
+   "claude_counts": {
+    "yes": 68,
+    "partly": 27,
+    "no": 4
+   }
+  },
+  "B|text": {
+   "n": 50,
+   "yes": [
+    0.8,
+    0.6696262789551477,
+    0.8875637005402612
+   ],
+   "yes_partly": [
+    0.88,
+    0.7619492111337642,
+    0.9438247628937535
+   ],
+   "counts": {
+    "partly": 4,
+    "yes": 40,
+    "no": 6
+   },
+   "claude_counts": {
+    "partly": 14,
+    "yes": 34,
+    "no": 2
+   }
+  }
+ },
+ "A_works_both_judged": 400,
+ "A_per_work_compare": {
+  "new higher": 385,
+  "equal": 10,
+  "old higher": 5
+ },
+ "B_agreement": {
+  "yes->yes": 191,
+  "yes->partly": 2,
+  "yes->no": 0,
+  "partly->yes": 24,
+  "partly->partly": 30,
+  "partly->no": 26,
+  "no->yes": 1,
+  "no->partly": 0,
+  "no->no": 25
+ },
+ "errors": {},
+ "refusals": []
+}

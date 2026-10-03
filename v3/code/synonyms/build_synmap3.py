@@ -4,7 +4,7 @@ check rejected (data/hi_verified_v3.jsonl). Components of <= 3 keep the judge's 
 merges (round 2 used 1 hop and dropped real synonyms). Reports what the chaining guard dropped. -> data/synmap3.jsonl. python3 build_synmap3.py [--hops 2]"""
 import json, os, collections, argparse
 HERE = os.path.dirname(os.path.abspath(__file__))
-ap = argparse.ArgumentParser(); ap.add_argument('--hops', type=int, default=2); ap.add_argument('--extra-judged', nargs='*', default=[]); ap.add_argument('--extra-maps', nargs='*', default=[]); ap.add_argument('--rejected', nargs='*', default=['data/hi_verified_v3.jsonl']); ap.add_argument('--out', default='data/synmap3.jsonl'); a = ap.parse_args()
+ap = argparse.ArgumentParser(); ap.add_argument('--hops', type=int, default=2); ap.add_argument('--extra-judged', nargs='*', default=[]); ap.add_argument('--extra-maps', nargs='*', default=[]); ap.add_argument('--rejected', nargs='*', default=['data/hi_verified_v3.jsonl']); ap.add_argument('--out', default='data/synmap3.jsonl'); ap.add_argument('--acronym-guard', action='store_true', help='v3.1 guard against acronym bridges; off reproduces synmap9'); a = ap.parse_args()
 rd = lambda p: [json.loads(l) for l in open(f'{HERE}/{p}')] if os.path.exists(f'{HERE}/{p}') else []
 wc = collections.Counter()
 for p in ('data/vocab.jsonl', 'data/vocab_f.jsonl', 'data/vocab_g.jsonl', 'data/vocab_h.jsonl'):
@@ -27,6 +27,7 @@ _disp = {}
 for _p in ('data/vocab_all.jsonl',):
     for _r in rd(_p): _disp.setdefault(_r['kid'], _r['display_name'])
 def _acr(k):   # a real acronym: display name with >= 2 capitals, no spaces, <= 12 chars (the id alone made 'elderly' an acronym, 2026-09-29)
+    if a.acronym_guard and '-' not in k and len(k) <= 5: return True   # v3.1 (--acronym-guard): short single tokens act as acronyms whatever their usual casing ('dm', 'Ir', 'Er', 'Pd', 'NEON', 'pea'); see docs/synonym_audit.md
     d = _disp.get(k, '')
     return bool(d) and ' ' not in d and len(d) <= 12 and sum(ch.isupper() for ch in d) >= 2
 nbr = collections.defaultdict(set)

@@ -1,6 +1,6 @@
 # Prompts
 
-Every prompt the pipeline sends to a closed model, verbatim, with model id and parameters. All calls use the Anthropic Messages API with structured outputs (`output_config.format` = strict JSON schema).
+Every prompt the pipeline sends to a closed model, verbatim, with model id and parameters. Prompts 01 to 20 use the Anthropic Messages API (Claude Opus 5.5) with structured outputs (`output_config.format` = strict JSON schema). The v3.1 additions also use models from other providers, named in each file: Jev (21), OpenAI GPT-6 Astra (22, 26 to 28; directly or through OpenRouter) and GPT-6.1 Sol (23 to 25, through OpenRouter).
 
 | file | prompt | used for |
 |---|---|---|
@@ -20,3 +20,15 @@ Every prompt the pipeline sends to a closed model, verbatim, with model id and p
 | [14_dual_use.md](14_dual_use.md) | Dual-use exceptions to the purge | Drafting `keyword_dual_use_v1` (2,812 rows; approved by hand 2026-09-25): purge keywords dropped only where the work's own type or design already says it |
 | [15_countries.md](15_countries.md) | Country evidence table | Names, adjectives and native names per country (`data/vocabulary/countries |
 | [16_keyword_types_audit.md](16_keyword_types_audit.md) | Keyword type audit (diagnostic) | Diagnosing non-aboutness keywords (discipline labels, routine methods, record kinds) that led to the v3 clauses |
+| [17_merge_audit.md](17_merge_audit.md) | Synonym merge audit (v3.1) | Judging every non-trivial synmap9 merge same / close / wrong (332,373 judged; 5,012 wrong broken in synmap10) |
+| [18_display_name_check.md](18_display_name_check.md) | Heading display-name check (v3.1) | 39,221 headings named after a merged member (122 wrong) |
+| [19_long_covid_check.md](19_long_covid_check.md) | Long COVID work-level check (v3.1) | Which source strings merged into long COVID name the illness and which the post-pandemic period |
+| [20_sense_discovery.md](20_sense_discovery.md) | Sense discovery judge (v3.1) | Whether a keyword names one subject or distinct senses (3,000 biggest candidates + 996-keyword tail sample) |
+| [21_sense_classifier_jev.md](21_sense_classifier_jev.md) | Per-work sense classifier (Jev, v3.1) | Which sense each work uses: 15.9M corpus pairs, the gold set, and new works every night |
+| [22_sense_check_judge.md](22_sense_check_judge.md) | Per-work sense judge, with GPT-6 Astra as second judge (v3.1) | Gold labels, the field-rule check, the per-sense gate (7,877 moves) and the near-miss recheck (1,650) |
+| [23_alternative_names_writer.md](23_alternative_names_writer.md) | Alternative-name writer (GPT-6.1 Sol with Wikidata hints, v3.1) | `display_name_alternatives` for every keyword: 5,091,086 alternatives on 1,701,306 keywords after the one-owner step |
+| [24_alternatives_bakeoff_judge.md](24_alternatives_bakeoff_judge.md) | Alternative-name bake-off judge (Opus 5.5 and GPT-6 Astra, v3.1) | Choosing the writer: 9,103 pooled candidates for 713 keywords, judged blind |
+| [25_alternatives_owner_judge.md](25_alternatives_owner_judge.md) | Alternative-name owner judge (GPT-6.1 Sol, v3.1) | One owner per contested alternative (573,931 strings; 17,030 homonyms keep several) |
+| [26_outside_judge_keyword_accuracy.md](26_outside_judge_keyword_accuracy.md) | Outside judge: per-keyword accuracy (GPT-6 Astra, v3.1) | The launch numbers: 91.1% of new keywords accurate vs 43.5% of old on 400 random works |
+| [27_outside_judge_preference.md](27_outside_judge_preference.md) | Outside judge: old vs new head-to-head (v3.1) | New preferred on 395 of 400 works |
+| [28_outside_judge_on_topic.md](28_outside_judge_on_topic.md) | Outside judge: is this work about the subject? (v3.1) | The launch post's search examples (antimicrobial resistance 81% / 74% on topic; remote work) |

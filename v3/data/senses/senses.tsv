@@ -1,0 +1,277 @@
+heading	opt	label	sense_id	sense_name	new_heading	corpus_moves	gate_right	gate_judged	gate_unlabelled	gate_prec	gate_lb	gate_pass	recheck_right	recheck_judged	recheck_lb	recheck_pass	split	shipped
+taxonomy	s0	taxonomy (biology)															False	
+taxonomy	s1	taxonomy (general classification scheme)	taxonomy-general-classification-scheme	taxonomy (general classification scheme)	True	11641	47	50	0	0.94	0.838	False	142	150	0.898	True	True	2
+aging	s0	aging (biology and society)															False	
+aging	s1	aging (materials)	aging-materials	aging materials	False	34456	49	50	0	0.98	0.895	True					True	1
+electron-density	s0	electron density (plasma physics)															False	
+electron-density	s1	electron density (electronic structure)	electron-density-electronic-structure	electron density (electronic structure)	True	19017	38	50	0	0.76	0.626	False					False	
+synonymy	s0	synonymy (taxonomy)															False	
+synonymy	s1	synonymy (linguistics)	synonymy-linguistics	synonymy (linguistics)	True	13401	50	50	0	1.0	0.929	True					True	1
+morphology	s0	morphology (biology)															False	
+morphology	s1	morphology (materials science)	morphology-materials-science	morphology (materials science)	True	29857	50	50	0	1.0	0.929	True					True	1
+morphology	s2	morphology (linguistics)	morphology-linguistics	morphology (linguistics)	True	29838	50	50	0	1.0	0.929	True					True	1
+morphology	s3	morphology (geomorphology)	morphology-geomorphology	morphology (geomorphology)	True	342	38	50	0	0.76	0.626	False					False	
+weight-loss	s0	weight loss (body weight)															False	
+weight-loss	s1	weight loss (materials)	weight-loss-materials	weight loss (materials)	True	51913	45	50	0	0.9	0.786	False					False	
+family-history	s0	family history (genealogy)															False	
+family-history	s1	family history (medicine)	family-history-medicine	family history (medicine)	True	54951	50	50	0	1.0	0.929	True					True	1
+resilience	s0	resilience (psychology)															False	
+resilience	s1	resilience (ecology and social-ecological systems)	resilience-ecology-and-social-ecological-systems	resilience (ecology and social-ecological systems)	True	42986	42	50	0	0.84	0.715	False					False	
+resilience	s2	resilience (engineering)	resilience-engineering	resilience engineering	False	15222	50	50	0	1.0	0.929	True					True	1
+energy-conservation	s0	energy conservation (energy efficiency)															False	
+energy-conservation	s1	energy conservation (physics)	energy-conservation-physics	energy conservation (physics)	True	25407	49	50	0	0.98	0.895	True					True	1
+performance-evaluation	s0	performance evaluation (systems and engineering)															False	
+performance-evaluation	s1	performance evaluation (human resources)	performance-evaluation-human-resources	performance evaluation (human resources)	True	94346	50	50	0	1.0	0.929	True					True	1
+mediation	s0	mediation (statistics)															False	
+mediation	s1	mediation (conflict resolution)	mediation-conflict-resolution	mediation (conflict resolution)	True	67202	48	50	0	0.96	0.865	True					True	1
+mediation	s2	mediation (cultural/media theory)	mediation-cultural-media-theory	mediation (cultural/media theory)	True	20928	48	50	0	0.96	0.865	True					True	1
+inflation	s0	inflation (economics)															False	
+inflation	s1	inflation (cosmology)	inflation-cosmology	inflation (cosmology)	True	13219	50	50	0	1.0	0.929	True					True	1
+inflation	s2	inflation (mechanics)	inflation-mechanics	inflation (mechanics)	True	509	47	50	0	0.94	0.838	False	146	150	0.933	True	True	2
+heat-treatment	s0	heat treatment (metallurgy and materials processing)															False	
+heat-treatment	s1	heat treatment (food and biological processing)	heat-treatment-food-and-biological-processing	heat treatment (food and biological processing)	True	34755	47	49	1	0.959	0.863	True					True	1
+trust	s0	trust (social science)															False	
+trust	s1	trust (law)	trust-law	trust law	False	16538	44	50	0	0.88	0.762	False					False	
+stress	s0	stress (psychological)															False	
+stress	s1	stress (mechanics)	stress-mechanics	stress (mechanics)	True	5935	45	50	0	0.9	0.786	False					False	
+stress	s2	stress (biological)	stress-biological	stress (biological)	True	25047	46	50	0	0.92	0.812	False					False	
+hypoxia	s0	hypoxia (medicine)															False	
+hypoxia	s1	hypoxia (environmental)	hypoxia-environmental	hypoxia (environmental)	True	33085	34	49	1	0.694	0.555	False					False	
+fatigue	s0	fatigue (medical)															False	
+fatigue	s1	fatigue (material)	fatigue-material	fatigue (material)	True	29256	50	50	0	1.0	0.929	True					True	1
+reliability	s0	reliability (engineering)															False	
+reliability	s1	reliability (statistics)	reliability-statistics	reliability statistics	False	82235	48	50	0	0.96	0.865	True					True	1
+corruption	s0	corruption (political)															False	
+corruption	s1	data corruption	data-corruption	data corruption	False	189	34	50	0	0.68	0.542	False					False	
+banking	s0	banking (finance)															False	
+banking	s1	banking (aeronautics and road superelevation)	banking-aeronautics-and-road-superelevation	banking (aeronautics and road superelevation)	True	46	32	46	0	0.696	0.552	False					False	
+working-conditions	s0	working conditions (labour)															False	
+working-conditions	s1	working conditions (engineering)	working-conditions-engineering	working conditions (engineering)	True	3394	28	50	0	0.56	0.423	False					False	
+burnout	s0	burnout (psychology)															False	
+burnout	s1	burnout (heat transfer)	burnout-heat-transfer	burnout (heat transfer)	True	1427	23	50	0	0.46	0.33	False					False	
+clustering	s0	clustering (cluster analysis)															False	
+clustering	s1	clustering (clustered data / cluster sampling)	clustering-clustered-data-cluster-sampling	clustering (clustered data / cluster sampling)	True	2120	22	50	0	0.44	0.312	False					False	
+clustering	s2	clustering (business cluster)	clustering-business-cluster	clustering (business cluster)	True	1383	46	50	0	0.92	0.812	False					False	
+active-learning	s0	active learning (education)															False	
+active-learning	s1	active learning (machine learning)	active-learning-machine-learning	active learning (machine learning)	True	25866	50	50	0	1.0	0.929	True					True	1
+trauma	s0	trauma (psychological)															False	
+trauma	s1	trauma (physical injury)	trauma-physical-injury	trauma (physical injury)	True	36016	49	50	0	0.98	0.895	True					True	1
+translation	s0	translation (linguistics)															False	
+translation	s1	translation (biology)	translation-biology	translation (biology)	True	9558	50	50	0	1.0	0.929	True					True	1
+translation	s2	translation (geometry)	translation-geometry	translation (geometry)	True	2899	49	50	0	0.98	0.895	True					True	1
+translation	s3	translational research	translational-research	translational research	False	305	31	50	0	0.62	0.482	False					False	
+natural-history	s0	natural history (study of nature)															False	
+natural-history	s1	natural history (disease)	natural-history-disease	natural history (disease)	True	42439	50	50	0	1.0	0.929	True					True	1
+abortion	s0	abortion (human pregnancy)															False	
+abortion	s1	abortion (veterinary)	abortion-veterinary	abortion (veterinary)	True	10384	49	50	0	0.98	0.895	True					True	1
+abortion	s2	abortion (botany)	abortion-botany	abortion (botany)	True	34	31	34	0	0.912	0.77	False					False	
+accessibility	s0	accessibility (disability and inclusive design)															False	
+accessibility	s1	accessibility (transport and spatial geography)	accessibility-transport-and-spatial-geography	accessibility (transport and spatial geography)	True	32867	47	50	0	0.94	0.838	False	142	150	0.898	True	True	2
+decentralization	s0	decentralization (governance)															False	
+decentralization	s1	decentralization (distributed systems)	decentralization-distributed-systems	decentralization (distributed systems)	True	9875	47	50	0	0.94	0.838	False	142	150	0.898	True	True	2
+aggression	s0	aggression (behavior)															False	
+aggression	s1	aggression (chemical attack on materials)	aggression-chemical-attack-on-materials	aggression (chemical attack on materials)	True	31	12	31	0	0.387	0.237	False					False	
+precipitation	s0	precipitation (meteorology)															False	
+precipitation	s1	precipitation (chemistry)	precipitation-chemistry	precipitation chemistry	False	24358	50	50	0	1.0	0.929	True					True	1
+housing	s0	housing (dwellings)															False	
+housing	s1	housing (animal husbandry)	housing-animal-husbandry	housing (animal husbandry)	True	539	47	50	0	0.94	0.838	False	149	150	0.963	True	True	2
+housing	s2	housing (mechanical enclosure)	housing-mechanical-enclosure	housing (mechanical enclosure)	True	425	46	50	0	0.92	0.812	False					False	
+population-structure	s0	population structure (genetics)															False	
+population-structure	s1	population structure (demography)	population-structure-demography	population structure (demography)	True	28890	47	50	0	0.94	0.838	False	138	150	0.865	True	True	2
+self-regulation	s0	self-regulation (psychology)															False	
+self-regulation	s1	self-regulation (law and governance)	self-regulation-law-and-governance	self-regulation (law and governance)	True	22382	45	50	0	0.9	0.786	False					False	
+ontology	s0	ontology (philosophy)															False	
+ontology	s1	ontology (information science)	ontology-information-science	ontology (information science)	True	61100	49	50	0	0.98	0.895	True					True	1
+landscape	s0	landscape (geography)															False	
+landscape	s1	energy landscape (physics)	energy-landscape	energy landscape	False	115	21	50	0	0.42	0.294	False					False	
+landscape	s2	landscape (genomics)	landscape-genomics	landscape genomics	False	9	3	9	0	0.333	0.121	False					False	
+consciousness	s0	consciousness (mind and experience)															False	
+consciousness	s1	consciousness (social and political awareness)	consciousness-social-and-political-awareness	consciousness (social and political awareness)	True	4201	43	50	0	0.86	0.738	False					False	
+phenomenology	s0	phenomenology (philosophy)															False	
+phenomenology	s1	phenomenology (physics)	phenomenology-physics	phenomenology (physics)	True	2026	48	50	0	0.96	0.865	True					True	1
+stigma	s0	stigma (social)															False	
+stigma	s1	stigma (botany)	stigma-botany	stigma (botany)	True	3912	49	50	0	0.98	0.895	True					True	1
+inheritance	s0	inheritance (law)															False	
+inheritance	s1	heredity (biology)	heredity-biology	heredity (biology)	True	47946	50	50	0	1.0	0.929	True					True	1
+inheritance	s2	inheritance (object-oriented programming)	inheritance-object-oriented-programming	inheritance (object-oriented programming)	True	8134	48	50	0	0.96	0.865	True					True	1
+aids	s0	AIDS (acquired immunodeficiency syndrome)															False	
+aids	s1	aids (assistive or instructional devices)	aids-assistive-or-instructional-devices	aids (assistive or instructional devices)	True	1195	30	50	0	0.6	0.462	False					False	
+film	s0	film (cinema)															False	
+film	s1	film (thin film)	film-thin-film	film (thin film)	True	1683	45	50	0	0.9	0.786	False					False	
+autonomy	s0	autonomy (personal and political self-determination)															False	
+autonomy	s1	autonomy (robotics and autonomous systems)	autonomy-robotics-and-autonomous-systems	autonomy (robotics and autonomous systems)	True	3862	44	50	0	0.88	0.762	False					False	
+blood-coagulation	s0	blood coagulation (physiology)															False	
+blood-coagulation	s1	coagulation (water treatment)	coagulation-water-treatment	coagulation (water treatment)	True	22200	47	50	0	0.94	0.838	False	135	150	0.842	False	False	
+water-uptake	s0	water uptake (materials)															False	
+water-uptake	s1	water uptake (plant physiology)	water-uptake-plant-physiology	water uptake (plant physiology)	True	7032	50	50	0	1.0	0.929	True					True	1
+water-uptake	s2	water uptake (human physiology)	water-uptake-human-physiology	water uptake (human physiology)	True	1409	46	46	4	1.0	0.923	True					True	1
+water-management	s0	water management (resource management)															False	
+water-management	s1	water management (fuel cells)	water-management-fuel-cells	water management (fuel cells)	True	5587	50	50	0	1.0	0.929	True					True	1
+topography	s0	topography (terrain)															False	
+topography	s1	surface topography (materials science)	surface-topography	surface topography	False	1738	46	50	0	0.92	0.812	False					False	
+topography	s2	corneal topography	corneal-topography	corneal topography	False	183	44	50	0	0.88	0.762	False					False	
+culture	s0	culture (society)															False	
+culture	s1	culture (biology)	culture-biology	culture (biology)	True	1857	39	50	0	0.78	0.648	False					False	
+modernization	s0	modernization (social science)															False	
+modernization	s1	modernization (engineering)	modernization-engineering	modernization (engineering)	True	3760	44	50	0	0.88	0.762	False					False	
+discrimination	s0	discrimination (sociology)															False	
+discrimination	s1	discrimination (statistics)	discrimination-statistics	discrimination (statistics)	True	3215	50	50	0	1.0	0.929	True					True	1
+discrimination	s2	discrimination (signal processing)	discrimination-signal-processing	discrimination (signal processing)	True	165	40	50	0	0.8	0.67	False					False	
+discrimination	s3	discrimination (perception)	discrimination-perception	discrimination (perception)	True	1477	45	50	0	0.9	0.786	False					False	
+plato	s0	Plato (philosopher)															False	
+plato	s1	PLATO (spacecraft)	plato-spacecraft	PLATO (spacecraft)	True	205	49	50	0	0.98	0.895	True					True	1
+plato	s2	PLATO (computer system)	plato-computer-system	PLATO (computer system)	True	457	34	50	0	0.68	0.542	False					False	
+stress-response	s0	stress response (biology)															False	
+stress-response	s1	stress response (mechanics)	stress-response-mechanics	stress response (mechanics)	True	1127	49	50	0	0.98	0.895	True					True	1
+cosmology	s0	cosmology (physics)															False	
+cosmology	s1	cosmology (religion and anthropology)	cosmology-religion-and-anthropology	cosmology (religion and anthropology)	True	29980	47	50	0	0.94	0.838	False	128	150	0.788	False	False	
+fertility	s0	fertility (reproduction and demography)															False	
+fertility	s1	fertility (soil)	fertility-soil	fertility (soil)	True	746	33	50	0	0.66	0.522	False					False	
+body	s0	body (social and cultural theory)															False	
+body	s1	body (physics and engineering)	body-physics-and-engineering	body (physics and engineering)	True	900	28	50	0	0.56	0.423	False					False	
+social-welfare	s0	social welfare (social policy)															False	
+social-welfare	s1	social welfare (welfare economics)	social-welfare-welfare-economics	social welfare (welfare economics)	True	31886	47	50	0	0.94	0.838	False	140	150	0.882	True	True	2
+face-recognition	s0	face recognition (biometrics)															False	
+face-recognition	s1	face recognition (cognition)	face-recognition-cognition	face recognition (cognition)	True	19079	50	50	0	1.0	0.929	True					True	1
+humor	s0	humor (comedy)															False	
+humor	s1	humor (bodily fluid)	humor-bodily-fluid	humor (bodily fluid)	True	1226	44	50	0	0.88	0.762	False					False	
+social-development	s0	social development (societal progress)															False	
+social-development	s1	social development (developmental psychology)	social-development-developmental-psychology	social development (developmental psychology)	True	31734	50	50	0	1.0	0.929	True					True	1
+competition	s0	competition (economics)															False	
+competition	s1	competition (biology)	competition-biology	competition (biology)	True	14537	49	50	0	0.98	0.895	True					True	1
+competition	s2	competition (contest)	competition-contest	competition (contest)	True	17009	45	50	0	0.9	0.786	False					False	
+speech-recognition	s0	speech recognition (computing)															False	
+speech-recognition	s1	speech recognition (audiology)	speech-recognition-audiology	speech recognition (audiology)	True	3931	50	50	0	1.0	0.929	True					True	1
+causality	s0	causality (philosophy and causal inference)															False	
+causality	s1	causality (physics)	causality-physics	causality (physics)	True	13972	46	50	0	0.92	0.812	False					False	
+causality	s2	causation (law)	causation-law	causation (law)	True	17708	48	50	0	0.96	0.865	True					True	1
+self-determination	s0	self-determination (psychology)															False	
+self-determination	s1	self-determination (international law)	self-determination-international-law	self-determination (international law)	True	30466	50	50	0	1.0	0.929	True					True	1
+mobility	s0	mobility (human geography)															False	
+mobility	s1	mobility (physical function)	mobility-physical-function	mobility (physical function)	True	29075	50	50	0	1.0	0.929	True					True	1
+mobility	s2	mobility (social)	mobility-social	mobility (social)	True	4536	9	50	0	0.18	0.098	False					False	
+mobility	s3	mobility (telecommunications)	mobility-telecommunications	mobility (telecommunications)	True	5838	46	50	0	0.92	0.812	False					False	
+play	s0	play (activity)															False	
+play	s1	play (engineering)	play-engineering	play (engineering)	True	100	18	50	0	0.36	0.241	False					False	
+play	s2	play (theatre)	play-theatre	play (theatre)	True	11947	37	50	0	0.74	0.604	False					False	
+authenticity	s0	authenticity (philosophy and culture)															False	
+authenticity	s1	authenticity (information security)	authenticity-information-security	authenticity (information security)	True	2288	46	50	0	0.92	0.812	False					False	
+authenticity	s2	authenticity (food science)	authenticity-food-science	authenticity (food science)	True	927	45	50	0	0.9	0.786	False					False	
+growth-rate	s0	growth rate (biology)															False	
+growth-rate	s1	growth rate (crystal and thin-film growth)	growth-rate-crystal-and-thin-film-growth	growth rate (crystal and thin-film growth)	True	13973	50	50	0	1.0	0.929	True					True	1
+growth-rate	s2	growth rate (instability)	growth-rate-instability	growth rate (instability)	True	5958	49	50	0	0.98	0.895	True					True	1
+energy-balance	s0	energy balance (physics and engineering)															False	
+energy-balance	s1	energy balance (biology)	energy-balance-biology	energy balance (biology)	True	36039	46	50	0	0.92	0.812	False					False	
+disaster-recovery	s0	disaster recovery (emergency management)															False	
+disaster-recovery	s1	disaster recovery (information technology)	disaster-recovery-information-technology	disaster recovery (information technology)	True	5848	49	50	0	0.98	0.895	True					True	1
+cold-storage	s0	cold storage (food preservation)															False	
+cold-storage	s1	cold storage (organ preservation)	cold-storage-organ-preservation	cold storage (organ preservation)	True	8896	37	50	0	0.74	0.604	False					False	
+censorship	s0	censorship (suppression of speech and media)															False	
+censorship	s1	cosmic censorship (general relativity)	cosmic-censorship	cosmic censorship	False	15	11	15	0	0.733	0.48	False					False	
+censorship	s2	censoring (statistics)	censoring	censoring	False	86	39	50	0	0.78	0.648	False					False	
+apple	s0	apple (fruit)															False	
+apple	s1	Apple Inc.	apple-inc	Apple Inc.	False	8954	50	50	0	1.0	0.929	True					True	1
+building-information-modeling	s0	building information modeling (construction)															False	
+building-information-modeling	s1	Bim (protein)	bim-protein	Bim (protein)	True	1054	44	49	1	0.898	0.782	False					False	
+realism	s0	realism (international relations)															False	
+realism	s1	realism (arts)	realism-arts	realism (arts)	True	38782	50	50	0	1.0	0.929	True					True	1
+realism	s2	philosophical realism	philosophical-realism	philosophical realism	False	18649	45	50	0	0.9	0.786	False					False	
+realism	s3	realism (computer graphics)	realism-computer-graphics	realism (computer graphics)	True	1281	48	50	0	0.96	0.865	True					True	1
+inequality	s0	inequality (social and economic)															False	
+inequality	s1	inequality (mathematics)	inequality-mathematics	inequality (mathematics)	True	10629	50	50	0	1.0	0.929	True					True	1
+camp	s0	cAMP (cyclic adenosine monophosphate)															False	
+camp	s1	camp (encampment)	camp-encampment	camp (encampment)	True	3062	49	50	0	0.98	0.895	True					True	1
+camp	s2	camp (style)	camp-style	camp (style)	True	2787	48	50	0	0.96	0.865	True					True	1
+surveillance	s0	surveillance (social control)															False	
+surveillance	s1	surveillance (computer vision)	surveillance-computer-vision	surveillance (computer vision)	True	9143	34	50	0	0.68	0.542	False					False	
+surveillance	s2	surveillance (medicine)	surveillance-medicine	surveillance (medicine)	True	13060	49	50	0	0.98	0.895	True					True	1
+reaction-time	s0	reaction time (psychology)															False	
+reaction-time	s1	reaction time (chemistry)	reaction-time-chemistry	reaction time (chemistry)	True	12925	49	50	0	0.98	0.895	True					True	1
+middle-ages	s0	Middle Ages (historical period)															False	
+middle-ages	s1	middle age (human life stage)	middle-age-human-life-stage	middle age (human life stage)	True	9406	50	50	0	1.0	0.929	True					True	1
+inclusion	s0	inclusion (social)															False	
+inclusion	s1	inclusion (metallurgy)	inclusion-metallurgy	inclusion (metallurgy)	True	13231	46	50	0	0.92	0.812	False					False	
+hybridization	s0	hybridization (biology)															False	
+hybridization	s1	nucleic acid hybridization	nucleic-acid-hybridization	nucleic acid hybridization	False	3119	50	50	0	1.0	0.929	True					True	1
+hybridization	s2	cultural hybridity	cultural-hybridity	cultural hybridity	False	4746	48	50	0	0.96	0.865	True					True	1
+hybridization	s3	orbital hybridisation	orbital-hybridisation	orbital hybridisation	True	3333	48	50	0	0.96	0.865	True					True	1
+hybridization	s4	hybrid system (engineering)	hybrid-system-engineering	hybrid system (engineering)	True	1459	16	50	0	0.32	0.208	False					False	
+naturalization	s0	naturalization (citizenship)															False	
+naturalization	s1	naturalization (philosophy)	naturalization-philosophy	naturalization (philosophy)	True	2107	42	50	0	0.84	0.715	False					False	
+naturalization	s2	naturalization (biology)	naturalization-biology	naturalization (biology)	True	4014	50	50	0	1.0	0.929	True					True	1
+population-decline	s0	population decline (demography)															False	
+population-decline	s1	population decline (ecology)	population-decline-ecology	population decline (ecology)	True	28778	50	50	0	1.0	0.929	True					True	1
+thermal-stress	s0	thermal stress (mechanics)															False	
+thermal-stress	s1	thermal stress (biology)	thermal-stress-biology	thermal stress (biology)	True	18531	48	48	2	1.0	0.926	True					True	1
+plants	s0	plants (organisms)															False	
+plants	s1	plant (industrial facility)	plant-industrial-facility	plant (industrial facility)	True	227	40	50	0	0.8	0.67	False					False	
+dehydration	s0	dehydration (medicine)															False	
+dehydration	s1	dehydration reaction (chemistry)	dehydration-reaction-chemistry	dehydration reaction (chemistry)	True	25132	45	50	0	0.9	0.786	False					False	
+dehydration	s2	dehydration (food drying and plant water stress)	dehydration-food-drying-and-plant-water-stress	dehydration (food drying and plant water stress)	True	5626	50	50	0	1.0	0.929	True					True	1
+residents	s0	residents (inhabitants)															False	
+residents	s1	residents (medical training)	residents-medical-training	residents (medical training)	True	2384	49	50	0	0.98	0.895	True					True	1
+ceramics	s0	ceramics (materials science)															False	
+ceramics	s1	ceramics (art and archaeology)	ceramics-art-and-archaeology	ceramics (art and archaeology)	True	45765	50	50	0	1.0	0.929	True					True	1
+alcohol	s0	alcohol (drug)															False	
+alcohol	s1	alcohol (chemistry)	alcohol-chemistry	alcohol chemistry	False	31553	50	50	0	1.0	0.929	True					True	1
+entropy	s0	entropy (thermodynamics)															False	
+entropy	s1	entropy (information theory)	entropy-information-theory	entropy (information theory)	True	28115	47	50	0	0.94	0.838	False	142	150	0.898	True	True	2
+resource-utilization	s0	resource utilization (computing)															False	
+resource-utilization	s1	resource utilization (natural resources)	resource-utilization-natural-resources	resource utilization (natural resources)	True	18254	47	50	0	0.94	0.838	False	145	150	0.924	True	True	2
+resource-utilization	s2	resource utilization (health care)	resource-utilization-health-care	resource utilization (health care)	True	17731	50	50	0	1.0	0.929	True					True	1
+vulnerability	s0	vulnerability (social and environmental risk)															False	
+vulnerability	s1	vulnerability (computer security)	vulnerability-computer-security	vulnerability (computer security)	True	3585	50	50	0	1.0	0.929	True					True	1
+security	s0	security (social and political science)															False	
+security	s1	security (computing)	security-computing	security (computing)	True	25032	50	50	0	1.0	0.929	True					True	1
+life-history	s0	life history (biology)															False	
+life-history	s1	life history (social science method)	life-history-social-science-method	life history (social science method)	True	30126	48	50	0	0.96	0.865	True					True	1
+representation	s0	representation (arts and culture)															False	
+representation	s1	representation (politics)	representation-politics	representation (politics)	True	12691	30	50	0	0.6	0.462	False					False	
+representation	s2	mental representation	mental-representation	mental representation	False	12155	43	50	0	0.86	0.738	False					False	
+representation	s3	knowledge representation (computer science)	knowledge-representation	knowledge representation	False	987	35	50	0	0.7	0.562	False					False	
+representation	s4	representation (mathematics)	representation-mathematics	representation (mathematics)	True	1882	34	50	0	0.68	0.542	False					False	
+feedback	s0	feedback (education and performance)															False	
+feedback	s1	feedback (control systems)	feedback-control-systems	feedback (control systems)	True	10233	42	50	0	0.84	0.715	False					False	
+cross-cultural-adaptation	s0	cross-cultural adaptation (psychometrics)															False	
+cross-cultural-adaptation	s1	cross-cultural adaptation (acculturation)	cross-cultural-adaptation-acculturation	cross-cultural adaptation (acculturation)	True	12665	49	50	0	0.98	0.895	True					True	1
+social-participation	s0	social participation (civic and political engagement)															False	
+social-participation	s1	social participation (health and rehabilitation)	social-participation-health-and-rehabilitation	social participation (health and rehabilitation)	True	31059	48	50	0	0.96	0.865	True					True	1
+hemispheric-asymmetry	s0	hemispheric asymmetry (brain lateralization)															False	
+hemispheric-asymmetry	s1	hemispheric asymmetry (solar and geophysical)	hemispheric-asymmetry-solar-and-geophysical	hemispheric asymmetry (solar and geophysical)	True	2924	49	50	0	0.98	0.895	True					True	1
+classification	s0	classification (machine learning)															False	
+classification	s1	classification (taxonomy and nomenclature)	classification-taxonomy-and-nomenclature	classification (taxonomy and nomenclature)	True	28726	43	50	0	0.86	0.738	False					False	
+fertilization	s0	fertilization (agriculture)															False	
+fertilization	s1	fertilisation (biology)	fertilisation-biology	fertilisation (biology)	True	31060	49	50	0	0.98	0.895	True					True	1
+mutation	s0	mutation (genetics)															False	
+mutation	s1	mutation (genetic algorithm)	mutation-genetic-algorithm	mutation (genetic algorithm)	True	2157	46	50	0	0.92	0.812	False					False	
+mutation	s2	mutation (linguistics/cultural change)	mutation-linguistics-cultural-change	mutation (linguistics/cultural change)	True	685	43	50	0	0.86	0.738	False					False	
+ferns	s0	ferns (plants)															False	
+ferns	s1	random ferns (machine learning)	random-ferns	random ferns	False	34	32	34	0	0.941	0.809	False					False	
+bioactivity	s0	bioactivity (biological activity of compounds)															False	
+bioactivity	s1	bioactivity (biomaterials)	bioactivity-biomaterials	bioactivity (biomaterials)	True	12504	48	49	1	0.98	0.893	True					True	1
+response-time	s0	response time (technology)															False	
+response-time	s1	reaction time (psychology)	reaction-time-psychology	reaction time (psychology)	True	20360	49	50	0	0.98	0.895	True					True	1
+response-time	s2	response time (sensor)	response-time-sensor	response time (sensor)	True	11487	50	50	0	1.0	0.929	True					True	1
+response-time	s3	response time (emergency services)	response-time-emergency-services	response time (emergency services)	True	3749	48	50	0	0.96	0.865	True					True	1
+health-status	s0	health status (human health)															False	
+health-status	s1	health status (engineering condition monitoring)	health-status-engineering-condition-monitoring	health status (engineering condition monitoring)	True	2968	50	50	0	1.0	0.929	True					True	1
+regionalism	s0	regionalism (politics)															False	
+regionalism	s1	regionalism (arts)	regionalism-arts	regionalism (arts)	True	7644	48	50	0	0.96	0.865	True					True	1
+regionalism	s2	regionalism (architecture)	regionalism-architecture	regionalism (architecture)	True	1751	46	50	0	0.92	0.812	False					False	
+london	s0	London (city)															False	
+london	s1	London (physics eponym)	london-physics-eponym	London (physics eponym)	True	8	6	8	0	0.75	0.409	False					False	
+compensation	s0	compensation (law and remuneration)															False	
+compensation	s1	compensation (engineering)	compensation-engineering	compensation (engineering)	True	2273	36	50	0	0.72	0.583	False					False	
+compensation	s2	compensation (physiology)	compensation-physiology	compensation (physiology)	True	1078	41	50	0	0.82	0.692	False					False	
+development	s0	development (international/socioeconomic)															False	
+development	s1	development (biology)	development-biology	development (biology)	True	8094	49	50	0	0.98	0.895	True					True	1
+recruitment	s0	recruitment (human resources)															False	
+recruitment	s1	recruitment (biology)	recruitment-biology	recruitment (biology)	True	17854	50	50	0	1.0	0.929	True					True	1
+recruitment	s2	recruitment (clinical trials)	recruitment-clinical-trials	recruitment (clinical trials)	True	1549	50	50	0	1.0	0.929	True					True	1
+radiation-hardness	s0	radiation hardness (electronics)															False	
+radiation-hardness	s1	radioresistance (biology)	radioresistance-biology	radioresistance (biology)	True	30527	49	50	0	0.98	0.895	True					True	1
+soil-compaction	s0	soil compaction (agriculture)															False	
+soil-compaction	s1	soil compaction (geotechnical engineering)	soil-compaction-geotechnical-engineering	soil compaction (geotechnical engineering)	True	15581	42	50	0	0.84	0.715	False					False	
+tolerance	s0	tolerance (social and political)															False	
+tolerance	s1	tolerance (engineering)	tolerance-engineering	tolerance (engineering)	True	3354	46	50	0	0.92	0.812	False					False	
+tolerance	s2	tolerance (pharmacology and immunology)	tolerance-pharmacology-and-immunology	tolerance (pharmacology and immunology)	True	5420	50	50	0	1.0	0.929	True					True	1

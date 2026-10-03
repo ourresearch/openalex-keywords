@@ -2,3 +2,5 @@
 !*.json
 !*.log
 __pycache__/
+# work text refetched from the API for re-judging; never committed
+*_text.jsonl

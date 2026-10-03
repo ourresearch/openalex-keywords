@@ -1,0 +1,101 @@
+[
+ {
+  "source": "luna",
+  "synonyms_per_keyword": 3.7125,
+  "same_opus_judge": 0.833,
+  "same_astra_judge": 0.9056,
+  "same_both_judges": 0.8251,
+  "close_mean": 0.1275,
+  "wrong_mean": 0.0032,
+  "recall_of_pooled_good_synonyms": 0.3591,
+  "recall_of_good_wikidata_aliases": 0.3852
+ },
+ {
+  "source": "luna_pro",
+  "synonyms_per_keyword": 3.582,
+  "same_opus_judge": 0.8446,
+  "same_astra_judge": 0.9166,
+  "same_both_judges": 0.8383,
+  "close_mean": 0.1155,
+  "wrong_mean": 0.0039,
+  "recall_of_pooled_good_synonyms": 0.352,
+  "recall_of_good_wikidata_aliases": 0.3878
+ },
+ {
+  "source": "gemini_flash",
+  "synonyms_per_keyword": 4.9018,
+  "same_opus_judge": 0.7196,
+  "same_astra_judge": 0.7923,
+  "same_both_judges": 0.7087,
+  "close_mean": 0.2345,
+  "wrong_mean": 0.0096,
+  "recall_of_pooled_good_synonyms": 0.4073,
+  "recall_of_good_wikidata_aliases": 0.5032
+ },
+ {
+  "source": "sol",
+  "synonyms_per_keyword": 4.3212,
+  "same_opus_judge": 0.9497,
+  "same_astra_judge": 0.987,
+  "same_both_judges": 0.9474,
+  "close_mean": 0.0299,
+  "wrong_mean": 0.0018,
+  "recall_of_pooled_good_synonyms": 0.4799,
+  "recall_of_good_wikidata_aliases": 0.5136
+ },
+ {
+  "source": "sonnet",
+  "synonyms_per_keyword": 6.3114,
+  "same_opus_judge": 0.6538,
+  "same_astra_judge": 0.7389,
+  "same_both_judges": 0.6442,
+  "close_mean": 0.2957,
+  "wrong_mean": 0.008,
+  "recall_of_pooled_good_synonyms": 0.4767,
+  "recall_of_good_wikidata_aliases": 0.5019
+ },
+ {
+  "source": "opus",
+  "synonyms_per_keyword": 4.3114,
+  "same_opus_judge": 0.7339,
+  "same_astra_judge": 0.8087,
+  "same_both_judges": 0.7254,
+  "close_mean": 0.2241,
+  "wrong_mean": 0.0046,
+  "recall_of_pooled_good_synonyms": 0.3667,
+  "recall_of_good_wikidata_aliases": 0.4942
+ },
+ {
+  "source": "sol_wd",
+  "synonyms_per_keyword": 4.1192,
+  "same_opus_judge": 0.9445,
+  "same_astra_judge": 0.9809,
+  "same_both_judges": 0.9401,
+  "close_mean": 0.0354,
+  "wrong_mean": 0.0019,
+  "recall_of_pooled_good_synonyms": 0.454,
+  "recall_of_good_wikidata_aliases": 0.799
+ },
+ {
+  "source": "sol6_wd",
+  "synonyms_per_keyword": 3.864,
+  "same_opus_judge": 0.9005,
+  "same_astra_judge": 0.9532,
+  "same_both_judges": 0.8929,
+  "close_mean": 0.071,
+  "wrong_mean": 0.0022,
+  "recall_of_pooled_good_synonyms": 0.4045,
+  "recall_of_good_wikidata_aliases": 0.7211
+ },
+ {
+  "source": "wikidata",
+  "synonyms_per_keyword": 1.6718,
+  "same_opus_judge": 0.6619,
+  "same_astra_judge": 0.7273,
+  "same_both_judges": 0.6468,
+  "close_mean": 0.2445,
+  "wrong_mean": 0.0608,
+  "recall_of_pooled_good_synonyms": 0.1268,
+  "recall_of_good_wikidata_aliases": 1.0
+ }
+]

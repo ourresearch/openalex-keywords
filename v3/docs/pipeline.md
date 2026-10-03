@@ -130,3 +130,26 @@ python fetch_ext.py                                     # KP20k 2,000-doc sample
 uv run --with modal --with numpy --with nltk python student_arm.py   # tag every harness work with the shipped student
 python score.py --gold akw_field --arm arms/akw_field__student_v3fix.jsonl --top 8   # etc.; leaderboard.py collects rows
 ```
+
+## 8. After launch (v3.1, 2026-09-30 to 2026-10-03)
+
+Four steps changed what OpenAlex serves or how we measured it after the 2026-09-29 ship. Each has its own page with commands, numbers and files:
+
+| step | what | page | code |
+|---|---|---|---|
+| Synonym audit | every synmap9 merge judged; 5,016 wrong ones broken (synmap10); vocabulary rebuilt with the same rules; only works whose keywords changed were rewritten | [synonym_audit.md](synonym_audit.md) | `code/synonym_audit/` |
+| Senses | keywords with distinct senses found by Opus; each work's sense chosen by Jev from title + abstract; a per-sense gate of Opus-judged moves; 89 senses split | [senses.md](senses.md) | `code/senses/` |
+| Alternative names | other names per keyword for search and autocomplete (`display_name_alternatives`), one owner per name, ranking checked on real queries | [alternatives.md](alternatives.md) | `code/alternatives/` |
+| Outside judge | GPT-6 Astra rates old and new keywords on 400 random works, and the launch post's search examples | [outside_judge.md](outside_judge.md) | `code/outside_judge/` |
+
+The synonym audit in commands:
+
+```
+cd v3/code/synonym_audit
+python3 merges.py                                            # every synmap9 merge with works moved (needs the kw1322v3n_ build tables)
+uv run --with anthropic python audit_merges.py               # big merges + sample; add --tail for the rest
+uv run --with anthropic python judge_display.py              # display names taken from a member
+uv run --with anthropic python rejudge.py                    # members of the wrong-display headings, against the id
+python3 make_synmap10.py                                     # synmap10 + break list; checks against the released map
+zsh rebuild_vocab.sh                                         # step 4 under synmap10 (prefix kw1322v3o_)
+```

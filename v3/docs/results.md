@@ -5,6 +5,7 @@ We measured three separate things, and it matters which is which:
 1. **Agreement with human labels** (the independent check): the author-keyword slices, KP20k, Inspec and MeSH.
 2. **Imitation of the teacher**: F1 against Opus labels and Opus-judged precision. These tell you how well the student copies Opus, not whether Opus is right.
 3. **The output itself**: vocabulary size, coverage and synonym hygiene.
+4. **An outside judge** (v3.1): OpenAI's GPT-6 Astra, from a different lab than the teacher, rating the new and old keywords on the same works. This is the number the launch post leads with: 91.1% of new keywords accurate against 43.5% of old ones, and the new list preferred on 395 of 400 works. Method, tables and caveats: [outside_judge.md](outside_judge.md).
 
 ## 1. Human labels (held-out test split, `code/eval/`)
 
@@ -60,7 +61,7 @@ These are raw model lists, before the confidence cut and vocabulary rules. Verdi
 
 Caveat for this whole section: Opus judges output taught by Opus. Blinding keeps self-preference from favouring one list over another, but it can raise every list's absolute precision. Section 1 is the independent check.
 
-## 3. The output (shipped 2026-09-29)
+## 3. The output (shipped 2026-09-29, v3.0)
 
 | | |
 |---|---|
@@ -73,12 +74,25 @@ Caveat for this whole section: Opus judges output taught by Opus. Blinding keeps
 | Keywords per tagged work | 5.6 on average (2,371,713,202 assignments); at most 65 |
 | Synonyms | 362,272 ids merged into 213,043 headings; residual split 4.4% works-weighted (excluding deliberately isolated acronyms); merge precision ≈ 86% |
 
+### As served on 2026-10-03 (v3.1)
+
+After the synonym audit ([synonym_audit.md](synonym_audit.md)), the sense splits ([senses.md](senses.md)) and a few days of nightly tagging of new works. Counted over works live in OpenAlex.
+
+| | |
+|---|---|
+| Keywords | 1,882,088 headings; 1,881,484 on at least one work (`data/vocabulary/vocabulary_20261003.tsv.gz`) |
+| Works with ≥ 1 keyword | 419,634,002 of 475,749,838 (**88.2%**); non-xpac 300,391,034 of 330,132,640 (**91.0%**) |
+| Keyword assignments | 2,361,337,316 (5.6 per tagged work); at most 65 |
+| Synonyms | 357,259 ids merged into 211,451 headings (synmap10: 5,016 wrong merges of synmap9 broken) |
+| Senses | 89 senses on 74 keywords split into their own headings (81 new headings); 1,689,890 work rewrites |
+| Alternative names | 5,091,086 on 1,701,306 keywords, for search and autocomplete ([alternatives.md](alternatives.md)) |
+
 Coverage is lower than v2's 95% on purpose. v2 always assigned 5 keywords from each work's topics, even to records with nothing to describe. v3 abstains on bare identifiers, file names and specimen numbers.
 
 ## Known weaknesses
 
 - **Title-only records** are the weakest group (judged precision 0.754).
 - **Record families.** The templated-source cap keeps any one source from flooding counts, but large families still sit at the head of the vocabulary. Large Helical Device, on about 9.9M NIFS fusion-shot records, is an honest keyword. About 12.5M NIFS records are not flagged as xpac.
-- **Homonyms share one heading** ("transformer" in machine learning and in power engineering). Sense labels are future work.
+- **Homonyms.** v3.1 splits 89 senses on 74 big keywords ([senses.md](senses.md)). 72 tested senses stay unsplit because they failed the precision gate, and keywords below the 3,000 biggest candidates were not searched for senses; about 7.7% of them mix meanings.
 - **Invented taxonomy** on specimen records that carry only a species name. A GBIF-backbone check is future work.
-- **Long-tail synonyms** remain; see [synonyms.md](synonyms.md).
+- **Long-tail synonyms** remain; see [synonyms.md](synonyms.md). The v3.0 merge precision (≈ 86% on 400 merges sampled by keyword) missed a few high-volume acronym bridges; the v3.1 audit judged every merge and broke 5,016 ([synonym_audit.md](synonym_audit.md)).

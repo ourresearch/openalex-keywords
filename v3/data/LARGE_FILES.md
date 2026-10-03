@@ -14,3 +14,14 @@ Everything hosted is on GitHub, as assets of the [`v3.0` release](https://github
 | bge-m3 neighbour pairs (`pairs*.jsonl`) | 0.3 to 1.5 GB each | job scratch | optional | Candidate generation only; `modal_embed_knn.py` regenerates them in minutes. |
 
 Also not published, on purpose: work text (titles, abstracts). The repository contains no abstract text; every file identifies works by OpenAlex id (or PMID for the MeSH gold). Fetch the text from the OpenAlex API or snapshot. The MeSH and judge golds are in git (`data/eval/golds/`), with ids and labels only.
+
+## v3.1
+
+Everything v3.1 adds fits in git, so the [`v3.1` release](https://github.com/ourresearch/openalex-keywords/releases/tag/v3.1) has no new assets; the weights and large files above stay on `v3.0`. Left out on purpose:
+
+| artifact | size | why it is not here |
+|---|---|---|
+| Jev's sense decisions for all 15.9M (work, keyword) pairs, including senses that did not split | ≈ 1.8 GB | only the moves into the 89 split senses are released (`data/senses/work_senses_shipped.tsv.gz`); `code/senses/corpus_run.py` regenerates the rest |
+| Alternative-name intermediates (`syn_input`, `syn_full`, `syn_owned`, `collisions`, `name_clash`) | 90 to 520 MB each | rebuilt by the scripts in `code/alternatives/` from the released vocabulary and synonym map |
+| Real keyword-box queries used to rank alternative names | 400 queries | user data; only aggregate scores are released (`data/alternatives/eval/`) |
+| The pre-launch antimicrobial-resistance sample of the outside judge | 256 works | its records carry titles and abstracts; the verdicts are in `data/eval/outside_judge/judgments.jsonl` (keys starting `R`) |

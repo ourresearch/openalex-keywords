@@ -1,0 +1,22 @@
+{
+ "amr_kw_only": {
+  "oql": "works where keyword is (antimicrobial-resistance) and not title/abstract has (\"antimicrobial resistance\")",
+  "count": 122550
+ },
+ "amr_kw_only_noabs": {
+  "oql": "works where keyword is (antimicrobial-resistance) and not title/abstract has (\"antimicrobial resistance\") and has abstract is (false)",
+  "count": 47269
+ },
+ "amr_text": {
+  "oql": "works where title/abstract has (\"antimicrobial resistance\")",
+  "count": 118099
+ },
+ "remote_kw_only": {
+  "oql": "works where (keyword is (remote-work) and keyword is (employee-well-being or employee-health or work-life-balance)) and not (title/abstract has (stemmed \"remote work\" and (wellbeing or \"well-being\")))",
+  "count": 7922
+ },
+ "remote_phrase": {
+  "oql": "works where title/abstract has (stemmed \"remote work\" and (wellbeing or \"well-being\"))",
+  "count": 2462
+ }
+}

@@ -1,0 +1,1641 @@
+[
+ {
+  "heading": "taxonomy",
+  "works": 798878,
+  "main": "taxonomy (biology)",
+  "split": [
+   {
+    "id": "taxonomy-general-classification-scheme",
+    "name": "taxonomy (general classification scheme)",
+    "new": true,
+    "works": 53324
+   }
+  ]
+ },
+ {
+  "heading": "aging",
+  "works": 566626,
+  "main": "aging (biology and society)",
+  "split": [
+   {
+    "id": "aging-materials",
+    "name": "aging materials",
+    "new": false,
+    "works": 44658
+   }
+  ]
+ },
+ {
+  "heading": "electron-density",
+  "works": 428640,
+  "main": "electron density (plasma physics)",
+  "split": [
+   {
+    "id": "electron-density-electronic-structure",
+    "name": "electron density (electronic structure)",
+    "new": true,
+    "works": 114708
+   }
+  ]
+ },
+ {
+  "heading": "synonymy",
+  "works": 323957,
+  "main": "synonymy (taxonomy)",
+  "split": [
+   {
+    "id": "synonymy-linguistics",
+    "name": "synonymy (linguistics)",
+    "new": true,
+    "works": 16085
+   }
+  ]
+ },
+ {
+  "heading": "morphology",
+  "works": 285357,
+  "main": "morphology (biology)",
+  "split": [
+   {
+    "id": "morphology-materials-science",
+    "name": "morphology (materials science)",
+    "new": true,
+    "works": 27953
+   },
+   {
+    "id": "morphology-linguistics",
+    "name": "morphology (linguistics)",
+    "new": true,
+    "works": 16326
+   }
+  ]
+ },
+ {
+  "heading": "weight-loss",
+  "works": 269988,
+  "main": "weight loss (body weight)",
+  "split": [
+   {
+    "id": "weight-loss-materials",
+    "name": "weight loss (materials)",
+    "new": true,
+    "works": 40846
+   }
+  ]
+ },
+ {
+  "heading": "family-history",
+  "works": 245582,
+  "main": "family history (genealogy)",
+  "split": [
+   {
+    "id": "family-history-medicine",
+    "name": "family history (medicine)",
+    "new": true,
+    "works": 64137
+   }
+  ]
+ },
+ {
+  "heading": "resilience",
+  "works": 250590,
+  "main": "resilience (psychology)",
+  "split": [
+   {
+    "id": "resilience-ecology-and-social-ecological-systems",
+    "name": "resilience (ecology and social-ecological systems)",
+    "new": true,
+    "works": 9892
+   },
+   {
+    "id": "resilience-engineering",
+    "name": "resilience engineering",
+    "new": false,
+    "works": 23610
+   }
+  ]
+ },
+ {
+  "heading": "energy-conservation",
+  "works": 236705,
+  "main": "energy conservation (energy efficiency)",
+  "split": [
+   {
+    "id": "energy-conservation-physics",
+    "name": "energy conservation (physics)",
+    "new": true,
+    "works": 12628
+   }
+  ]
+ },
+ {
+  "heading": "performance-evaluation",
+  "works": 234725,
+  "main": "performance evaluation (systems and engineering)",
+  "split": [
+   {
+    "id": "performance-evaluation-human-resources",
+    "name": "performance evaluation (human resources)",
+    "new": true,
+    "works": 84439
+   }
+  ]
+ },
+ {
+  "heading": "mediation",
+  "works": 229492,
+  "main": "mediation (statistics)",
+  "split": [
+   {
+    "id": "mediation-cultural-media-theory",
+    "name": "mediation (cultural/media theory)",
+    "new": true,
+    "works": 14816
+   }
+  ]
+ },
+ {
+  "heading": "inflation",
+  "works": 213845,
+  "main": "inflation (economics)",
+  "split": [
+   {
+    "id": "inflation-cosmology",
+    "name": "inflation (cosmology)",
+    "new": true,
+    "works": 15674
+   },
+   {
+    "id": "inflation-mechanics",
+    "name": "inflation (mechanics)",
+    "new": true,
+    "works": 13931
+   }
+  ]
+ },
+ {
+  "heading": "heat-treatment",
+  "works": 211692,
+  "main": "heat treatment (metallurgy and materials processing)",
+  "split": [
+   {
+    "id": "heat-treatment-food-and-biological-processing",
+    "name": "heat treatment (food and biological processing)",
+    "new": true,
+    "works": 33841
+   }
+  ]
+ },
+ {
+  "heading": "trust",
+  "works": 200554,
+  "main": "trust (social science)",
+  "split": [
+   {
+    "id": "trust-law",
+    "name": "trust law",
+    "new": false,
+    "works": 7199
+   }
+  ]
+ },
+ {
+  "heading": "stress",
+  "works": 197487,
+  "main": "stress (psychological)",
+  "split": [
+   {
+    "id": "stress-mechanics",
+    "name": "stress (mechanics)",
+    "new": true,
+    "works": 14067
+   },
+   {
+    "id": "stress-biological",
+    "name": "stress (biological)",
+    "new": true,
+    "works": 10369
+   }
+  ]
+ },
+ {
+  "heading": "hypoxia",
+  "works": 179973,
+  "main": "hypoxia (medicine)",
+  "split": [
+   {
+    "id": "hypoxia-environmental",
+    "name": "hypoxia (environmental)",
+    "new": true,
+    "works": 24039
+   }
+  ]
+ },
+ {
+  "heading": "fatigue",
+  "works": 174005,
+  "main": "fatigue (medical)",
+  "split": [
+   {
+    "id": "fatigue-material",
+    "name": "fatigue (material)",
+    "new": true,
+    "works": 31509
+   }
+  ]
+ },
+ {
+  "heading": "reliability",
+  "works": 170008,
+  "main": "reliability (engineering)",
+  "split": [
+   {
+    "id": "reliability-statistics",
+    "name": "reliability statistics",
+    "new": false,
+    "works": 66862
+   }
+  ]
+ },
+ {
+  "heading": "corruption",
+  "works": 164838,
+  "main": "corruption (political)",
+  "split": [
+   {
+    "id": "data-corruption",
+    "name": "data corruption",
+    "new": false,
+    "works": 8266
+   }
+  ]
+ },
+ {
+  "heading": "banking",
+  "works": 154346,
+  "main": "banking (finance)",
+  "split": [
+   {
+    "id": "banking-aeronautics-and-road-superelevation",
+    "name": "banking (aeronautics and road superelevation)",
+    "new": true,
+    "works": 5378
+   }
+  ]
+ },
+ {
+  "heading": "working-conditions",
+  "works": 150894,
+  "main": "working conditions (labour)",
+  "split": [
+   {
+    "id": "working-conditions-engineering",
+    "name": "working conditions (engineering)",
+    "new": true,
+    "works": 22605
+   }
+  ]
+ },
+ {
+  "heading": "burnout",
+  "works": 148465,
+  "main": "burnout (psychology)",
+  "split": [
+   {
+    "id": "burnout-heat-transfer",
+    "name": "burnout (heat transfer)",
+    "new": true,
+    "works": 11867
+   }
+  ]
+ },
+ {
+  "heading": "clustering",
+  "works": 149331,
+  "main": "clustering (cluster analysis)",
+  "split": [
+   {
+    "id": "clustering-business-cluster",
+    "name": "clustering (business cluster)",
+    "new": true,
+    "works": 5441
+   }
+  ]
+ },
+ {
+  "heading": "active-learning",
+  "works": 144440,
+  "main": "active learning (education)",
+  "split": [
+   {
+    "id": "active-learning-machine-learning",
+    "name": "active learning (machine learning)",
+    "new": true,
+    "works": 32191
+   }
+  ]
+ },
+ {
+  "heading": "trauma",
+  "works": 143446,
+  "main": "trauma (psychological)",
+  "split": [
+   {
+    "id": "trauma-physical-injury",
+    "name": "trauma (physical injury)",
+    "new": true,
+    "works": 8997
+   }
+  ]
+ },
+ {
+  "heading": "translation",
+  "works": 142734,
+  "main": "translation (linguistics)",
+  "split": [
+   {
+    "id": "translation-geometry",
+    "name": "translation (geometry)",
+    "new": true,
+    "works": 4315
+   }
+  ]
+ },
+ {
+  "heading": "natural-history",
+  "works": 142849,
+  "main": "natural history (study of nature)",
+  "split": [
+   {
+    "id": "natural-history-disease",
+    "name": "natural history (disease)",
+    "new": true,
+    "works": 44502
+   }
+  ]
+ },
+ {
+  "heading": "abortion",
+  "works": 143216,
+  "main": "abortion (human pregnancy)",
+  "split": [
+   {
+    "id": "abortion-veterinary",
+    "name": "abortion (veterinary)",
+    "new": true,
+    "works": 4545
+   }
+  ]
+ },
+ {
+  "heading": "accessibility",
+  "works": 137848,
+  "main": "accessibility (disability and inclusive design)",
+  "split": [
+   {
+    "id": "accessibility-transport-and-spatial-geography",
+    "name": "accessibility (transport and spatial geography)",
+    "new": true,
+    "works": 22373
+   }
+  ]
+ },
+ {
+  "heading": "decentralization",
+  "works": 135644,
+  "main": "decentralization (governance)",
+  "split": [
+   {
+    "id": "decentralization-distributed-systems",
+    "name": "decentralization (distributed systems)",
+    "new": true,
+    "works": 11291
+   }
+  ]
+ },
+ {
+  "heading": "aggression",
+  "works": 134055,
+  "main": "aggression (behavior)",
+  "split": [
+   {
+    "id": "aggression-chemical-attack-on-materials",
+    "name": "aggression (chemical attack on materials)",
+    "new": true,
+    "works": 11745
+   }
+  ]
+ },
+ {
+  "heading": "precipitation",
+  "works": 132613,
+  "main": "precipitation (meteorology)",
+  "split": [
+   {
+    "id": "precipitation-chemistry",
+    "name": "precipitation chemistry",
+    "new": false,
+    "works": 10375
+   }
+  ]
+ },
+ {
+  "heading": "housing",
+  "works": 132383,
+  "main": "housing (dwellings)",
+  "split": [
+   {
+    "id": "housing-animal-husbandry",
+    "name": "housing (animal husbandry)",
+    "new": true,
+    "works": 17850
+   },
+   {
+    "id": "housing-mechanical-enclosure",
+    "name": "housing (mechanical enclosure)",
+    "new": true,
+    "works": 10446
+   }
+  ]
+ },
+ {
+  "heading": "population-structure",
+  "works": 132301,
+  "main": "population structure (genetics)",
+  "split": [
+   {
+    "id": "population-structure-demography",
+    "name": "population structure (demography)",
+    "new": true,
+    "works": 14331
+   }
+  ]
+ },
+ {
+  "heading": "self-regulation",
+  "works": 129484,
+  "main": "self-regulation (psychology)",
+  "split": [
+   {
+    "id": "self-regulation-law-and-governance",
+    "name": "self-regulation (law and governance)",
+    "new": true,
+    "works": 6559
+   }
+  ]
+ },
+ {
+  "heading": "ontology",
+  "works": 127782,
+  "main": "ontology (philosophy)",
+  "split": [
+   {
+    "id": "ontology-information-science",
+    "name": "ontology (information science)",
+    "new": true,
+    "works": 53829
+   }
+  ]
+ },
+ {
+  "heading": "landscape",
+  "works": 126758,
+  "main": "landscape (geography)",
+  "split": [
+   {
+    "id": "energy-landscape-physics",
+    "name": "energy landscape (physics)",
+    "new": true,
+    "works": 7897
+   }
+  ]
+ },
+ {
+  "heading": "consciousness",
+  "works": 125301,
+  "main": "consciousness (mind and experience)",
+  "split": [
+   {
+    "id": "consciousness-social-and-political-awareness",
+    "name": "consciousness (social and political awareness)",
+    "new": true,
+    "works": 16754
+   }
+  ]
+ },
+ {
+  "heading": "phenomenology",
+  "works": 124713,
+  "main": "phenomenology (philosophy)",
+  "split": [
+   {
+    "id": "phenomenology-physics",
+    "name": "phenomenology (physics)",
+    "new": true,
+    "works": 15750
+   }
+  ]
+ },
+ {
+  "heading": "stigma",
+  "works": 120401,
+  "main": "stigma (social)",
+  "split": [
+   {
+    "id": "stigma-botany",
+    "name": "stigma (botany)",
+    "new": true,
+    "works": 4983
+   }
+  ]
+ },
+ {
+  "heading": "inheritance",
+  "works": 117642,
+  "main": "inheritance (law)",
+  "split": [
+   {
+    "id": "heredity-biology",
+    "name": "heredity (biology)",
+    "new": true,
+    "works": 32367
+   },
+   {
+    "id": "inheritance-object-oriented-programming",
+    "name": "inheritance (object-oriented programming)",
+    "new": true,
+    "works": 13593
+   }
+  ]
+ },
+ {
+  "heading": "aids",
+  "works": 114438,
+  "main": "AIDS (acquired immunodeficiency syndrome)",
+  "split": [
+   {
+    "id": "aids-assistive-or-instructional-devices",
+    "name": "aids (assistive or instructional devices)",
+    "new": true,
+    "works": 6287
+   }
+  ]
+ },
+ {
+  "heading": "film",
+  "works": 113944,
+  "main": "film (cinema)",
+  "split": [
+   {
+    "id": "film-thin-film",
+    "name": "film (thin film)",
+    "new": true,
+    "works": 11095
+   }
+  ]
+ },
+ {
+  "heading": "autonomy",
+  "works": 113115,
+  "main": "autonomy (personal and political self-determination)",
+  "split": [
+   {
+    "id": "autonomy-robotics-and-autonomous-systems",
+    "name": "autonomy (robotics and autonomous systems)",
+    "new": true,
+    "works": 9113
+   }
+  ]
+ },
+ {
+  "heading": "blood-coagulation",
+  "works": 112285,
+  "main": "blood coagulation (physiology)",
+  "split": [
+   {
+    "id": "coagulation-water-treatment",
+    "name": "coagulation (water treatment)",
+    "new": true,
+    "works": 14564
+   }
+  ]
+ },
+ {
+  "heading": "water-uptake",
+  "works": 109577,
+  "main": "water uptake (materials)",
+  "split": [
+   {
+    "id": "water-uptake-plant-physiology",
+    "name": "water uptake (plant physiology)",
+    "new": true,
+    "works": 17944
+   },
+   {
+    "id": "water-uptake-human-physiology",
+    "name": "water uptake (human physiology)",
+    "new": true,
+    "works": 5129
+   }
+  ]
+ },
+ {
+  "heading": "water-management",
+  "works": 107968,
+  "main": "water management (resource management)",
+  "split": [
+   {
+    "id": "water-management-fuel-cells",
+    "name": "water management (fuel cells)",
+    "new": true,
+    "works": 3355
+   }
+  ]
+ },
+ {
+  "heading": "topography",
+  "works": 108051,
+  "main": "topography (terrain)",
+  "split": [
+   {
+    "id": "surface-topography-materials-science",
+    "name": "surface topography (materials science)",
+    "new": true,
+    "works": 8523
+   },
+   {
+    "id": "corneal-topography",
+    "name": "corneal topography",
+    "new": false,
+    "works": 3739
+   }
+  ]
+ },
+ {
+  "heading": "culture",
+  "works": 106294,
+  "main": "culture (society)",
+  "split": [
+   {
+    "id": "culture-biology",
+    "name": "culture (biology)",
+    "new": true,
+    "works": 5731
+   }
+  ]
+ },
+ {
+  "heading": "modernization",
+  "works": 102955,
+  "main": "modernization (social science)",
+  "split": [
+   {
+    "id": "modernization-engineering",
+    "name": "modernization (engineering)",
+    "new": true,
+    "works": 18387
+   }
+  ]
+ },
+ {
+  "heading": "discrimination",
+  "works": 102054,
+  "main": "discrimination (sociology)",
+  "split": [
+   {
+    "id": "discrimination-signal-processing",
+    "name": "discrimination (signal processing)",
+    "new": true,
+    "works": 5199
+   }
+  ]
+ },
+ {
+  "heading": "plato",
+  "works": 100382,
+  "main": "Plato (philosopher)",
+  "split": [
+   {
+    "id": "plato-spacecraft",
+    "name": "PLATO (spacecraft)",
+    "new": true,
+    "works": 3549
+   }
+  ]
+ },
+ {
+  "heading": "stress-response",
+  "works": 99130,
+  "main": "stress response (biology)",
+  "split": [
+   {
+    "id": "stress-response-mechanics",
+    "name": "stress response (mechanics)",
+    "new": true,
+    "works": 4838
+   }
+  ]
+ },
+ {
+  "heading": "cosmology",
+  "works": 93731,
+  "main": "cosmology (physics)",
+  "split": [
+   {
+    "id": "cosmology-religion-and-anthropology",
+    "name": "cosmology (religion and anthropology)",
+    "new": true,
+    "works": 38401
+   }
+  ]
+ },
+ {
+  "heading": "fertility",
+  "works": 93973,
+  "main": "fertility (reproduction and demography)",
+  "split": [
+   {
+    "id": "fertility-soil",
+    "name": "fertility (soil)",
+    "new": true,
+    "works": 7422
+   }
+  ]
+ },
+ {
+  "heading": "body",
+  "works": 93163,
+  "main": "body (social and cultural theory)",
+  "split": [
+   {
+    "id": "body-physics-and-engineering",
+    "name": "body (physics and engineering)",
+    "new": true,
+    "works": 10896
+   }
+  ]
+ },
+ {
+  "heading": "social-welfare",
+  "works": 93572,
+  "main": "social welfare (social policy)",
+  "split": [
+   {
+    "id": "social-welfare-welfare-economics",
+    "name": "social welfare (welfare economics)",
+    "new": true,
+    "works": 5118
+   }
+  ]
+ },
+ {
+  "heading": "face-recognition",
+  "works": 92333,
+  "main": "face recognition (biometrics)",
+  "split": [
+   {
+    "id": "face-recognition-cognition",
+    "name": "face recognition (cognition)",
+    "new": true,
+    "works": 18175
+   }
+  ]
+ },
+ {
+  "heading": "humor",
+  "works": 91174,
+  "main": "humor (comedy)",
+  "split": [
+   {
+    "id": "humor-bodily-fluid",
+    "name": "humor (bodily fluid)",
+    "new": true,
+    "works": 4331
+   }
+  ]
+ },
+ {
+  "heading": "social-development",
+  "works": 90609,
+  "main": "social development (societal progress)",
+  "split": [
+   {
+    "id": "social-development-developmental-psychology",
+    "name": "social development (developmental psychology)",
+    "new": true,
+    "works": 7667
+   }
+  ]
+ },
+ {
+  "heading": "competition",
+  "works": 89828,
+  "main": "competition (economics)",
+  "split": [
+   {
+    "id": "competition-biology",
+    "name": "competition (biology)",
+    "new": true,
+    "works": 11671
+   },
+   {
+    "id": "competition-contest",
+    "name": "competition (contest)",
+    "new": true,
+    "works": 6274
+   }
+  ]
+ },
+ {
+  "heading": "speech-recognition",
+  "works": 88595,
+  "main": "speech recognition (computing)",
+  "split": [
+   {
+    "id": "speech-recognition-audiology",
+    "name": "speech recognition (audiology)",
+    "new": true,
+    "works": 6199
+   }
+  ]
+ },
+ {
+  "heading": "causality",
+  "works": 87712,
+  "main": "causality (philosophy and causal inference)",
+  "split": [
+   {
+    "id": "causality-physics",
+    "name": "causality (physics)",
+    "new": true,
+    "works": 16572
+   }
+  ]
+ },
+ {
+  "heading": "self-determination",
+  "works": 86949,
+  "main": "self-determination (psychology)",
+  "split": [
+   {
+    "id": "self-determination-international-law",
+    "name": "self-determination (international law)",
+    "new": true,
+    "works": 5748
+   }
+  ]
+ },
+ {
+  "heading": "mobility",
+  "works": 84761,
+  "main": "mobility (human geography)",
+  "split": [
+   {
+    "id": "mobility-physical-function",
+    "name": "mobility (physical function)",
+    "new": true,
+    "works": 23203
+   },
+   {
+    "id": "mobility-telecommunications",
+    "name": "mobility (telecommunications)",
+    "new": true,
+    "works": 4214
+   }
+  ]
+ },
+ {
+  "heading": "play",
+  "works": 85102,
+  "main": "play (activity)",
+  "split": [
+   {
+    "id": "play-engineering",
+    "name": "play (engineering)",
+    "new": true,
+    "works": 9723
+   }
+  ]
+ },
+ {
+  "heading": "authenticity",
+  "works": 84337,
+  "main": "authenticity (philosophy and culture)",
+  "split": [
+   {
+    "id": "authenticity-information-security",
+    "name": "authenticity (information security)",
+    "new": true,
+    "works": 7513
+   },
+   {
+    "id": "authenticity-food-science",
+    "name": "authenticity (food science)",
+    "new": true,
+    "works": 2623
+   }
+  ]
+ },
+ {
+  "heading": "growth-rate",
+  "works": 81970,
+  "main": "growth rate (biology)",
+  "split": [
+   {
+    "id": "growth-rate-crystal-and-thin-film-growth",
+    "name": "growth rate (crystal and thin-film growth)",
+    "new": true,
+    "works": 5359
+   }
+  ]
+ },
+ {
+  "heading": "energy-balance",
+  "works": 80572,
+  "main": "energy balance (physics and engineering)",
+  "split": [
+   {
+    "id": "energy-balance-biology",
+    "name": "energy balance (biology)",
+    "new": true,
+    "works": 34685
+   }
+  ]
+ },
+ {
+  "heading": "disaster-recovery",
+  "works": 80118,
+  "main": "disaster recovery (emergency management)",
+  "split": [
+   {
+    "id": "disaster-recovery-information-technology",
+    "name": "disaster recovery (information technology)",
+    "new": true,
+    "works": 4791
+   }
+  ]
+ },
+ {
+  "heading": "cold-storage",
+  "works": 79689,
+  "main": "cold storage (food preservation)",
+  "split": [
+   {
+    "id": "cold-storage-organ-preservation",
+    "name": "cold storage (organ preservation)",
+    "new": true,
+    "works": 11678
+   }
+  ]
+ },
+ {
+  "heading": "censorship",
+  "works": 79628,
+  "main": "censorship (suppression of speech and media)",
+  "split": [
+   {
+    "id": "cosmic-censorship-general-relativity",
+    "name": "cosmic censorship (general relativity)",
+    "new": true,
+    "works": 2521
+   }
+  ]
+ },
+ {
+  "heading": "apple",
+  "works": 78883,
+  "main": "apple (fruit)",
+  "split": [
+   {
+    "id": "apple-inc",
+    "name": "Apple Inc.",
+    "new": false,
+    "works": 2861
+   }
+  ]
+ },
+ {
+  "heading": "building-information-modeling",
+  "works": 78672,
+  "main": "building information modeling (construction)",
+  "split": [
+   {
+    "id": "bim-protein",
+    "name": "Bim (protein)",
+    "new": true,
+    "works": 6393
+   }
+  ]
+ },
+ {
+  "heading": "realism",
+  "works": 78165,
+  "main": "realism (international relations)",
+  "split": [
+   {
+    "id": "philosophical-realism",
+    "name": "philosophical realism",
+    "new": false,
+    "works": 2494
+   },
+   {
+    "id": "realism-computer-graphics",
+    "name": "realism (computer graphics)",
+    "new": true,
+    "works": 3000
+   }
+  ]
+ },
+ {
+  "heading": "inequality",
+  "works": 77049,
+  "main": "inequality (social and economic)",
+  "split": [
+   {
+    "id": "inequality-mathematics",
+    "name": "inequality (mathematics)",
+    "new": true,
+    "works": 11919
+   }
+  ]
+ },
+ {
+  "heading": "camp",
+  "works": 76895,
+  "main": "cAMP (cyclic adenosine monophosphate)",
+  "split": [
+   {
+    "id": "camp-encampment",
+    "name": "camp (encampment)",
+    "new": true,
+    "works": 4103
+   }
+  ]
+ },
+ {
+  "heading": "surveillance",
+  "works": 76611,
+  "main": "surveillance (social control)",
+  "split": [
+   {
+    "id": "surveillance-computer-vision",
+    "name": "surveillance (computer vision)",
+    "new": true,
+    "works": 15038
+   },
+   {
+    "id": "surveillance-medicine",
+    "name": "surveillance (medicine)",
+    "new": true,
+    "works": 13666
+   }
+  ]
+ },
+ {
+  "heading": "reaction-time",
+  "works": 75737,
+  "main": "reaction time (psychology)",
+  "split": [
+   {
+    "id": "reaction-time-chemistry",
+    "name": "reaction time (chemistry)",
+    "new": true,
+    "works": 2822
+   }
+  ]
+ },
+ {
+  "heading": "middle-ages",
+  "works": 74266,
+  "main": "Middle Ages (historical period)",
+  "split": [
+   {
+    "id": "middle-age-human-life-stage",
+    "name": "middle age (human life stage)",
+    "new": true,
+    "works": 5040
+   }
+  ]
+ },
+ {
+  "heading": "inclusion",
+  "works": 73250,
+  "main": "inclusion (social)",
+  "split": [
+   {
+    "id": "inclusion-metallurgy",
+    "name": "inclusion (metallurgy)",
+    "new": true,
+    "works": 15501
+   }
+  ]
+ },
+ {
+  "heading": "hybridization",
+  "works": 73058,
+  "main": "hybridization (biology)",
+  "split": [
+   {
+    "id": "nucleic-acid-hybridization",
+    "name": "nucleic acid hybridization",
+    "new": false,
+    "works": 2608
+   },
+   {
+    "id": "cultural-hybridity",
+    "name": "cultural hybridity",
+    "new": false,
+    "works": 5804
+   },
+   {
+    "id": "orbital-hybridisation",
+    "name": "orbital hybridisation",
+    "new": true,
+    "works": 2486
+   }
+  ]
+ },
+ {
+  "heading": "naturalization",
+  "works": 71958,
+  "main": "naturalization (citizenship)",
+  "split": [
+   {
+    "id": "naturalization-biology",
+    "name": "naturalization (biology)",
+    "new": true,
+    "works": 6404
+   }
+  ]
+ },
+ {
+  "heading": "population-decline",
+  "works": 71750,
+  "main": "population decline (demography)",
+  "split": [
+   {
+    "id": "population-decline-ecology",
+    "name": "population decline (ecology)",
+    "new": true,
+    "works": 30944
+   }
+  ]
+ },
+ {
+  "heading": "thermal-stress",
+  "works": 70134,
+  "main": "thermal stress (mechanics)",
+  "split": [
+   {
+    "id": "thermal-stress-biology",
+    "name": "thermal stress (biology)",
+    "new": true,
+    "works": 15065
+   }
+  ]
+ },
+ {
+  "heading": "plants",
+  "works": 70122,
+  "main": "plants (organisms)",
+  "split": [
+   {
+    "id": "plant-industrial-facility",
+    "name": "plant (industrial facility)",
+    "new": true,
+    "works": 16681
+   }
+  ]
+ },
+ {
+  "heading": "dehydration",
+  "works": 69942,
+  "main": "dehydration (medicine)",
+  "split": [
+   {
+    "id": "dehydration-reaction-chemistry",
+    "name": "dehydration reaction (chemistry)",
+    "new": true,
+    "works": 14954
+   },
+   {
+    "id": "dehydration-food-drying-and-plant-water-stress",
+    "name": "dehydration (food drying and plant water stress)",
+    "new": true,
+    "works": 7767
+   }
+  ]
+ },
+ {
+  "heading": "residents",
+  "works": 69248,
+  "main": "residents (inhabitants)",
+  "split": [
+   {
+    "id": "residents-medical-training",
+    "name": "residents (medical training)",
+    "new": true,
+    "works": 10539
+   }
+  ]
+ },
+ {
+  "heading": "ceramics",
+  "works": 69285,
+  "main": "ceramics (materials science)",
+  "split": [
+   {
+    "id": "ceramics-art-and-archaeology",
+    "name": "ceramics (art and archaeology)",
+    "new": true,
+    "works": 24148
+   }
+  ]
+ },
+ {
+  "heading": "alcohol",
+  "works": 69084,
+  "main": "alcohol (drug)",
+  "split": [
+   {
+    "id": "alcohol-chemistry",
+    "name": "alcohol chemistry",
+    "new": false,
+    "works": 19302
+   }
+  ]
+ },
+ {
+  "heading": "entropy",
+  "works": 69222,
+  "main": "entropy (thermodynamics)",
+  "split": [
+   {
+    "id": "entropy-information-theory",
+    "name": "entropy (information theory)",
+    "new": true,
+    "works": 18282
+   }
+  ]
+ },
+ {
+  "heading": "resource-utilization",
+  "works": 68929,
+  "main": "resource utilization (computing)",
+  "split": [
+   {
+    "id": "resource-utilization-natural-resources",
+    "name": "resource utilization (natural resources)",
+    "new": true,
+    "works": 10278
+   },
+   {
+    "id": "resource-utilization-health-care",
+    "name": "resource utilization (health care)",
+    "new": true,
+    "works": 19315
+   }
+  ]
+ },
+ {
+  "heading": "vulnerability",
+  "works": 67894,
+  "main": "vulnerability (social and environmental risk)",
+  "split": [
+   {
+    "id": "vulnerability-computer-security",
+    "name": "vulnerability (computer security)",
+    "new": true,
+    "works": 2959
+   }
+  ]
+ },
+ {
+  "heading": "security",
+  "works": 67866,
+  "main": "security (social and political science)",
+  "split": [
+   {
+    "id": "security-computing",
+    "name": "security (computing)",
+    "new": true,
+    "works": 27025
+   }
+  ]
+ },
+ {
+  "heading": "life-history",
+  "works": 67393,
+  "main": "life history (biology)",
+  "split": [
+   {
+    "id": "life-history-social-science-method",
+    "name": "life history (social science method)",
+    "new": true,
+    "works": 23784
+   }
+  ]
+ },
+ {
+  "heading": "representation",
+  "works": 67600,
+  "main": "representation (arts and culture)",
+  "split": [
+   {
+    "id": "representation-politics",
+    "name": "representation (politics)",
+    "new": true,
+    "works": 2375
+   },
+   {
+    "id": "mental-representation",
+    "name": "mental representation",
+    "new": false,
+    "works": 4758
+   },
+   {
+    "id": "knowledge-representation-computer-science",
+    "name": "knowledge representation (computer science)",
+    "new": true,
+    "works": 2501
+   }
+  ]
+ },
+ {
+  "heading": "feedback",
+  "works": 67289,
+  "main": "feedback (education and performance)",
+  "split": [
+   {
+    "id": "feedback-control-systems",
+    "name": "feedback (control systems)",
+    "new": true,
+    "works": 11437
+   }
+  ]
+ },
+ {
+  "heading": "cross-cultural-adaptation",
+  "works": 66933,
+  "main": "cross-cultural adaptation (psychometrics)",
+  "split": [
+   {
+    "id": "cross-cultural-adaptation-acculturation",
+    "name": "cross-cultural adaptation (acculturation)",
+    "new": true,
+    "works": 16857
+   }
+  ]
+ },
+ {
+  "heading": "social-participation",
+  "works": 66869,
+  "main": "social participation (civic and political engagement)",
+  "split": [
+   {
+    "id": "social-participation-health-and-rehabilitation",
+    "name": "social participation (health and rehabilitation)",
+    "new": true,
+    "works": 12321
+   }
+  ]
+ },
+ {
+  "heading": "hemispheric-asymmetry",
+  "works": 66712,
+  "main": "hemispheric asymmetry (brain lateralization)",
+  "split": [
+   {
+    "id": "hemispheric-asymmetry-solar-and-geophysical",
+    "name": "hemispheric asymmetry (solar and geophysical)",
+    "new": true,
+    "works": 2715
+   }
+  ]
+ },
+ {
+  "heading": "classification",
+  "works": 66372,
+  "main": "classification (machine learning)",
+  "split": [
+   {
+    "id": "classification-taxonomy-and-nomenclature",
+    "name": "classification (taxonomy and nomenclature)",
+    "new": true,
+    "works": 20215
+   }
+  ]
+ },
+ {
+  "heading": "fertilization",
+  "works": 65866,
+  "main": "fertilization (agriculture)",
+  "split": [
+   {
+    "id": "fertilisation-biology",
+    "name": "fertilisation (biology)",
+    "new": true,
+    "works": 19247
+   }
+  ]
+ },
+ {
+  "heading": "mutation",
+  "works": 65537,
+  "main": "mutation (genetics)",
+  "split": [
+   {
+    "id": "mutation-genetic-algorithm",
+    "name": "mutation (genetic algorithm)",
+    "new": true,
+    "works": 1995
+   },
+   {
+    "id": "mutation-linguistics-cultural-change",
+    "name": "mutation (linguistics/cultural change)",
+    "new": true,
+    "works": 2817
+   }
+  ]
+ },
+ {
+  "heading": "ferns",
+  "works": 64980,
+  "main": "ferns (plants)",
+  "split": [
+   {
+    "id": "random-ferns-machine-learning",
+    "name": "random ferns (machine learning)",
+    "new": true,
+    "works": 10512
+   }
+  ]
+ },
+ {
+  "heading": "bioactivity",
+  "works": 64058,
+  "main": "bioactivity (biological activity of compounds)",
+  "split": [
+   {
+    "id": "bioactivity-biomaterials",
+    "name": "bioactivity (biomaterials)",
+    "new": true,
+    "works": 2761
+   }
+  ]
+ },
+ {
+  "heading": "response-time",
+  "works": 63546,
+  "main": "response time (technology)",
+  "split": [
+   {
+    "id": "reaction-time-psychology",
+    "name": "reaction time (psychology)",
+    "new": true,
+    "works": 10291
+   },
+   {
+    "id": "response-time-sensor",
+    "name": "response time (sensor)",
+    "new": true,
+    "works": 6686
+   }
+  ]
+ },
+ {
+  "heading": "health-status",
+  "works": 63826,
+  "main": "health status (human health)",
+  "split": [
+   {
+    "id": "health-status-engineering-condition-monitoring",
+    "name": "health status (engineering condition monitoring)",
+    "new": true,
+    "works": 7172
+   }
+  ]
+ },
+ {
+  "heading": "regionalism",
+  "works": 63582,
+  "main": "regionalism (politics)",
+  "split": [
+   {
+    "id": "regionalism-architecture",
+    "name": "regionalism (architecture)",
+    "new": true,
+    "works": 6411
+   }
+  ]
+ },
+ {
+  "heading": "london",
+  "works": 63223,
+  "main": "London (city)",
+  "split": [
+   {
+    "id": "london-physics-eponym",
+    "name": "London (physics eponym)",
+    "new": true,
+    "works": 2663
+   }
+  ]
+ },
+ {
+  "heading": "compensation",
+  "works": 62864,
+  "main": "compensation (law and remuneration)",
+  "split": [
+   {
+    "id": "compensation-engineering",
+    "name": "compensation (engineering)",
+    "new": true,
+    "works": 6672
+   },
+   {
+    "id": "compensation-physiology",
+    "name": "compensation (physiology)",
+    "new": true,
+    "works": 3041
+   }
+  ]
+ },
+ {
+  "heading": "development",
+  "works": 61913,
+  "main": "development (international/socioeconomic)",
+  "split": [
+   {
+    "id": "development-biology",
+    "name": "development (biology)",
+    "new": true,
+    "works": 3006
+   }
+  ]
+ },
+ {
+  "heading": "recruitment",
+  "works": 61752,
+  "main": "recruitment (human resources)",
+  "split": [
+   {
+    "id": "recruitment-biology",
+    "name": "recruitment (biology)",
+    "new": true,
+    "works": 13730
+   },
+   {
+    "id": "recruitment-clinical-trials",
+    "name": "recruitment (clinical trials)",
+    "new": true,
+    "works": 2286
+   }
+  ]
+ },
+ {
+  "heading": "radiation-hardness",
+  "works": 61678,
+  "main": "radiation hardness (electronics)",
+  "split": [
+   {
+    "id": "radioresistance-biology",
+    "name": "radioresistance (biology)",
+    "new": true,
+    "works": 27863
+   }
+  ]
+ },
+ {
+  "heading": "soil-compaction",
+  "works": 61002,
+  "main": "soil compaction (agriculture)",
+  "split": [
+   {
+    "id": "soil-compaction-geotechnical-engineering",
+    "name": "soil compaction (geotechnical engineering)",
+    "new": true,
+    "works": 25410
+   }
+  ]
+ },
+ {
+  "heading": "tolerance",
+  "works": 60599,
+  "main": "tolerance (social and political)",
+  "split": [
+   {
+    "id": "tolerance-engineering",
+    "name": "tolerance (engineering)",
+    "new": true,
+    "works": 10699
+   },
+   {
+    "id": "tolerance-pharmacology-and-immunology",
+    "name": "tolerance (pharmacology and immunology)",
+    "new": true,
+    "works": 4217
+   }
+  ]
+ }
+]

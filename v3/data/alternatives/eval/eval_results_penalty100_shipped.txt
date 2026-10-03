@@ -1,0 +1,29 @@
+
+### paraphrase eval, all 289: gold keyword in top 5
+| typed | names only | names + alternatives |
+|---|---|---|
+| 40% | 0.12 | 0.21 |
+| 60% | 0.08 | 0.30 |
+| 80% | 0.08 | 0.36 |
+| 100% | 0.06 | 0.37 |
+
+### paraphrase eval, hand-written 50: gold keyword in top 5
+| typed | names only | names + alternatives |
+|---|---|---|
+| 40% | 0.58 | 0.68 |
+| 60% | 0.42 | 0.64 |
+| 80% | 0.42 | 0.68 |
+| 100% | 0.32 | 0.70 |
+
+### paraphrase eval, Opus-written 239: gold keyword in top 5
+| typed | names only | names + alternatives |
+|---|---|---|
+| 40% | 0.03 | 0.11 |
+| 60% | 0.01 | 0.23 |
+| 80% | 0.01 | 0.30 |
+| 100% | 0.00 | 0.30 |
+
+### real queries (400 sampled final strings of 1-5 words)
+zero results: names only 66%, names + alternatives 61%
+names only: top-1 what they wanted 23%, top-1 useful 32%, wanted keyword in top 3 26%  (n=400)
+names + alternatives: top-1 what they wanted 26%, top-1 useful 36%, wanted keyword in top 3 30%  (n=400)
