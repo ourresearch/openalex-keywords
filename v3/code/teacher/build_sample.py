@@ -1,4 +1,4 @@
-"""Relabel sample (Jason 2026-09-25: yes to ≈ $2K, prompt v3 = pilot2 arm F). 1M works, proportional to the population (non-xpac 327M : xpac 147M ≈ 69 : 31),
+"""Relabel sample (2026-09-25; prompt v3 = pilot2 arm F). 1M works, proportional to the population (non-xpac 327M : xpac 147M ≈ 69 : 31),
 so it is equivalent to a simple random sample:
   - non-xpac: 690K random of the 1M already sampled for the God labels (god/data/god_sample*.jsonl; text on disk; old and new labels comparable on identical works),
     always including the 10K old eval ids;
